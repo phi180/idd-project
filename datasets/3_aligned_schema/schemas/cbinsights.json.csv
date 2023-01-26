@@ -1,0 +1,1203 @@
+,company_location,company_name,company_country,company_industry,company_revenue
+0,Beijing,ByteDance,China,Artificial intelligence,$140
+1,Hawthorne,SpaceX,United States,Other,$127
+2,Shenzhen,SHEIN,China,E-commerce & direct-to-consumer,$100
+3,San Francisco,Stripe,United States,Fintech,$95
+4,Surry Hills,Canva,Australia,Internet software & services,$40
+5,London,Checkout.com,United Kingdom,Fintech,$40
+6,San Francisco,Instacart,United States,"Supply chain, logistics, & delivery",$39
+7,San Francisco,Databricks,United States,Data management & analytics,$38
+8,London,Revolut,United Kingdom,Fintech,$33
+9,Cary,Epic Games,United States,Other,$31.5
+10,,FTX,Bahamas,Fintech,$32
+11,Jacksonville,Fanatics,United States,E-commerce & direct-to-consumer,$27
+12,San Francisco,Chime,United States,Fintech,$25
+13,Bengaluru,BYJU's,India,Edtech,$22
+14,Shanghai,Xiaohongshu,China,E-commerce & direct-to-consumer,$20
+15,Jakarta,J&T Express,Indonesia,"Supply chain, logistics, & delivery",$20
+16,San Francisco,Miro,United States,Internet software & services,$17.5
+17,Beijing,Yuanfudao,China,Edtech,$15.5
+18,Shenzhen,DJI Innovations,China,Hardware,$15
+19,San Francisco,Discord,United States,Internet software & services,$15
+20,Philadelphia,goPuff,United States,"Supply chain, logistics, & delivery",$15
+21,Beijing,Yuanqi Senlin,China,Consumer & retail,$15
+22,San Francisco,Ripple,United States,Fintech,$15
+23,London,Blockchain.com,United Kingdom,Fintech,$14
+24,San Francisco,Plaid,United States,Fintech,$13.5
+25,New York,OpenSea,United States,Internet software & services,$13.3
+26,Munich,Celonis,Germany,Data management & analytics,$13
+27,San Francisco,Grammarly,United States,Internet software & services,$13
+28,Waltham,Devoted Health,United States,Health,$12.6
+29,San Francisco,Faire,United States,Artificial intelligence,$12.59
+30,San Francisco,Brex,United States,Fintech,$12.3
+31,San Francisco,JUUL Labs,United States,Consumer & retail,$12
+32,Beijing,Bitmain Technologies,China,Hardware,$12
+33,San Diego,Biosplice Therapeutics,United States,Health,$12
+34,Roseville,GoodLeap,United States,Internet software & services,$12
+35,Changsha,Xingsheng Selected,China,E-commerce & direct-to-consumer,$12
+36,San Francisco,Deel,United States,Fintech,$12
+37,Istanbul,Getir,Turkey,"Supply chain, logistics, & delivery",$11.8
+38,San Francisco,Airtable,United States,Internet software & services,$11.7
+39,Shanghai,ZongMu Technology,China,Auto & transportation,$11.4
+40,San Francisco,Rippling,United States,Internet software & services,$11.25
+41,London,Global Switch,United Kingdom,Hardware,$11.1
+42,San Francisco,Bolt,United States,Fintech,$11
+43,San Francisco,Alchemy,United States,Fintech,$10.2
+44,Luohe,Weilong,China,Consumer & retail,$10.88
+45,Bengaluru,Swiggy,India,"Supply chain, logistics, & delivery",$10.7
+46,Cheung Sha Wan,Lalamove,Hong Kong,"Supply chain, logistics, & delivery",$10
+47,San Francisco,Gusto,United States,Fintech,$10
+48,Beijing,Chehaoduo,China,E-commerce & direct-to-consumer,$10
+49,San Francisco,reddit,United States,Internet software & services,$10
+50,San Francisco,Talkdesk,United States,Internet software & services,$10
+51,San Francisco,Notion Labs,United States,Internet software & services,$10
+52,Walpole,Thrasio,United States,E-commerce & direct-to-consumer,$10
+53,New York,Digital Currency Group,United States,Fintech,$10
+54,Victoria,KuCoin,Seychelles,Fintech,$10
+55,Boston,OutSystems,United States,Internet software & services,$9.5
+56,Glendale,ServiceTitan,United States,Internet software & services,$9.5
+57,Shenzhen,HEYTEA,China,Other,$9.28
+58,Berlin,N26,Germany,Fintech,$9.23
+59,Boston,Klaviyo,United States,Internet software & services,$9.2
+60,Palo Alto,TripActions,United States,Travel,$9.2
+61,Stockholm,Northvolt,Sweden,Other,$9.08
+62,Kirkland,Tanium,United States,Cybersecurity,$9
+63,San Francisco,Niantic,United States,Mobile & telecommunications,$9
+64,Gurugram,OYO Rooms,India,Travel,$9
+65,London,Rapyd,United Kingdom,Fintech,$8.75
+66,Lerma de Villada,Kavak,Mexico,E-commerce & direct-to-consumer,$8.7
+67,Boston,Snyk,United States,Cybersecurity,$8.6
+68,Mountain View,Nuro,United States,Auto & transportation,$8.6
+69,New York,Chainalysis,United States,Fintech,$8.6
+70,Fremont,Pony.ai,United States,Artificial intelligence,$8.5
+71,Munich,Personio,Germany,Internet software & services,$8.5
+72,Irvine,Anduril,United States,Artificial intelligence,$8.48
+73,London,SumUp,United Kingdom,Fintech,$8.5
+74,Tallinn,Bolt,Estonia,Auto & transportation,$8.4
+75,San Jose,Lacework,United States,Cybersecurity,$8.3
+76,San Mateo,Tipalti,United States,Fintech,$8.3
+77,Chicago,Tempus,United States,Health,$8.1
+78,New York,Ramp,United States,Fintech,$8.1
+79,Mumbai,Dream11,India,Internet software & services,$8
+80,New York,Fireblocks,United States,Fintech,$8
+81,San Francisco,Flexport,United States,"Supply chain, logistics, & delivery",$8
+82,San Mateo,FalconX,United States,Fintech,$8
+83,Irving,Caris Life Sciences,United States,Health,$7.83
+84,Vancouver,Dapper Labs,Canada,Internet software & services,$7.6
+85,London,Hopin,United Kingdom,Internet software & services,$7.75
+86,Santa Clara,Netskope,United States,Cybersecurity,$7.5
+87,Bengaluru,Razorpay,India,Fintech,$7.5
+88,San Francisco,Automattic,United States,Internet software & services,$7.5
+89,San Francisco,Carta,United States,Fintech,$7.4
+90,San Francisco,Scale AI,United States,Artificial intelligence,$7.3
+91,Pittsburgh,Argo AI,United States,Auto & transportation,$7.25
+92,Palo Alto,Gong,United States,Artificial intelligence,$7.25
+93,New York,Gemini,United States,Fintech,$7.1
+94,Hangzhou,We Doctor,China,Health,$7
+95,New York,Ro,United States,Health,$7
+96,New York,ConsenSys,United States,Fintech,$7
+97,San Jose,Automation Anywhere,United States,Artificial intelligence,$6.8
+98,Toronto,1Password,Canada,Cybersecurity,$6.8
+99,Stockholm,Klarna,Sweden,Fintech,$6.7
+100,Beijing,Ziroom,China,E-commerce & direct-to-consumer,$6.6
+101,Changzhou,SVOLT,China,Auto & transportation,$6.51
+102,Mumbai,National Stock Exchange of India,India,Fintech,$6.5
+103,Amsterdam,Mollie,Netherlands,Fintech,$6.5
+104,Bengaluru,Ola Cabs,India,Auto & transportation,$7.5
+105,Paris,Doctolib,France,Health,$6.4
+106,Boston,DataRobot,United States,Artificial intelligence,$6.3
+107,San Francisco,Upgrade,United States,Fintech,$6.28
+108,San Francisco,Hinge Health,United States,Health,$6.2
+109,Los Angeles,Black Unicorn Factory,United States,Other,$6.1
+110,San Francisco,Benchling,United States,Internet software & services,$6.1
+111,Shenzhen,Royole Corporation,China,Hardware,$6
+112,New York,Better.com,United States,Fintech,$6
+113,Tel Aviv,Wiz,Israel,Cybersecurity,$6
+114,New York,iCapital Network,United States,Fintech,$6
+115,San Francisco,6Sense,United States,Artificial intelligence,$5.2
+116,Hoboken,Attentive,United States,Mobile & telecommunications,$5.99
+117,Beijing,Easyhome,China,Consumer & retail,$5.78
+118,Beijing,Lianjia,China,E-commerce & direct-to-consumer,$5.77
+119,Brooklyn,Vice Media,United States,Internet software & services,$5.7
+120,Brooklyn,Cityblock Health,United States,Health,$5.7
+121,Mountain View,Workato,United States,Internet software & services,$5.7
+122,Paris,Back Market,France,E-commerce & direct-to-consumer,$5.7
+123,Helsinki,RELEX,Finland,"Supply chain, logistics, & delivery",$5.7
+124,Pflugerville,The Boring Company,United States,Other,$5.7
+125,San Francisco,Postman,United States,Internet software & services,$5.6
+126,Oakland,FiveTran,United States,Data management & analytics,$5.6
+127,Paris,ContentSquare,France,Internet software & services,$5.6
+128,Berlin,Trade Republic,Germany,Fintech,$5.36
+129,Bogota,Rappi,Colombia,"Supply chain, logistics, & delivery",$5.25
+130,Brussels,Collibra,Belgium,Data management & analytics,$5.25
+131,Atlanta,OneTrust,United States,Internet software & services,$5.1
+132,Campinas,QuintoAndar,Brazil,E-commerce & direct-to-consumer,$5.1
+133,Sao Paulo,C6 Bank,Brazil,Fintech,$5.05
+134,Shanghai,Hello TransTech,China,Auto & transportation,$5
+135,Melbourne,Airwallex,Australia,Fintech,$5.5
+136,Amsterdam,Mambu,Netherlands,Fintech,$5.5
+137,Seoul,Toss,South Korea,Fintech,$6.38
+138,Beijing,Horizon Robotics,China,Artificial intelligence,$5
+139,Shanghai,WM Motor,China,Auto & transportation,$5
+140,London,Howden Group Holdings,United Kingdom,Other,$5
+141,Palo Alto,SambaNova Systems,United States,Data management & analytics,$5
+142,London,ZEPZ,United Kingdom,Fintech,$5
+143,London,OakNorth Bank,United Kingdom,Fintech,$5
+144,Tel Aviv,Moon Active,Israel,Mobile & telecommunications,$5
+145,Gurgaon,OfBusiness,India,E-commerce & direct-to-consumer,$5
+146,New York,Cockroach Labs,United States,Data management & analytics,$5
+147,Noida,Pine Labs,India,Fintech,$5
+148,Paris,Qonto,France,Fintech,$5
+149,Bengaluru,Ola Electric Mobility,India,Auto & transportation,$5
+150,Bellevue,Icertis,United States,Artificial intelligence,$5
+151,Montreal,Hopper,Canada,Travel,$5
+152,Bengaluru,VerSe Innovation(Dailyhunt),India,Internet software & services,$5
+153,Bengaluru,ShareChat,India,Internet software & services,$5
+154,San Francisco,Coalition,United States,Cybersecurity,$5
+155,Bengaluru,Meesho,India,Internet software & services,$4.9
+156,San Francisco,Cerebral,United States,Health,$4.8
+157,Sao Paulo,Creditas,Brazil,Fintech,$4.8
+158,Boston,Reify Health,United States,Health,$4.8
+159,Beijing,Chipone,China,Hardware,$4.73
+160,San Francisco,BetterUp,United States,Internet software & services,$4.7
+161,Copenhagen,Pleo,Denmark,Fintech,$4.7
+162,Geneva,SonarSource,Switzerland,Internet software & services,$4.7
+163,Burlingame,Lyra Health,United States,Health,$5.85
+164,New York,Dataiku,United States,Artificial intelligence,$4.6
+165,San Francisco,Checkr,United States,Internet software & services,$4.6
+166,Burlingame,Color,United States,Health,$4.6
+167,London,Lendable,United Kingdom,Fintech,$4.58
+168,Vilnius,Vinted,Lithuania,E-commerce & direct-to-consumer,$4.53
+169,Beijing,VIPKid,China,Edtech,$4.5
+170,New York,Socure,United States,Cybersecurity,$4.5
+171,London,Monzo,United Kingdom,Fintech,$4.5
+172,Shenzhen,UBTECH Robotics,China,Hardware,$4.58
+173,Berlin,wefox,Germany,Fintech,$4.5
+174,Faridabad,Lenskart,India,E-commerce & direct-to-consumer,$4.5
+175,Seattle,Outreach,United States,Internet software & services,$4.4
+176,Guangzhou,WeRide,China,Auto & transportation,$4.4
+177,Denver,Guild Education,United States,Internet software & services,$4.4
+178,Eden Prairie,Arctic Wolf Networks,United States,Cybersecurity,$4.3
+179,Paris,Sorare,France,Internet software & services,$4.3
+180,Inglewood,Relativity Space,United States,Other,$4.2
+181,Beijing,Miaoshou Doctor,China,E-commerce & direct-to-consumer,$4.25
+182,Sunnyvale,ThoughtSpot,United States,Internet software & services,$4.2
+183,Boston,Globalization Partners,United States,Internet software & services,$4.2
+184,Philadelphia,dbt Labs,United States,Data management & analytics,$4.2
+185,Montreal,SSENSE,Canada,E-commerce & direct-to-consumer,$4.15
+186,New York,Dataminr,United States,Artificial intelligence,$4.1
+187,Vienna,BitPanda,Austria,Fintech,$4.11
+188,Fremont,Weee!,United States,"Supply chain, logistics, & delivery",$4.1
+189,Santa Monica,Skydance Media,United States,Other,$4
+190,Palo Alto,Houzz,United States,E-commerce & direct-to-consumer,$4
+191,Bengaluru,CRED,India,Fintech,$4.01
+192,Seoul,Yello Mobile,South Korea,Mobile & telecommunications,$4
+193,Beijing,MEGVII,China,Artificial intelligence,$4
+194,London,Greensill,United Kingdom,Fintech,$4
+195,Redwood City,Impossible Foods,United States,Consumer & retail,$4
+196,El Segundo,Radiology Partners,United States,Health,$4
+197,Palo Alto,Next Insurance,United States,Fintech,$4
+198,San Francisco,Patreon,United States,Internet software & services,$4
+199,Mississauga,PointClickCare,Canada,Internet software & services,$4
+200,Sunnyvale,Zapier,United States,Internet software & services,$4
+201,San Francisco,Clubhouse,United States,Mobile & telecommunications,$4
+202,Dublin,BrowserStack,Ireland,Internet software & services,$4
+203,Columbus,Olive,United States,Health,$4
+204,Palo Alto,Rubrik,United States,Data management & analytics,$4
+205,New York,Melio,United States,Fintech,$4
+206,Carlsbad,Vuori,United States,E-commerce & direct-to-consumer,$4
+207,San Diego,ClickUp,United States,Internet software & services,$4
+208,Los Altos,Cerebras Systems,United States,Hardware,$4
+209,San Carlos,Farmers Business Network,United States,Other,$4
+210,Redwood City,Branch,United States,Mobile & telecommunications,$4
+211,San Francisco,Aurora Solar,United States,Internet software & services,$4
+212,San Francisco,Webflow,United States,Internet software & services,$4
+213,Miami,Yuga Labs,United States,Internet software & services,$4
+214,Bengaluru,Digit Insurance,India,Fintech,$4
+215,San Francisco,Abnormal Security,United States,Cybersecurity,$4
+216,Chengdu,Medlinker,China,Health,$3.92
+217,Boston,Intarcia Therapeutics,United States,Health,$3.8
+218,Detroit,StockX,United States,E-commerce & direct-to-consumer,$3.8
+219,Amsterdam,MessageBird,Netherlands,Mobile & telecommunications,$3.8
+220,Seattle,Convoy,United States,"Supply chain, logistics, & delivery",$3.8
+221,New York,Articulate,United States,Edtech,$3.75
+222,Bend,Dutchie,United States,E-commerce & direct-to-consumer,$3.75
+223,San Jose,Cohesity,United States,Data management & analytics,$3.7
+224,New York,VAST Data,United States,Data management & analytics,$3.7
+225,Culver City,GOAT,United States,E-commerce & direct-to-consumer,$3.7
+226,New York,Noom,United States,Health,$3.7
+227,Carson City,Redwood Materials,United States,Other,$3.7
+228,New York,Papaya Global,United States,Internet software & services,$3.7
+229,Suzhou,Abogen,China,Health,$3.7
+230,San Francisco,Harness,United States,Artificial intelligence,$3.7
+231,Marina del Rey,Whatnot,United States,E-commerce & direct-to-consumer,$3.7
+232,Santa Monica,Autograph,United States,Internet software & services,$3.66
+233,Chicago,Relativity,United States,Internet software & services,$3.6
+234,Boston,Whoop,United States,E-commerce & direct-to-consumer,$3.6
+235,Sunnyvale,Applied Intuition,United States,Auto & transportation,$3.6
+236,Redwood City,Course Hero,United States,Edtech,$3.6
+237,San Francisco,SpotOn,United States,Fintech,$3.6
+238,Duderstadt,Otto Bock HealthCare,Germany,Health,$3.52
+239,Boston,Indigo Ag,United States,Artificial intelligence,$3.5
+240,,HyalRoute,Singapore,Mobile & telecommunications,$3.5
+241,Seattle,Rec Room,United States,Internet software & services,$3.5
+242,San Francisco,Commure,United States,Internet software & services,$3.5
+243,Paris,Mirakl,France,E-commerce & direct-to-consumer,$3.5
+244,San Ramon,Tekion,United States,Internet software & services,$3.5
+245,Hoboken,Celsius Network,United States,Fintech,$3.5
+246,Vienna,GoStudent,Austria,Edtech,$3.5
+247,Seattle,Highspot,United States,Internet software & services,$3.5
+248,San Francisco,Handshake,United States,Internet software & services,$3.5
+249,San Francisco,ChargeBee Technologies,United States,Fintech,$3.5
+250,Atlanta,Flock Safety,United States,Hardware,$3.5
+251,Redmond,Helion Energy,United States,Other,$3.50
+252,Schaffhausen,Acronis,Switzerland,Cybersecurity,$3.5
+253,Bengaluru,Unacademy,India,Edtech,$3.44
+254,Miami,MoonPay,United States,Fintech,$3.4
+255,Mumbai,Upstox,India,Fintech,$3.4
+256,London,Improbable,United Kingdom,Other,$3.36
+257,Shanghai,Youxia Motors,China,Auto & transportation,$3.35
+258,Englewood Cliffs,OwnBackup,United States,Data management & analytics,$3.35
+259,Boston,Starburst,United States,Data management & analytics,$3.35
+260,London,Starling Bank,United Kingdom,Fintech,$3.34
+261,Wuhan,ECARX,China,Auto & transportation,$3.31
+262,Alameda,Sila Nanotechnologies,United States,Other,$3.3
+263,Culver City,Scopely,United States,Mobile & telecommunications,$3.3
+264,San Francisco,Komodo Health,United States,Health,$3.3
+265,Seoul,Kurly,South Korea,"Supply chain, logistics, & delivery",$3.3
+266,Gurgaon,Cars24,India,E-commerce & direct-to-consumer,$3.3
+267,Los Angeles,BlockDaemon,United States,Fintech,$3.25
+268,Shenzhen,Dadi Cinema,China,Other,$3.24
+269,Helsinki,Aiven,Finland,Internet software & services,$3.21
+270,Santa Clara,Astera Labs,United States,Hardware,$3.2
+271,San Francisco,Thumbtack,United States,E-commerce & direct-to-consumer,$3.2
+272,New York,Cedar,United States,Fintech,$3.2
+273,Mumbai,Eruditus Executive Education,India,Edtech,$3.2
+274,Vancouver,Blockstream,Canada,Fintech,$3.2
+275,San Francisco,Innovaccer,United States,Health,$3.2
+276,Sacramento,Ironclad,United States,Internet software & services,$3.2
+277,Los Angeles,Skims,United States,E-commerce & direct-to-consumer,$3.2
+278,Hayward,Eikon Therapeutics,United States,Health, $3.2
+279,San Francisco,Retool,United States,Internet software & services,$3.2
+280,San Mateo,Verkada,United States,Cybersecurity,$3.2
+281,Palo Alto,PsiQuantum,United States,Hardware,$3.15
+282,Bengaluru,Udaan,India,"Supply chain, logistics, & delivery",$3.1
+283,Houston,HighRadius,United States,Fintech,$3.1
+284,Sao Paulo,Nuvemshop,Brazil,E-commerce & direct-to-consumer,$3.1
+285,Beijing,Yixia,China,Mobile & telecommunications,$3
+286,Jakarta,Traveloka,Indonesia,Travel,$3
+287,Hangzhou,SouChe Holdings,China,E-commerce & direct-to-consumer,$3
+288,Peterborough,BGL Group,United Kingdom,Fintech,$3
+289,Boston,Circle,United States,Fintech,$3
+290,Beijing,Zuoyebang,China,Edtech,$3
+291,Munich,FlixMobility,Germany,Auto & transportation,$3
+292,Sao Paulo,Wildlife Studios,Brazil,Other,$3
+293,Kitchener,ApplyBoard,Canada,Edtech,$3.2
+294,New York,Forter,United States,Cybersecurity,$3
+295,Atlanta,Calendly,United States,Internet software & services,$3
+296,Jersey City,BlockFi,United States,Fintech,$3
+297,Chicago,ActiveCampaign,United States,Internet software & services,$3
+298,Cambridge,CMR Surgical,United Kingdom,Health,$3
+299,South Jordan,Lucid Software,United States,Internet software & services,$3
+300,Glendale,Age of Learning,United States,Edtech,$3
+301,San Francisco,Carbon Health,United States,Health,$3
+302,Berlin,Contentful,Germany,Internet software & services,$3
+303,Oakland,LaunchDarkly,United States,Internet software & services,$3
+304,San Diego,Seismic,United States,Internet software & services,$3
+305,New York,Grafana Labs,United States,Internet software & services,$3
+306,Berlin,Gorillas,Germany,"Supply chain, logistics, & delivery",$3.1
+307,Ho Chi Minh City,Sky Mavis,Vietnam,Internet software & services,$3
+308,San Francisco,Outschool,United States,Edtech,$3
+309,Westerville,TradingView,United States,Fintech,$3
+310,Bengaluru,Groww,India,Fintech,$3
+311,Lehi,Podium,United States,Internet software & services,$3
+312,New York,Via,United States,Auto & transportation,$3.3
+313,San Francisco,Anchorage Digital,United States,Fintech,$3
+314,San Francisco,Inxeption,United States,Fintech,$3
+315,San Francisco,Lattice,United States,Internet software & services,$3
+316,San Francisco,Flutterwave,United States,Fintech,$3
+317,,Amber Group,Hong Kong,Fintech,$3
+318,Fort Lee,Cross River Bank,United States,Fintech,$3
+319,San Francisco,Remote,United States,Fintech,$3
+320,San Francisco,Sentry,United States,Other,$3
+321,San Francisco,Kraken,United States,Fintech,$2.92
+322,San Francisco,OpenAI,United States,Artificial intelligence,$2.92
+323,Austin,Workrise,United States,Internet software & services,$2.9
+324,Sao Paulo,Loft,Brazil,E-commerce & direct-to-consumer,$2.9
+325,Chatham,DriveWealth,United States,Fintech,$2.85
+326,Berlin,Flink,Germany,E-commerce & direct-to-consumer,$2.85
+327,Paris,Alan,France,Fintech,$2.85
+328,Beijing,Meicai,China,Mobile & telecommunications,$2.8
+329,South San Francisco,Zipline,United States,"Supply chain, logistics, & delivery",$2.8
+330,Bristol,Graphcore,United Kingdom,Artificial intelligence,$2.77
+331,Sunnyvale,Illumio,United States,Cybersecurity,$2.75
+332,San Francisco,MasterClass,United States,Edtech,$2.75
+333,Istanbul,Dream Games,Turkey,Mobile & telecommunications,$2.75
+334,Tel Aviv,Transmit Security,Israel,Cybersecurity,$2.74
+335,Shanghai,Hozon Auto,China,Auto & transportation,$3.95
+336,San Francisco,Tradeshift,United States,Fintech,$2.7
+337,Scottsdale,Nextiva,United States,Internet software & services,$2.7
+338,Seoul,Tridge,South Korea,Internet software & services,$2.7
+339,Dallas,o9 Solutions,United States,Artificial intelligence,$2.7
+340,London,Thought Machine,United Kingdom,Fintech,$2.7
+341,Amsterdam,BackBase,Netherlands,Fintech,$2.66
+342,Paris,ManoMano,France,E-commerce & direct-to-consumer,$2.6
+343,San Francisco,Sourcegraph,United States,Internet software & services,$2.62
+344,Raleigh,Pendo,United States,Internet software & services,$2.6
+345,Palo Alto,Plume,United States,Internet software & services,$2.6
+346,,Moglix,Singapore,E-commerce & direct-to-consumer,$2.6
+347,New York,Axonius,United States,Cybersecurity,$2.6
+348,Chengdu,Xinchao Media,China,Internet software & services,$2
+349,Louisville,JumpCloud,United States,Data management & analytics,$2.62
+350,Sao Paulo,Unico,Brazil,Artificial intelligence,$2.6
+351,Oulu,Oura,Finland,Health,$2.55
+352,San Francisco,Eat Just,United States,Consumer & retail,$2.59
+353,San Francisco,Cribl,United States,Data management & analytics,$2.5
+354,Boulder,Jetti Resources,United States,Other,$2.5
+355,Dubai,Vista Global,United Arab Emirates,Other,$2.5
+356,Nanjing,BYTON,China,Auto & transportation,$2.5
+357,San Francisco,Side,United States,Internet software & services,$2.5
+358,Thane,Infra.Market,India,E-commerce & direct-to-consumer,$2.5
+359,San Francisco,Varo Bank,United States,Fintech,$2.5
+360,Tel Aviv,Cato Networks,Israel,Cybersecurity,$2.5
+361,Burlington,Aura,United States,Cybersecurity,$2.5
+362,San Francisco,Vercel,United States,Internet software & services,$2.5
+363,San Francisco,Sysdig,United States,Cybersecurity,$2.5
+364,Bengaluru,Zetwerk,India,Internet software & services,$2.68
+365,Palo Alto,Uniphore,United States,Artificial Intelligence,$2.5
+366,McLean,Somatus,United States,Health,$2.5
+367,Sydney,Immutable,Australia,Fintech,$2.5
+368,New York,A24 Films,United States,Other,$2.5
+369,San Mateo,SiFive,United States,Hardware,$2.5
+370,Mumbai,Games24x7,India,Internet software & services,$2.5
+371,Madison,Fetch Rewards,United States,E-commerce & direct-to-consumer,$2.5
+372,,Coda Payments,Singapore,Fintech,$2.5
+373,Ra'anana,DriveNets,Israel,Internet software & services,$2.5
+374,Tel Aviv,Hibob,Israel,Internet software & services,$2.45
+375,Buenos Aires,Uala,Argentina,Fintech,$2.45
+376,Bengaluru,Mobile Premier League,India,Internet software & services,$2.45
+377,Boston,Cybereason,United States,Cybersecurity,$2.44
+378,Hangzhou,Cgtz,China,Fintech,$2.41
+379,Changzhou,Star Charge,China,Auto & transportation,$2.41
+380,Columbia,EquipmentShare,United States,Fintech,$2.41
+381,Redwood City,Carbon,United States,Hardware,$2.4
+382,New York,Rokt,United States,Internet software & services,$2.4
+383,Gurgaon,PolicyBazaar,India,Fintech,$2.4
+384,New York,Paxos,United States,Fintech,$2.4
+385,Foster City,Exabeam,United States,Cybersecurity,$2.4
+386,Boston,BitSight Technologies,United States,Cybersecurity,$2.4
+387,New York,Trumid,United States,Fintech,$2.4
+388,El Segundo,ABL Space Systems,United States,Other,$2.4
+389,San Francisco,HoneyBook,United States,Internet software & services,$2.4
+390,South Burlington,Beta Technologies,United States,Other,$2.4
+391,Chicago,Project44,United States,"Supply chain, logistics, & delivery",$2.62
+392,South San Francisco,Freenome,United States,Health,$2.62
+393,London,ManyPets,United Kingdom,Fintech,$2.35
+394,Madrid,Jobandtalent,Spain,Internet software & services,$2.35
+395,Seoul,WEMAKEPRICE,South Korea,E-commerce & direct-to-consumer,$2.34
+396,Shanghai,Biren Technology,China,Hardware,$2.32
+397,Paris,Voodoo,France,Other,$2.31
+398,Chicago,Uptake,United States,Artificial intelligence,$2.3
+399,San Francisco,Motive,United States,"Supply chain, logistics, & delivery",$2.85
+400,Atlanta,Greenlight,United States,Fintech,$2.3
+401,New York,Bowery Farming,United States,Other,$2.3
+402,Louvain-la-Neuve,Odoo,Belgium,Internet software & services,$2.3
+403,Ho Chi Minh City,MoMo,Vietnam,Fintech,$2.27
+404,Mountain View,Zume,United States,Consumer & retail,$2.25
+405,San Francisco,Algolia,United States,Internet software & services,$2.25
+406,Lehi,Pattern,United States,Internet software & services,$2.25
+407,San Francisco,Newfront Insurance,United States,Fintech,$2.2
+408,Unterfoehring,NuCom Group,Germany,Other,$2.2
+409,Seoul,MUSINSA,South Korea,E-commerce & direct-to-consumer,$2.2
+410,New York,Current,United States,Fintech,$2.2
+411,Mexico City,Bitso,Mexico,Fintech,$2.2
+412,New York,Gympass,United States,Internet software & services,$2.2
+413,San Francisco,Dialpad,United States,Internet software & services,$2.2
+414,Beijing,G7 Networks,China,"Supply chain, logistics, & delivery",$2.2
+415,Mountain View,BloomReach,United States,Artificial intelligence,$2.2
+416,Boston,Motif FoodWorks,United States,Consumer & retail , $2.20 
+417,Shanghai,Huaqin Telecom Technology,China,Mobile & telecommunications,$2.19
+418,Colchester,Accelerant,United Kingdom,Other,$2.19
+419,Shanghai,Hesai Tech,China,Artificial intelligence,$2.18
+420,Shanghai,YITU Technology,China,Artificial intelligence,$2.17
+421,Mountain View,Addepar,United States,Fintech,$2.17
+422,San Francisco,Qualia,United States,Fintech,$2.17
+423,San Mateo,Neo4j,United States,Data management & analytics,$2
+424,Sao Paulo,CloudWalk,Brazil,Fintech,$2.15
+425,Maharashtra,CoinDCX,India,Fintech,$2.15
+426,Pune,FirstCry,India,E-commerce & direct-to-consumer,$2.1
+427,Santa Clara,Eightfold.ai,United States,Internet software & services,$2.1
+428,Gurgaon,Urban Company,India,E-commerce & direct-to-consumer,$2.1
+429,Los Angeles,ReCharge,United States,Fintech,$2.1
+430,Mountain View,Moveworks,United States,Artificial intelligence ,$2.1
+431,Palo Alto,Medable,United States,Health,$2.1
+432,London,GoCardless,United Kingdom,Fintech,$2.1
+433,Berlin,Forto,Germany,"Supply chain, logistics, & delivery",$2.1
+434,Orlando,Jeeves,United States,Fintech,$2.1
+435,Hong Kong,Babel Finance,Hong Kong,Fintech,$2
+436,London,BeZero,United Kingdom,Other,$2
+437,Kowloon,Trendy Group International,Hong Kong,Consumer & retail,$2
+438,San Francisco,Mysten Labs,United States,Internet software & services,$2
+439,Chicago,Avant,United States,Artificial intelligence,$2
+440,Shenzhen,Tubatu.com,China,E-commerce & direct-to-consumer,$2
+441,Paris,BlaBlaCar,France,Auto & transportation,$2
+442,Beijing,HuiMin,China,E-commerce & direct-to-consumer,$2
+443,Mountain View,Quora,United States,Internet software & services,$2
+444,Tokyo,Preferred Networks,Japan,Artificial intelligence,$2
+445,Somerville,Formlabs,United States,Hardware,$2
+446,Beijing,4Paradigm,China,Artificial intelligence,$2
+447,San Francisco,Calm,United States,Internet software & services,$2
+448,Miami,Kaseya,United States,Cybersecurity,$2
+449,Beijing,Mafengwo,China,Travel,$2
+450,Sunnyvale,Druva,United States,Data management & analytics,$2
+451,Hangzhou,Kujiale,China,Internet software & services,$2
+452,San Francisco,AppsFlyer,United States,Mobile & telecommunications,$2
+453,Beijing,Keep,China,Internet software & services,$2
+454,Mountain View,Redis Labs,United States,Data management & analytics,$2
+455,Shenzhen,Xingyun Group,China,E-commerce & direct-to-consumer,$2
+456,New York,Unqork,United States,Fintech,$2
+457,San Francisco,Virta Health,United States,Health,$2
+458,Dallas,ISN,United States,"Supply chain, logistics, & delivery",$2
+459,Giv'atayim,Earnix,Israel,Fintech,$2
+460,Shanghai,Guoquan Shihui,China,Consumer & retail,$2
+461,Toronto,Clearco,Canada,Fintech,$2
+462,San Francisco,Hive,United States,Artificial intelligence,$2
+463,Stockholm,KRY,Sweden,Health,$2
+464,Irvine,Kajabi,United States,Internet software & services,$2
+465,San Francisco,Ethos,United States,Fintech,$2.7
+466,London,PayFit,United Kingdom,Fintech,$2.1
+467,Beijing,Beisen,China,Internet software & services,$2
+468,Miami,Pipe,United States,Fintech,$2
+469,San Francisco,Iterable,United States,Internet software & services,$2
+470,Amsterdam,Bunq,Netherlands,Fintech,$2
+471,Mexico City,Clip,Mexico,Fintech,$2
+472,Sao Paulo,Loggi,Brazil,"Supply chain, logistics, & delivery",$2
+473,San Francisco,MURAL,United States,Internet software & services,$2
+474,Leudelange,OCSiAl,Luxembourg,Other,$2
+475,Shenzhen,XtalPi,China,Artificial intelligence,$2
+476,San Francisco,Divvy Homes,United States,Fintech,$2
+477,Goleta,Apeel Sciences,United States,Other,$2
+478,Lagos,Opay,Nigeria,Fintech,$2
+479,Santa Clara,Aviatrix,United States,Internet software & services,$2
+480,Tokyo,SmartNews,Japan,Mobile & telecommunications,$2
+481,Pennsauken,Misfits Market,United States,"Supply chain, logistics, & delivery",$2
+482,New York,Spring Health,United States,Health,$2
+483,Shanghai,Black Sesame Technologies,China,Artificial intelligence,$2
+484,,Advance Intelligence Group,Singapore,Artificial intelligence,$2
+485,San Francisco,Modern Treasury,United States,Fintech,$2
+486,Plantation,Magic Leap,United States,Hardware,$2
+487,Berlin,Tier,Germany,Travel,$2
+488,Portola Valley,ClickHouse,United States,Data management & analytics,$2
+489,Taguig City,Mynt,Philippines,Fintech,$2
+490,Oakland,Everlaw,United States,Internet software & services,$2
+491,London,Zilch,United Kingdom,Fintech,$2
+492,New York,VerbIT,United States,Artificial intelligence,$2
+493,Netanya,StarkWare,Israel,Cybersecurity,$8
+494,San Francisco,Netlify,United States,Internet software & services,$2
+495,New York,SWORD Health,United States,Health,$2
+496,Dallas,LTK,United States,Internet software & services,$2
+497,,Trax,Singapore,Artificial intelligence,$2
+498,Croix,Exotec,France,Hardware,$2
+499,Santa Clara,Dremio,United States,Data management & analytics,$2
+500,Jakarta,Akulaku,Indonesia,E-commerce & direct-to-consumer,$2
+501,Santa Clara,Cloudinary,United States,Internet software & services,$2
+502,Aarhus,Lunar,Denmark,Fintech,$2
+503,Mumbai,UpGrad,India,Edtech,$2.25
+504,Boston,Salsify,United States,Internet software & services,$2
+505,New York,CertiK,United States,Cybersecurity,$2
+506,Shanghai,ROX Motor,China,Auto & transportation,$2
+507,New York,Hugging Face,United States,Artificial intelligence,$2
+508,Cambridge,Devo Technology,United States,Data management & analytics,$2
+509,Sveta Nedelja,Rimac Automobili,Croatia,Auto & transportation,$2
+510,Beijing,Geek+,China,Hardware,$2
+511,New York,21.co,United States,Fintech,$2
+512,Houston,Solugen,United States,Other,$2
+513,Seoul,ZigBang,South Korea,Mobile & telecommunications, $1.93
+514,Paris,Ankorstore,France,E-commerce & direct-to-consumer,$1.98
+515,Beijing,Fenbi Education,China,Edtech,$1.95
+516,New York,InVision,United States,Internet software & services,$1.9
+517,Shanghai,eDaili,China,E-commerce & direct-to-consumer,$1.9
+518,Lehi,MX Technologies,United States,Fintech,$1.9
+519,Bethesda,Aledade,United States,Health,$1.9
+520,Bangalore,CoinSwitch Kuber,India,Fintech,$1.9
+521,Irvine,Acorns,United States,Fintech,$1.9
+522,Oakland,Roofstock,United States,Fintech,$1.94
+523,Los Angeles,thatgamecompany,United States,Internet software & services, $1.94 
+524,Boston,ConcertAI,United States,Artificial Intelligence,$1.9
+525,Boca Raton,Material Bank,United States,E-commerce & direct-to-consumer,$1.9
+526,Bruchsal,Volocopter,Germany,Auto & transportation,$1.87
+527,Shanghai,ENOVATE,China,Auto & transportation,$1.85
+528,Seoul,MEGAZONE,South Korea,Internet software & services,$1.83
+529,Boston,CFGI,United States,Fintech,$1.85
+530,New York,ZocDoc,United States,Health,$1.8
+531,San Francisco,Diamond Foundry,United States,Other,$1.8
+532,Atlanta,FullStory,United States,Internet software & services,$1.8
+533,Jerusalem,Lightricks,Israel,Artificial intelligence,$1.8
+534,New York,Opentrons,United States,Hardware,$1.8
+535,Bengaluru,Slice,India,Fintech,$1.8
+536,Brooklyn,Cambrian BioPharma,United States,Health,$1.79
+537,Shanghai,AIWAYS,China,Auto & transportation,$1.78
+538,Vancouver,Trulioo,Canada,Cybersecurity,$1.75
+539,Gurugram,Spinny,India,E-commerce & direct-to-consumer,$1.75
+540,Denver,Crusoe,United States,Internet software & services,$1.75
+541,Portland,Orca Security,United States,Cybersecurity,$1.8
+542,Beijing,Apus Group,China,Mobile & telecommunications,$1.73
+543,New York,AlphaSense,United States,Artificial intelligence,$1.7
+544,New York,Harry's,United States,Consumer & retail,$1.7
+545,San Francisco,PAX,United States,Consumer & retail,$1.7
+546,Denver,DispatchHealth,United States,Health,$1.7
+547,Greenwood Village,Pax8,United States,Internet software & services,$1.7
+548,London,Multiverse,United Kingdom,Edtech,$1.7
+549,San Francisco,Front,United States,Internet software & services,$1.7
+550,New York,Redesign Health,United States,Health,$1.7
+551,Cambridge,Tessera Therapeutics,United States,Health,$1.69
+552,New York,Uniswap,United States,Fintech,$1.66
+553,,FinAccel,Singapore,Fintech,$1.66
+554,New York,Unite Us,United States,Health,$1.6
+555,San Francisco,CircleCI,United States,Internet software & services,$1.7
+556,Dakar,Wave,Senegal,Fintech,$1.7
+557,Paris,Vestiaire Collective,France,E-commerce & direct-to-consumer,$1.7
+558,Hanover,Dragos,United States,Cybersecurity,$1.7
+559,Redwood City,Reltio,United States,Data management & analytics,$1.7
+560,Mountain View,H2O.ai,United States,Artificial intelligence,$1.7
+561,Austin,ZenBusiness,United States,Fintech,$1.7
+562,Selangor,Carsome,Malaysia,E-commerce & direct-to-consumer,$1.7
+563,San Francisco,Productboard,United States,Internet software & services,$1.7
+564,Los Angeles,Spotter,United States,Fintech,$1.7
+565,San Francisco,Optimism,United States,Internet software & services,$1.65
+566,San Francisco,Incredible Health,United States,Health,$1.65
+567,Beijing,Jusfoun Big Data,China,Data management & analytics,$1.62
+568,San Francisco,Transcarent,United States,Health,$1.62
+569,Bengaluru,DealShare,India,E-commerce & direct-to-consumer,$1.7
+570,Chongqing,Zhubajie,China,Internet software & services,$1.61
+571,Berlin,solarisBank,Germany,Fintech,$1.65
+572,Santa Clara,DataStax,United States,Data management & analytics,$1.6
+573,Waltham,Infinidat,United States,Hardware,$1.6
+574,Hamilton,Afiniti,Bermuda,Artificial intelligence,$1.6
+575,Hangzhou,Cao Cao Mobility,China,Auto & transportation,$1.6
+576,Sunnyvale,Clari,United States,Internet software & services,$2.6
+577,San Francisco,Tonal,United States,E-commerce & direct-to-consumer,$1.6
+578,Burnaby,Clio,Canada,Internet software & services,$1.6
+579,Sydney,SafetyCulture,Australia,Internet software & services,$1.6
+580,San Francisco,Monte Carlo,United States,Artificial intelligence,$1.6
+581,San Francisco,Cresta,United States,Artificial Intelligence,$1.6
+582,San Francisco,Extend,United States,Fintech,$1.36
+583,Cambridge,Generate Biomedicines,United States,Health,$1.36
+584,Lysaker,Cognite,Norway,Data management & analytics,$1.5
+585,New York,ASAPP,United States,Artificial intelligence,$1.6
+586,Tokyo,SmartHR,Japan,Fintech,$1.6
+587,San Francisco,Mercury,United States,Fintech,$1.6
+588,San Francisco,HomeLight,United States,Fintech,$1.7
+589,Hayward,Truepill,United States,Health,$1.6
+590,Boston,ezCater,United States,"Supply chain, logistics, & delivery",$1.6
+591,Dublin,Wayflyer,Ireland,Fintech,$1.6
+592,New York,Capitolis,United States,Fintech,$1.6
+593,Vilnius,Nord Security,Lithuania,Cybersecurity,$1.6
+594,San Francisco,Vanta,United States,Cybersecurity,$1.6
+595,San Francisco,Magic Eden,United States,Fintech,$1.6
+596,San Francisco,Pave,United States,Internet software & services,$1.6
+597,Bryanston,Promasidor Holdings,South Africa,Consumer & retail,$1.59
+598,Beijing,GalaxySpace,China,Mobile & telecommunications,$1.58
+599,Austin,ICON 3D,United States,Hardware, $1.57 
+600,Chengdu,Fresh Life Style Supply Chain Management,China,"Supply chain, logistics, & delivery", $1.57 
+601,New York,Alloy,United States,Fintech,$1.55
+602,Beijing,Baiwang,China,Fintech,$1.55
+603,Shanghai,Iluvatar CoreX,China,Hardware,$1.55
+604,Hunan,Wenheyou,China,Other,$1.55
+605,Dubai,Kitopi,United Arab Emirates,"Supply chain, logistics, & delivery",$1.55
+606,San Francisco,Loom,United States,Internet software & services,$1.53
+607,Shanghai,Ximalaya FM,China,Mobile & telecommunications,$1.52
+608,Jiangsu,Carzone,China,E-commerce & direct-to-consumer,$1.52
+609,Zhuhai,Gokin Solar,China,Other,$1.51
+610,New York,OpenWeb,United States,Internet software & services,$1.5
+611,,bolttech,Singapore,Fintech,$1.5
+612,New York,Bilt Rewards,United States,Fintech,$1.5
+613,Northbrook,Mu Sigma,United States,Data management & analytics,$1.5
+614,Quito,Kushki,Ecuador,Fintech,$1.5
+615,Austin,Jasper,United States,Artificial intelligence,$1.5
+616,Cambridge,Orna Therapeutics,United States,Health,$1.5
+617,Beijing,TuJia,China,Travel,$1.5
+618,Shanghai,Mofang Living,China,E-commerce & direct-to-consumer,$1.5
+619,London,Gett,United Kingdom,Auto & transportation,$1.5
+620,Hangzhou,DT Dream,China,Data management & analytics,$1.5
+621,Shanghai,Changingedu,China,Edtech,$1.5
+622,Beijing,XiaoZhu,China,Travel,$1.5
+623,Hangzhou,JOLLY Information Technology,China,E-commerce & direct-to-consumer,$1.5
+624,Beijing,Yijiupi,China,Consumer & retail,$1.5
+625,Cambridge,Cambridge Mobile Telematics,United States,Auto & transportation,$1.5
+626,San Francisco,Collective Health,United States,Fintech,$1.5
+627,San Francisco,Strava,United States,Internet software & services,$1.5
+628,Bellevue,Zenoti,United States,Internet software & services,$1.5
+629,New York,K Health,United States,Health,$1.5
+630,Boulder,Uplight,United States,Other,$1.5
+631,McLean,ID.me,United States,Cybersecurity,$1.5
+632,San Francisco,Snapdocs,United States,Fintech,$1.5
+633,San Francisco,Chipper Cash,United States,Fintech,$2
+634,Paris,Ledger,France,Hardware,$1.5
+635,Tel Aviv,Next Silicon,Israel,Hardware,$1.5
+636,Shanghai,YunQuNa,China,"Supply chain, logistics, & delivery",$1.5
+637,Santa Barbara,impact.com,United States,Internet software & services,$1.5
+638,San Francisco,SmartRecruiters,United States,Internet software & services,$1.5
+639,Santiago,NotCo,Chile,Consumer & retail,$1.5
+640,Richmond,Culture Amp,Australia,Internet software & services,$1.5
+641,Draper,TaxBit,United States,Fintech,$1.5
+642,Cincinnati,Pacaso,United States,Fintech,$1.5
+643,Zephyr Cove,1047 Games,United States,Internet software & services,$1.5
+644,Altrincham,Matillion,United Kingdom,Data management & analytics,$1.5
+645,San Francisco,Persona,United States,Cybersecurity,$1.5
+646,Bangkok,Ascend Money,Thailand,Fintech,$1.5
+647,New York,Andela,United States,Internet software & services,$1.5
+648,Nashville,Built,United States,Internet software & services,$1.5
+649,New York,candy.com,United States,Internet software & services,$1.5
+650,San Francisco,CoinList,United States,Fintech,$1.5
+651,New York,Lusha,United States,Internet software & services,$1.5
+652,Bengaluru,CureFit,India,Health,$1.5
+653,Curitiba,Olist,Brazil,E-commerce & direct-to-consumer,$1.5
+654,Scottsdale,Paradox,United States,Internet software & services,$1.5
+655,San Francisco,Airbyte,United States,Internet software & services,$1.5
+656,Herzliya,StoreDot,Israel,Other,$1.5
+657,New York,Il Makiage,United States,E-commerce & direct-to-consumer,$1.5
+658,Paris,Spendesk,France,Fintech,$1.5
+659,Tallinn,Veriff,Estonia,Artificial intelligence,$1.5
+660,Mountain View,Athelas,United States,Health,$1.5
+661,Pune,ElasticRun,India,"Supply chain, logistics, & delivery",$1.5
+662,Boulder,Veho,United States,"Supply chain, logistics, & delivery",$1.5
+663,Bellevue,Temporal,United States,Internet software & services,$1.5
+664,Bellevue,Fabric,United States,E-commerce & direct-to-consumer,$1.5
+665,San Francisco,Zeta,United States,Fintech,$1.5
+666,San Francisco,Boba,United States,Fintech,$1.5
+667,DC,Upside,United States,Mobile & telecommunications,$1.5
+668,Palo Alto,Mashgin,United States,Artificial intelligence,$1.5
+669,Sao Paulo,Dock,Brazil,Fintech,$1.5
+670,Santa Cruz,Prometheus,United States,Other, $1.50 
+671,London,5ire,United Kingdom,Internet software & services, $1.50 
+672,Hefei,Yipin Shengxian,China,E-commerce & direct-to-consumer,$1.49
+673,Shanghai,Bordrin Motors,China,Auto & transportation,$1.48
+674,DC,Arcadia,United States,Other,$1.48
+675,Beijing,Shukun Technology,China,Artificial Intelligence,$1.46
+676,Shenzhen,Coocaa,China,Hardware,$1.45
+677,Chengdu,Juma Peisong,China,"Supply chain, logistics, & delivery",$1.45
+678,Shanghai,Ouyeel,China,Internet software & services,$1.45
+679,Solihull,Gymshark,United Kingdom,E-commerce & direct-to-consumer,$1.45
+680,Chicago,M1,United States,Fintech,$1.45
+681,San Francisco,Aleo,United States,Cybersecurity,$1.45
+682,Stockholm,Einride,Sweden,Auto & transportation,$1.44
+683,New York,Justworks,United States,Internet software & services,$1.43
+684,Hangzhou,Valgen Medtech,China,Health,$1.43
+685,Denver,SonderMind,United States,Health,$1.42
+686,Bengaluru,Amagi,India,Internet software & services,$1.4
+687,Miami,Papa,United States,Health,$1.4
+688,Toronto,Figment,Canada,Internet software & services,$1.4
+689,San Francisco,Envoy,United States,Internet software & services,$1.4
+690,Ghent,Deliverect,Belgium,Fintech,$1.4
+691,Austin,SparkCognition,United States,Artificial intelligence,$1.4
+692,Tel Aviv,Firebolt,Israel,Data management & analytics,$1.4
+693,Beijing,Koudai,China,E-commerce & direct-to-consumer,$1.4
+694,New York,Symphony,United States,Fintech,$1.4
+695,Beijing,Yidian Zixun,China,Mobile & telecommunications,$1.4
+696,Madrid,Cabify,Spain,Auto & transportation,$1.4
+697,Shenzhen,Hive Box,China,"Supply chain, logistics, & delivery",$1.4
+698,New York,Away,United States,E-commerce & direct-to-consumer,$1.4
+699,San Francisco,Kong,United States,Internet software & services,$1.4
+700,Stockholm,Epidemic Sound,Sweden,Internet software & services,$1.4
+701,New York,Yotpo,United States,Internet software & services,$1.4
+702,Pune,Rebel Foods,India,E-commerce & direct-to-consumer,$1.4
+703,Mountain View,Coda,United States,Internet software & services,$1.4
+704,Chennai,Five Star Business Finance,India,Other,$1.4
+705,New York,Stash,United States,Fintech,$1.4
+706,Seattle,Rad Power Bikes,United States,Auto & transportation,$1.4
+707,San Francisco,Clarify Health,United States,Health,$1.4
+708,Seoul,Bucketplace,South Korea,E-commerce & direct-to-consumer,$1.4
+709,London,Paddle,United Kingdom,Fintech,$1.4
+710,Pune,OneCard,India,Fintech,$1.4
+711,Mumbai,boAT,India,Consumer & retail,$1.4
+712,Ambler,Phenom People,United States,Internet software & services,$1.4
+713,San Francisco,GupShup,United States,Internet software & services,$1.4
+714,Pleasanton,Degreed,United States,Edtech,$1.4
+715,San Francisco,Astranis Space Technologies,United States,Mobile & telecommunications,$1.4
+716,Munich,Scalable Capital,Germany,Fintech,$1.4
+717,Los Angeles,VideoAmp,United States,Internet software & services,$1.4
+718,San Francisco,Panther Labs,United States,Cybersecurity,$1.4
+719,Palo Alto,Salt Security,United States,Cybersecurity,$1.4
+720,London,Tripledot,United Kingdom,Mobile & telecommunications,$1.4
+721,Redwood City,Nimble Rx,United States,Health,$1.4
+722,Sao Paulo,Neon,Brazil,Fintech,$1.38
+723,New York,Movable Ink,United States,Internet software & services,$1.36
+724,Shanghai,DeepBlue Technology,China,Artificial intelligence,$1.35
+725,Central,Klook,Hong Kong,Travel,$1.35
+726,Guangzhou,Yaoshibang,China,Health,$1.35
+727,Hawthorne,Epirus,United States,Other,$1.35
+728,San Jose,Signifyd,United States,Fintech,$1.34
+729,Shenzhen,Jaguar Microsystems,China,Hardware,$1.34
+730,London,Motorway,United Kingdom,E-commerce & direct-to-consumer,$1.33
+731,Seoul,RIDI,South Korea,E-commerce & direct-to-consumer,$1.33
+732,Palo Alto,Flipboard,United States,Internet software & services,$1.32
+733,Seoul,GPclub,South Korea,Other,$1.32
+734,Hangzhou,Tongdun Technology,China,Cybersecurity,$1.32
+735,New York,Athletic Greens,United States,Health,$1.32
+736,Beijing,Unisound,China,Artificial intelligence,$1.31
+737,Framingham,Alzheon,United States,Health,$1.31
+738,Redwood City,HeartFlow,United States,Health,$1.3
+739,New Delhi,Shiprocket,India,"Supply chain, logistics, & delivery",$1.3
+740,New York,The Brandtech Group,United States,Other,$1.3
+741,Tirat Carmel,InSightec,Israel,Health,$1.3
+742,Austin,Everly Health,United States,Health,$1.3
+743,Shanghai,Manner,China,Other,$1.3
+744,Beijing,TalkingData,China,Mobile & telecommunications,$1.3
+745,New York,DistroKid,United States,Internet software & services,$1.3
+746,Mexico City,Konfio,Mexico,Fintech,$1.3
+747,New York,Betterment,United States,Fintech,$1.3
+748,Encinitas,Flock Freight,United States,"Supply chain, logistics, & delivery",$1.3
+749,Sunnyvale,YugaByte,United States,Data management & analytics,$1.3
+750,New York,Lukka,United States,Fintech,$1.3
+751,Barcelona,TravelPerk,Spain,Travel,$1.3
+752,Long Beach,iTrustCapital,United States,Fintech,$1.3
+753,Berkeley,Domestika,United States,Internet software & services,$1.3
+754,San Francisco,CoinTracker,United States,Fintech,$1.3
+755,New York,Loadsmart,United States,"Supply chain, logistics, & delivery",$1.3
+756,Guangzhou,TUNGEE,China,Artificial Intelligence,$1.3
+757,Chennai,CredAvenue,India,Fintech,$1.3
+758,Melbourne,LinkTree,Australia,Internet software & services,$1.3
+759,Dallas,Island,United States,Internet software & services,$1.3
+760,San Francisco,Clipboard Health,United States,Internet software & services,$1.3
+761,Boston,Biofourmis,United States,Health,$1.3
+762,Atlanta,STORD,United States,"Supply chain, logistics, & delivery",$1.3
+763,Tel Aviv,Optibus,Israel,"Supply chain, logistics, & delivery",$1.3
+764,Port Washington,Equashield,United States,Health,$1.3
+765,San Francisco,Intercom,United States,Internet software & services,$1.28
+766,Bristol,OVO Energy,United Kingdom,Other,$1.28
+767,Beijing,Huisuanzhang,China,Fintech,$1.28
+768,Guangzhou,WTOIP,China,Internet software & services,$1.27
+769,Guangzhou,Greater Bay Technology,China,Hardware,$1.26
+770,Shenzhen,JMGO,China,Hardware,$1.26
+771,New York,BigID,United States,Cybersecurity,$1.25
+772,Beijing,Kuaikan Manhua,China,Internet software & services,$1.25
+773,London,Marshmallow,United Kingdom,Fintech,$1.25
+774,San Francisco,Honor Technology,United States,Internet software & services,$1.25
+775,Sherman Oaks,Mythical Games,United States,Internet software & services,$1.25
+776,San Francisco,Incode Technologies,United States,Cybersecurity,$1.25
+777,Boise,Tackle.io,United States,Internet software & services,$1.25
+778,Dublin,Flipdish,Ireland,Internet software & services,$1.25
+779,Lehi,Route,United States,"Supply chain, logistics, & delivery",$1.25
+780,San Francisco,CaptivateIQ,United States,Fintech,$1.25
+781,Brookline,airSlate,United States,Internet software & services,$1.25
+782,San Francisco,ClassDojo,United States,Edtech,$1.25
+783,Aberdeen,BrewDog,United Kingdom,Consumer & retail,$1.24
+784,Shanghai,Enflame,China,Hardware,$1.24
+785,Hangzhou,Shulan Health,China,Health,$1.24
+786,New York,SeatGeek,United States,E-commerce & direct-to-consumer,$1.24
+787,Cambridge,EQRx,United States,Health,$1.23
+788,Vancouver,Nexii,Canada,Other,$1.23
+789,Mountain View,inDriver,United States,Auto & transportation , $1.23 
+790,Tsuruoka,Spiber,Japan,Other,$1.22
+791,Istanbul,Insider,Turkey,Internet software & services,$1.22
+792,New York,Kallyope,United States,Health, $1.22 
+793,San Francisco,Zip,United States,Fintech,$1.2
+794,Shanghai,Yiguo,China,"Supply chain, logistics, & delivery",$1.2
+795,Santa Monica,Fair,United States,Auto & transportation,$1.2
+796,New York,Glossier,United States,Consumer & retail,$1.65
+797,Dublin,Workhuman,Ireland,Internet software & services,$1.2
+798,Seattle,Qumulo,United States,Data management & analytics,$1.2
+799,San Diego,Tealium,United States,Internet software & services,$1.2
+800,New York,Public,United States,Fintech,$1.2
+801,Beijing,Pipa Coding,China,Edtech,$1.2
+802,San Francisco,Pilot.com,United States,Fintech,$1.2
+803,Beijing,Aibee,China,Artificial intelligence,$1
+804,Washington,Cava Group,United States,Other,$1.3
+805,San Jose,Vectra Networks,United States,Artificial intelligence,$1.2
+806,Toronto,Ada Support,Canada,Artificial intelligence,$1.2
+807,Shenzhen,SmartMore,China,Artificial Intelligence,$1.2
+808,Prague,Rohlik Group,Czech Republic,"Supply chain, logistics, & delivery",$1.2
+809,Cambridge,Prime Medicine,United States,Health,$1.2
+810,Los Angeles,FloQast,United States,Fintech,$1.2
+811,San Francisco,MindTickle,United States,Internet software & services,$1.2
+812,New York,DailyPay,United States,Fintech,$1.2
+813,Princeton,Offchain Labs,United States,Internet software & services,$1.2
+814,Chicago,Copado,United States,Data management & analytics,$1.2
+815,San Francisco,Gem,United States,Internet software & services,$1.2
+816,Jaipur,CarDekho,India,E-commerce & direct-to-consumer,$1.2
+817,Mumbai,MyGlamm,India,E-commerce & direct-to-consumer,$1.2
+818,Denver,AgentSync,United States,Fintech,$1.2
+819,Gurugram,Pristyn Care,India,Health,$1.4
+820,New York,Jokr,United States,"Supply chain, logistics, & delivery",$1.2
+821,Mexico City,Merama,Mexico,E-commerce & direct-to-consumer,$1.2
+822,Bellevue,SeekOut,United States,Internet software & services,$1.2
+823,Mountain View,BigPanda,United States,Artificial intelligence,$1.2
+824,San Francisco,Phantom,United States,Fintech,$1.2
+825,Bengaluru,LivSpace,India,E-commerce & direct-to-consumer,$1.2
+826,Pune,Xpressbees,India,"Supply chain, logistics, & delivery",$1.2
+827,San Francisco,Nova Labs,United States,Internet software & services,$1.2
+828,Berlin,Choco,Germany,E-commerce & direct-to-consumer,$1.2
+829,San Francisco,Viz.ai,United States,Artificial Intelligence,$1.2
+830,New York,Unit,United States,Fintech,$1.2
+831,Juarez,stori,Mexico,Fintech,$1.2
+832,Gloucester,Spectrum Medical,United Kingdom,Health,$1.2
+833,Seattle,Swiftly,United States,Mobile & telecommunications,$1.2
+834,San Jose,CloudBees,United States,Data management & analytics,$1.15
+835,Seoul,L&P Cosmetic,South Korea,Consumer & retail,$1.19
+836,Beijing,Mininglamp Technology,China,Artificial intelligence,$1.19
+837,Beijing,Luoji Siwei,China,Edtech,$1.18
+838,Shanghai,Yimidida,China,"Supply chain, logistics, & delivery",$1.17
+839,San Francisco,Modern Health,United States,Health,$1.17
+840,San Francisco,IRL,United States,Internet software & services,$1.17
+841,Shanghai,Tuhu,China,Auto & transportation,$1.16
+842,Scottsdale,SOURCE Global,United States,Other, $1.16 
+843,Bogota,LifeMiles,Colombia,Other,$1.15
+844,Salt Lake City,Venafi,United States,Cybersecurity,$1.15
+845,San Mateo,Guideline,United States,Fintech,$1.15
+846,Washington DC,Rebellion Defense,United States,Artificial intelligence,$1.15
+847,San Francisco,Elemy,United States,Health,$1.15
+848,Tustin,Happy Money,United States,Fintech,$1.15
+849,Qingdao,TELD,China,Fintech,$1.12
+850,Jakarta,DANA,Indonesia,Fintech,$1.13
+851,Mountain View,At-Bay,United States,Fintech,$1.12
+852,San Jose,Visby Medical,United States,Health, $1.12 
+853,Santa Barbara,Invoca,United States,Artificial intelligence, $1.1
+854,Boston,Wasabi,United States,Internet software & services, $1.1
+855,Seattle,Flexe,United States,"Supply chain, logistics, & delivery", $1
+856,Mountain View,TangoMe,United States,Mobile & telecommunications,$1.1
+857,San Francisco,AppDirect,United States,E-commerce & direct-to-consumer,$1.1
+858,Wuhan,Juanpi,China,E-commerce & direct-to-consumer,$1.1
+859,Roubaix,OVH,France,Other,$1.1
+860,Berlin,GetYourGuide,Germany,Travel,$1.1
+861,Redwood City,Ivalua,United States,Fintech,$1.1
+862,New York,Sisense,United States,Data management & analytics,$1.1
+863,Islandia,Pharmapacks,United States,E-commerce & direct-to-consumer,$1.1
+864,Berlin,Sennder,Germany,"Supply chain, logistics, & delivery",$1.1
+865,Prilly,Nexthink,Switzerland,Data management & analytics,$1.1
+866,London,Zego,United Kingdom,Fintech,$1.1
+867,New York,Rightway,United States,Health,$1.1
+868,Los Angeles,Sunbit,United States,Fintech,$1.1
+869,Shanghai,Qingting FM,China,Internet software & services,$1.1
+870,Chicago,G2,United States,Internet software & services,$1.1
+871,Tel Aviv,Hailo,Israel,Artificial intelligence,$1
+872,Denver,Caribou,United States,Fintech,$1.1
+873,Monterrey,Nowports,Mexico,"Supply chain, logistics, & delivery",$1.1
+874,San Francisco,People.ai,United States,Internet software & services,$1.1
+875,,Carousell,Singapore,E-commerce & direct-to-consumer,$1.1
+876,Bengaluru,apna,India,Internet software & services,$1.1
+877,Seattle,Karat,United States,Internet software & services,$1.1
+878,Berlin,Enpal,Germany,Internet software & services,$1.1
+879,Bengaluru,Acko General Insurance,India,Fintech,$1.1
+880,New York,Daily Harvest,United States,E-commerce & direct-to-consumer,$1.1
+881,London,The Bank of London,United Kingdom,Fintech,$1.1
+882,San Francisco,Fundbox,United States,Fintech,$1.1
+883,Palo Alto,Turing,United States,Internet software & services,$1.1
+884,New Delhi,GlobalBees,India,E-commerce & direct-to-consumer,$1.1
+885,Andheri,LEAD School,India,Edtech,$1.1
+886,Waterloo,eSentire,Canada,Cybersecurity,$1.1
+887,New York,Beyond Identity,United States,Cybersecurity,$1.1
+888,Chemnitz,Staffbase,Germany,Internet software & services,$1.1
+889,New York,Chief,United States,Other,$1.1
+890,Quincy,IntelyCare,United States,Health,$1.1
+891,Oakland,Teleport,United States,Cybersecurity,$1.1
+892,Burlingame,Imply Data,United States,Data management & analytics,$1.1
+893,Redwood City,Material Security,United States,Cybersecurity,$1.1
+894,Uttar Pradesh,PhysicsWallah,India,Edtech,$1.1
+895,Banyeres de Mariola,Recover,Spain,Other,$1.1
+896,Mumbai,Purplle,India,E-commerce & direct-to-consumer,$1.1
+897,New York,CAIS,United States,Fintech,$1.1
+898,Beijing,Nxin,China,Internet software & services,$1.08
+899,Beijing,UISEE Technology,China,"Supply chain, logistics, & delivery",$1.08
+900,Shanghai,56PINGTAI,China,"Supply chain, logistics, & delivery",$1.08
+901,Sarasota,Cirkul,United States,Consumer & retail,$1.07
+902,Crewe,Radius Payment Solutions,United Kingdom,Fintech,$1.07
+903,Gurgaon,Rivigo,India,"Supply chain, logistics, & delivery",$1.07
+904,Gurgaon,Mamaearth,India,E-commerce & direct-to-consumer,$1.07
+905,San Francisco,0x,United States,Fintech,$1.05
+906,Beijing,Jiuxian,China,E-commerce & direct-to-consumer,$1.05
+907,San Francisco,Instabase,United States,Data management & analytics,$1.05
+908,San Mateo,Sendbird,United States,Mobile & telecommunications,$1.05
+909,San Francisco,Density,United States,Hardware,$1.05
+910,San Francisco,Mixpanel,United States,Internet software & services,$1.05
+911,Columbus,Branch,United States,Fintech,$1.05
+912,Seongnam-Si,Aprogen,South Korea,Health,$1.04
+913,Jerusalem,OrCam Technologies,Israel,Artificial intelligence,$1.03
+914,San Francisco,Ample,United States,Hardware,$1.02
+915,Hangzhou,Leap Motor,China,Auto & transportation,$1.01
+916,Austin,Wheel,United States,Health,$1.01
+917,New York,Flow,United States,Fintech,$1
+918,Toronto,Xanadu,Canada,Hardware,$1
+919,Bangkok,LINE MAN Wongnai,Thailand,E-commerce & direct-to-consumer,$1
+920,Vaduz,Celestia,Liechtenstein,Internet software & services,$1
+921,London,Stability AI,United Kingdom,Artificial intelligence,$1
+922,Tel Aviv-Yafo,Vesttoo,Israel,Fintech,$1
+923,Milan,Satispay,Italy,Fintech,$1
+924,Scotts Valley,Paystand,United States,Fintech,$1
+925,Sunnyvale,Turntide Technologies,United States,Auto & transportation,$1
+926,Paris,EcoVadis,France,"Supply chain, logistics, & delivery",$1
+927,Kilkenny,TransferMate,Ireland,Fintech,$1
+928,San Francisco,Lookout,United States,Cybersecurity,$1
+929,Tel Aviv,Perimeter 81,Israel,Cybersecurity,$1
+930,New Delhi,Snapdeal,India,E-commerce & direct-to-consumer,$1
+931,El Segundo,TechStyle Fashion Group,United States,E-commerce & direct-to-consumer,$1
+932,San Francisco,Zebec,United States,Fintech,$1
+933,Bengaluru,InMobi,India,Mobile & telecommunications,$1
+934,Shanghai,LinkSure Network,China,Mobile & telecommunications,$1
+935,Fort Mill,Red Ventures,United States,Other,$1
+936,Hangzhou,BeiBei,China,E-commerce & direct-to-consumer,$1
+937,Shenzhen,Lamabang,China,E-commerce & direct-to-consumer,$1
+938,Beijing,JimuBox,China,Fintech,$1
+939,Beijing,FXiaoKe,China,Mobile & telecommunications,$1
+940,Washington,Vox Media,United States,Internet software & services,$1
+941,Beijing,Mia.com,China,E-commerce & direct-to-consumer,$1
+942,Beijing,58 Daojia,China,Internet software & services,$1
+943,Beijing,Womai,China,E-commerce & direct-to-consumer,$1
+944,Shanghai,HuJiang,China,Edtech,$1
+945,Shanghai,iTutorGroup,China,Edtech,$1
+946,Lausanne,MindMaze,Switzerland,Health,$1
+947,Shenzhen,iCarbonX,China,Artificial intelligence,$1
+948,Chicago,SMS Assist,United States,Internet software & services,$1
+949,Austin,Kendra Scott,United States,Consumer & retail,$1
+950,Beijing,Mobvoi,China,Consumer & retail,$1
+951,Beijing,Zhuan Zhuan,China,E-commerce & direct-to-consumer,$1
+952,Boca Raton,Modernizing Medicine,United States,Health,$1
+953,Shanghai,Zhaogang,China,E-commerce & direct-to-consumer,$1
+954,Shanghai,DianRong,China,E-commerce & direct-to-consumer,$1
+955,Midrand,Cell C,South Africa,Mobile & telecommunications,$1
+956,Shenzhen,YH Global,China,"Supply chain, logistics, & delivery",$1
+957,Manila,Revolution Precrafted,Philippines,Other,$1
+958,,WeLab,Hong Kong,Fintech,$1
+959,Beijing,Maimai,China,Mobile & telecommunications,$1
+960,Hangzhou,Dxy.cn,China,Health,$1
+961,Espoo,HMD Global,Finland,Mobile & telecommunications,$1
+962,Beijing,Huike Group,China,Edtech,$1
+963,Wuxi,China Cloud,China,Hardware,$1
+964,Beijing,LinkDoc Technology,China,Health,$1
+965,New York,MediaMath,United States,Internet software & services,$1
+966,Sao Paulo,Movile,Brazil,Mobile & telecommunications,$1
+967,New York,Pat McGrath Labs,United States,Consumer & retail,$1
+968,Hangzhou,Wacai,China,Mobile & telecommunications,$1
+969,Beijing,FlashEx,China,"Supply chain, logistics, & delivery",$1
+970,Shanghai,Banma Network Technologies,China,Auto & transportation,$1
+971,Charlotte,Tresata,United States,Fintech,$1
+972,Beijing,Momenta,China,Artificial intelligence,$1
+973,Nanjing,Hosjoy,China,E-commerce & direct-to-consumer,$1
+974,Berlin,Omio,Germany,Travel,$1
+975,Beijing,TERMINUS Technology,China,Hardware,$1
+976,Amsterdam,BitFury,Netherlands,Hardware,$1
+977,Miami,REEF Technology,United States,"Supply chain, logistics, & delivery",$1
+978,Menlo Park,Globality,United States,Artificial intelligence,$1
+979,Evry,Ynsect,France,Other,$1
+980,Shenzhen,Intellifusion,China,Artificial intelligence,$1
+981,Shanghai,Poizon,China,Mobile & telecommunications,$1
+982,New York,VTS,United States,Internet software & services,$1
+983,Guiyang,SITECH DEV,China,Other,$1
+984,Beijing,KnowBox,China,Edtech,$1
+985,Seoul,Yanolja,South Korea,Travel,$1
+986,Paris,Meero,France,Artificial intelligence,$1
+987,Denver,Ibotta,United States,Fintech,$1
+988,Leawood,C2FO,United States,Fintech,$1
+989,Zurich,Numbrs,Switzerland,Fintech,$1
+990,Curitiba,EBANX,Brazil,Fintech,$1
+991,Dongguan,KK Group,China,E-commerce & direct-to-consumer,$3
+992,San Francisco,Alto Pharmacy,United States,Health,$1
+993,Amsterdam,Hotmart,Netherlands,E-commerce & direct-to-consumer,$1
+994,Dubai,Emerging Markets Property Group,United Arab Emirates,Other,$1
+995,San Francisco,Quizlet,United States,Edtech,$1
+996,Menlo Park,Orca Bio,United States,Health,$1
+997,Vodnjan,Infobip,Croatia,Mobile & telecommunications,$1
+998,Long Beach,Zwift,United States,E-commerce & direct-to-consumer,$1
+999,Tokyo,Playco,Japan,Other,$1
+1000,London,Gousto,United Kingdom,"Supply chain, logistics, & delivery",$1.7
+1001,Redwood City,Alation,United States,Internet software & services,$1.7
+1002,Englewood,Boom Supersonic,United States,Other,$1
+1003,Colorado Springs,Quantum Metric,United States,Data management & analytics,$1
+1004,Mountain View,News Break,United States,Internet software & services,$1
+1005,Parana,MadeiraMadeira,Brazil,E-commerce & direct-to-consumer,$1
+1006,London,PPRO,United Kingdom,Fintech,$1
+1007,San Jose,Splashtop,United States,Internet software & services,$1
+1008,Bangkok,Flash Express,Thailand,"Supply chain, logistics, & delivery",$1
+1009,Houston,Axiom Space,United States,Other,$1
+1010,Wilmington,Locus Robotics,United States,Hardware,$1
+1011,San Francisco,Standard,United States,Artificial intelligence,$1
+1012,Changsha,WeBull,China,Fintech,$1
+1013,Redwood City,Skydio,United States,"Supply chain, logistics, & delivery",$1
+1014,New York,Newsela,United States,Edtech,$1
+1015,Ramat Gan,Aqua Security,Israel,Cybersecurity,$1
+1016,,PatSnap,Singapore,Internet software & services,$1
+1017,San Mateo,Evidation,United States,Health,$1
+1018,El Segundo,Sidecar Health,United States,Fintech,$1
+1019,San Mateo,Feedzai,United States,Artificial intelligence,$1
+1020,Suzhou,Yunxuetang,China,Edtech,$1
+1021,Chicago,Cameo,United States,Internet software & services,$1
+1022,Hangzhou,Hyperchain,China,Fintech,$1
+1023,Austin,The Zebra,United States,E-commerce & direct-to-consumer,$1
+1024,Chicago,Clearcover,United States,Fintech,$1
+1025,Mountain View,Groq,United States,Artificial intelligence,$1
+1026,Chengdu,Fiture,China,Health,$1
+1027,New York,Injective Protocol,United States,Fintech,$1
+1028,San Francisco,Sift,United States,Artificial intelligence,$1
+1029,London,SaltPay,United Kingdom,Fintech,$1
+1030,New York,Capsule,United States,Health,$1
+1031,Redwood City,MOLOCO,United States,Artificial intelligence,$1.5
+1032,Cambridge,Inari,United States,Other,$1.5
+1033,San Francisco,Mux,United States,Internet software & services,$1
+1034,Shanghai,XForcePlus,China,Internet software & services,$1
+1035,Cedar Park,Firefly Aerospace,United States,Other,$1.1
+1036,United Kingdom,Augustinus Bader,London,Consumer & retail,$1
+1037,Paris,Shift Technology,France,Artificial intelligence,$1
+1038,Toronto,TensTorrent,Canada,Artificial intelligence,$1
+1039,Chongqing,Zihaiguo,China,Consumer & retail,$1
+1040,San Francisco,Forte Labs,United States,Fintech,$1.73
+1041,Berkeley Heights,Axtria,United States,Data management & analytics,$1
+1042,Chicago,Amount,United States,Fintech,$1
+1043,New York,Vise,United States,Fintech,$1
+1044,Charlotte,Printful,United States,Other,$1
+1045,,Matrixport,Singapore,Fintech,$1.05
+1046,San Francisco,Shippo,United States,"Supply chain, logistics, & delivery",$1
+1047,New York,Thirty Madison,United States,Health,$1
+1048,Dublin,LetsGetChecked,Ireland,Health,$1
+1049,Shenzhen,EcoFlow,China,Hardware,$1
+1050,,Carro,Singapore,E-commerce & direct-to-consumer,$1
+1051,London,Tractable,United Kingdom,Artificial intelligence,$1
+1052,Shenzhen,Xiaoe Tech,China,Internet software & services,$1
+1053,Tel Aviv,Bringg,Israel,"Supply chain, logistics, & delivery",$1
+1054,New York,Claroty,United States,Cybersecurity,$1
+1055,Tel Aviv,JoyTunes,Israel,Edtech,$1
+1056,New York,Aircall,United States,Internet software & services,$1
+1057,San Francisco,Worldcoin,United States,Fintech,$1
+1058,New York,SmartAsset,United States,Fintech,$1
+1059,Washington DC,Morning Consult,United States,Internet software & services,$1
+1060,Vancouver,Visier,Canada,Internet software & services,$1
+1061,Chicago,ShipBob,United States,"Supply chain, logistics, & delivery",$1
+1062,San Francisco,MobileCoin,United States,Fintech,$1.06
+1063,Seattle,Amperity,United States,Artificial intelligence,$1
+1064,San Francisco,Pantheon Systems,United States,Internet software & services,$1
+1065,Beijing,Xiaobing,China,Fintech,$1
+1066,Shanghai,dMed Biopharmaceutical,China,Health,$1
+1067,Lincoln,Carson Group,United States,Fintech,$1
+1068,Brisbane,GO1,Australia,Internet software & services,$1
+1069,Arlington,Interos,United States,"Supply chain, logistics, & delivery",$1
+1070,Bengaluru,BlackBuck,India,"Supply chain, logistics, & delivery",$1
+1071,,NIUM,Singapore,Fintech,$1
+1072,San Francisco,Human Interest,United States,Fintech,$1
+1073,New York,Bluecore,United States,Artificial intelligence,$1
+1074,Toronto,Freshbooks,Canada,Fintech,$1
+1075,Palo Alto,Snorkel AI,United States,Artificial intelligence,$1
+1076,Oslo,Gelato,Norway,E-commerce & direct-to-consumer,$1
+1077,New York,Maven Clinic,United States,Health,$1
+1078,Seoul,Dunamu,South Korea,Fintech,$1
+1079,San Diego,Shield AI,United States,Artificial intelligence,$1
+1080,San Francisco,PicsArt,United States,Mobile & telecommunications,$1
+1081,Hangzhou,1KMXC,China,Hardware,$1
+1082,,Cider,Hong Kong,E-commerce & direct-to-consumer,$1
+1083,Berlin,Berlin Brands Group,Germany,E-commerce & direct-to-consumer,$1
+1084,Munich,Agile Robots,Germany,Hardware,$1
+1085,San Francisco,GrubMarket,United States,E-commerce & direct-to-consumer,$1.2
+1086,Brisbane,Mammoth Biosciences,United States,Health,$1
+1087,New York,Orchard,United States,Fintech,$1
+1088,Jakarta,Xendit,Indonesia,Fintech,$1
+1089,London,TrueLayer,United Kingdom,Fintech,$1
+1090,Culver City,Assembly,United States,Internet software & services,$1
+1091,San Francisco,PandaDoc,United States,Internet software & services,$1
+1092,Shanghai,Keenon Robotics,China,"Supply chain, logistics, & delivery",$1
+1093,Shanghai,HAYDON,China,Consumer & retail,$1
+1094,,Ninja Van,Singapore,"Supply chain, logistics, & delivery",$1
+1095,Bengaluru,Vedantu,India,Edtech,$1
+1096,New York,TrialSpark,United States,Health,$1
+1097,Jakarta,Ajaib,Indonesia,Fintech,$1
+1098,Bengaluru,Licious,India,E-commerce & direct-to-consumer,$1
+1099,New York,Masterworks,United States,Fintech,$1
+1100,New York,Chronosphere,United States,Data management & analytics,$1
+1101,Cambridge,Solo.io,United States,Internet software & services,$1
+1102,El Segundo,Savage X Fenty,United States,E-commerce & direct-to-consumer,$1
+1103,Montpellier,Swile,France,Fintech,$1
+1104,Gurugram,MobiKwik,India,Fintech,$1
+1105,San Francisco,Weights & Biases,United States,Artificial intelligence,$1
+1106,London,Zopa,United Kingdom,Fintech,$1
+1107,Paris,Dental Monitoring,France,Health,$1
+1108,Sao Paulo,CargoX,Brazil,"Supply chain, logistics, & delivery",$1
+1109,New York,Fabric,United States,"Supply chain, logistics, & delivery",$1
+1110,New York,Augury,United States,Artificial intelligence,$1
+1111,Beijing,Moka,China,Internet software & services,$1
+1112,Shanghai,Tezign,China,Internet software & services,$1
+1113,Dublin,Vagaro,United States,Internet software & services,$1
+1114,San Diego,Drata,United States,Cybersecurity,$1
+1115,Berlin,Razor,Germany,Consumer & retail,$1
+1116,Seoul,IGAWorks,South Korea,Internet software & services,$1
+1117,Los Altos,Contrast Security,United States,Cybersecurity,$1
+1118,New York,Wrapbook,United States,Fintech,$1
+1119,Shanghai,Gaussian Robotics,China,Hardware,$1.1
+1120,Bengaluru,Mensa Brands,India,Other,$1
+1121,Chicago,Heyday,United States,E-commerce & direct-to-consumer,$1
+1122,Bellingham,PLACE,United States,Internet software & services,$1
+1123,San Francisco,Stytch,United States,Cybersecurity,$1
+1124,New York,Owkin,United States,Artificial Intelligence,$1
+1125,Herndon,Expel,United States,Cybersecurity,$1
+1126,Bengaluru,NoBroker,India,Internet software & services,$1
+1127,Scottsdale,Lessen,United States,Internet software & services,$1
+1128,Mexico City,Clara,Mexico,Fintech,$1
+1129,New York,YipitData,United States,Internet software & services,$1
+1130,Berkeley,Anyscale,United States,Artificial Intelligence,$1
+1131,Austin,Iodine Software,United States,Data management & analytics,$1
+1132,Tampa,ReliaQuest,United States,Cybersecurity,$1
+1133,Alexandria,Pet Circle,Australia,E-commerce & direct-to-consumer,$1
+1134,Chicago,Nature's Fynd,United States,Consumer & retail,$1
+1135,Paris,Lydia,France,Fintech,$1
+1136,Berlin,SellerX,Germany,E-commerce & direct-to-consumer,$1
+1137,San Mateo,SnapLogic,United States,Internet software & services,$1
+1138,New York,Cadence,United States,Health,$1
+1139,Palo Alto,Noname Security,United States,Cybersecurity,$1
+1140,San Francisco,Rothy's,United States,Consumer & retail,$1
+1141,Stockholm,VOI,Sweden,Travel,$1
+1142,Beijing,Haomao.AI,China,Artificial Intelligence,$1
+1143,Jakarta,Kopi Kenangan,Indonesia,Consumer & retail,$1
+1144,Berlin,InFarm,Germany,Other,$1
+1145,,ONE,Singapore,Internet software & services,$1
+1146,Mumbai,Fractal Analytics,India,Data management & analytics,$1
+1147,Ottawa,Assent,Canada,"Supply chain, logistics, & delivery",$1
+1148,Los Altos,Placer.ai,United States,Artificial intelligence,$1
+1149,Petah Tikva,Pentera,Israel,Cybersecurity ,$1
+1150,Hyderabad,Darwinbox,India,Internet software & services,$1
+1151,Palo Alto,Minio,United States,Data management & analytics,$1
+1152,New York,Fever Labs,United States,Internet software & services,$1
+1153,New York,Esusu,United States,Fintech,$1
+1154,Santiago,Betterfly,Chile,Artificial intelligence,$1
+1155,Oslo,Dune Analytics,Norway,Data management & analytics,$1
+1156,Zurich,Scandit,Switzerland,"Supply chain, logistics, & delivery",$1
+1157,London,Payhawk,United Kingdom,Fintech,$1
+1158,San Francisco,Watershed,United States,Internet software & services,$1
+1159,Waterloo,Axelar,Canada,Internet software & services,$1
+1160,New York,CHEQ,United States,Cybersecurity ,$1
+1161,Bengaluru,Hasura,India,Internet software & services,$1
+1162,New York,Timescale,United States,Internet software & services,$1
+1163,Milan,Scalapay,Italy,Fintech,$1
+1164,San Francisco,Omada Health,United States,Health,$1
+1165,New York,BlueVoyant,United States,Cybersecurity,$1
+1166,San Mateo,Veev,United States,Internet software & services,$1
+1167,Boston,Vendr,United States,Fintech,$1
+1168,New York,Gauntlet Networks,United States,Fintech,$1
+1169,Palo Alto,Aptos,United States,Internet software & services,$1
+1170,New York,Glia,United States,Fintech,$1
+1171,Palo Alto,CommerceIQ,United States,Artificial Intelligence,$1
+1172,San Francisco,RapidAPI,United States,Internet software & services,$1
+1173,Milpitas,Tarana Wireless,United States,Mobile & telecommunications,$1
+1174,Austin,FLASH,United States,Fintech,$1
+1175,New York,Electric,United States,Cybersecurity,$1
+1176,New York,LayerZero Labs,United States,Internet software & services,$1
+1177,Waltham,BostonGene,United States,Health,$1
+1178,Berlin,Grover,Germany,E-commerce & direct-to-consumer,$1
+1179,Venice,Genies,United States,Internet software & services,$1
+1180,Wilmington,Oyster,United States,Fintech,$1
+1181,San Francisco,NexHealth,United States,Health,$1
+1182,Stockholm,Instabox,Sweden,"Supply chain, logistics, & delivery",$1
+1183,Berkeley,UPSIDE Foods,United States,Other,$1
+1184,Barcelona,Factorial,Spain,Internet software & services,$1
+1185,Torrance,Divergent 3D,United States,Auto & transportation,$1
+1186,Berlin,Taxfix,Germany,Fintech,$1
+1187,Bengaluru,Open,India,Fintech,$1
+1188,Kista,Polarium,Sweden,Other,$1
+1189,Tokyo,Opn,Japan,Fintech,$1
+1190,Oslo,Remarkable,Norway,Internet software & services,$1
+1191,Bogota,Habi,Colombia,Fintech,$1
+1192,Palo Alto,Glean,United States,Internet software & services,$1
+1193,Nashville,CareBridge,United States,Health,$1
+1194,Boston,Immuta,United States,Data management & analytics,$1
+1195,Morrisville,JupiterOne,United States,Cybersecurity,$1
+1196,Yehud,Vayyar,Israel,Hardware,$1
+1197,Bengaluru,LeadSquared,India,Internet software & services,$1
+1198,Chicago,FourKites,United States,"Supply chain, logistics, & delivery",$1
+1199,Burlington,VulcanForms,United States,"Supply chain, logistics, & delivery",$1
+1200,San Francisco,SingleStore,United States,Data management & analytics,$1
+1201,Las Vegas,Unstoppable Domains,United States,Internet software & services,$1

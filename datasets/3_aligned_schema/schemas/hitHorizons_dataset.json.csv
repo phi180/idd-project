@@ -1,0 +1,668 @@
+,company_location,company_industry,company_name
+0,"VIALE REGINA MARGHERITA 137, ROMA, 00198, ROMA, ITALY","Finance, Insurance, and Real Estate",Enel Spa
+1,"VIA GIAMBOLOGNA 1, PIOLTELLO, 20096, MILANO, ITALY",Retail Trade,Esselunga Spa
+2,"VIA VITTOR PISANI 20, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Superit Srl
+3,"GALLERIA PASSARELLA 2, MILANO, 20122, MILANO, ITALY",Manufacturing,Saras Spa
+4,"PIAZZA GAE AULENTI 3 TOWER A, MILANO, 20154, MILANO, ITALY","Finance, Insurance, and Real Estate",Unicredit Spa
+5,"VIALE UNGHERIA 46, MILANO, 20138, MILANO, ITALY",Services,Send To Me Srl
+6,"CORSO INGHILTERRA 3, TORINO, 10138, TORINO, ITALY","Finance, Insurance, and Real Estate",Intesa Sanpaolo Vita Spa
+7,"VIA STALINGRADO 45, BOLOGNA, 40128, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Unipolsai Assicurazioni Spa
+8,"VIA ROMBON 11, MILANO, 20134, MILANO, ITALY",Wholesale Trade,Totalenergies Petrochemicals & Refining Sa Nv
+9,"PIAZZA MINGHETTI 4/D, BOLOGNA, 40124, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Sanastera Spa
+10,"VIALE CARLO BERTI PICHAT 2/4, BOLOGNA, 40127, BOLOGNA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Hera Spa
+11,"VIALE CASSALA 57, MILANO, 20143, MILANO, ITALY",Wholesale Trade,Esso Italiana Srl
+12,"VIALE EUROPA 190, ROMA, 00144, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Poste Italiane Spa
+13,"CORSO DI PORTA VITTORIA 4, MILANO, 20122, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",A2a Spa
+14,"VIALE DELL'INNOVAZIONE 3, MILANO, 20126, MILANO, ITALY","Finance, Insurance, and Real Estate",Arrow Electronics Emeasa Srl
+15,"FORO BUONAPARTE 31, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Edison Spa
+16,"PIAZZA DELLA CROCE ROSSA 1, ROMA, 00161, ROMA, ITALY","Finance, Insurance, and Real Estate",Ferrovie Dello Stato Italiane Spa
+17,"VIA CHIESE 6, MILANO, 20126, MILANO, ITALY",Wholesale Trade,Prysmian Spa
+18,"PIAZZA MONTE GRAPPA 4, ROMA, 00195, ROMA, ITALY",Manufacturing,Leonardo Spa
+19,"VIA MAROCCHESA 14, MOGLIANO VENETO, 31021, TREVISO, ITALY","Finance, Insurance, and Real Estate",Generali Italia Spa
+20,"VIA SAN GIOVANNI SUL MURO 9, MILANO, 20121, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Enel Energia Spa
+21,"VIA MONTE DI PIETA' 8, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Intesa Sanpaolo Spa
+22,"VIA GAETANO NEGRI 1, MILANO, 20123, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Telecom Italia Spa
+23,"VIALE EUROPA 190, ROMA, 00144, ROMA, ITALY","Finance, Insurance, and Real Estate",Poste Vita Spa
+24,"CORSO GIOVANNI AGNELLI 200, TORINO, 10135, TORINO, ITALY",Manufacturing,Fca Italy S.p.a. In Forma Fiat Chrysler Automobiles E In Forma Abbreviato Fiat Group Autom
+25,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY","Finance, Insurance, and Real Estate",Enel Italia Spa
+26,"VIALE MARESCIALLO PILSUDSKI 122/124, ROMA, 00197, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Gestore Dei Mercati Energetici Spa
+27,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY",Retail Trade,Amazon Eu S.a Rl
+28,"VIALE MARESCIALLO PILSUDSKI 92, ROMA, 00197, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Gestore Dei Servizi Energetici - Gse Spa
+29,"PIAZZALE ENRICO MATTEI 1, ROMA, 00144, ROMA, ITALY",Manufacturing,Eni Spa
+30,"VIA PUGLIA 35, TORINO, 10156, TORINO, ITALY",Manufacturing,Iveco Spa
+31,"VIA AUGUSTO RUFFO 36, ARCOLE, 37040, VERONA, ITALY",Wholesale Trade,Lidl Italia Srl
+32,"CENTRO DIREZIONALE MILANOFIORI SNC, ROZZANO, 20089, MILANO, ITALY",Construction,Webuild Spa
+33,"PIAZZA DI SAN SILVESTRO 8, ROMA, 00187, ROMA, ITALY","Finance, Insurance, and Real Estate",Atlantia Spa
+34,"VIA DEL LAURO 3, MILANO, 20121, MILANO, ITALY",Construction,Salini Costruttori Spa
+35,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY",Services,Amazon Web Services Emea Sarl
+36,"PIAZZA TRE TORRI 3, MILANO, 20145, MILANO, ITALY","Finance, Insurance, and Real Estate",Allianz Spa
+37,"VIA FRANCESCO SFORZA, BASIGLIO, 20079, MILANO, ITALY","Finance, Insurance, and Real Estate",Mediolanum Vita Spa
+38,"VIALE FULVIO TESTI 280, MILANO, 20126, MILANO, ITALY",Services,Engie Italia Spa
+39,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY",Wholesale Trade,Enel Global Trading Spa
+40,"VIA MOLINO ROSSO 8, IMOLA, 40026, BOLOGNA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Hera Trading Srl
+41,"PIAZZA FIDIA 1, MILANO, 20159, MILANO, ITALY","Finance, Insurance, and Real Estate",Alleanza Assicurazioni Spa
+42,"VIA SAN PRIMO 4, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Marco Polo International Italy Srl
+43,"VIA GENOVA 1, TRIESTE, 34121, TRIESTE, ITALY",Manufacturing,Fincantieri Spa
+44,"VIA CAMPALTO 3/D, SAN MARTINO BUON ALBERGO, 37036, VERONA, ITALY","Finance, Insurance, and Real Estate",Eurospin Italia Spa
+45,"VIA CARLO FELICE 35, SASSARI, 07100, SASSARI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",E-distribuzione Spa
+46,"VIA MARTIRI DI CEFALONIA 67, SAN DONATO MILANESE, 20097, MILANO, ITALY",Construction,Saipem Spa
+47,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Enel Produzione Spa
+48,"VIA DON LORENZO PEROSI 6, SCANDICCI, 50018, FIRENZE, ITALY",Manufacturing,Guccio Gucci Spa
+49,"VIALE PIERO E ALBERTO PIRELLI 25, MILANO, 20126, MILANO, ITALY","Finance, Insurance, and Real Estate",Pirelli & C. Spa
+50,"PIAZZA TRE TORRI 3, MILANO, 20145, MILANO, ITALY","Finance, Insurance, and Real Estate",Unicredit Allianz Vita Spa
+51,"VIA GUIDUBALDO DEL MONTE 45, ROMA, 00197, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Acquirente Unico Spa
+52,"VIALE GERARD RICHARD GUMPERT 1, VERONA, 37137, VERONA, ITALY",Retail Trade,Volkswagen Group Italia Spa
+53,"PIAZZA MARCELLO BOLDRINI 1, SAN DONATO MILANESE, 20097, MILANO, ITALY",Manufacturing,Versalis Spa
+54,"VIA DEI SETTE SANTI 3, FIRENZE, 50131, FIRENZE, ITALY",Manufacturing,A. Menarini Industrie Farmaceutiche Riunite Srl
+55,"VIA MANTOVA 166, PARMA, 43122, PARMA, ITALY","Finance, Insurance, and Real Estate",Barilla Holding Srl
+56,"VIA MANTOVA 166, PARMA, 43122, PARMA, ITALY","Finance, Insurance, and Real Estate",Guido M. Barilla E F.lli Sapa
+57,"VIA MODENA 53, CASTELVETRO DI MODENA, 41014, MODENA, ITALY","Finance, Insurance, and Real Estate",Cremonini Spa
+58,"VIA MODENA 53, CASTELVETRO DI MODENA, 41014, MODENA, ITALY","Finance, Insurance, and Real Estate",Cremofin Srl
+59,"VIALE AVVOCATO GIOVANNI AGNELLI 10, ATESSA, 66041, CHIETI, ITALY",Manufacturing,Societa' Europea Veicoli Leggeri Sevel Spa
+60,"VIA ABETONE INFERIORE 2, MARANELLO, 41053, MODENA, ITALY",Manufacturing,Ferrari - Societa'per Azioni Esercizio Fabbriche Automobili E Corse
+61,"STRADA DELL'UNIVERSITA' 1, PARMA, 43121, PARMA, ITALY","Finance, Insurance, and Real Estate",Credit Agricole Vita Spa
+62,"CONTRADA MARCELLINO C.P. 88 SNC, AUGUSTA, 96011, SIRACUSA, ITALY",Manufacturing,Sonatrach Raffineria Italiana Srl
+63,"VIA VILLANOVA 29/7, CASTENASO, 40055, BOLOGNA, ITALY",Retail Trade,Coop Alleanza 3.0 Soc Coop
+64,"VIA DEI LAGHI 31/33, CIVITELLA IN VAL DI CHIANA, 52041, AREZZO, ITALY",Manufacturing,Chimet Spa
+65,"VIALE CERTOSA 249, MILANO, 20151, MILANO, ITALY","Finance, Insurance, and Real Estate",Riva Forni Elettrici Spa
+66,"VIA FELICE MATTEUCCI 2, FIRENZE, 50127, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Nuovo Pignone Holding Spa
+67,"VIA DI PORTA PINCIANA 4, ROMA, 00187, ROMA, ITALY","Finance, Insurance, and Real Estate",Zeor Finanziaria Spa
+68,"VIA ALBERTO BERGAMINI 50, ROMA, 00159, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Autostrade Per L'italia Spa
+69,"PIAZZA DELLA CROCE ROSSA 1, ROMA, 00161, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Trenitalia Spa
+70,"VIA ENNIO QUIRINO VISCONTI 80, ROMA, 00193, ROMA, ITALY","Finance, Insurance, and Real Estate",Fideuram Vita Spa
+71,"VIA BRESCIANI 16, GAZOLDO DEGLI IPPOLITI, 46040, MANTOVA, ITALY",Manufacturing,Marcegaglia Holding Srl
+72,"VIA GUGLIELMO JERVIS 13, IVREA, 10015, TORINO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Vodafone Italia Spa
+73,"FORO BUONAPARTE 31, MILANO, 20121, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Edison Energia Spa
+74,"LOCALITA' SAN ZENO ZONA INDUSTRIALE STRADA A 32, AREZZO, 52100, AREZZO, ITALY",Manufacturing,Italpreziosi Spa
+75,"PIAZZA LUIGI AMEDEO DUCA DEGLI ABRUZZI 2, TRIESTE, 34132, TRIESTE, ITALY","Finance, Insurance, and Real Estate",Assicurazioni Generali Spa
+76,"VIA PLAVA 80, TORINO, 10135, TORINO, ITALY",Retail Trade,Groupe Psa Italia Spa
+77,"VIA PIETRO PALEOCAPA 3, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Finanziaria D'investimento Fininvest Spa
+78,"VIA GOITO 4, ROMA, 00185, ROMA, ITALY","Finance, Insurance, and Real Estate",Cassa Depositi E Prestiti Spa
+79,"STRADA STATALE PER NOVI LIGURE 3/13, TORTONA, 15057, ALESSANDRIA, ITALY","Finance, Insurance, and Real Estate",Aurelia Srl
+80,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",Wholesale Trade,A.i.a. Agricola Italiana Alimentare Spa
+81,"PIAZZA NOGARA 2, VERONA, 37121, VERONA, ITALY","Finance, Insurance, and Real Estate",Banco Bpm Spa
+82,"PIAZZALE OSTIENSE 2, ROMA, 00154, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Acea Spa
+83,"VIA GIOVANNI DA VERRAZZANO 15, NOVARA, 28100, NOVARA, ITALY","Finance, Insurance, and Real Estate",B&d Holding Spa
+84,"VIA GIOVANNI DA VERRAZZANO 15, NOVARA, 28100, NOVARA, ITALY","Finance, Insurance, and Real Estate",De Agostini Spa
+85,"VIA CALDERA 21, MILANO, 20153, MILANO, ITALY",Retail Trade,Gs Spa
+86,"VIA ANGELO SCARSELLINI 14, MILANO, 20161, MILANO, ITALY","Finance, Insurance, and Real Estate",Cnp Vita Assicurazione Spa
+87,"VIA ANGELO SCARSELLINI 14, MILANO, 20161, MILANO, ITALY","Finance, Insurance, and Real Estate",Cnp Vita Assicura Spa
+88,"VIA DEL RAME SNC, PERUGIA, 06134, PERUGIA, ITALY",Wholesale Trade,Pac 2000 A Soc Coop
+89,"VIA ANTONIO FOGAZZARO 28, MILANO, 20135, MILANO, ITALY","Finance, Insurance, and Real Estate",Ludo Spa
+90,"VIA LUNGARNO 1213-61, TERRANUOVA BRACCIOLINI, 52028, AREZZO, ITALY",Retail Trade,Prada Spa
+91,"VIALE CERTOSA 239, MILANO, 20151, MILANO, ITALY",Manufacturing,Acciaierie D'italia Spa
+92,"VIALE CERTOSA 239, MILANO, 20151, MILANO, ITALY",Manufacturing,Acciaierie D'italia Holding Spa
+93,"VIA DURINI 1, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Allianz Global Investors Gmbh
+94,"VIA ANGELO RIZZOLI 4, MILANO, 20132, MILANO, ITALY",Wholesale Trade,Sony Europe B.v.
+95,"VIA ALESSANDRO ALGARDI 4, MILANO, 20148, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Sorgenia Spa
+96,"VIA SAN PROTASO 5, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",F2i Er 1 Spa
+97,"CORSO RE UMBERTO 10, TORINO, 10121, TORINO, ITALY","Finance, Insurance, and Real Estate",Fimedi Spa
+98,"VIA LUIGI BUZZI 6, CASALE MONFERRATO, 15033, ALESSANDRIA, ITALY",Manufacturing,Buzzi Unicem Spa
+99,"VIA MAROCCHESA 14, MOGLIANO VENETO, 31021, TREVISO, ITALY","Finance, Insurance, and Real Estate",Genertellife Spa
+100,"VIA VALADIER 37, ROMA, 00193, ROMA, ITALY",Wholesale Trade,Logista Italia Spa
+101,"VIALE PIERO E ALBERTO PIRELLI 25, MILANO, 20126, MILANO, ITALY",Manufacturing,Pirelli Tyre Spa
+102,"VIA MOLINO ROSSO 8, IMOLA, 40026, BOLOGNA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Hera Comm Spa
+103,"GALLERIA SAN BABILA 4/A, MILANO, 20122, MILANO, ITALY",Retail Trade,Autogrill Spa
+104,"PIAZZA DELLA CROCE ROSSA 1, ROMA, 00161, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Rete Ferroviaria Italiana Spa
+105,"VIA DEL SOLE 34, ANDRIANO, 39010, BOLZANO, ITALY",Construction,Swietelsky Baugesellschaft M.b.h.
+106,"VIALE DELLE NAZIONI 55, MODENA, 41122, MODENA, ITALY",Manufacturing,Cnh Industrial Italia Spa
+107,"VIA DEI SANTI GIACOMO E FILIPPO 7, GENOVA, 16122, GENOVA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Iren Mercato Spa
+108,"VIA ARMANDO DIAZ 248, SAN ZENO NAVIGLIO, 25010, BRESCIA, ITALY","Finance, Insurance, and Real Estate",Duferco Italia Holding Spa
+109,"VIA DEL BOTTEGHINO 24/26, SCANDICCI, 50018, FIRENZE, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Trasporti Internazionali Agenzia Marittima Savino Del Bene Spa
+110,"VIA PIERO MARONCELLI 10, FORLI', 47121, FORLI'-CESENA, ITALY",Retail Trade,Unieuro Spa
+111,"VIA XII OTTOBRE 1, GENOVA, 16121, GENOVA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Axpo Italia Spa
+112,"VIA BIGLI 21, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Sind International Srl
+113,"VIA NAZIONALE 41, BUTTRIO, 33042, UDINE, ITALY",Manufacturing,Danieli & C. Officine Meccaniche Spa
+114,"ZONA A.S.I.CAPANNONE 18, GRICIGNANO DI AVERSA, 81030, CASERTA, ITALY",Retail Trade,Md Spa
+115,"EX S.S. 114 KM 146 SNC, PRIOLO GARGALLO, 96010, SIRACUSA, ITALY",Manufacturing,Isab Srl
+116,"CORSO REGINA MARGHERITA 165, TORINO, 10144, TORINO, ITALY","Finance, Insurance, and Real Estate",Astm Spa
+117,"VIA AMASENO 24, LATINA, 04100, LATINA, ITALY",Services,Alessandro Patane' Srl
+118,"VIA PUGLIA 15, TORINO, 10156, TORINO, ITALY",Manufacturing,Fpt Industrial Spa
+119,"PIAZZALE LUIGI CADORNA 3, MILANO, 20123, MILANO, ITALY",Wholesale Trade,Luxottica Group Spa
+120,"VIA LODOVICO SEITZ 47, TREVISO, 31100, TREVISO, ITALY","Finance, Insurance, and Real Estate",De' Longhi Spa
+121,"VIA ENERGY PARK 14, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",Manufacturing,Bridgestone Europe Nv Sa
+122,"PIAZZA IV NOVEMBRE 5, MILANO, 20124, MILANO, ITALY",Services,Gi Group Spa
+123,"VIA EMILIO CORNALIA 30, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Cnp Unicredit Vita Spa
+124,"VIALE EDOARDO JENNER 4, MILANO, 20159, MILANO, ITALY",Manufacturing,Mapei Spa
+125,"VIA SASSOFERRATO 1, MILANO, 20135, MILANO, ITALY","Finance, Insurance, and Real Estate",Emme Esse Vi Srl
+126,"VIA TORRI BIANCHE 6, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",Services,Nintendo Of Europe Gmbh
+127,"PIAZZA SANTA BARBARA 7, SAN DONATO MILANESE, 20097, MILANO, ITALY","Finance, Insurance, and Real Estate",Snam Spa
+128,"CORSO DI PORTA VITTORIA 4, MILANO, 20122, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",A2a Energia Spa
+129,"VIA MARCHESE CAMPODISOLA 13, NAPOLI, 80133, NAPOLI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Grimaldi Group Spa
+130,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",Services,Veronesi Holding Spa
+131,"VIA FELICE MATTEUCCI 2, FIRENZE, 50127, FIRENZE, ITALY",Manufacturing,Nuovo Pignone International Srl
+132,"VIA ENRICO MATTEI 50, DUEVILLE, 36031, VICENZA, ITALY","Finance, Insurance, and Real Estate",Gruppo Unicomm Spa
+133,"VIA PALERMO 26/A, PARMA, 43122, PARMA, ITALY",Manufacturing,Chiesi Farmaceutici Spa
+134,"STRADELLO MARCHE 6, PARMA, 43121, PARMA, ITALY","Finance, Insurance, and Real Estate",Valline Srl
+135,"VIALE GIORGIO RIBOTTA 51, ROMA, 00144, ROMA, ITALY",Retail Trade,Eni Fuel Spa
+136,"VIA FRATELLI DI DIO 2, NOVATE MILANESE, 20026, MILANO, ITALY","Finance, Insurance, and Real Estate",Comifar Spa
+137,"STRADA PROVINCIALE ARCEVIESE 139/A, FABRIANO, 60044, ANCONA, ITALY",Manufacturing,Whirlpool Emea Spa
+138,"VIA DELL'UNIONE EUROPEA 1, SAN DONATO MILANESE, 20097, MILANO, ITALY",Retail Trade,Bmw Italia Spa
+139,"VIA BURE VECCHIA NORD 10, PISTOIA, 51100, PISTOIA, ITALY",Wholesale Trade,Conad Nord Ovest Societa' Cooperativa A R.l.
+140,"VIA SANTA REPARATA 43, FIRENZE, 50129, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Unicoop Firenze Soc Coop
+141,"VIA CAMPALTO 3/D, SAN MARTINO BUON ALBERGO, 37036, VERONA, ITALY",Wholesale Trade,Spesa Intelligente Spa
+142,"PIAZZA SALIMBENI 3, SIENA, 53100, SIENA, ITALY","Finance, Insurance, and Real Estate",Banca Monte Dei Paschi Di Siena Spa
+143,"VIALE GIUSEPPE MAZZINI 14, ROMA, 00195, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Rai Radiotelevisione Italiana Spa
+144,"VIA PORTICI UMBERTO I 5/3, MALCESINE, 37018, VERONA, ITALY","Finance, Insurance, and Real Estate",De La Costa Srl
+145,"VIA MONTE BALDO 20, VILLAFRANCA DI VERONA, 37062, VERONA, ITALY","Finance, Insurance, and Real Estate",Calzedonia Holding Spa
+146,"PIAZZETTA GIORDANO DELL'AMORE 3, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Eurizon Capital Sgr Spa
+147,"VIA AMILCARE PONCHIELLI 7, MILANO, 20129, MILANO, ITALY","Finance, Insurance, and Real Estate",Finiper Canova Group Spa
+148,"VIA SAN CARLO 8/20, MODENA, 41121, MODENA, ITALY","Finance, Insurance, and Real Estate",Bper Banca Spa
+149,"VIA DELLE INDUSTRIE 8, SPINEA, 30038, VENEZIA, ITALY","Finance, Insurance, and Real Estate",Gecos - Generale Di Commercio E Servizi Spa
+150,"VIA DELLE INDUSTRIE 8, SPINEA, 30038, VENEZIA, ITALY",Wholesale Trade,Gruppo Pam Spa
+151,"CIRCONVALLAZIONE IDROSCALO SNC, SEGRATE, 20054, MILANO, ITALY",Services,Ibm Italia Spa
+152,"VIALE EUROPA 2, STEZZANO, 24040, BERGAMO, ITALY",Manufacturing,Brembo Spa
+153,"VIA MONTE ORTIGARA 5, BERGAMO, 24121, BERGAMO, ITALY","Finance, Insurance, and Real Estate",Nuova Fourb Srl
+154,"VIA MONTE PENICE 7, MILANO, 20138, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Sky Italia Srl
+155,"VIA MANTOVA 166, PARMA, 43122, PARMA, ITALY",Manufacturing,Barilla G. E R. Fratelli Spa
+156,"VIA ALBERTO NASSETTI PAL.ALFA SNC, FIUMICINO, 00054, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Alitalia Societa' Aerea Italiana Spa
+157,"VIA GIOVANNI BATTISTA PIRELLI 19, MILANO, 20124, MILANO, ITALY",Services,Bolton Group Srl
+158,"VIA GIOVANNI BATTISTA PIRELLI 19, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Factor Holding Srl
+159,"VIA MONZAMBANO 10, ROMA, 00185, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Anas Spa
+160,"VIA GAETANO DE CASTILLIA 6/A, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Maire Tecnimont Spa
+161,"VIA MIKE BONGIORNO 9, MILANO, 20124, MILANO, ITALY",Wholesale Trade,Samsung Electronics Italia Spa
+162,"VIA TIBURTINA 1159, ROMA, 00156, ROMA, ITALY",Retail Trade,Renault Italia Spa
+163,"CORSO COMO 17, MILANO, 20154, MILANO, ITALY","Finance, Insurance, and Real Estate",Axa Assicurazioni Spa
+164,"VIA FURLANELLI 69, VERANO BRIANZA, 20843, MONZA E BRIANZA, ITALY",Retail Trade,Mediamarket Spa
+165,"PIAZZA LODI 7, CREMONA, 26100, CREMONA, ITALY","Finance, Insurance, and Real Estate",Finarvedi Spa
+166,"VIA SPILAMBERTO 30/C, CASTELVETRO DI MODENA, 41014, MODENA, ITALY",Manufacturing,Inalca Spa
+167,"VIALE ALTIERO SPINELLI 30, ROMA, 00157, ROMA, ITALY","Finance, Insurance, and Real Estate",Banca Nazionale Del Lavoro Spa
+168,"VIA FRANCESCO CARACCIOLO 51, MILANO, 20155, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Fastweb Spa
+169,"VIALE DEL LAVORO 20, BELFIORE, 37050, VERONA, ITALY","Finance, Insurance, and Real Estate",Finbre Spa
+170,"VIALE DEL LAVORO 20, BELFIORE, 37050, VERONA, ITALY",Retail Trade,Maxi Di Srl
+171,"PIAZZA ADRIANO OLIVETTI 1, MILANO, 20139, MILANO, ITALY","Finance, Insurance, and Real Estate",Swisscom Italia Srl
+172,"VIA BENIGNO CRESPI 23, MILANO, 20159, MILANO, ITALY","Finance, Insurance, and Real Estate",Zurich Investments Life Spa
+173,"VIA DEL FANTE 21, VERONA, 37122, VERONA, ITALY","Finance, Insurance, and Real Estate",Arca Vita Spa
+174,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",Manufacturing,Agricola Tre Valli Societa' Cooperativa
+175,"VIA MICHELINO 59, BOLOGNA, 40127, BOLOGNA, ITALY",Wholesale Trade,Conad Consorzio Nazionale Dettaglianti Soc Coop
+176,"VIA DELLA PIOVOLA 138, EMPOLI, 50053, FIRENZE, ITALY",Services,Sesa Spa
+177,"VIALE EGIDIO GALBANI 70, ROMA, 00156, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Terna Rete Elettrica Nazionale Spa
+178,"VIA ENRICO STENDHAL 47, MILANO, 20144, MILANO, ITALY","Finance, Insurance, and Real Estate",Moncler Spa
+179,"CORSO GIULIO CESARE 424/95/C, TORINO, 10156, TORINO, ITALY",Manufacturing,Michelin Italiana S.a.m.i. Spa
+180,"VIA ENRICO MATTEI 42, BOLOGNA, 40138, BOLOGNA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Brt Spa
+181,"VIA LODOVICO SEITZ 47, TREVISO, 31100, TREVISO, ITALY",Manufacturing,De' Longhi Appliances Srl
+182,"VIA DEL SERAFICO 89, ROMA, 00142, ROMA, ITALY",Retail Trade,Ford Italia Spa
+183,"CONTRADA DELLA MISERICORDIA 14, VICENZA, 36100, VICENZA, ITALY","Finance, Insurance, and Real Estate",So.fi.d.a. Spa
+184,"VIA LEOPOLDO SERRA 32, ROMA, 00153, ROMA, ITALY",Services,Arianna 2001 Spa
+185,"VIA MATTEO CIVITALI 1, MILANO, 20148, MILANO, ITALY",Manufacturing,Recordati Industria Chimica E Farmaceutica Spa
+186,"STRADA 8 PALAZZO N MILANOFIORI, ROZZANO, 20089, MILANO, ITALY",Retail Trade,Leroy Merlin Italia Srl
+187,"VIA IGNAZIO GARDELLA 2, MILANO, 20149, MILANO, ITALY","Finance, Insurance, and Real Estate",Vittoria Assicurazioni Spa
+188,"VIA ANSPERTO 7, MILANO, 20123, MILANO, ITALY","Finance, Insurance, and Real Estate",Vanini Holding Srl
+189,"VIA ENRICO FERMI 13/F, VERONA, 37135, VERONA, ITALY",Manufacturing,Fedrigoni Spa
+190,"VIALE BIANCA MARIA 24, MILANO, 20129, MILANO, ITALY","Finance, Insurance, and Real Estate",Gruppo Ipg Holding Spa
+191,"VIA BORGONUOVO 14, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Bg Holding Srl
+192,"VIA PIAVE 1, ALTAVILLA VICENTINA, 36077, VICENZA, ITALY",Manufacturing,Burgo Group Spa
+193,"VIA FLAVIO GIOIA 8, MILANO, 20149, MILANO, ITALY","Finance, Insurance, and Real Estate",Gruppo Lactalis Italia Srl
+194,"STRADA PROVINCIALE 130 ANDRIA-TRANI, TRANI, 76125, BARLETTA ANDRIA TRANI, ITALY","Finance, Insurance, and Real Estate",Megaholding Srl
+195,"ZONA INDUSTRIALE DI BARAGIANO SNC, BALVANO, 85050, POTENZA, ITALY",Services,Betflag Spa
+196,"VIA DEL PINO 1, EMPOLI, 50053, FIRENZE, ITALY",Wholesale Trade,Computer Gross Spa
+197,"VIALE EUROPA 46, COLOGNO MONZESE, 20093, MILANO, ITALY",Services,Publitalia 80 Concessionaria Pubblicita' Spa
+198,"VIA GUGLIELMO MARCONI 36, BOLOGNA, 40122, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Papiniano Spa
+199,"STRADA CIPATA 79, MANTOVA, 46100, MANTOVA, ITALY",Manufacturing,Ies Italiana Energia E Servizi Spa
+200,"VIA DEI MERCANTI 3, FORLI', 47122, FORLI'-CESENA, ITALY",Wholesale Trade,Commercianti Indipendenti Associati Soc Coop
+201,"VIA ANTONIO SANT'ELIA, CORATO, 70033, BARI, ITALY","Finance, Insurance, and Real Estate",Casillo Partecipazioni Spa
+202,"VIA DELL'INDUSTRIA 2, BREGANZE, 36042, VICENZA, ITALY","Finance, Insurance, and Real Estate",Otb Spa
+203,"VIA NICOLA LORENZI 8, GENOVA, 16152, GENOVA, ITALY",Manufacturing,Ansaldo Energia Spa
+204,"VIA VERIZZO 1030, PIEVE DI SOLIGO, 31053, TREVISO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Romeo Gas Spa
+205,"VIA GIORGIO PERLASCA 20/C, FIDENZA, 43036, PARMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Sg Distribuzione Srl
+206,"VIA GIUSEPPE VERDI 11, BERGAMO, 24121, BERGAMO, ITALY","Finance, Insurance, and Real Estate",Radicifin Sapa
+207,"VIA BRIGATA LIGURIA 3/19, GENOVA, 16121, GENOVA, ITALY",Wholesale Trade,Alpha Trading Spa
+208,"STRADA DELL'UNIVERSITA' 1, PARMA, 43121, PARMA, ITALY","Finance, Insurance, and Real Estate",Credit Agricole Italia Spa
+209,"VIA GIOACCHINO ROSSINI 6/8, MILANO, 20122, MILANO, ITALY",Services,Manpower Srl
+210,"PIAZZA DELLA REPUBBLICA 28, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Bennet Holding Spa
+211,"PIAZZA DELLA REPUBBLICA 28, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Finmeg Srl
+212,"VIA ENZO RATTI 2, MONTANO LUCINO, 22070, COMO, ITALY",Retail Trade,Bennet Spa
+213,"VIA LEOPOLDO SERRA 32, ROMA, 00153, ROMA, ITALY",Services,Servizi In Rete 2001 Srl
+214,"PONTE FRANCESCO MOROSINI 41, GENOVA, 16126, GENOVA, ITALY","Finance, Insurance, and Real Estate",Cosulich International Srl
+215,"VIA DANTE ALIGHIERI 5, TRIESTE, 34122, TRIESTE, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Fratelli Cosulich Spa
+216,"VIA FERSINA 23, TRENTO, 38123, TRENTO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Dolomiti Energia Trading Spa
+217,"PIAZZALE PIETRO FERRERO 1, ALBA, 12051, CUNEO, ITALY",Wholesale Trade,Ferrero Commerciale Italia Srl
+218,"ZONA INDUSTRIALE SNC, LUOGOSANO, 83040, AVELLINO, ITALY",Wholesale Trade,Arcelormittal Commercial Italy Srl
+219,"VIA DELLE SETTE REGOLE 21, SCANDICCI, 50018, FIRENZE, ITALY",Services,Arval Service Lease Italia Spa
+220,"VIALE EUROPA 44/46 48, COLOGNO MONZESE, 20093, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Reti Televisive Italiane Spa
+221,"VIA BARBERINI 28, ROMA, 00187, ROMA, ITALY","Finance, Insurance, and Real Estate",Caltagirone Spa
+222,"CORSO SEMPIONE 55, MILANO, 20149, MILANO, ITALY","Finance, Insurance, and Real Estate",Nexi Payments Spa
+223,"VIA ADELE BEI 340, CESENA, 47522, FORLI'-CESENA, ITALY",Retail Trade,Unicomm Srl
+224,"PIAZZA GUGLIELMO MARCONI 25, ROMA, 00144, ROMA, ITALY","Finance, Insurance, and Real Estate",Hdi Assicurazioni Spa
+225,"VIA MARCO ULPIO TRAIANO 57, MILANO, 20149, MILANO, ITALY",Retail Trade,Iper Montebello Spa
+226,"VIA VIVARO 2, ALBA, 12051, CUNEO, ITALY","Finance, Insurance, and Real Estate",Egea Ente Gestione Energia E Ambiente Spa
+227,"VIALE FRANCESCO CASSANI 14, TREVIGLIO, 24047, BERGAMO, ITALY","Finance, Insurance, and Real Estate",Sdf Spa
+228,"VIA CARDINALE GUGLIELMO MASSAIA 83, TORINO, 10147, TORINO, ITALY",Services,Reply Spa
+229,"VIA XX SETTEMBRE 58/C, BERGAMO, 24122, BERGAMO, ITALY","Finance, Insurance, and Real Estate",Sdf Holding Spa
+230,"ZONA INDUSTRIALE, OSOPPO, 33010, UDINE, ITALY","Finance, Insurance, and Real Estate",Compagnia Siderurgica Italiana Srl
+231,"ZONA INDUSTRIALE SNC, OSOPPO, 33010, UDINE, ITALY","Finance, Insurance, and Real Estate",Fin.fer. Spa
+232,"VIA LUIGI SANI 1, REGGIO EMILIA, 42121, REGGIO EMILIA, ITALY","Finance, Insurance, and Real Estate",Credemvita Spa
+233,"VIA I MAGGIO 99, RIVALTA DI TORINO, 10040, TORINO, ITALY","Finance, Insurance, and Real Estate",Ge Italia Holding Srl
+234,"VIA DODICIVILLE 8, BOLZANO, 39100, BOLZANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Alperia Smart Services Srl
+235,"VIA TERRAGLIO 17, VENEZIA, 30174, VENEZIA, ITALY",Retail Trade,Ovs Spa
+236,"VIA EDEN FUMAGALLI, BRUGHERIO, 20861, MONZA E BRIANZA, ITALY",Manufacturing,Candy Hoover Group Srl
+237,"VIA DEL RIO 400, CESENA, 47522, FORLI'-CESENA, ITALY","Finance, Insurance, and Real Estate",Francesco Spa
+238,"PIAZZA BORROMEO 14, MILANO, 20123, MILANO, ITALY","Finance, Insurance, and Real Estate",Amadori Spa
+239,"VIA ACHILLE GRANDI 18, BRESCIA, 25125, BRESCIA, ITALY",Wholesale Trade,Cooperativa Esercenti Farmacia Soc. Coop. A Rl
+240,"VIA AGOSTINO BERTANI 2, MILANO, 20154, MILANO, ITALY","Finance, Insurance, and Real Estate",Centauro Srl
+241,"VIA PADANA SUPERIORE 19, VIMODRONE, 20055, MILANO, ITALY","Finance, Insurance, and Real Estate",Tesya Spa
+242,"VIA MAROSTICA 1, MILANO, 20146, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Alpiq Energia Italia Spa
+243,"VIA MAROSTICA 1, MILANO, 20146, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Alpiq Italia Srl
+244,"VIA MADRE ANNA MARIA ADORNI 1, PARMA, 43121, PARMA, ITALY",Construction,Impresa Pizzarotti & C. Spa
+245,"VIA STAZIONE 4, COSIO VALTELLINO, 23013, SONDRIO, ITALY",Retail Trade,Autotorino Spa
+246,"VIA GIACOMO VENTURI 1-2, VALSAMOGGIA, 40053, BOLOGNA, ITALY",Manufacturing,Philip Morris Manufacturing & Technology Bologna Spa
+247,"VIALE LUIGI BODIO 37/B, MILANO, 20158, MILANO, ITALY",Manufacturing,Sanofi Srl
+248,"CORSO ORBASSANO 367, TORINO, 10137, TORINO, ITALY",Services,Leasys Spa
+249,"VIA PAOLO DI DONO 3/A, ROMA, 00142, ROMA, ITALY",Wholesale Trade,Unilever Italia Mkt. Operations Srl
+250,"VIA LAVORATORI AUTOBIANCHI 1, DESIO, 20832, MONZA E BRIANZA, ITALY",Retail Trade,Decathlon Italia Srl
+251,"PIAZZA GIUSEPPE GARIBALDI 4, SARZANA, 19038, LA SPEZIA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Hb Trading Spa
+252,"VIA FRANCESCO BARACCA 2/4 6, APRILIA, 04011, LATINA, ITALY",Retail Trade,Eurospin Lazio Spa
+253,"STRADA PROVINCIALE 130 ANDRIA-TRANI, TRANI, 76125, BARLETTA ANDRIA TRANI, ITALY",Wholesale Trade,Megamark Srl
+254,"RIVIERA FRANCIA 9/11, PADOVA, 35127, PADOVA, ITALY",Manufacturing,Acciaierie Venete Spa
+255,"RIVIERA FRANCIA 9/11, PADOVA, 35127, PADOVA, ITALY","Finance, Insurance, and Real Estate",Parsid Spa
+256,"LUNGOSTURA LAZIO 3A, TORINO, 10100, TORINO, ITALY","Finance, Insurance, and Real Estate",Cnh Industrial N.v.
+257,"VIA DEL MULINO 6, ASSAGO, 20057, MILANO, ITALY",Manufacturing,Nestle' Italiana Spa
+258,"VIA CADRIANO 27/2, BOLOGNA, 40127, BOLOGNA, ITALY",Manufacturing,Granarolo Spa
+259,"PIAZZALE GIULIO DOUHET 31, ROMA, 00143, ROMA, ITALY","Finance, Insurance, and Real Estate",Fideuram Intesa Sanpaolo Private Banking Spa
+260,"CORSO SUSA 13/15, CASELETTE, 10040, TORINO, ITALY",Manufacturing,C.l.n. Coils Lamiere Nastri Spa
+261,"VIA SALARIA 1039, ROMA, 00138, ROMA, ITALY","Finance, Insurance, and Real Estate",Ferfina Spa
+262,"VIA SALARIA 1039, ROMA, 00138, ROMA, ITALY","Finance, Insurance, and Real Estate",Finanziaria Dei Dogi Srl
+263,"PIAZZALE DELL'AGRICOLTURA 24, ROMA, 00144, ROMA, ITALY",Services,Engineering - Ingegneria Informatica Spa
+264,"VIA CADRIANO 36, BOLOGNA, 40127, BOLOGNA, ITALY","Agriculture, Forestry, and Fishing",Granlatte Soc Coop Agricola A Rl
+265,"VIA DELL'UNIONE 1, MILANO, 20122, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",E.on Energia Spa
+266,"VIA XXV APRILE 23, SAN DONATO MILANESE, 20097, MILANO, ITALY",Wholesale Trade,Metro Italia Cash And Carry Spa
+267,"VIA MARCHESE CAMPODISOLA 13, NAPOLI, 80133, NAPOLI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Grimaldi Euromed Spa
+268,"VIALE GIORGIO RIBOTTA 11, ROMA, 00144, ROMA, ITALY",Services,Procter & Gamble Holding Srl
+269,"VIA TOMACELLI 146, ROMA, 00186, ROMA, ITALY","Finance, Insurance, and Real Estate",Cassa Di Compensazione E Garanzia Spa
+270,"VIALE LEONE TOLSTOJ 65, SAN GIULIANO MILANESE, 20098, MILANO, ITALY",Manufacturing,Tech Data Italia Srl
+271,"VIALE GIOSUE' CARDUCCI 48, BOLOGNA, 40125, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Waterfall Italia Spa
+272,"VIALE GIOSUE' CARDUCCI 48, BOLOGNA, 40125, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",I.d. 4 Italia Srl
+273,"VIA DODICIVILLE 8, BOLZANO, 39100, BOLZANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Alperia Trading Srl
+274,"VIA CIOVASSINO 1/A, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Sogefi Spa
+275,"VIA JOHN FITZGERALD KENNEDY 5, CAMPEGINE, 42040, REGGIO EMILIA, ITALY",Wholesale Trade,Conad Centro Nord Soc Coop
+276,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY","Agriculture, Forestry, and Fishing",Societa' Agricola La Pellegrina Spa
+277,"VIA GIUSEPPE VERDI 8, BEDIZZOLE, 25081, BRESCIA, ITALY","Finance, Insurance, and Real Estate",Siderurgica Investimenti Srl
+278,"VIA SOLFERINO 1, LODI, 26900, LODI, ITALY","Finance, Insurance, and Real Estate",Zucchetti Group Spa
+279,"CORSO GIOVANNI LANZA 101, TORINO, 10133, TORINO, ITALY","Finance, Insurance, and Real Estate",Finde Spa
+280,"VIALE THOMAS ALVA EDISON 110, SESTO SAN GIOVANNI, 20099, MILANO, ITALY","Finance, Insurance, and Real Estate",Shell Italia Holding Spa
+281,"VIA BAIONE 200, MONOPOLI, 70043, BARI, ITALY","Finance, Insurance, and Real Estate",Marseglia Group Spa
+282,"VIA GUGLIELMO MARCONI 24, ROZZANO, 20089, MILANO, ITALY",Retail Trade,Bricoman Italia Srl
+283,"VIALE BIANCA MARIA 25, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Centurion Newco Spa
+284,"CORSO NINO BIXIO 8, ALBA, 12051, CUNEO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Egea Commerciale
+285,"PIAZZALE GUIDO DONEGANI 12, FERRARA, 44122, FERRARA, ITALY",Manufacturing,Basell Poliolefine Italia Srl
+286,"FRAZIONE VALCOZZENA 10, AGORDO, 32021, BELLUNO, ITALY",Manufacturing,Luxottica Srl
+287,"VIA MARE ADRIATICO 122, SPOLTORE, 65010, PESCARA, ITALY",Manufacturing,Fater Spa
+288,"VIA MONTE NAPOLEONE 8, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",U.t. Communications Spa
+289,"VIA OLANDA 2, PADOVA, 35127, PADOVA, ITALY",Retail Trade,Ali' Spa
+290,"VIA LEONIDA BISSOLATI 20, ROMA, 00187, ROMA, ITALY",Wholesale Trade,Lukoil Italia Srl
+291,"STRADA DEL PORTONE 95, GRUGLIASCO, 10095, TORINO, ITALY","Finance, Insurance, and Real Estate",Bitron Industrie Spa
+292,"VIA OLANDA 2, PADOVA, 35127, PADOVA, ITALY","Finance, Insurance, and Real Estate",Ali' Group Srl
+293,"VIA MECENATE 86, MILANO, 20138, MILANO, ITALY",Manufacturing,Epta Spa
+294,"VIA MECENATE 86, MILANO, 20138, MILANO, ITALY","Finance, Insurance, and Real Estate",Epta Hdp Spa
+295,"VIALE EUROPA 190, ROMA, 00144, ROMA, ITALY","Finance, Insurance, and Real Estate",Postepay Spa
+296,"VIA RUGGERO BOSCOVICH 27, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Pini Holding Srl
+297,"STRADA STATALE PER ALESSANDRIA 6/A, TORTONA, 15057, ALESSANDRIA, ITALY",Construction,Itinera Spa
+298,"VIALE DELLA SCIENZA 25, VICENZA, 36100, VICENZA, ITALY",Manufacturing,Acciaierie Valbruna Spa
+299,"STRADA PROVINCIALE 11 PADANA SUPERIORE 2/B, CERNUSCO SUL NAVIGLIO, 20063, MILANO, ITALY",Retail Trade,Penny Market Srl
+300,"VIALE DEI LANIFICI 1, VALDAGNO, 36078, VICENZA, ITALY",Services,Valentino Spa
+301,"VIA CUMIANA 14, RIVOLI, 10098, TORINO, ITALY",Manufacturing,Dana Graziano Srl
+302,"VIA CARLO POMA 11, POMEZIA, 00071, ROMA, ITALY",Retail Trade,Iris Mobili Srl
+303,"VIA PORTAMURATA 8/A, GUASTALLA, 42016, REGGIO EMILIA, ITALY",Manufacturing,Padana Tubi E Profilati Acciaio Spa
+304,"VIA MOZZONI LOCALITA' S.DOMENICO, OTTAVIANO, 80044, NAPOLI, ITALY",Manufacturing,Adler Plastic Spa
+305,"PIAZZA JOHN FITZGERALD KENNEDY 3, RAVENNA, 48121, RAVENNA, ITALY",Wholesale Trade,Cofco International Italy Srl
+306,"VIA CRESCENTINO, SALUGGIA, 13040, VERCELLI, ITALY","Finance, Insurance, and Real Estate",Diasorin Spa
+307,"LOCALITA' CASTELLUCCIO 11, CAPOLONA, 52010, AREZZO, ITALY",Manufacturing,T.c.a. Trattamenti Ceneri Auroargentifere Spa
+308,"VIALE CESARE PAVESE 385, ROMA, 00144, ROMA, ITALY","Finance, Insurance, and Real Estate",Groupama Assicurazioni Spa
+309,"CORSO LINO ZANUSSI 24, PORCIA, 33080, PORDENONE, ITALY",Manufacturing,Electrolux Italia Spa
+310,"VIA UBALDO POLI 4, ZOLA PREDOSA, 40069, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Msc Societa' Di Partecipazione Tra Lavoratori Spa
+311,"VIA CUNEO 34, CHERASCO, 12062, CUNEO, ITALY",Wholesale Trade,Dimar Spa
+312,"CORSO GIULIO CESARE 268, TORINO, 10154, TORINO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Tnt Global Express Srl
+313,"VIA GARBAGNATE 63, LAINATE, 20045, MILANO, ITALY",Wholesale Trade,Unico La Farmacia Dei Farmacisti Spa
+314,"VIA AURELIA 915, ROMA, 00165, ROMA, ITALY",Wholesale Trade,Engycalor Energia Calore Srl
+315,"VIA MICHELINO 105, BOLOGNA, 40127, BOLOGNA, ITALY",Wholesale Trade,Comet Spa
+316,"VIA MICHELINO 105, BOLOGNA, 40127, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Comet Holding Spa
+317,"CORSO VERCELLI 120/C, NOVARA, 28100, NOVARA, ITALY","Finance, Insurance, and Real Estate",Unione Farmaceutica Novarese
+318,"VIA DEI TORNABUONI 2, FIRENZE, 50123, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Ferragamo Finanziaria Spa
+319,"VIA I MAGGIO 99, RIVALTA DI TORINO, 10040, TORINO, ITALY",Manufacturing,Ge Avio Srl
+320,"CORSO EUROPA 2, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Alrescha Investimenti Srl
+321,"VIALE FRANCESCO CASSANI 15, TREVIGLIO, 24047, BERGAMO, ITALY",Manufacturing,Same Deutz Fahr Italia Spa
+322,"VIA GIOVANNI BATTISTA PERGOLESI 25, MILANO, 20124, MILANO, ITALY",Wholesale Trade,Agora' Network Soc Cons.rl
+323,"VIA DE MARINI 1, GENOVA, 16149, GENOVA, ITALY","Finance, Insurance, and Real Estate",Erg Spa
+324,"VIA DE MARINI 1, GENOVA, 16149, GENOVA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Erg Power Generation Spa
+325,"VIA MARTIN PIAGGIO 17/4, GENOVA, 16122, GENOVA, ITALY","Finance, Insurance, and Real Estate",San Quirico Spa
+326,"VIALE DELLE INDUSTRIE SNC, VIMODRONE, 20055, MILANO, ITALY",Retail Trade,Unes Maxi Spa
+327,"VIA BOLLADORE 64, SONDALO, 23035, SONDRIO, ITALY",Retail Trade,Iperal Supermercati Spa
+328,"VIA DEI CAMPI DELLA RIENZA 30, BRUNICO, 39031, BOLZANO, ITALY",Wholesale Trade,Rosenbauer International Ag
+329,"GALLERIA CAMILLO BENSO CONTE DI CAVOUR 4, BOLOGNA, 40124, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Turytes Spa
+330,"PIAZZA IV NOVEMBRE 7, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Alliancebernstein (luxembourg) S.a' Rl
+331,"FRAZIONE MASIO 24, POIRINO, 10046, TORINO, ITALY",Manufacturing,Denso Thermal Systems Spa
+332,"VIA NELSON MANDELA 4, VERCELLI, 13100, VERCELLI, ITALY",Retail Trade,Nova Coop Soc Coop
+333,"VIA GIULIO VINCENZO BONA 101, ROMA, 00156, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Green Network Spa
+334,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Amazon Italia Transport Srl
+335,"VIA JACOPO DA DIACCETO 48, FIRENZE, 50123, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Findomestic Banca Spa
+336,"VIA DELLE PRIMULE 5, COGLIATE, 20815, MONZA E BRIANZA, ITALY",Retail Trade,Prenatal Retail Group Spa Ovvero In Abbreviato Pnt Retail Gr Oup Spa O Prg Spa
+337,"VIA MICHELE COPPINO 104, VIAREGGIO, 55049, LUCCA, ITALY",Manufacturing,Azimut - Benetti Spa
+338,"LUNGADIGE GALTAROSSA 8, VERONA, 37133, VERONA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Agsm Aim Energia Spa
+339,"VIA VEZZA D'OGLIO 7, MILANO, 20139, MILANO, ITALY","Finance, Insurance, and Real Estate",Fif Holding Spa
+340,"VIA ROCHDALE 5, REGGIO EMILIA, 42122, REGGIO EMILIA, ITALY",Services,Coopservice Societa' Cooperativa Per Azioni
+341,"VIA MARTIRI DI CEFALONIA 67, SAN DONATO MILANESE, 20097, MILANO, ITALY",Services,Servizi Energia Italia Spa
+342,"GALLERIA GUGLIELMO MARCONI 1, BOLOGNA, 40122, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Bonfi Srl
+343,"VIA CLEMENTINO BONFIGLIOLI 1, CALDERARA DI RENO, 40012, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Bonfiglioli Spa
+344,"VIA GIUSEPPE VERDI 6, SAN PIETRO MOSEZZO, 28060, NOVARA, ITALY",Services,Elecnor Sa
+345,"VIA GIAN CARLO CLERICI 342, BRESSO, 20091, MILANO, ITALY",Retail Trade,Rialto Spa
+346,"VIA VENEZIA 1, TREBASELEGHE, 35010, PADOVA, ITALY",Retail Trade,Industries Spa
+347,"VIA PANTANO 28, MILANO, 20122, MILANO, ITALY",Retail Trade,Riva Azzurra Spa
+348,"VIA ANTONIO SANT'ELIA ZONA INDUSTRIALE SNC, CORATO, 70033, BARI, ITALY",Wholesale Trade,Casillo Commodities Italia Spa
+349,"VIA TARANTO 40, NOLA, 80035, NAPOLI, ITALY","Finance, Insurance, and Real Estate",Ludoil Energy Spa
+350,"VIA PALESELLA 1, CEREA, 37053, VERONA, ITALY",Retail Trade,Supermercati Tosano Cerea Srl
+351,"VIA PINEROLO 44, AIRASCA, 10060, TORINO, ITALY",Manufacturing,Skf Industrie Spa
+352,"VIA CARLO DONAT CATTIN 5, CERNUSCO SUL NAVIGLIO, 20063, MILANO, ITALY",Wholesale Trade,Hp Italy Srl
+353,"GALLERIA SPAGNA 9, PADOVA, 35127, PADOVA, ITALY",Retail Trade,Gottardo Spa
+354,"GALLERIA SPAGNA 9, PADOVA, 35127, PADOVA, ITALY","Finance, Insurance, and Real Estate",Maior Srl
+355,"VIA RODOLFO MORANDI 30, SAN DONATO MILANESE, 20097, MILANO, ITALY",Services,Policlinico San Donato Spa
+356,"VIA ALFRED BERNHARD NOBEL 4/A, PARMA, 43122, PARMA, ITALY","Finance, Insurance, and Real Estate",Vender Spa
+357,"VIA TARANTO 40, NOLA, 80035, NAPOLI, ITALY",Wholesale Trade,Ludoil Energia Srl
+358,"VIA ISTITUTO SANTA MARIA DELLA PIETA' 6, VENEZIA, 30173, VENEZIA, ITALY",Retail Trade,In's Mercato Spa
+359,"VIA ADRIANO OLIVETTI SNC, TERMOLI, 86039, CAMPOBASSO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Sorgenia Power Spa
+360,"VIALE LUCA GAURICO 187, ROMA, 00143, ROMA, ITALY",Services,Ald Automotive Italia Srl
+361,"VIA MOGGIA 75/A, LAVAGNA, 16033, GENOVA, ITALY","Finance, Insurance, and Real Estate",Alliance Healthcare Italia Spa
+362,"VIA UGO PANZIERA 16, PRATO, 59100, PRATO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Estra Energie Srl
+363,"VIA GAETANO NEGRI 1, MILANO, 20123, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Fibercop Spa
+364,"VIA CARLO GOLDONI 10, MILANO, 20129, MILANO, ITALY",Services,D & G Srl
+365,"VIA CARLO GOLDONI 10, MILANO, 20129, MILANO, ITALY","Finance, Insurance, and Real Estate",Dolce & Gabbana Holding Srl
+366,"VIA MILANO 10, SAN DONATO MILANESE, 20097, MILANO, ITALY",Services,Ccs Jv Scarl
+367,"VIA FIORENZO SEMINI 12, GENOVA, 16163, GENOVA, ITALY",Wholesale Trade,Vandemoortele Europe N.v.
+368,"VIA ANTONIO PACINOTTI 25, SAN GIOVANNI LUPATOTO, 37057, VERONA, ITALY",Manufacturing,Pastificio Rana Spa
+369,"VIA DELLE AZALEE 19, BUCCINASCO, 20090, MILANO, ITALY",Manufacturing,C.o.i.m. Spa - Chimica Organica Industriale Milanese
+370,"VIA GIULIO VINCENZO BONA 65, ROMA, 00156, ROMA, ITALY",Construction,Astaris Spa
+371,"STRADONE VIGLIENA 39, NAPOLI, 80146, NAPOLI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Tirreno Power Spa
+372,"VIA DELLA CHIOCANA 3, MAGIONE, 06063, PERUGIA, ITALY",Retail Trade,Eurospin Tirrenica Spa
+373,"VIALE AMELIA 70, ROMA, 00181, ROMA, ITALY",Manufacturing,Angelini Pharma Italia Aziende Chimiche Riunite Angelini Francesco A.c.r.a.f. Spa
+374,"VIA ARISTIDE NONIS 68/A, MAROSTICA, 36063, VICENZA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Electrade Spa
+375,"VIA DELL'INNOVAZIONE 1, CAMISANO VICENTINO, 36043, VICENZA, ITALY",Manufacturing,Cereal Docks Spa
+376,"VIA DI MACCHIA PALOCCO 223, ROMA, 00125, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Telecom Italia Sparkle Spa
+377,"VIALE FULVIO TESTI 280, MILANO, 20126, MILANO, ITALY","Finance, Insurance, and Real Estate",Agos-ducato Spa
+378,"VIA MARIE CURIE 2, BOLZANO, 39100, BOLZANO, ITALY","Finance, Insurance, and Real Estate",Fercam Holding Srl
+379,"PALAZZO MEUCCI VIA FRANCESCO SFORZA, BASIGLIO, 20079, MILANO, ITALY","Finance, Insurance, and Real Estate",Prexta Spa In Forma Abbreviata Prexta Spa
+380,"VIALE ALDO BORLETTI 61/63, CORBETTA, 20011, MILANO, ITALY",Manufacturing,Marelli Europe Spa
+381,"PIAZZA INDRO MONTANELLI 30, SESTO SAN GIOVANNI, 20099, MILANO, ITALY",Manufacturing,Coca-cola Hbc Italia Srl
+382,"RIVIERA MAESTRI DEL LAVORO 24, PADOVA, 35127, PADOVA, ITALY",Wholesale Trade,Sonepar Italia Spa
+383,"VIA CASILINA 125, ROMA, 00176, ROMA, ITALY",Manufacturing,Merck Serono Spa
+384,"VIA DEGLI ALDOBRANDESCHI 300, ROMA, 00163, ROMA, ITALY","Finance, Insurance, and Real Estate",Lottomatica Spa
+385,"CONTRADA MILOCCA SNC, ASSORO, 94010, ENNA, ITALY",Retail Trade,Fratelli Arena Srl
+386,"VIA NERIO NANNETTI 1, ZOLA PREDOSA, 40069, BOLOGNA, ITALY",Retail Trade,Yoox Net-a-porter Group Spa
+387,"VIA DI CASAL BOCCONE 188/190, ROMA, 00137, ROMA, ITALY",Services,Almaviva - The Italian Innovation Company Spa
+388,"PIAZZA DEI SANTI APOSTOLI 66, ROMA, 00187, ROMA, ITALY","Finance, Insurance, and Real Estate",Almaviva Technologies Srl
+389,"VIA SANTENA 1, VILLASTELLONE, 10029, TORINO, ITALY",Manufacturing,Petronas Lubricants Italy Spa
+390,"VIALE CERTOSA 239, MILANO, 20151, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Adi Energia Srl
+391,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Amazon Italia Logistica Srl
+392,"VIA EMILIA SAN PIETRO 4, REGGIO EMILIA, 42121, REGGIO EMILIA, ITALY","Finance, Insurance, and Real Estate",Credito Emiliano Spa
+393,"PIAZZA DEL CALENDARIO 3, MILANO, 20126, MILANO, ITALY","Finance, Insurance, and Real Estate",Deutsche Bank Spa
+394,"VIA BAIONA 203, RAVENNA, 48123, RAVENNA, ITALY",Manufacturing,Bunge Italia Spa
+395,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY",Services,Enel Global Services Srl
+396,"VIA NAPOLI 220, CASANDRINO, 80025, NAPOLI, ITALY","Finance, Insurance, and Real Estate",Farvima Holding Srl
+397,"LUNGOTORRENTE SECCA 3/A, GENOVA, 16163, GENOVA, ITALY",Wholesale Trade,Sogegross Spa
+398,"VIA GIUSEPPE MAZZINI 36, VALGUARNERA CAROPEPE, 94019, ENNA, ITALY","Finance, Insurance, and Real Estate",Gruppo Arena Spa
+399,"VIA EMILIA 1, SAN DONATO MILANESE, 20097, MILANO, ITALY",Mining,Eni Angola Spa
+400,"FORO BUONAPARTE 67, MILANO, 20121, MILANO, ITALY",Construction,Ferrovial ConstrucciÃ³n S.a.
+401,"VIA SAN POLO 152, BRESCIA, 25134, BRESCIA, ITALY",Manufacturing,Alfa Acciai Spa
+402,"VIA ASSANO 1791, CESENA, 47521, FORLI'-CESENA, ITALY",Wholesale Trade,Cambielli Edilfriuli Spa
+403,"VIA SEBASTIANO CABOTO 1, CORSICO, 20094, MILANO, ITALY",Services,Comdata Spa
+404,"VIALE THOMAS ALVA EDISON 110, SESTO SAN GIOVANNI, 20099, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Shell Energy Italia Srl
+405,"VIA SAN MICHELE 36, SCANDICCI, 50018, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Fattoria San Michele A Torri Srl
+406,"LOCALITA' CONTI MALTRAVERSO 1, MONTEBELLO VICENTINO, 36054, VICENZA, ITALY",Manufacturing,Bottega Veneta Srl
+407,"VIA EINAUDI 18/22, CERMENATE, 22072, COMO, ITALY",Manufacturing,Bolton Food Spa
+408,"LOCALITA' MERLARO 2, VESTONE, 25078, BRESCIA, ITALY","Finance, Insurance, and Real Estate",Silmar Group Spa
+409,"VIA GIOVANNI ANSALDO 7, FORLI', 47122, FORLI'-CESENA, ITALY",Manufacturing,Ferretti Spa
+410,"VIA ALESSANDRO MANZONI 41, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Ferretti International Holding Spa
+411,"PIAZZA CADUTI 6 LUGLIO 1944 1, DALMINE, 24044, BERGAMO, ITALY",Manufacturing,Dalmine Spa
+412,"PIAZZA GIUSEPPE GARIBALDI 16, SONDRIO, 23100, SONDRIO, ITALY","Finance, Insurance, and Real Estate",Banca Popolare Di Sondrio Spa
+413,"VIA DELL'INDUSTRIA 22, CONSELICE, 48017, RAVENNA, ITALY",Manufacturing,General Cavi Spa
+414,"VIALE LOMBARDIA 20, BOLLATE, 20021, MILANO, ITALY",Manufacturing,Solvay Specialty Polymers Italy Spa
+415,"VIA ALDO MORO 95, ARCO, 38062, TRENTO, ITALY","Finance, Insurance, and Real Estate",Arcese Holding Sapa Di Eleuterio Arcese E C.
+416,"STRADA DI SCORRIMENTO 2, VADO LIGURE, 17047, SAVONA, ITALY",Manufacturing,Infineum Italia Srl
+417,"VIA LEONARDO DA VINCI 4, GUASTALLA, 42016, REGGIO EMILIA, ITALY",Manufacturing,Smeg Spa
+418,"VIALE ENRICO FORLANINI 23, MILANO, 20134, MILANO, ITALY",Manufacturing,Sasol Italy Spa
+419,"VIA TORTONA 9, MILANO, 20144, MILANO, ITALY","Finance, Insurance, and Real Estate",Nordea Investment Funds S.a.
+420,"VIA DEL MULINO 6, ASSAGO, 20057, MILANO, ITALY",Services,Sanpellegrino Spa
+421,"VIA GASPARE GOZZI 1/A, MILANO, 20129, MILANO, ITALY",Wholesale Trade,Retitalia Spa
+422,"CORSO FELICE CAVALLOTTI 30, SANREMO, 18038, IMPERIA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Unoenergy Spa
+423,"VIA GAUDENZIO FANTOLI 15/2 15/8, MILANO, 20138, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",United Parcel Service Italia Srl
+424,"VIA OTTAVIO MORENO 23, SAVIGLIANO, 12038, CUNEO, ITALY",Manufacturing,Alstom Ferroviaria Spa
+425,"CORSO FELICE CAVALLOTTI 30, SANREMO, 18038, IMPERIA, ITALY","Finance, Insurance, and Real Estate",Elfin Srl
+426,"VIA CALDERA 21, MILANO, 20153, MILANO, ITALY","Finance, Insurance, and Real Estate",Uno Holding Srl
+427,"VIALE LUIGI BORRI 231, VARESE, 21100, VARESE, ITALY",Manufacturing,Bticino Spa
+428,"VIA CHIESE 6, MILANO, 20126, MILANO, ITALY",Manufacturing,Prysmian Powerlink Srl
+429,"FORO BUONAPARTE 10, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Compass Banca Spa
+430,"VIA REGONA 3, PIZZIGHETTONE, 26026, CREMONA, ITALY",Manufacturing,Carlo Colombo Spa
+431,"VIA COLOMBARA 113, VENEZIA, 30176, VENEZIA, ITALY","Finance, Insurance, and Real Estate",Lb Holding Spa
+432,"PIAZZA GIOVINE ITALIA 3, MILANO, 20123, MILANO, ITALY","Finance, Insurance, and Real Estate",Verofin Srl
+433,"VIA COLOMBARA 113, VENEZIA, 30176, VENEZIA, ITALY",Services,Umana Spa
+434,"VIA ORNA 35, BRENDOLA, 36040, VICENZA, ITALY","Finance, Insurance, and Real Estate",Gruppo Ltc Spa
+435,"VIA MOGGIA 75/A, LAVAGNA, 16033, GENOVA, ITALY",Wholesale Trade,Alliance Healthcare Italia Distribuzione Spa
+436,"VIA BOLZANO 63, APPIANO SULLA STRADA DEL VINO, 39057, BOLZANO, ITALY",Wholesale Trade,Montanwerke Brixlegg Aktiengesellschaft
+437,"VIA SALARIA 1039, ROMA, 00138, ROMA, ITALY",Construction,Societa' Italiana Per Condotte D'acqua Spa
+438,"VIA INVORIO 24/A, TORINO, 10146, TORINO, ITALY",Construction,Sacyr Construccion S.a.
+439,"VIA VENEZIA 58, CAMPO SAN MARTINO, 35010, PADOVA, ITALY",Manufacturing,Arneg Spa
+440,"VIA BASENTO 19, SAN GIULIANO MILANESE, 20098, MILANO, ITALY",Services,General Logistics Systems Italy Spa
+441,"VIA ANGELO RIZZOLI 8, MILANO, 20132, MILANO, ITALY",Manufacturing,Rizzoli Corriere Della Sera Mediagroup Spa
+442,"VIA XII OTTOBRE 1, GENOVA, 16121, GENOVA, ITALY",Manufacturing,Metinvest Trametal Spa
+443,"GALLERIA PASSARELLA 2, MILANO, 20122, MILANO, ITALY",Manufacturing,Sarlux Srl
+444,"VIA ANTONIO PACINOTTI 3, BOLZANO, 39100, BOLZANO, ITALY","Finance, Insurance, and Real Estate",Seetech Global Industries Spa
+445,"VIA CARLO AMORETTI 78, MILANO, 20157, MILANO, ITALY",Wholesale Trade,Henkel Italia Srl
+446,"STRADA STATALE S.S. AURELIA KM. 237 SNC, PIOMBINO, 57025, LIVORNO, ITALY",Retail Trade,Unicoop Tirreno Soc Coop
+447,"VIA MASSAUA 6, MILANO, 20146, MILANO, ITALY","Finance, Insurance, and Real Estate",Banco Bpm Vita Spa
+448,"VIA FILIPPO DELLA VALLE 1, SANT'ELPIDIO A MARE, 63811, FERMO, ITALY",Manufacturing,Tod's Spa
+449,"VIA SETTECAMINI 116, SANT'ELPIDIO A MARE, 63811, FERMO, ITALY","Finance, Insurance, and Real Estate",Di.vi. Finanziaria Di Diego Della Valle & C. Srl
+450,"VIA DEL LAVORO 45, SOLBIATE ARNO, 21048, VARESE, ITALY",Retail Trade,Tigros Spa
+451,"VIA GARDIZZA 9/B, CONSELICE, 48017, RAVENNA, ITALY",Manufacturing,Unigra' Srl
+452,"MURA DI SANTA CHIARA 1, GENOVA, 16128, GENOVA, ITALY","Finance, Insurance, and Real Estate",Amissima Vita Spa
+453,"VIA ANTONIO GRAMSCI 731/733, SESTO FIORENTINO, 50019, FIRENZE, ITALY",Manufacturing,Eli Lilly Italia Spa
+454,"CORSO INGHILTERRA 3, TORINO, 10138, TORINO, ITALY","Finance, Insurance, and Real Estate",Intesa Sanpaolo Assicura Spa
+455,"VIA ANTONIO SALIERI 36, OPPEANO, 37050, VERONA, ITALY",Manufacturing,Ferriera Valsider Spa
+456,"VIA ODERZO 68, PRATA DI PORDENONE, 33080, PORDENONE, ITALY",Manufacturing,Friul Intagli Industries Spa
+457,"VIA CANAREGGIO 1823/1, BORGO VENETO, 35046, PADOVA, ITALY",Retail Trade,Costantin Spa
+458,"VIA MENSA 3, LUGO, 48022, RAVENNA, ITALY",Manufacturing,Eurovo Srl
+459,"VIA CASILINA SUD SNC KM90,200, TORRICE, 03020, FROSINONE, ITALY",Manufacturing,Prima Sole Components Spa
+460,"VIA DELLA MECCANICA 16, PESARO, 61122, PESARO E URBINO, ITALY",Manufacturing,Biesse Spa
+461,"VIA EMILIA 69/71/77, RIMINI, 47921, RIMINI, ITALY",Manufacturing,Scm Group Spa
+462,"VIA MASSIMO GORKI 69, CINISELLO BALSAMO, 20092, MILANO, ITALY",Wholesale Trade,Agfa
+463,"VIALE FRATELLI ROSSELLI 46, PESARO, 61121, PESARO E URBINO, ITALY","Finance, Insurance, and Real Estate",Bi.fin. Srl
+464,"VIA CARLO GOLDONI 10, MILANO, 20129, MILANO, ITALY",Manufacturing,Dolce & Gabbana Srl
+465,"LOCALITA' LINFANO, ARCO, 38062, TRENTO, ITALY",Manufacturing,Dana Italia Srl
+466,"VIA EMILIA 2614, LONGIANO, 47020, FORLI'-CESENA, ITALY","Finance, Insurance, and Real Estate",F.lli Martini & C. Spa
+467,"VIA FRANCESCO ALBANI 65, MILANO, 20148, MILANO, ITALY",Manufacturing,Dow Italia Divisione Commerciale Srl
+468,"VIA DEI CICLAMINI 4, MODUGNO, 70026, BARI, ITALY","Finance, Insurance, and Real Estate",Magna Powertrain Italia Srl
+469,"VIA CONSOLATICO SUPERIORE 96/98, BUSSETO, 43011, PARMA, ITALY",Construction,Sicim Spa
+470,"VIALE ALESSANDRO MARCHETTI 105, ROMA, 00148, ROMA, ITALY",Retail Trade,Jaguar Land Rover Italia Spa
+471,"VIA NELSON MANDELA 4, VERCELLI, 13100, VERCELLI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Nova Aeg Spa
+472,"VIUZZO DI PORTO 4/B, SCANDICCI, 50018, FIRENZE, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",J.a.s. Jet Air Service Spa
+473,"VIA DEL TEATRO 5, TRIESTE, 34121, TRIESTE, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Acegasapsamga Spa
+474,"VIA ANNA MARIA MOZZONI 12, MILANO, 20152, MILANO, ITALY",Construction,Siram Spa
+475,"VIA SAN BOVIO 3, SEGRATE, 20054, MILANO, ITALY",Manufacturing,Lenovo Italy Srl
+476,"VIA CONSORTILE, AVELLINO, 83100, AVELLINO, ITALY",Services,Urbaser S.a.
+477,"VIA LORENTEGGIO 240, MILANO, 20147, MILANO, ITALY",Wholesale Trade,Huawei Technologies Italia Srl
+478,"PIAZZA POLI 37/42, ROMA, 00187, ROMA, ITALY","Finance, Insurance, and Real Estate",Sace Spa
+479,"VIA ANTONIO CAVALIERI DUCATI 3, BOLOGNA, 40132, BOLOGNA, ITALY",Manufacturing,Ducati Motor Holding Spa
+480,"VIA ENRICO CIALDINI 16, MILANO, 20161, MILANO, ITALY",Services,Equensworldline Se
+481,"PIAZZA DELLE DONNE LAVORATRICI 2, TRENTO, 38121, TRENTO, ITALY","Finance, Insurance, and Real Estate",Itas Istituto Trentino Alto Adige Per Assicurazioni Societa' Mutua Di Assicurazioni
+482,"LARGO AUGUSTO 8, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Lvmh Italia Spa
+483,"VIA NAPOLI 220, CASANDRINO, 80025, NAPOLI, ITALY",Wholesale Trade,Farvima Medicinali Spa
+484,"STRADA SERRAVALLE 65, NOVI LIGURE, 15067, ALESSANDRIA, ITALY",Manufacturing,Smurfit Kappa Italia Spa
+485,"PIAZZA SAN FEDELE 2, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Blackrock (netherlands) Bv
+486,"VIA CIRCONVALLAZIONE EST 1, STEZZANO, 24040, BERGAMO, ITALY",Manufacturing,Schneider Electric Spa
+487,"VIA GIOVANNI SPADOLINI 5, MILANO, 20141, MILANO, ITALY",Services,Omnicom Media Group Srl
+488,"CORSO EUROPA 2, BOLTIERE, 24040, BERGAMO, ITALY",Wholesale Trade,Volvo Group Italia Spa
+489,"VIA VITORCHIANO 151, ROMA, 00189, ROMA, ITALY",Manufacturing,Msd Italia Srl
+490,"VIA ARTIGIANI 2, MACLODIO, 25030, BRESCIA, ITALY",Manufacturing,Gnutti Carlo Spa
+491,"VIA FRANCESCO PRIMATICCIO 155, MILANO, 20147, MILANO, ITALY",Retail Trade,L'oreal Italia Spa
+492,"PASSEGGIO SANT'ANDREA 4, TRIESTE, 34123, TRIESTE, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Italia Marittima Spa
+493,"VIA GRANAROLO 175/3, FAENZA, 48018, RAVENNA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",C.u.ra. Consorzio Utilities Ravenna Soc Cons Arl
+494,"VIA BARTOLOMEO ZUCCHI 1, MONZA, 20900, MONZA E BRIANZA, ITALY",Construction,Progefin Spa
+495,"VIALE DELL'AGRICOLTURA 7, VERONA, 37135, VERONA, ITALY",Wholesale Trade,Glaxosmithkline Spa
+496,"VIA PADANA SUPERIORE 19, VIMODRONE, 20055, MILANO, ITALY",Wholesale Trade,Compagnia Generale Trattori Spa
+497,"VIA MESSINA 38, MILANO, 20154, MILANO, ITALY",Wholesale Trade,Stabilo International Gmbh
+498,"VIALE ARISTIDE MERLONI 45, FABRIANO, 60044, ANCONA, ITALY",Manufacturing,Ariston Spa
+499,"VIALE LOMBARDIA 29, VIADANA, 46019, MANTOVA, ITALY","Finance, Insurance, and Real Estate",Saviola Holding Srl
+500,"VIA FEDERICO CONFALONIERI 4, MILANO, 20124, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Google Italy Srl
+501,"VIA FILIPPO DA DESIO 60, DESIO, 20832, MONZA E BRIANZA, ITALY",Wholesale Trade,Sacchi Giuseppe Spa
+502,"VIA ENRICO FERMI 51, SCANZOROSCIATE, 24020, BERGAMO, ITALY",Manufacturing,Polynt Spa
+503,"VIALE PARCO DELL'INDUSTRIA 5, CORCIANO, 06073, PERUGIA, ITALY",Manufacturing,Brunello Cucinelli Spa
+504,"PIAZZETTA DEI SAPIENTI 1, CORCIANO, 06073, PERUGIA, ITALY","Finance, Insurance, and Real Estate",Foro Delle Arti Srl
+505,"VIA CASTELLANA 90, ISTRANA, 31036, TREVISO, ITALY",Manufacturing,Pro-gest Spa
+506,"VIALE ITA MARZOTTO 8, FOSSALTA DI PORTOGRUARO, 30025, VENEZIA, ITALY","Finance, Insurance, and Real Estate",Zignago Holding Spa
+507,"VIA SAN MAGNO 31, CORATO, 70033, BARI, ITALY",Wholesale Trade,Maiora Srl
+508,"CORSO PIETRO ROLANDI 10, QUARONA, 13017, VERCELLI, ITALY",Manufacturing,Loro Piana Spa
+509,"STRADA GHERBELLA 320, MODENA, 41126, MODENA, ITALY",Manufacturing,Grandi Salumifici Italiani Spa
+510,"VIA BERNARDINO TELESIO 18, MILANO, 20145, MILANO, ITALY",Services,Openjobmetis Spa Agenzia Per Il Lavoro
+511,"VIA ALBERICO ALBRICCI 10, MILANO, 20122, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",2i Rete Gas Spa
+512,"VIA TORRI BIANCHE 3, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",Wholesale Trade,Toshiba Electronics Europe Gmbh
+513,"VIA MARIO CARUCCI 131, ROMA, 00143, ROMA, ITALY",Services,Sogei Societa' Generale D'informatica Spa E In Forma Abbreviato Sogei Spa
+514,"VIA DELLE GROANE 126, GARBAGNATE MILANESE, 20024, MILANO, ITALY",Wholesale Trade,Bayer Spa
+515,"PIAZZA DELLA VITTORIA 10, GENOVA, 16121, GENOVA, ITALY",Wholesale Trade,Comarco Compagnia Generale Di Commercio Arbitraggio E Coperture Spa
+516,"VIA CARLO EDERLE 45, VERONA, 37126, VERONA, ITALY","Finance, Insurance, and Real Estate",Vera Vita Spa
+517,"VIA BENIGNO CRESPI 19, MILANO, 20159, MILANO, ITALY","Finance, Insurance, and Real Estate",Bcc Vita Spa Compagnia Di Assicurazioni Vita In Forma Abbreviato Bcc Vita Spa
+518,"VIA STAZIONE 51, EGNA, 39044, BOLZANO, ITALY",Wholesale Trade,Wuerth Srl
+519,"STRADA REGIONALE 148 PONTINA 0SNC, APRILIA, 04011, LATINA, ITALY",Manufacturing,Abbvie Srl
+520,"VIA ANDREA DORIA 7, CASTIGLIONE DEL LAGO, 06061, PERUGIA, ITALY",Retail Trade,Coop Centro Italia Soc Coop
+521,"VIA PIETRAMARINA 53, VINCI, 50059, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Colorobbia Holding Spa
+522,"LOCALITA' AUTOPORTO 11, POLLEIN, 11020, AOSTA, ITALY",Manufacturing,Heineken Italia Spa
+523,"VIA COLLODI 6/C, FIRENZE, 50141, FIRENZE, ITALY","Finance, Insurance, and Real Estate",Dedalus Healthcare Systems Group Spa
+524,"VIA UGO BASSI 6, MILANO, 20159, MILANO, ITALY",Services,Sisal Spa
+525,"VIA VARESINA 162, MILANO, 20156, MILANO, ITALY",Wholesale Trade,Medtronic Italia Spa
+526,"VIALE CERTOSA 249, MILANO, 20151, MILANO, ITALY",Manufacturing,Riva Acciaio Spa
+527,"BASTIONI DI PORTA VOLTA 10, MILANO, 20121, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Uvet Viaggi Turismo Spa
+528,"VIA LARGA 9/11, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Veroniki Holding Spa
+529,"VIA MONTE FLAVIO 45, ROMA, 00131, ROMA, ITALY",Manufacturing,Mbda Italia Spa
+530,"VIA ALDO ROSSI 4, MILANO, 20149, MILANO, ITALY",Manufacturing,Lg Electronics Italia Spa
+531,"VIA GIOVANNI CARLO CAVALLI 6, TORINO, 10138, TORINO, ITALY",Services,Rai Pubblicita' Spa
+532,"VIA DELLE AZALEE 15, BUCCINASCO, 20090, MILANO, ITALY",Services,Ngk Spark Plug Europe Gmbh
+533,"PIAZZA SANTA BARBARA 7, SAN DONATO MILANESE, 20097, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Stoccaggi Gas Italia Spa
+534,"PIAZZALE OSTIENSE 2, ROMA, 00154, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Acea Ato 2 Gruppo Acea Spa
+535,"VIA LILLO DEL DUCA 10, BRESSO, 20091, MILANO, ITALY","Finance, Insurance, and Real Estate",Zambon Company Spa
+536,"VIA NICCOLO' MACHIAVELLI 4, TRIESTE, 34132, TRIESTE, ITALY","Finance, Insurance, and Real Estate",Banca Generali Spa
+537,"PIAZZALE PIETRO FERRERO 1, ALBA, 12051, CUNEO, ITALY",Manufacturing,Ferrero Industriale Italia Srl
+538,"VIA ALESSANDRO MANZONI 38, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Design Holding Spa
+539,"VIA ALESSANDRO MANZONI 38, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",International Design Group Spa
+540,"STRADA PROVINCIALE 234 1/3, SOMAGLIA, 26867, LODI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Flextronics Italy Spa
+541,"LUNGADIGE GALTAROSSA 8, VERONA, 37133, VERONA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",2v Energy Srl
+542,"VIA GUGLIELMO MARCONI 84, AGRATE BRIANZA, 20864, MONZA E BRIANZA, ITALY","Finance, Insurance, and Real Estate",Intercos Spa
+543,"VIALE GIORGIO RIBOTTA 31, ROMA, 00144, ROMA, ITALY",Construction,Engie Servizi Spa
+544,"STRADA PROVINCIALE 240 DELLE GROTTE ORIENTALI, RUTIGLIANO, 70018, BARI, ITALY",Wholesale Trade,Apulia Distribuzione Srl
+545,"VIA PIETRO BORSIERI 2/A, ROMA, 00195, ROMA, ITALY",Construction,Ghella Spa
+546,"VIA PISA 29, TORINO, 10152, TORINO, ITALY",Services,Synergie Italia Agenzia Per Il Lavoro Spa
+547,"VIA DEL RIO 336, CESENA, 47522, FORLI'-CESENA, ITALY",Manufacturing,Avi.coop Soc Coop Agricola
+548,"VIALE CRISTOFORO COLOMBO 12/14, TREZZANO SUL NAVIGLIO, 20090, MILANO, ITALY","Finance, Insurance, and Real Estate",Berlin Packaging (europe) Spa
+549,"VIA ROMA 5, ISEO, 25049, BRESCIA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Trenord Srl
+550,"VIALE CASTELLO DELLA MAGLIANA 68, ROMA, 00148, ROMA, ITALY",Services,Technip Energies Italy Spa
+551,"VIA ZONA INDUSTRIALE MADONNA DEL MORO, UMBERTIDE, 06019, PERUGIA, ITALY",Manufacturing,Metalmeccanica Tiberina Srl
+552,"VIA DEL PROGRESSO 1008, BRENDOLA, 36040, VICENZA, ITALY",Wholesale Trade,Attiva Spa
+553,"PIAZZA GENERALE ARMANDO DIAZ 7, MILANO, 20123, MILANO, ITALY","Finance, Insurance, and Real Estate",Coeclerici Spa
+554,"VIA XXV APRILE 5, PERO, 20016, MILANO, ITALY",Manufacturing,F.i.l.a Fabbrica Italiana Lapis Ed Affini Spa
+555,"VIALE VITTORIO VENETO 14, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Pencil Srl
+556,"VIALE SANT'EUFEMIA 108/F, BRESCIA, 25135, BRESCIA, ITALY","Finance, Insurance, and Real Estate",If 65 Spa
+557,"VIA DEL LAVORO 6/8, CASALECCHIO DI RENO, 40033, BOLOGNA, ITALY",Wholesale Trade,Coop Italia Soc Coop
+558,"VIALE ALEXANDRE GUSTAVE EIFFEL 15, ROMA, 00148, ROMA, ITALY","Finance, Insurance, and Real Estate",American Express Payments Europe S.l.
+559,"VIA GALLARATE 184, MILANO, 20151, MILANO, ITALY",Retail Trade,Kia Italia Srl
+560,"PIAZZA DI SAN SILVESTRO 8, ROMA, 00187, ROMA, ITALY",Mining,Shell Italia E&p Spa
+561,"VIA ENRICO MATTEI 66, BOLOGNA, 40138, BOLOGNA, ITALY",Retail Trade,Volvo Car Italia Spa
+562,"VIA RANA 12, ALESSANDRIA, 15122, ALESSANDRIA, ITALY",Manufacturing,Guala Closures Spa
+563,"VIA CIOVASSINO 1, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Kos Spa
+564,"LOCALITA' AI CONTI, BARGA, 55051, LUCCA, ITALY",Manufacturing,Kedrion Spa
+565,"VIA VIII MARZO 6, SCANDICCI, 50018, FIRENZE, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Nippon Express Italia Spa
+566,"CORSO SEMPIONE 4, MILANO, 20154, MILANO, ITALY",Wholesale Trade,Messaggerie Italiane Di Giornali Riviste E Libri Spa
+567,"VIA MARIE CURIE 2, BOLZANO, 39100, BOLZANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Fercam Spa
+568,"VIA STAZIONE 31, CHATILLON, 11024, AOSTA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Compagnia Valdostana Delle Acque - Compagnie Valdotaine Des Eaux Spa
+569,"VIA MARIO GREPPI 2, NOVARA, 28100, NOVARA, ITALY",Retail Trade,Autogrill Italia Spa
+570,"VIA GIUSEPPE RIPAMONTI 85, MILANO, 20141, MILANO, ITALY",Services,Daikin Air Conditioning Italy Spa
+571,"VIA PIETRO GIARDINI 1324, MODENA, 41126, MODENA, ITALY",Manufacturing,G.a. Operations Spa
+572,"VIA MONTEBELLO 18, MILANO, 20121, MILANO, ITALY","Finance, Insurance, and Real Estate",Fideuram Intesa Sanpaolo Private Banking Asset Management Societa' Di Gestione Del Risparm
+573,"VIALE CARLO III TRAV. I VIA GALVANI SNC, SAN NICOLA LA STRADA, 81020, CASERTA, ITALY",Manufacturing,Proma Spa
+574,"VIA PAPA GIOVANNI XXIII 4, CAPRIATE SAN GERVASIO, 24042, BERGAMO, ITALY",Services,Dussmann Service Srl
+575,"VIA GIOVANNI SPADOLINI 7, MILANO, 20141, MILANO, ITALY","Finance, Insurance, and Real Estate",Assimoco Vita Spa Compagnia Di Assicurazione Sulla Vita
+576,"VIA BASENTO 19, SAN GIULIANO MILANESE, 20098, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",General Logistics Systems Enterprise Srl
+577,"VIA GIUSEPPE RIPAMONTI 89, MILANO, 20141, MILANO, ITALY","Finance, Insurance, and Real Estate",Cargill Eurit Srl
+578,"PIAZZA LUIGI EINAUDI 4, MILANO, 20124, MILANO, ITALY",Services,Givi Holding Srl
+579,"VIA CORSICA 10/12, BRESCIA, 25125, BRESCIA, ITALY",Services,Edge Network Services Limited
+580,"VIA ANTONIO SANT'ELIA ZONA INDUSTRIALE, CORATO, 70033, BARI, ITALY",Manufacturing,Molino Casillo Spa
+581,"VIA LILLO DEL DUCA 10, BRESSO, 20091, MILANO, ITALY",Manufacturing,Zambon Spa
+582,"CIRCONVALLAZIONE OVEST 3 A ZONA CO.IN.OR., VALENZA, 15048, ALESSANDRIA, ITALY",Manufacturing,Bulgari Gioielli Spa
+583,"VIA LORENTEGGIO 255, MILANO, 20152, MILANO, ITALY",Retail Trade,Pellegrini Spa
+584,"VIA APPIA, CISTERNA DI LATINA, 04012, LATINA, ITALY",Manufacturing,C.s.i. - Compagnia Surgelati Italiana Spa
+585,"VIA STELLA ROSA 48/50, BARANZATE, 20021, MILANO, ITALY","Finance, Insurance, and Real Estate",E.m.s. Euro Management Services Spa
+586,"VIA STELLA ROSA 48/50, BARANZATE, 20021, MILANO, ITALY","Finance, Insurance, and Real Estate",Euro Group Spa
+587,"STRADA PARAVERA 16, AOSTA, 11100, AOSTA, ITALY",Manufacturing,Cogne Acciai Speciali Spa
+588,"VIA PIETRO BORSIERI 2/A, ROMA, 00195, ROMA, ITALY","Finance, Insurance, and Real Estate",Ghella Group Srl
+589,"VIA LEONARDO BISTOLFI 35, MILANO, 20134, MILANO, ITALY","Finance, Insurance, and Real Estate",Industrie De Nora Spa
+590,"VIA LEONARDO BISTOLFI 35, MILANO, 20134, MILANO, ITALY","Finance, Insurance, and Real Estate",Federico De Nora Spa
+591,"VIA STAZIONE 119, VALLE LOMELLINA, 27020, PAVIA, ITALY",Wholesale Trade,Euricom Spa
+592,"VIA DEL LAVORO 10, GRANAROLO DELL'EMILIA, 40057, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Pag Italy Srl
+593,"VIA FERDINANDO MAGELLANO 27, REGGIOLO, 42046, REGGIO EMILIA, ITALY",Manufacturing,Comer Industries Spa
+594,"VIALE DEL SAGITTARIO 5, MODENA, 41126, MODENA, ITALY","Finance, Insurance, and Real Estate",Eagles Oak Srl
+595,"VIA BENIGNO CRESPI 57, MILANO, 20159, MILANO, ITALY",Wholesale Trade,Yara Italia Spa
+596,"VIA FELTRINA CENTRO 16, MONTEBELLUNA, 31044, TREVISO, ITALY",Manufacturing,Geox Spa
+597,"VIA CALCINARO 2861, CESENA, 47521, FORLI'-CESENA, ITALY",Manufacturing,Technogym Spa
+598,"VIA GIUSEPPE RIPAMONTI 89, MILANO, 20141, MILANO, ITALY",Manufacturing,Cargill Srl
+599,"VIA POLONIA 30/33, MODENA, 41122, MODENA, ITALY",Wholesale Trade,Caseifici Granterre Spa
+600,"CORSO D'ITALIA 35/B, ROMA, 00198, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",D'amico Societa' Di Navigazione Spa
+601,"VIA VILLA MINELLI 1, PONZANO VENETO, 31050, TREVISO, ITALY",Wholesale Trade,Benetton Group Srl
+602,"VIA CLEMENTINO BONFIGLIOLI 1, CALDERARA DI RENO, 40012, BOLOGNA, ITALY",Manufacturing,Bonfiglioli Riduttori Spa
+603,"VIA ARMANDO DIAZ 248, SAN ZENO NAVIGLIO, 25010, BRESCIA, ITALY",Manufacturing,Duferco Travi E Profilati Spa
+604,"PIAZZA LINA BO BARDI 3, MILANO, 20124, MILANO, ITALY",Services,Bnp Paribas 3 Step It
+605,"VIA MEUCCIO RUINI 74/L, REGGIO EMILIA, 42124, REGGIO EMILIA, ITALY","Finance, Insurance, and Real Estate",Yama Spa
+606,"VIA MONZA 7/A, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",Services,S.a.p. Italia Sistemi Applicazioni Prodotti In Data Processing Spa
+607,"VIA GRANAROLO 175/2, FAENZA, 48018, RAVENNA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Cura Gas & Power Spa
+608,"VIA RENZO GANDOLFO 1, CUNEO, 12100, CUNEO, ITALY",Services,Fai Service Soc Coop
+609,"VIA ENRICO FERMI 4, BAGNOLO IN PIANO, 42011, REGGIO EMILIA, ITALY",Manufacturing,Emak Spa
+610,"VIA ALDO MORO 31, BOMPORTO, 41030, MODENA, ITALY",Wholesale Trade,Havi Logistics Srl
+611,"VIA PIONCA 13, PIANIGA, 30030, VENEZIA, ITALY",Retail Trade,F.lli Lando Spa
+612,"VIA VITTORIO VENETO 74, ROMA, 00187, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Ep Produzione Centrale Livorno Ferraris Spa
+613,"VIA DELLA MERCEDE 11, ROMA, 00187, ROMA, ITALY","Finance, Insurance, and Real Estate",Gruppo Illy Spa
+614,"VIA COSIMO CANOVETTI 13, BRESCIA, 25128, BRESCIA, ITALY","Finance, Insurance, and Real Estate",O.r.i. Martin Holding Srl
+615,"VIA COSIMO CANOVETTI 13, BRESCIA, 25128, BRESCIA, ITALY",Manufacturing,O.r.i. Martin Acciaieria E Ferriera Di Brescia Spa
+616,"VIA GIUSEPPE BOVINI 43, RAVENNA, 48123, RAVENNA, ITALY",Manufacturing,G.ecol. Cables Srl
+617,"VIA DELL'INDUSTRIA 22, CONSELICE, 48017, RAVENNA, ITALY",Services,Eq Cables Spa
+618,"VIA DI SOTTORIPA 7/13, GENOVA, 16124, GENOVA, ITALY",Wholesale Trade,Duferco Commerciale Spa
+619,"CONTRADA PARASACCHIELLO SNC, MELFI, 85025, POTENZA, ITALY",Wholesale Trade,Sg Spa
+620,"VIA DELLE INDUSTRIE 9, FILAGO, 24040, BERGAMO, ITALY",Manufacturing,Covestro Srl
+621,"VIA DELLE FIERE SNC, MATERA, 75100, MATERA, ITALY",Wholesale Trade,V.i.m. Srl Vendita Ingrosso Medicinali
+622,"VIA OLGETTINA 60, MILANO, 20132, MILANO, ITALY",Services,Ospedale San Raffaele Srl
+623,"VIA VENETO 3/5, SCHIO, 36015, VICENZA, ITALY",Retail Trade,Lorenzo Ceccato Spa
+624,"VIA GERENZANO 58, CASTELLANZA, 21053, VARESE, ITALY",Manufacturing,Tenova Spa
+625,"VIA PISANA 336, SCANDICCI, 50018, FIRENZE, ITALY",Manufacturing,Balenciaga Logistica Srl
+626,"VIA PROVINA 3, TRENTO, 38123, TRENTO, ITALY",Wholesale Trade,Unifarm Spa Unione Farmacisti Trentino Alto Adige
+627,"PIAZZA DELLA REPUBBLICA 32, MILANO, 20124, MILANO, ITALY","Finance, Insurance, and Real Estate",Pluto (italia) Spa
+628,"VIA DEL PERLAR 2, VERONA, 37135, VERONA, ITALY","Finance, Insurance, and Real Estate",Eg Holding Spa
+629,"VIA UBERTO VISCONTI DI MODRONE 2, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Sofid Spa
+630,"STRADA STATALE 29, DEGO, 17058, SAVONA, ITALY",Manufacturing,Verallia Italia Spa
+631,"VIA LODI 11, ARZAGO D'ADDA, 24040, BERGAMO, ITALY",Wholesale Trade,Clerici Spa
+632,"VIA VICENZA 3, BRESCIA, 25125, BRESCIA, ITALY","Finance, Insurance, and Real Estate",Fintrade Holding Spa
+633,"PIAZZALE OSTIENSE 2, ROMA, 00154, ROMA, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Areti Spa
+634,"VIA GIAN ANTONIO AMADEO 59, MILANO, 20134, MILANO, ITALY",Manufacturing,Liquigas Spa
+635,"VIA MONALDO CALARI 10, ZOLA PREDOSA, 40069, BOLOGNA, ITALY",Manufacturing,Faac Spa
+636,"VIA MONALDO CALARI 10, ZOLA PREDOSA, 40069, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Faac Partecipazioni Industriali Srl
+637,"VIA AMALFI 6, VOLPIANO, 10088, TORINO, ITALY",Manufacturing,Agn Energia Spa
+638,"LARGO EDOARDO BULGHERONI 1, INDUNO OLONA, 21056, VARESE, ITALY",Manufacturing,Lindt & Sprungli Spa
+639,"CORSO ORBASSANO 367, TORINO, 10137, TORINO, ITALY","Finance, Insurance, and Real Estate",Fca Bank Spa
+640,"VIA DEI TORNABUONI 2, FIRENZE, 50123, FIRENZE, ITALY",Manufacturing,Salvatore Ferragamo Spa
+641,"VIA DELLA MADONNA 1, LALLIO, 24040, BERGAMO, ITALY",Wholesale Trade,Zanetti Spa
+642,"PIAZZALE LUIGI CADORNA 14, MILANO, 20123, MILANO, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Fnm Spa
+643,"VIA MARIO FANTIN 1/3, BOLOGNA, 40131, BOLOGNA, ITALY",Services,Crif Spa
+644,"CIS 8, NOLA, 80035, NAPOLI, ITALY",Wholesale Trade,Guacci Spa
+645,"VIA ALBERTO FALCK 4/16, SESTO SAN GIOVANNI, 20099, MILANO, ITALY","Finance, Insurance, and Real Estate",Falck Renewables Spa
+646,"VIA LINFANO 9, ARCO, 38062, TRENTO, ITALY",Manufacturing,Aquafil Spa
+647,"VIALE MILANO 26, MONTECCHIO MAGGIORE, 36075, VICENZA, ITALY","Finance, Insurance, and Real Estate",Nine Trees Group Spa
+648,"VIA SANTA LUCIA 6, MILANO, 20122, MILANO, ITALY","Finance, Insurance, and Real Estate",Dompe' Holdings Srl
+649,"VIA BALDANZESE 17, CALENZANO, 50041, FIRENZE, ITALY",Manufacturing,El.en. Spa
+650,"PIAZZA DELLA REPUBBLICA 32, MILANO, 20124, MILANO, ITALY",Services,Snaitech Spa
+651,"VIA LEONE XIII 14, MILANO, 20145, MILANO, ITALY","Finance, Insurance, and Real Estate",Gb&p Srl
+652,"VIA PADRE VICINIO DA SARSINA 42, CESENA, 47521, FORLI'-CESENA, ITALY","Finance, Insurance, and Real Estate",G.s.g.r. Srl
+653,"VIA GABRIELLO CHIABRERA 34/D, RIMINI, 47924, RIMINI, ITALY","Transportation, Communications, Electric, Gas, and Sanitary Services",Gruppo Societa' Gas Rimini Spa
+654,"VIA GIULIO VINCENZO BONA 95/101, ROMA, 00156, ROMA, ITALY",Construction,Pavimental Spa
+655,"VIA GIACOMO MATTEOTTI 7, FABBRICO, 42042, REGGIO EMILIA, ITALY",Manufacturing,Argo Tractors Spa
+656,"VIA LEMIZZONE 1, SAN MARTINO IN RIO, 42018, REGGIO EMILIA, ITALY","Finance, Insurance, and Real Estate",A.r.g.o. Spa
+657,"VIA PROVINCIALE SELICE 23/A, IMOLA, 40026, BOLOGNA, ITALY",Construction,Cefla Soc Coop
+658,"VIA PIAVE 6, ROSIGNANO MARITTIMO, 57016, LIVORNO, ITALY",Manufacturing,Solvay Chimica Italia Spa
+659,"VIA SAN MARTINO 4, TRENTO, 38122, TRENTO, ITALY","Finance, Insurance, and Real Estate",Family Business Poli Di Marco Poli E C. Sapa In Sigla Fb Poli Di Marco Poli E C. Sapa
+660,"VIA FRIULI 5 INTERNO 9, SONA, 37060, VERONA, ITALY",Retail Trade,Rossetto Trade Spa
+661,"VIA FRIULI 5, SONA, 37060, VERONA, ITALY","Finance, Insurance, and Real Estate",Gruppo Rossetto Spa
+662,"VIA DELLA ZECCA 2, BOLOGNA, 40121, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Legacy Srl
+663,"VIA DELLA ZECCA 2, BOLOGNA, 40121, BOLOGNA, ITALY","Finance, Insurance, and Real Estate",Cribis Holding Srl
+664,"CORSO STATI UNITI 35, PADOVA, 35127, PADOVA, ITALY",Retail Trade,Porsche Italia Spa
+665,"VIALE STELVIO 55/57, MILANO, 20159, MILANO, ITALY","Finance, Insurance, and Real Estate",Intesa Sanpaolo Rbm Salute Spa
+666,"STRADA 6 PALAZZO A 13 MILANOFIORI 0SNC, ASSAGO, 20057, MILANO, ITALY",Wholesale Trade,Brenntag Spa

@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 
-
+'''
 def get_all_datasets(datasets_path):
     res = []
 
@@ -24,7 +24,7 @@ def get_mappings():
 
 
 def rename_columns(schema_name, mappings):
-    datasets_path = 'datasets/cleaned/'
+    datasets_path = 'datasets/2_cleaned/'
     schema = pd.read_csv(os.path.join(datasets_path, schema_name), encoding='ISO-8859-1')
 
     columns = []
@@ -34,8 +34,8 @@ def rename_columns(schema_name, mappings):
         else:
             schema = schema.drop(col, axis=1)
 
-    schema.name = schema_name
     schema.columns = columns
+    schema.name = schema_name
     return schema
 
 
@@ -44,7 +44,7 @@ def main():
 
     mappings = get_mappings()
 
-    datasets_path = 'datasets/cleaned/'
+    datasets_path = 'datasets/2_cleaned/'
     schemas_names = get_all_datasets(datasets_path)
 
     for schema_name in schemas_names:
@@ -53,17 +53,24 @@ def main():
     big_schema = pd.DataFrame()
 
     for schema in schemas:
-        print("Concat " + schema.name)
+        schema_name = schema.name
+
+        print("Concat " + schema_name)
+
+        # delete duplicated columns by name
+        schema = schema.loc[:, ~schema.columns.duplicated()]
+        schema.name = schema_name
         big_schema = pd.concat([big_schema, schema], axis=0)
 
-        filepath = Path('datasets/aligned_schema/schemas/' + schema.name)
+        filepath = Path('datasets/3_aligned_schema/schemas/' + schema.name)
         filepath.parent.mkdir(parents=True, exist_ok=True)
         schema.to_csv(filepath)
 
-    filepath = Path('datasets/aligned_schema/aligned.csv')
+    filepath = Path('datasets/3_aligned_schema/aligned.csv')
     filepath.parent.mkdir(parents=True, exist_ok=True)
     big_schema.to_csv(filepath)
 
 
 if __name__ == '__main__':
     main()
+'''

@@ -6,8 +6,8 @@ from itertools import zip_longest
 import pandas as pd
 
 datasets_directory = 'datasets/'
-datasets_input_directory = datasets_directory + 'input/'
-datasets_output_directory = datasets_directory + 'cleaned/'
+datasets_input_directory = datasets_directory + '1_input/'
+datasets_output_directory = datasets_directory + '2_cleaned/'
 
 
 # reads from a file the datasets to clean
@@ -64,7 +64,7 @@ def get_prefix_suffix_length(column, has_header):
     return prefix_length, suffix_length
 
 
-# returns file names of csv datasets to be cleaned
+# returns file names of csv datasets to be 2_cleaned
 def get_datasets(datasets_path):
     datasets = []
 
@@ -108,7 +108,7 @@ def main():
                 cleaned_column = [" ".join(w.split()[p:] if s == 0 else w.split()[p:-s]) for w in cleaned_column]
                 cleaned_columns.append(cleaned_column)
 
-            # write cleaned data to cleaned file
+            # write 2_cleaned data to 2_cleaned file
             write_cleaned_columns_to_file(dataset_name, df.head(), cleaned_columns)
         else:
             shutil.copyfile(os.path.join(datasets_input_directory, dataset_name),

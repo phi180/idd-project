@@ -1,0 +1,1004 @@
+,company_founded,company_location,company_industry,company_name,company_employees,company_website
+0,['July 2017'],[],['cryptocurrency industry\xa0'],Binance,[],"['www', '.binance', '.com']"
+1,['2004'],"['Taipei', 'Taiwan']",['Food and Beverage'],Gourmet Master Co. Ltd,[],"['www.85cafe.com', '[1]', 'www.85cbakerycafe.com']"
+2,['1968'],"['Mumbai', 'Maharashtra']","['Information technology', 'Consulting', 'Outsourcing']",Tata Consultancy Services,"['616,171', '[3]', '\xa0(October 2022)']","['www', '.tcs', '.com']"
+3,['2000'],"['Oklahoma City, Oklahoma', 'United States']",['precious metals'],"APMEX, Inc.",[],['www.apmex.com']
+4,['2013'],"['Beijing, China']",['Cryptocurrency'],Bitmain Technologies Ltd.,[],"['bitmain', '.com']"
+5,[],"['Palo Alto, CA']",[],"BitGo, Inc.",[],[]
+6,"['New Brunswick, New Jersey']","['New Brunswick, New Jersey', 'U.S.']","['Pharmaceutical', 'Medical Technology', 'Consumer Healthcare']",Johnson & Johnson,"[' 144,500 ', '(2021)', '[5]']",['jnj.com']
+7,"['April\xa04, 1975', ' in ']","['One Microsoft Way', 'Redmond, Washington']",['Information technology'],Microsoft Corporation,"['221,000 (2022)']",['microsoft.com']
+8,['2012'],[],[],"Bitfinex, Inc.",[],[]
+9,"['July\xa02, 1962', ' in ', 'October\xa031, 1969', ' in ', ' (incorporation)']","['Bentonville, Arkansas']",['Retail'],Walmart Inc.,"['2,300,000 (Jan. 2022)', '[5]']",['walmart.com']
+10,[],['Saint Kitts and Nevis'],['Cryptocurrency'],Bitcoin.com,[],[]
+11,['Dublin'],"['Northern Cross, Malahide Road, Dublin, Ireland']",['Beverages'],Bewley's Limited,[],"['www', '.bewleys', '.com', '/ie', '/']"
+12,['1981'],"['Ottawa', 'Ontario']","['Coffee, Coffee Roaster, Coffee Beans']",Bridgehead,[],"['www', '.bridgehead', '.ca']"
+13,['2002'],"['Oakland', 'California', 'U.S.']",['Coffee industry'],"Blue Bottle Coffee, Inc.",[],['bluebottlecoffee.com']
+14,['Israel'],[],[],Aroma Espresso Bar Ltd.,[],"['Aroma Israel', 'Aroma Canada', 'Aroma US']"
+15,['1930'],['Neckarsulm'],['Retail'],Schwarz Group,"['500,000 (FY 2020/21)']",['https://gruppe.schwarz/en']
+16,['6\xa0June 2009'],['Beijing'],"['E-commerce', 'Artificial intelligence', 'Robotics', 'Autonomous car']","JD.com, Inc. (äº¬ä¸)","['310,000 (Dec 2020)', '[1]']","['www', '.joybuy', '.com']"
+17,"['10\xa0July 1946', '(split in two parts in 1960, renamed to Aldi Nord and Aldi SÃ¼d in 1962)']","['Essen', 'MÃ¼lheim']",['Retail'],Aldi,[],"['aldi', '.com']"
+18,"['December\xa031, 2014']","['Deerfield, Illinois']","['Retail', 'pharmaceuticals']","Walgreens Boots Alliance, Inc.","['c.', '\u2009325,000', '\xa0(August 2022)']","['walgreensbootsalliance', '.com']"
+19,"['Marietta, Georgia']","['Atlanta, Georgia']",['Retailing'],"The Home Depot, Inc.","['490,600 (Dec 2021)']",['homedepot.com']
+20,"['Toronto', 'Ontario']",['Brampton'],['Retail'],Loblaw Companies Limited,"['almost 200,000 (2019)', '[3]']","['www', '.loblaw', '.ca']"
+21,"['June\xa024, 1902', ' (corporation)', 'January\xa05, 1962', ' (store)']","['1000 ', ', U.S.']",['Retail'],Target Corporation,"['409,000 (2020)', '[2]']","['target.com', 'corporate.target.com']"
+22,['3\xa0June 1987'],['Paris'],['Luxury goods'],LVMH MoÃ«t Hennessy Louis Vuitton SE,"['150,000 (2021)', '[2]']",['lvmh.com']
+23,['22\xa0September 1924'],"['Bella Vista, New South Wales']",['Retailing'],Woolworths Group Limited,"[' 215,000 (2020)']",['www.woolworthsgroup.com.au']
+24,"['October\xa01939', ' (as J.L. Turner and Son)', 'June\xa01955', ' (as Dollar General)']","['Goodlettsville, Tennessee']",['Discount retailer'],Dollar General Corporation,"['158,000 (2022)']","['www', '.dollargeneral', '.com']"
+25,"['Seattle, Washington']","['Issaquah, Washington']",['Retail'],Costco Wholesale Corporation,"[' 304,000', '[1]', '\xa0(2022)']",[' ']
+26,"['28\xa0July 1943', ' in Sweden']",['Delft'],['Retail'],Inter IKEA Systems B.V.,[],[' (retail)']
+27,['1898'],"['Saint-Ãtienne', 'France']",['Mass Retail'],Casino Guichard-Perrachon S.A.,"[' 196,307 employees worldwide ', '(2021)', '[1]']","['www', '.groupe-casino', '.fr']"
+28,['Roubaix'],"['Croix', 'Lille MÃ©tropole']",['Retail'],Auchan Retail International S.A.,"['179,590 (2020)', '[1]']",['auchan-retail.com']
+29,"['1990 (predecessor)', '15\xa0May\xa01996', ' (date of incorporation of Suning Domestic Appliance)']",['Nanjing'],['Retail'],Suning.com,"['69,398', '[2]', ' (2 August 2021)']",['suning.cn']
+30,"['7 November 1988; ', '34 years ago']","['Bangkok', 'Thailand']",['Retail (Convenience stores)'],CP All Public Company Limited,"['35,557 ', '(2012)', '[1]', ':\u200a50\u200a']","['www', '.cpall', '.co', '.th']"
+31,"['2017', ' (original group was founded in 1996)']",['DÃ¼sseldorf'],['Retail'],Ceconomy AG,"['46,186\xa0(2019/20)']",[' ']
+32,"['A CoruÃ±a', 'Galicia', 'Spain']","['Arteixo', 'A CoruÃ±a', 'Spain']",['Retailing'],"Industria de DiseÃ±o Textil, S.A.","[' 162,450 (2020) ', '[1]']","['www', '.inditex', '.com']"
+33,"['Bologna', 'Italy']","['Bologna', 'Italy']",['Department store'],Conad,"['65,772 in 2020', '[3]']","['www', '.conad', '.it']"
+34,"[', U.S.']","['San Francisco, California', 'U.S.']",['Retail'],"The Gap, Inc.","['117,000 (2021)', '[4]']","['gap', '.com', 'gapinc', '.com']"
+35,[],"['Hamburg', 'Germany']",[],Otto GmbH & Co KG,"['51â²982 (2019/2020)', '[1]']","['www', '.ottogroup', '.com', '/en', '/index', '.php']"
+36,"['January\xa025, 1964']","['Beaverton, Oregon']","['Apparel', 'Accessories', 'Sports equipment']","Nike, Inc.","['c.', '\u200979,100', ' (May 2022)']",['nike.com']
+37,"['New York, New York']",['New York City'],['Retail'],Macy's,[],"['macys', '.com']"
+38,"['Forrest City, Arkansas']","['Memphis, Tennessee']",['Retail'],"AutoZone, Inc.","['~87,000\xa0(2017)']","['autozone', '.com']"
+39,['1890'],"['Monterrey', 'Nuevo LeÃ³n', 'Mexico']","['Beverage', 'Retail']","Fomento EconÃ³mico Mexicano, S.A.B. de C.V.","['+230,000']",[]
+40,['1973'],"['Karlsruhe', 'Germany']",['Retail'],dm-drogerie markt GmbH + Co. KG,"['66,076 (2021)', '[1]']","['dm', '.de']"
+41,['1938'],"['Solna', 'Stockholm', 'Sweden']",[],ICA Gruppen AB (publ),"['23,000', '[1]']","['www', '.icagruppen', '.se', '/en', '/']"
+42,['Madrid'],"['Madrid', 'Spain']",['Retail'],"El Corte InglÃ©s, S.A.","[' 90,004 ', '(2018)', '[1]']",[' (International)']
+43,['1979'],['Brackenfell'],['Retail'],Shoprite Holdings,"['over 145,000 (As end July 2022)']",['https://www.shopriteholdings.co.za/']
+44,['1963'],"['40 rue de SÃ¨vres, Paris 7e, France']",['Luxury'],Kering S.A.,"['38,000 (2019)']","['kering', '.com']"
+45,"['Beaconsfield, Iowa']","['West Des Moines, Iowa']","['Retail', 'grocery']","Hy-Vee, Inc.","['93,000', '[1]']",['www.hy-vee.com']
+46,"['1\xa0July 2010', ' as Coupang Co., Ltd.']","['Jamsil-dong', 'Songpa-gu', 'Seoul', 'South Korea']","['E-commerce', 'digital distribution']","Coupang, Inc.
+","['68,000', '[1]', '\xa0(2021)']","['coupang', '.com']"
+47,['1976'],"[""Villeneuve d'Ascq"", 'France']",['Retail'],Decathlon S.A.,"['93 710 (2020)', '[1]']",['www.decathlon.com']
+48,['2000'],['Kochi'],['Motion picture'],Aashirvad Cinemas,[],"['www', '.aashirvadcinemas', '.in']"
+49,['11 November 1994'],['Mumbai'],['Television'],Balaji Telefilms Ltd.,[],['Balaji Telefilms']
+50,['22 June 1934'],"['Malad', 'Maharashtra']",['Entertainment'],Bombay Talkies,[],[]
+51,['India'],"['Mumbai', 'India']",['Entertainment'],Chilsag Entertainment Network,[],"['www', '.chilsag', '.com']"
+52,['2009'],"['Mumbai', 'Maharashtra', 'India']",[],Illuminati Films,[],[]
+53,['1978'],"['ReykjavÃ­k', 'Iceland']",['Film'],Sagafilm,[],"['sagafilm', '.is']"
+54,['Hyderabad'],"['Hyderabad, Telangana']",['Entertainment'],Geetha Arts,[],['Geetha Arts']
+55,['1999'],"['Chennai', 'India']","['Entertainment', 'Motion picture']",S Pictures,[],[]
+56,['March\xa02008'],"['Mumbai, Maharashtra']","['Entertainment', 'Motion picture']",Cape of Good Films,[],[]
+57,"['2002 (Formerly called ', ' in 1999)']","['Mumbai', 'India']",['Motion picture'],Red Chillies Entertainment,[],['redchillies.com']
+58,['2000'],"['Chennai', 'Tamil Nadu', 'India']",['Film'],Sun Pictures Pvt. Ltd,[],"['sunpictures', '.in']"
+59,['15\xa0December 1991'],"['Mumbai', 'Maharashtra']","['Mass media', 'Entertainment']",Zee Entertainment Enterprises Limited,"['3,429 (2021)', '[2]']",['zee.com']
+60,"['Mumbai', 'Maharashtra', 'India']","['Mumbai', 'Maharashtra', 'India']",[],Sudha Productions,[],[]
+61,"['January\xa029, 2010']","['Chennai', 'Tamil Nadu']","['Entertainment', 'Motion picture']",YNOT Studios,[],['YNOT Studios']
+62,['15\xa0February 2005'],"['Mumbai, Maharashtra']","['Entertainment', 'Mass media']",Reliance Entertainment Pvt Ltd,[],['Reliance Entertainment']
+63,['1986\xa0'],['India'],"['Film, TV Technology']",Qube Cinema Technologies,['650'],['\xa0']
+64,['1948'],"['Chembur', 'Mumbai', 'Maharashtra']",['Bollywood'],R. K. Films,[],[]
+65,"['October, 2010']",['Oslo'],"['Film', 'Media', 'Music']",Fuuse,[],[]
+66,['Tokyo'],"['Koganei, Tokyo']","['Motion pictures', 'Video games', 'TV commercials']",Studio Ghibli Inc.,['182\xa0(2021)'],"['www', '.ghibli', '.jp']"
+67,"['New Manila', 'Quezon City', 'Philippines']","['Pasig', 'Philippines']",['Film production'],"Regal Entertainment, Inc.",[],"['regalfilms', '.com']"
+68,['1980'],['Victoria Island'],['Mass media'],Silverbird Group,[],"['www', '.silverbirdgroup', '.com']"
+69,"['February 4, 1943']","['Ekaterinburg', 'Russia']",['Motion pictures'],Sverdlovsk Film Studio,[],['http://stranamedia.com/']
+70,['22\xa0December 1991'],['Saint Petersburg'],['Video games'],Lesta Studio,['150\xa0(2012)'],['lesta.ru']
+71,"['Manila', 'Philippines']","['Manila', 'Philippines']",['Motion pictures'],Reyna Films,[],[]
+72,['1914'],"['St. Petersburg, Russia']",['Film industry'],Kinostudiya LenFilm,[],"['www', '.lenfilm', '.ru']"
+73,['1915'],['Moscow'],['Motion pictures'],Gorky Film Studio,[],"['www', '.gorkyfilm', '.ru']"
+74,"['1992, reorganized in 2006']","['Moscow', 'Russia']",['Motion pictures'],Art Pictures Studio,[],['art-pictures.ru']
+75,['2004'],['Saint-Petersburg'],['Cinema'],Proline Film,[],[]
+76,['2010'],"['Cape Town', 'South Africa']",['Film'],Cape Town Film Studios,[],"['www', '.capetownfilmstudios', '.co', '.za']"
+77,['10\xa0June 1936'],"['Akademika Korolyova str.', 'Moscow', 'Russia']",['Animated Films.'],Soyuzmultfilm,['\xa0(February 2020)'],[]
+78,['September\xa01995'],"['Nonhyeon-dong', 'Gangnam District', 'Seoul', 'South Korea']",['Film'],Sidus Corporation,[],[]
+79,['25\xa0June 1998'],['Belgrade'],['Media'],Pink International Company d.o.o.,"['924 ', '(2018)']","['www', '.rtvpink', '.com']"
+80,['1993'],['Moscow'],"['production', 'TV-production', 'entertainment', 'sketch shows', 'TV shows', 'sitcoms']",Soho Media,[],[]
+81,['1998'],"['Saint Petersburg', 'Russia']",['Motion pictures'],Svarog Films (Ð¡Ð²Ð°ÑÐ¾Ð³ Ð¤Ð¸Ð»ÑÐ¼),[],['http://www.svarog-film.com/']
+82,"['Seoul', 'South Korea']","['Nambusunhwan', 'Gangnam']","['Entertainment, media']",Showbox Entertainment,[],"['www', '.showbox', '.co', '.kr']"
+83,[],"['Istanbul', 'Turkey']",[],Star TV,[],['www.startv.com.tr']
+84,['1997'],"['London, England']",['Film'],DNA Films,[],['DNAFilms.com']
+85,['18 June 1990'],['Broadcasting House'],['Film'],BBC Film,[],"['www', '.bbc', '.co', '.uk', '/bbcfilm']"
+86,['1954'],"['London, United Kingdom']",['Media'],ITC Entertainment,[],[]
+87,"['1931', ' (as Sound Film Producing & Recording Studios)']",['Shepperton'],"['Film, television']",Shepperton Studios,[],[]
+88,['1979'],"['Brooklyn, New York']","['Film', 'television']",40 Acres and a Mule Filmworks,[],"['40acres', '.com']"
+89,['2006'],"['Bridgend', 'Wales']",['Film and television production'],Dragon Studios Wales,[],[]
+90,['1970'],"['Bangkok', 'Thailand']",['Motion pictures'],Sahamongkol Film International Co. Ltd.,[],['www.sahamongkolfilm.com']
+91,['1983'],"['London', 'England']",['Film production'],Working Title Films Limited,[],['Official website']
+92,['1999'],['Sheffield'],['Feature Films and TV Drama'],Warp Films,[],"['warpfilms', '.com']"
+93,"['London, United Kingdom ', ' (July 2002)']",['London'],"['Film, television']",Vertigo Films,[],"['vertigofilms', '.com']"
+94,['1965'],"['New York City', 'United States']",['Exploitation film studio'],Cinemation Industries,[],[]
+95,"['February\xa022, 1987']","['Greenwich, Connecticut']","['Computer animation', 'Motion pictures']","Blue Sky Studios, Inc.","['450', '[6]', '\xa0(2021)']","['blueskystudios.com', 'Wayback Machine']"
+96,['1913'],"['St Margarets, London']",['Film and TV'],Twickenham Studios Limited,[],"['www', '.twickenhamstudios', '.com']"
+97,['1996'],['United States'],[],Cedar Grove Productions,[],['www.cedargroveproductions.com']
+98,['1917'],['United States'],"['Motion picture exhibition, distribution and production']",First National Pictures,[],[]
+99,"['June\xa028, 1916']","['Hollywood, California', 'United States']",['Film'],Famous Players-Lasky Corporation,[],[]
+100,"['May\xa08, 1912']","['Hollywood, California']",['Motion pictures'],The Famous Players Film Company,[],[]
+101,['1980'],"['Century City, California']","['Film production', 'Home video']",First Look Studios,[],[]
+102,['1991'],['4000 Warner Blvd'],['Film production'],Fine Line Features,[],[]
+103,"['1970', '2007', '1980']","['Toronto', 'Ontario', 'Toronto', 'Ontario', 'Toronto', 'Ontario']","['Entertainment', 'Film production', 'Television production']",Entertainment One Ltd.,[],"['\xa0', '\xa0']"
+104,"['October 12, 1994', ' (as a division of ', ')', 'October 27, 2004', ' (as DreamWorks Animation SKG)']","['Glendale, California']","['Animated', 'films']",DreamWorks Animation LLC,"['1,400 (2022)', '[2]']","['dreamworks', '.com']"
+105,['1922'],"['723 Seventh Avenue, New York, NY']",['Motion pictures'],Film Booking Offices of America,[],[]
+106,"['November\xa019, 1916']","['Fort Lee, New Jersey']",['Film studio'],Goldwyn Pictures,[],[]
+107,"['October\xa023, 1967']","['United States', '(Also owned studios and cinema chains throughout the UK, Israel and Europe)']",['Film production'],"The Cannon Group, Inc.",[],[]
+108,['1910'],"['The Bronx', 'New York City', 'New York']",['Film studio'],Gnome Motion Picture Company,[],[]
+109,['1993'],"['Hollywood, California', 'United States']",['Entertainment'],"Gener8Xion Entertainment, Inc.",[],['www.8X.com']
+110,['1994'],"['Century City, Los Angeles, California', 'United States']",['Film'],"Searchlight Pictures, Inc.",['100+'],"['searchlightpictures.com', '[a]']"
+111,['1923'],['United States'],['Film'],Samuel Goldwyn Productions,[],[]
+112,['2001'],"['New York City', 'New York', 'United States']",['Motion pictures'],Magnolia Pictures,[],"['magpictures', '.com']"
+113,"['Vancouver', 'British Columbia']","['Santa Monica, California', 'Santa Monica, California']","['Entertainment', 'Home video']",Lions Gate Entertainment Corporation,"['3,500\xa0(2018)']","['lionsgate.com', 'www', '.lionsgate', '.com']"
+114,['1990'],"['Santa Monica', 'California', 'U.S.']",['Film'],Lightstorm Entertainment,[],[]
+115,['1896'],"['Philadelphia, Pennsylvania', 'United States']",['Motion pictures'],Lubin Manufacturing Company,[],[]
+116,[],"['Studio City', 'California']",['Entertainment'],Lightyear Entertainment,[],"['lightyear', '.com']"
+117,"['December\xa07, 1993']",['500 South Buena Vista Street'],"['Film', 'Television', 'Animation']","Marvel Studios, LLC",[],"['www', '.marvel', '.com', '/movies']"
+118,"['December\xa010, 1971', ' in San Francisco, California, United States']",['Letterman Digital Arts Center'],"['Film', 'Television']",Lucasfilm Ltd. LLC,"['2,000 (2015)', '[2]']",[' ']
+119,['1974'],"['Medford, Oregon', 'United States']","['Production company', 'Film distributor']",Pacific International Enterprises,[],[]
+120,['November\xa02006'],"['Beverly Hills, California']",['Motion pictures'],"Overture Films, LLC",[],[]
+121,"['Melbourne', 'Australia']","['Melbourne', 'Australia']",['Motion pictures'],Limelight Department,[],[]
+122,['1994'],"['Los Angeles, California']",['Motion pictures'],"Newmarket Films, LLC",[],"['newmarketfilms', '.com']"
+123,['1990'],"['Los Angeles, California']","['Film industry', 'Entertainment']",Original Film,[],"['www', '.originalfilm', '.com']"
+124,"['New York City', 'United States']",['4000 Warner Blvd'],['Film production'],"New Line Productions, Inc.",[],['\xa0']
+125,"['January\xa01978', ' (original)', '2014', ' (relaunch)']","['Los Angeles, California']","['Film', 'television']","Orion Releasing, LLC",[],[]
+126,['1909'],"['Bayonne, New Jersey', 'Hollywood, California']","['Motion picture', 'production company']",Nestor Studios,[],[]
+127,['1970 '],"['London', 'United Kingdom', 'Los Angeles', 'United States']",['Entertainment'],Scott Free Productions,[],['www.scottfree.com']
+128,['March 1912'],"['Edendale, California']",['Film studio'],Mutual Film Corporation,[],[]
+129,"['April\xa06, 2000']","['Culver City, California', 'United States']",['Motion pictures'],Samuel Goldwyn Films,[],"['www', '.samuelgoldwynfilms', '.com']"
+130,"['June\xa024, 1980']","['Los Angeles, California']",['Motion pictures'],Silver Pictures,[],[]
+131,['2003'],"['Albany, Georgia']",['Film'],Sherwood Pictures,[],['SherwoodPictures.com']
+132,"['1921', 'November\xa01948', 'December\xa08, 1998']",['10202 West Washington Boulevard'],"['Television production', 'Television syndication']",Screen Gems,[],[]
+133,['1896'],"['Chicago', 'Los Angeles']",['Entertainment'],Selig Polyscope Company,[],[]
+134,"['1998 (original)', '2019 (relaunch)']",['Century City'],['Film'],"Spyglass Media Group, LLC",[],['spyglassmediagroup.com']
+135,"['Hollywood, Los Angeles, California', 'U.S.']","['10202 West Washington Boulevard', 'Culver City', 'California', 'U.S.']","['Entertainment', 'Motion pictures', 'Motion pictures']",Sony Pictures Entertainment Motion Picture Group,[],"['sonypictures.com/movies', 'sonypictures.com', 'sonypictures.com']"
+136,"['Hollywood', 'California']",['New York City'],['Entertainment'],"Sony Pictures Classics, Inc.","['25', '[1]']",['sonyclassics.com']
+137,"['New Rochelle, New York']",[],[],Thanhouser Company,[],"['thanhouser', '.org']"
+138,['February\xa02006'],"['Los Angeles', 'California', 'United States']","['Film', 'television']",Temple Hill Entertainment,[],['https://www.templehillent.com/']
+139,"['July\xa026, 1991']","['Santa Monica, California']",['Motion pictures'],"Summit Entertainment, LLC",[],[]
+140,['1974'],"['New York, New York']",['Films'],Troma Inc.,[],"['www', '.troma', '.com']"
+141,"['Burbank', 'California', 'U.S.']","['10202 West Washington Boulevard', 'Culver City', 'California', 'U.S.']",['Film'],"TriStar Pictures, Inc.",[],['sonypictures.com']
+142,"['August\xa01984', ' ', 'June\xa023, 1989', ' ']","['Santa Monica', 'California']",['Film'],Trimark Pictures,[],[]
+143,['2000'],"['Los Angeles, California']",['Film'],"Walden Media, LLC",[],"['walden', '.com']"
+144,['2004'],"['Universal City, California']",['Entertainment'],Gaiam Vivendi Entertainment,[],"['cinedigm', '.com']"
+145,"['Hollywood, California']","['Beverly Hills, California', 'West Hollywood, California']","['Film', 'Television', 'Motion pictures']",United Artists Corporation,[],[' ']
+146,"['May\xa031, 1935']",['Pico Boulevard'],['Film'],"20th Century Studios, Inc.","['2,300\xa0(2018)']","['www', '.20thcenturystudios', '.com']"
+147,['1951'],"['Minneapolis', 'United States']",[],World Wide Pictures,[],['World Wide Pictures']
+148,['2006'],"['Atlanta, Georgia']",['Production studio'],Tyler Perry Studios,[],"['tylerperrystudios', '.com']"
+149,['March 2005'],['Hudson Street'],['Film'],"The Weinstein Company, LLC",['150\xa0(2018)'],[]
+150,['2002'],"['Los Angeles', 'California', 'United States']",['Film'],WWE Studios Inc.,[],['WWE Studios']
+151,['February\xa01994'],"['Century City', 'Los Angeles', 'California', 'U.S.']","['Motion pictures', 'Animation']","20th Century Animation, Inc.",[],[]
+152,"['April 1, 2006']",[],[],Welling Films,[],[]
+153,['2007'],"['1384 Broadway', 'New York', 'NY']",['Motion Pictures'],Worldview Entertainment,['15'],['\xa0']
+154,"['August 7, 2003']","['Burbank, California', 'United States']",['Film'],Warner Independent Pictures,[],"['wip.warnerbros.com', 'Wayback Machine']"
+155,"['October\xa016, 1923', ' (as Walt Disney Productions)', 'April\xa01, 1983', ' (as Walt Disney Pictures)']",['500 South Buena Vista Street'],['Film'],Walt Disney Pictures,[],"['movies', '.disney', '.com']"
+156,['1897'],['United States'],"['Motion picture exhibition, distribution and production']",Vitagraph Studios,[],[]
+157,['2005'],"['Los Angeles', 'California', 'United States']",['Motion pictures'],"Yari Film Group, LLC",[],[]
+158,"['April\xa04, 1923']",['4000 Warner Blvd.'],['Entertainment'],Warner Bros. Entertainment Inc.,"['est.', ' 8,000\xa0(2014)']","['www', '.warnerbros', '.com']"
+159,"['February\xa015, 1984', '2007']",['500 South Buena Vista Street'],"['Film industry', 'Video games']",Touchstone Pictures,[],[]
+160,"['October\xa016, 1923']",['Walt Disney Studios'],['Entertainment'],The Walt Disney Studios,[],['disneystudios.com']
+161,"['June 16, 1978']",[],[],The Samuel Goldwyn Company,[],[]
+162,['1989'],"['Culver City, California']",['Film distribution'],Strand Releasing,[],['StrandReleasing.com']
+163,['September 2001'],"['New York City', 'New York']",['Motion pictures'],ThinkFilm,[],[]
+164,"['April\xa030, 1912']",['10 Universal City Plaza'],['Film'],Universal City Studios LLC,[],"[' ', ' ']"
+165,"['April\xa04, 2006', 'May\xa01, 2013', 'May 5, 2016', 'November\xa018, 2019', 'October\xa020, 2021']","['Santa Monica, California', 'United States']","['Television production', 'Video games', 'Video games', 'Sports']","Skydance Media, LLC",[],"['skydance', '.com', 'skydance', '.com', '/tv', 'skydance', '.com', '/interactive', 'skydance', '.com', '/new-media', 'skydance', '.com', '/sports']"
+166,['1947'],['Utah'],[],Seen-by-Scene Communications,[],"['seenbyscene', '.com']"
+167,['2001'],"['New York City', 'United States', 'Toronto', 'Canada']",['Film distribution'],"Screen Media Ventures, LLC.",[],"['screenmediafilms', '.net']"
+168,['1915'],[],['Motion picture'],Rolfe Photoplays,[],[]
+169,"['April\xa02, 1998']","['Universal City, California']",['Motion picture'],Rogue,[],[]
+170,['1935'],"['Studio City, Los Angeles', 'California']",[],Republic Pictures Corporation,[],[]
+171,['1914'],"['Hollywood, California']",['Movie studio'],Reliance-Majestic Studios,[],[]
+172,"['January\xa025, 1929', ' (as RKO Productions Inc., subsidiary of Radio-Keith-Orpheum Corp.)', '1991']",['Avenue of the Americas'],"['Motion pictures', 'Motion pictures']",RKO Radio Pictures Inc.,[],[' ']
+173,"['April\xa01, 2003']",['Austin Studios'],['Entertainment'],"Rooster Teeth Productions, LLC","['419 (July 2019)', '[2]']","['Rooster Teeth', 'Roost Podcast Network']"
+174,['1939'],['Poverty Row'],['Film studio'],Producers Releasing Corporation,[],[]
+175,"['November\xa021, 2005']","['Scottsdale, Arizona']",['Entertainment'],Pinnacle Peak Pictures,[],"['pinnaclepeakpictures', '.com']"
+176,"['2005 (original company)', '2013 (revived studio)']","['Los Angeles, California']",['Entertainment'],Picturehouse,[],['Picturehouse.com']
+177,"['May\xa015,\xa01998']",[],['Film'],Paramount Vantage,[],[]
+178,"['Buffalo, New York', 'United States']","['Los Angeles', 'California', 'Los Angeles, California', 'U.S.']","['Film', 'Television']","Miramax, LLC",['100+'],['Official website']
+179,"['May\xa08, 1912', '1989']","['New York City, New York']","['Film', 'Entertainment', 'mass media']",Paramount Pictures Corporation,[],"['paramountpictures.com', 'www', '.paramount', '.com']"
+180,"['July 6, 2011']","['Los Angeles', 'California']","['Animation', 'Motion pictures']",Paramount Animation,"['112 (2020)', '[3]']",['Official website']
+181,"['June\xa023,\xa01915']","['New York City', 'New York', 'United States']",['Film studio'],Metro Pictures Corporation,[],[]
+182,['April 1945'],['California'],['Film'],Liberty Films Inc.,[],[]
+183,"['April\xa017, 1924']","['Beverly Hills, California', 'United States']",['Film'],Metro-Goldwyn-Mayer Studios Inc.,[],"['www', '.mgm', '.com']"
+184,['1912 (as Keystone Pictures Studio)'],"['Edendale, Los Angeles']",['Film studio'],Keystone Studios,[],[]
+185,['2013'],"['Albany, Georgia']",['Film'],Kendrick Brothers,[],['kendrickbrothers.com']
+186,[],"['Irving, Texas', 'Irving, Texas']",[],Blaze Media,[],"['theblaze', '.com', 'www', '.theblaze', '.com', '/st', '/Radio']"
+187,['1927'],"['Santa Monica Boulevard', 'Los Angeles', 'Studio City, Los Angeles, California']",['Film studio'],Mascot Pictures Corporation,[],[]
+188,['2000'],"['Burbank', 'California', 'United States']","['Motion picture', 'Media', 'Publishing']","Legendary Pictures Productions, LLC","['153', '[1]']","['www', '.legendary', '.com']"
+189,['1982'],['United States'],['Film studio'],Interscope Communications,[],[]
+190,"['September\xa026, 2000']","['New York', 'New York']",['Motion pictures'],IFC Films,[],"['ifcfilms', '.com']"
+191,"['February\xa01, 1989']",['500 South Buena Vista Street'],['Film'],Hollywood Pictures,[],[]
+192,['18\xa0December 2008'],"['Charlottesville', 'United States of America']",['Film production and Distribution'],"Heritage Film Project, LLC",[],['heritagefilmproject.com']
+193,"['December\xa010, 1999']","[', ', ', U.S.', ', U.S. (parent company)']",['Production company'],"Happy Madison Productions, Inc.",[],[]
+194,['1993'],"['Springdale, Arkansas']",['Entertainment'],Hannover House,[],['www.hannoverhouse.com']
+195,['1981'],"['Chatsworth, Los Angeles', 'California']",['Entertainment'],RLJ Entertainment,[],"['rljentertainment', '.com']"
+196,"['June\xa026, 1933']",[],['Film'],"Twentieth Century Pictures, Inc.",[],[]
+197,"['Fort Lee, New Jersey']",[],['Film'],Fox Film Corporation,[],[]
+198,['1952'],"['Sonoma County, California']","['Motion pictures', 'television programs']","Filmways, Inc.",[],[]
+199,['2006'],[],['Entertainment'],Fox Atomic LLC,[],[]
+200,['2002; 20 years ago'],"['Universal City, California', 'United States']",['Film'],Focus Features LLC,[],['Official website']
+201,[],"['Miami', 'Florida']",['Entertainment'],Flavor Unit Entertainment,[],[]
+202,"['1952 (as Four Star Productions)', 'Incorporated as Four Star Television on Jan. 12, 1959.']","['Beverly Hills, California', 'Costa Mesa, California']",['Television production'],Four Star Television,[],[]
+203,['2002'],['United States'],[],Five & Two Pictures,[],['Official website']
+204,"['September 25, 1942']","['Los Angeles, California']",['Film studio'],Embassy Pictures,[],[]
+205,"['January\xa011, 2001']","['Beverly Hills, California']","['Motion pictures', 'Television films']","Electric Entertainment, Inc.",[],"['electricentertainment', '.com']"
+206,['2007'],"['Nashville, Tennessee']",['Entertainment'],Elevating Entertainment ,[],['Official website']
+207,['1984'],['United States'],['Entertainment'],Davis Entertainment,[],[]
+208,['1977'],[],['Film studio'],Compass International Pictures,[],['CompassPics.com']
+209,['1992'],"['New York City', 'New York']","['Film', 'Television']",Dimension Films,[],[]
+210,"['October\xa012, 1994', 'October\xa012, 1998']","['Universal City, California', 'Universal City, California', 'United States']","['Entertainment', 'Home video']",DreamWorks Pictures,"['80 (2012)', '[3]']","['amblin', '.com', '/movie', '/dreamworks', '/']"
+211,"['1998', '2002', ' (relaunch)']","['10202 West Washington Boulevard', 'Culver City, California', 'USA']",['Film'],Destination Films,[],[]
+212,['1989'],"['Santa Monica, California']",['Film studio'],Cinergi Pictures Entertainment Inc.,[],[]
+213,"['June\xa06, 1989']","['Los Angeles', 'California']",['Motion pictures'],Capitol Films Limited,[],[]
+214,['March 2007'],"['Brentwood, Los Angeles', 'California']",['Film'],CBS Films Inc.,"['2 (as of  2019)', '[3]']","['www', '.cbsfilms', '.com']"
+215,"['June\xa019, 1987']","['Beverly Hills, California']",['Film'],Castle Rock Entertainment,[],[]
+216,"['March 30, 1976']","['Los Angeles, California']",['Entertainment'],"Carolco Pictures, Inc.",[],['carolcofilms.com']
+217,"['November\xa017, 1992']","['Santa Monica', 'California', 'United States']",['Entertainment'],Caravan Pictures,['7\xa0(1997)'],[]
+218,"['June\xa019, 1918', ' (as Cohn-Brandt-Cohn (CBC) Film Sales Corporation) in ', ', United States', 'January\xa010, 1924', ' (as Columbia Pictures) in ', ', United States']",['10202 West Washington Boulevard'],['Film'],"Columbia Pictures Industries, Inc.",[],['sonypictures.com']
+219,"['August\xa02,\xa01998']","['Berwyn, Pennsylvania', 'U.S.']",['Film'],Blinding Edge Pictures,[],[]
+220,"['1952 (as Wayne/Fellows Productions)', '1956 (as Batjac Productions)']",[],['Entertainment'],Batjac Productions,[],[]
+221,"['Southern California (1931)', 'predecessor-in-interest to Allied Artists Pictures Corporation (1946)']","['Los Angeles', 'California', 'New York City, New York']",['Entertainment'],Monogram Pictures,[],"['monogrampictures', '.com']"
+222,"['1983', ' (as U.S.A. Home Video)']","['Van Nuys, CA', 'Santa Monica, CA']","['Home video', 'Motion pictures']","Artisan Entertainment, Inc.",[],[]
+223,"['December\xa012, 1969']","['San Francisco', 'California', 'United States']","['Motion pictures', 'Television']",American Zoetrope,[],"['zoetrope', '.com']"
+224,"['December\xa016, 2015']",['Universal City'],['Entertainment'],"Storyteller Distribution Co., LLC",[],"['amblin', '.com']"
+225,['1980'],"['Universal City, California', 'U.S.']",['Film'],"Amblin Entertainment, Inc.",[],"['amblin', '.com', '/movie', '/']"
+226,['2007'],"['10202 West Washington Boulevard', 'Culver City, California']","['Film', 'Television programming']",Affirm Films,['28'],"['www', '.affirmfilms', '.com']"
+227,['2002'],"['Dallas', 'Texas']","['Movies', 'television', 'home entertainment', 'home video', 'movie theaters']","2929 Entertainment, LLC",[],"['2929entertainment', '.com']"
+228,"['April\xa02, 1954', ' (original)', '\nOctober\xa07, 2020', ' (relaunch)', '1964']","['Los Angeles', 'California', 'U.S.']","['Television production', 'Television syndication']",American International Pictures,[],[]
+229,"['February 27, 2001']","['Los Angeles', 'California']",['Motion picture'],Syncopy Films Inc.,['4\xa0'],[]
+230,['May 8 1979'],[],[],PolyGram Filmed Entertainment,[],[]
+231,['23\xa0April 1937'],['London'],['Entertainment'],The Rank Organisation,[],[]
+232,['1997'],"['London', 'Glendale, California']","['Film', 'television production']",Marv Studios,[],['Official website']
+233,"['1991', ' (as Intermedia Film Equities)', '1996', ' (as Intermedia Films)']","['Los Angeles', 'California', 'U.S.']",['Film'],Intermedia Films,"['11â50', '[', 'citation needed', ']']",[' (archive)']
+234,['London'],"['Borehamwood', 'Hertfordshire']",['Film industry'],Heyday Films Ltd.,[],[]
+235,['November\xa01934'],['London'],"['Film production', 'Television production', 'Theatrical production', 'Publishing']",Hammer Films,[],['Official website']
+236,['1982'],"['London', 'England', 'United Kingdom']",[],Film4 Productions,[],"['www', '.film4productions', '.com']"
+237,[],[],[],Film Tank,[],[]
+238,['13\xa0December 1962'],"['London', 'United Kingdom']","['Entertainment', 'Film']",Eon Productions Ltd.,[],"['eon', '.co', '.uk']"
+239,['1927'],['England'],"['Film', 'television']",Associated British Picture Corporation,[],[]
+240,['2011'],['Colchester'],['production company'],Aura Films Ltd,[],[]
+241,['1945'],['United Kingdom'],"['Film production', 'Film distribution']",Anglo-Amalgamated,[],[]
+242,['1973'],"['Bangkok', 'Thailand']",['Motion pictures'],Five Star Production Co. Ltd.,[],['http://www.fivestarproduction.co.th/']
+243,"['27\xa0December 1919', ' by merger (as Svensk Filmindustri)']","['Stockholm', 'Sweden']","['Film, television']",AB Svensk Filmindustri,[],"['sfstudios', '.se']"
+244,['1927'],"['Kyiv', 'Ukraine']",['Motion Pictures'],National Cinema Studio of feature films named after ,[],[]
+245,['2001'],"['Bangkok', 'Thailand']",['Motion pictures'],Phranakorn Film Co. Ltd.,[],['Official site']
+246,['1951'],"['Bangkok', 'Thailand']","['Television', 'Film', 'Education', 'Content Management', 'New Biz']",Kantana Group Public Company Limited,[],['http://www.kantana.com/']
+247,['2003'],['Bangkok'],['Motion pictures'],GMM Tai Hub Co. Ltd.,[],"['www', '.gth', '.co', '.th']"
+248,['5\xa0January 2016'],"['Bangkok', 'Thailand']",['Film production'],GDH 559,[],"['www', '.gdh559', '.co', '.th']"
+249,"['June\xa025,\xa02008', ' (as Domeo Holdings)', 'September\xa01,\xa02008']","['Gangnam-gu', 'Seoul', 'South Korea', 'Nonhyeon-dong', 'Gangnam-gu', 'Seoul', 'South Korea']","['Entertainment', 'Mass media', 'Production']",Next Entertainment World,[],"['its-new', '.co', '.kr']"
+250,['October\xa01978'],['Seoul'],['Entertainment'],Kakao M Corp.,"['361 (as of October\xa02016', '\xa0(', '2016-10', ')', ')', '[4]']",['kakao-m.com']
+251,['October\xa01991'],['Mapo-gu'],['Entertainment'],DSP Media,[],"['dspmedia', '.co', '.kr']"
+252,['Copenhagen'],['Stockholm'],"['Mass media', 'E-commerce', 'Real estate', 'Investment services']",Bonnier AB,"['9,226 (2013)']","['bonnier', '.com']"
+253,['2015'],"['Seoul', 'South Korea']",['Entertainment'],Coridel Entertainment,[],"['coridelent', '.com']"
+254,['1976'],['Maracaibo'],['Oil and gas'],PetrÃ³leos de Venezuela S.A.,"['70,000']",['pdvsa.com']
+255,['1993'],"['Seoul, Korea']",['Film'],Cinema Service,[],"['www', '.cinemaservice', '.com']"
+256,[],[],[],ANCAP,[],[]
+257,['January 2000'],"['Seoul', 'South Korea']",['Film'],CJ Entertainment Inc.,"['2,233']",['http://www.cj-entertainment.com/']
+258,['1996'],"['Cape Town, South Africa']","['CGI animation', 'Motion pictures']",Triggerfish Animation Studios,[],"['triggerfish', '.com']"
+259,"['July\xa024, 1969']",['Lima'],['Oil and gas'],PetrÃ³leos del PerÃº S.A.,[],"['www', '.petroperu', '.com', '.pe']"
+260,['1995'],"['Jongno District', 'Seoul', 'South Korea']",['film'],"Myung Film Co., Ltd.",[],"['myungfilm', '.com']"
+261,['September\xa02003'],"['Songpa District', 'Seoul', 'South Korea']",['film'],Lotte Cultureworks,[],['lottecinema.co.kr/LCCS']
+262,['1981'],"['Asuncion', 'Paraguay']",['oil'],PetrÃ³leos Paraguayos,"['2,700 (2008)']",[]
+263,"['Quito', 'Ecuador']","['Quito', 'Ecuador']",['Oil and gas'],Petroecuador,[],"['www', '.eppetroecuador', '.ec']"
+264,['1921 (Tropical Oil Company - Mares Concession)'],"['BogotÃ¡', 'Colombia']",['Oil and Gas'],Ecopetrol S.A.,"['9,315']","['www', '.ecopetrol', '.com', '.co']"
+265,['2008'],"['Krasnogorsk', 'Moscow Oblast', 'Russia']",['Motion pictures'],GlavKino,"['1,500']",['glavkino.ru']
+266,['2010'],"['Moscow, (Russian HQ)']",['Cinema'],Enjoy Movies,[],['Enjoy-Movies.Ru']
+267,['1934'],"['Santiago', 'Chile']",['Energy'],Empresas Copec S.A.,"['8,644']",['www.ec.cl']
+268,['1933'],['St. Petersburg'],['Motion pictures'],Lennauchfilm,[],['http://www.lennauchfilm.ru']
+269,['1991'],"['Moscow, Russia (Russian HQ)', 'New York, US (International HQ)']",['Cinema'],Bazelevs,[],"['bazelevs', '.ru']"
+270,['1995'],"['Moscow, Russia']",['Motion pictures'],Central Partnership,[],"['centpart.ru', 'centpart.ru/en']"
+271,"['December\xa021, 1936']","['La Paz', 'Bolivia']",['Oil and gas'],Yacimientos PetrolÃ­feros Fiscales Bolivianos,[],"['ypfb', '.gob', '.bo']"
+272,"['June\xa03, 1922', ' ']","['Buenos Aires', 'Argentina']",['Petroleum and natural gas'],YPF S.A.,"['14,000', '[6]']",['ypf.com']
+273,['1948'],"['Buenos Aires', 'Argentina']","['Petroleum', 'energy']",Bridas,[],[]
+274,[],[],[],Russian World Studios,[],[]
+275,['3 October 1953'],['Rio de Janeiro'],"['Energy', 'Oil and gas']",PetrÃ³leo Brasileiro S.A. â Petrobras,"['45,532 ', '(2021)', '[7]']",['www.petrobras.com.br']
+276,['1929'],['Port Morseby'],['Petroleum'],Oil Search,[],['www.oilsearch.com']
+277,['30\xa0January 1924'],"['Moscow', 'Russia']",['Motion pictures'],Kinostudiya MosFilm,"['1,500']","['en', '.mosfilm', '.ru']"
+278,"['March 26, 1999']","['Saint Petersburg', 'Russia']","['Animation', 'Motion pictures']",Melnitsa Animation Studio,['325 (2014)'],"['www', '.melnitsa', '.com']"
+279,['May 2008'],"['Miami', 'Florida', 'United States']","['Animation', 'Motion pictures']",Animaccord Animation Studio,[],"['www', '.animaccord', '.com']"
+280,['2005'],"['Moscow', 'Russia']",['Motion pictures'],Non-Stop Production,[],['nonstopkino.ru']
+281,['2007'],"['\n', '\n']","['Motion pictures', 'Television']",Wizart Animation,['200 (2021)'],"['www', '.wizartanimation', '.com']"
+282,['March\xa02003'],"['Saint Petersburg', 'Russia']","['Animation', 'Motion pictures']","Computer Animation Studio, Petersburg",['150+'],"['skapetersburg', '.ru']"
+283,['1885'],"['Melbourne', 'Victoria, Australia']","['Metals', 'Mining']",BHP Group Limited,"['80,000 (2021)', '[2]']","['www', '.bhp', '.com']"
+284,"['Otago', 'New Zealand']","['Wellington', 'Wellington', 'New Zealand', 'Wellington', 'New Zealand']","['Conglomerate', 'Natural gas wholesaling', 'LPG wholesaling', 'Electricity generation', 'Electricity retailing', 'Natural gas retailing']",The Todd Corporation Limited,['450'],"['ToddCorporation.com', 'www.toddenergy.co.nz']"
+285,['26\xa0July\xa01954'],['Perth'],['Oil and gas'],Woodside Energy Group Ltd,"['â5,000 (2022)']","['www', '.woodside', '.com', '.au']"
+286,['18 March 1954'],"['Flinders Street, Adelaide', 'South Australia']",['Energy'],Santos Ltd.,"['2,190 (2018)']","['santos', '.com']"
+287,"['February 2000, but parts of the business date from the 20th century']","['Barangaroo', 'Sydney', 'New South Wales']",['Energy'],Origin Energy Ltd,[],"['originenergy', '.com', '.au']"
+288,['1997-2018'],"['Perth, Australia']",['Energy'],AWE Limited,[],['https://mitsuiepmidwest.com.au']
+289,['1986'],"['Spring', 'Texas', 'United States']",['Petroleum industry'],XTO Energy Inc.,[],['xtoenergy.com']
+290,['2007'],"['\n', '\n']","['Motion pictures', 'Television']",Wizart Animation,['200 (2021)'],"['www', '.wizartanimation', '.com']"
+291,['1985'],['Houston'],['Petroleum industry'],"VAALCO Energy, Inc.","['117, including 80 in ', 'Gabon', ' (2021)']","['www', '.vaalco', '.com']"
+292,"['January\xa01, 1980']","['San Antonio', 'Texas', 'United States']",['Oil and gas'],Valero Energy Corporation,"['10,015 ', '(January 2018)', '[1]']","['www', '.valero', '.com']"
+293,['1947'],['Lodz'],['licensing'],Se-ma-for,[],"['www', '.se-ma-for', '.com']"
+294,"['May\xa08,\xa01993', '1997']","['ABS-CBN Broadcasting Center', 'ABS-CBN Broadcasting Center', 'Diliman', 'Quezon City', 'Philippines']","['Broadcast media', 'Television production']",Star Cinema,[],"['starcinema', '.abs-cbn', '.com']"
+295,"['Quezon City', 'Philippines']","['Pasig', 'Philippines']",['Motion pictures'],Viva Films,[],[]
+296,['1937'],"['Granada Street', 'New Manila', 'Quezon City', 'Philippines']",['Motion pictures'],"Sampaguita Pictures, Inc.",[],[]
+297,"['1929', ' (as Arkansas Western Gas Company)']","['Spring, Texas']",['Petroleum industry'],Southwestern Energy Company,['938 (2020)'],"['www', '.swn', '.com']"
+298,['1908'],['Denver'],['Petroleum industry'],SM Energy Company,['506 (2021)'],"['sm-energy', '.com']"
+299,['U.S.'],"['Houston', 'Texas', 'United States']",['Oil and gas'],"Shell USA, Inc.","['12,100+ (2021)', '[3]']","['www', '.shell', '.us']"
+300,['2006'],"[' ', 'SandRidge Center', 'Oklahoma City', ', ', 'Oklahoma', 'United States']",['Petroleum industry'],"SandRidge Energy, Inc.",['101 (2021)'],"['sandridgeenergy', '.com']"
+301,['1938'],"['Quezon City, Metro Manila']",[],LVN Pictures,[],[]
+302,['1989'],"['Quezon City', 'Philippines']","['Theatrical distribution', 'film production', 'marketing']",OctoArts Films,[],[]
+303,['1989'],['Norway'],[],SF Norge,[],[]
+304,['1976'],"['Fort Worth, Texas']",['Petroleum industry'],Range Resources Corporation,['527 (2021)'],"['rangeresources', '.com']"
+305,['1995'],"['GMA Network Center', 'EDSA', 'Timog Avenue', 'Quezon City', 'Philippines']","['Film distribution', 'Film production', 'Television production']",GMA Pictures,[],"['gmanetwork', '.com', '/films']"
+306,"['November 1, 2001']","['Oslo', 'Norway']",['Entertainment'],Storm Studios,[],[]
+307,['1997'],"['Irving, Texas']",['Petroleum industry'],Pioneer Natural Resources Company,"['1,932 (2021)']","['pxd', '.com']"
+308,"['Calgary', 'Alberta']","['Denver, Colorado']",['Petroleum industry'],Ovintiv Inc.,"['1,713 (2021)']","['www', '.ovintiv', '.com']"
+309,['June\xa01909'],"['Houston, Texas']",['Chemical industry'],Occidental Petroleum Corporation,"[' 11,618 (', 'Fiscal Year Ended December 31, 2021', ')', '[1]']","['oxy', '.com']"
+310,['1944'],"['Houston, Texas', 'United States']",['Petroleum industry'],Murphy Oil Corporation,['696 (2021)'],"['www', '.murphyoilcorp', '.com']"
+311,"['1887', ' as ""The Ohio Oil Company""']","['Marathon Oil Tower', 'Houston']",['Petroleum'],Marathon Oil Corporation,"['1,672 (2020)']",['marathonoil.com']
+312,['2006'],"['Tulsa, Oklahoma']",['Petroleum industry'],"Laredo Petroleum, Inc.",['257 (2020)'],"['laredopetro', '.com']"
+313,"['February\xa08, 1940']","['Wichita, Kansas']",['Conglomerate'],"Koch Industries, Inc.","['120,000 (2022)', '[4]']","['www', '.kochind', '.com']"
+314,"['14 February 1987', ' (as an independent film company)', '17 March 2003', ' (as an incorporated company)']",['Wellington'],['Motion picture'],"WingNut Films, Inc.",[],[]
+315,['1973'],"['Southlake, Texas']",['Petroleum industry'],"HKN, Inc.",['18'],"['www', '.hkninc', '.com']"
+316,[],[],[],New Zealand Film Commission,[],[]
+317,"['Kuala Lumpur', 'Malaysia']","['Bukit Jalil', 'Kuala Lumpur', 'Malaysia']",[],KRU Studios,[],"['www', '.krustudios', '.com']"
+318,['2005'],['Malaysia'],['Film'],Astro Shaw Sdn Bhd,[],"['www', '.astroshaw', '.com', '.my']"
+319,['Tokyu'],"['Ginza', 'ChÅ«Å, Tokyo']","['Film and television', 'Video games']","Toei Company, Ltd.","['343', '(as of March 1, 2019)', '[1]']","['www', '.toei', '.co', '.jp']"
+320,"['December\xa011, 1919']","['New York City', 'New York']",['Oil and gas'],Hess Corporation,"['1621', '[1]', '\xa0(2020)']","['hess', '.com']"
+321,"['Tokyo', 'Japan']","['YÅ«rakuchÅ', 'Chiyoda']","['Motion picture, theatre, television, video games']","Toho Company, Ltd.","['3,305', '[2]']","['www', '.toho', '.co', '.jp']"
+322,[],"['Midland, Texas']",['Petroleum industry'],"Diamondback Energy, Inc.",['870 (2021)'],"['www', '.diamondbackenergy', '.com']"
+323,['1888'],"['EQT Plaza', 'Pittsburgh, Pennsylvania']",['Petroleum industry'],EQT Corporation,['693 (Dec. 2021)'],"['www', '.eqt', '.com']"
+324,['1999'],"['Heritage Plaza', 'Houston']",['Petroleum industry'],"EOG Resources, Inc.","['2,900 (2020)']","['www', '.eogresources', '.com']"
+325,['1971'],"['Devon Energy Center', 'Oklahoma City']",['Petroleum industry'],Devon Energy Corporation,"['1,600 (2021)']","['www', '.devonenergy', '.com']"
+326,[],['Oklahoma City'],['Petroleum'],"Continental Resources, Inc.","['1,254 (2021)']","['clr', '.com']"
+327,['1989'],"['Houston, Texas']",['Petroleum industry'],Coterra Energy Inc.,['936 (2021)'],"['coterra', '.com']"
+328,['1951'],"['Plano, Texas']",['Petroleum industry'],Denbury Inc.,['716 (2021)'],"['www', '.denbury', '.com']"
+329,"['30\xa0August 2002', ' (as ConocoPhillips Co.)']","['Houston Energy Corridor', 'Houston, Texas']",['Oil and gas'],ConocoPhillips Company,"['c.', '\u20099,900', ' (December 2021)']",['conocophillips.com']
+330,"['Tokyo', 'Japan', 'kabuki']",['Tsukiji'],['Entertainment (Movie)'],"Shochiku Co., Ltd.",['1427\xa0(2021)'],"['www', '.shochiku', '.co', '.jp']"
+331,['1912'],['Japan'],"['Television production', 'Film']",Nikkatsu,[],"['www', '.nikkatsu', '.com']"
+332,[],[],['Natural gas'],CNX Resources Corporation,['441 (2021)'],"['www', '.cnx', '.com']"
+333,['November 2002'],"['1-8-19 Fujimi, Chiyoda-ku, Tokyo 102-8078']",['Film'],Kadokawa Daiei Studio,[],"['kd-st', '.co', '.jp']"
+334,"['July\xa01, 2022']","['Houston, Texas']",['Petroleum industry'],Chord Energy Corporation,[],"['www', '.chordenergy', '.com']"
+335,"['March\xa010, 1969']",['Arakawa-ku'],['Japanese animation'],"Eiken Co., Ltd.",['50'],[]
+336,"['1999', '(Saba; Horizontal Ventures)']","['Santa Maria', 'California', 'U.S.']","['Petroleum industry', 'Mining']",HVI Cat Canyon Inc.,['200'],"['www', '.greka', '.com']"
+337,"['London, England']","['Shinjuku, Tokyo']","['Film, Anime']",Enoki Films,[],['enoki-films.co.jp']
+338,['1904'],"['Rome, Italy']",[],Titanus,[],[]
+339,[],"['Los Angeles', 'Houston', 'United States']",['Oil and Gas'],Blacksands Pacific,['51-200'],"['www', '.blacksandspacific', '.com']"
+340,['1989'],"['Oklahoma City, Oklahoma', ', U.S.']",['Petroleum industry'],Chesapeake Energy Corporation,"['1,300 (2022)']","['chk', '.com']"
+341,['April\xa02014'],"['Los Angeles, California']",['Petroleum industry'],California Resources Corporation,['970 (2021)'],"['crc', '.com']"
+342,['1909'],"['Dallas, TX']",['Petroleum industry'],Berry Corporation,"['1,224 (2021)']","['bry', '.com']"
+343,['1954'],"['Post Oak Central', 'Houston, Texas']",['Petroleum industry'],APA Corporation,"['2,253 (2021)']","['apacorp', '.com']"
+344,['2002'],"['Denver, Colorado']",['Petroleum industry'],Antero Resources Corporation,"['519 (December 31, 2021)']","['www', '.anteroresources', '.com']"
+345,['January\xa01993'],"['Pointe-a-Pierre', 'Trinidad and Tobago']",['Oil and gas industry'],Petrotrin,"['5,500', '[2]']","['www', '.petrotrin', '.com']"
+346,"['June\xa07, 1938']",['Mexico City'],['Oil and gas'],PetrÃ³leos Mexicanos,"['124,818 (2018)']","['www', '.pemex', '.com']"
+347,[],['Tegucigalpa'],['Oil and gas'],Gasolineras Uno,[],"['www', '.uno-terra', '.com']"
+348,['1994'],"['Calgary, Alberta', 'Canada']",['Petroleum'],Vermilion Energy Inc.,"['1,053', '[2]']","['vermilionenergy', '.com']"
+349,"['August\xa06, 1960']",['Havana'],['Oil and gas'],Cuba Oil Union,"['24,000 (March 2016)', '[1]']","['www', '.cupet', '.cu', '/es']"
+350,['1951'],"['Calgary', 'Alberta']",['Energy'],TC Energy Corporation,"['7,000', '[2]']","['www', '.tcenergy', '.com']"
+351,"['October\xa03,\xa01991']","['Vancouver', 'Canada']",['Oil and gas'],ShaMaran Petroleum Corp.,[],"['www', '.shamaranpetroleum', '.com']"
+352,['December\xa01964'],"['Fort McMurray', 'Alberta']",['Petroleum'],Syncrude Canada Ltd.,"['5,600 ', '(2009)']",['syncrude.ca']
+353,['1970'],['Mumbai'],[],Yash Raj Films,[],[' ']
+354,['1986'],"['Mumbai', 'India']",['Motion pictures'],Vishesh Films,[],"['www', '.visheshfilms', '.com']"
+355,['1985'],"['Mumbai', 'India']",['Motion pictures'],Vinod Chopra Films,[],['https://www.vinodchoprafilms.com/']
+356,['1948'],"['Chennai', 'Tamil Nadu', 'India']",['Motion picture'],Vijaya Vauhini Studios,[],[]
+357,['1996'],"['Mumbai', 'India']","['Film production', 'film distribution']",UTV Motion Pictures,[],"['corporate', '.disney', '.in', '/disney-companies', '/studios']"
+358,"['Mumbai', 'Maharashtra', 'India']","['Mumbai', 'Maharashtra', 'India']",['Motion pictures'],Trimurti Films Pvt. Ltd.,[],[]
+359,['1975'],"['Mumbai', 'Maharashtra', 'India']","['Entertainment', 'Music', 'Film production']",Tips Industries,[],"['tips', '.in']"
+360,"['2006', ' in Mumbai']","['Mumbai', 'India']",['Film'],Viacom18 Studios,[],"['www', '.viacom18studios', '.com']"
+361,['1964'],"['Hyderabad', 'Telangana']",['Entertainment'],Suresh Productions,[],['Suresh Productions']
+362,['22\xa0August\xa01979'],"['Calgary', 'Alberta']",['Oil and gas'],Suncor Energy Inc.,"['16,922 (2021)', '[3]']","['suncor', '.com']"
+363,['Delhi'],"['Noida', 'India']","['Music', 'Entertainment']",Super Cassette Industries Private Limited,[],['TSeries.com']
+364,['2000'],"['Calgary', 'Canada', 'Oslo', 'Norway']",['Petroleum industry'],Questerre Energy Corporation,"['20 ', '(end 2010)', '[3]']","['www', '.questerre', '.com']"
+365,[],"['Kolkata', 'West Bengal']",['Entertainment(2001-Present)'],Surinder Films,[],['Surinder Films']
+366,"[""St. John's, Newfoundland and Labrador""]","[""St. John's, Newfoundland and Labrador"", 'Canada']",['Energy'],Nalcor Energy,[],"['www', '.nalcorenergy', '.com']"
+367,['1880'],"['Calgary', 'Alberta', 'Canada']",['Petroleum'],Imperial Oil Limited,"['5,263 (2012)', '[2]']",['imperialoil.ca']
+368,['1999 by William J McCaffery as  McCaffery Energy Group Inc'],['Calgary'],['Oil and gas industry'],MEG Energy Corp.,['485 (June 2013)'],"['www', '.megenergy', '.com']"
+369,['1924'],"['Saint John, New Brunswick']",['Oil and petroleum'],Irving Oil Ltd.,[],"['www', '.irvingoil', '.com']"
+370,[],"['Calgary', 'Alberta']","['Petroleum and Natural Gas Exploration, Development and Production']",Ridgeback Resources Inc.,[],"['www', '.ridgeback', '.com']"
+371,"['Calgary', 'Alberta', 'Canada']",['Headquarters in Calgary; oil and gas wells throughout western Canada'],['Oil and natural gas'],Obsidian Energy Ltd.,"['300 (2017)', '[1]']","['www', '.obsidianenergy', '.com']"
+372,[],"['Calgary, Alberta', 'Canada']",['Oil & Gas Drilling & Exploration'],First Calgary Petroleums Ltd.,"['64 (2008)', '[1]']","['www', '.fcpl', '.ca']"
+373,['2005'],"['Chennai', 'Tamil Nadu']","['Film, Producer']",Studio Green,[],['http://studiogreen.in']
+374,['2009'],"['Toronto', 'Ontario']",['Oil and Gas'],Frontera Energy,"['2,506']",['www.fronteraenergy.ca']
+375,[],"['Calgary, Alberta', 'Canada']",['Oil & Gas Drilling & Exploration'],Enerplus Corporation,"['~400', '[2]']","['www', '.enerplus', '.com']"
+376,"['April\xa030,\xa01949', '(as Interprovincial Pipe Line Company)']","['Calgary', 'Alberta']",['Oil and gas'],Enbridge Inc.,"['11,000+']",[' ']
+377,['2001 as Crescent Point Energy Ltd.'],['Calgary'],['Oil and gas industry'],Crescent Point Energy Corp.,[],"['www', '.crescentpointenergy', '.com']"
+378,['2009'],"['Calgary', 'Alberta']","['Oil', 'Natural gas']",Cenovus Energy Inc.,"['~2,300 (2019)']","['www', '.cenovus', '.com']"
+379,['1956'],['Chennai'],"['Entertainment', 'Software']",Sivaji Productions,[],[]
+380,['1995'],['Kolkata'],[],Shree Venkatesh Films,[],['SVF']
+381,['2001'],"['Mumbai', 'Maharashtra', 'India']",['Motion picture'],Shree Ashtavinayak Cine Vision Ltd,[],[]
+382,[],"['Mumbai, Maharastra']",[],Sahara One,[],[]
+383,['7\xa0November 1973'],"['Calgary, Alberta']",['Petroleum industry'],Canadian Natural Resources Limited,"['9,709 (2021)']","['www', '.cnrl', '.com']"
+384,['1993'],['Calgary'],['Petroleum industry'],Baytex Energy Corp.,[],"['www', '.baytexenergy', '.com']"
+385,['1996'],"['Calgary', 'Alberta']",['Oil and gas'],ARC Resources Ltd.,['500 (2021)'],"['www', '.arcresources', '.com']"
+386,"['Tullow', 'Ireland']","['London, United Kingdom']",['Oil and gas exploration'],Tullow Oil plc,[],"['www', '.tullowoil', '.com']"
+387,[],['London'],['Oil and gas industry'],Regal Petroleum plc,[],"['www', '.regalpetroleum', '.com']"
+388,['1947'],['Mumbai'],['Entertainment'],Rajshri Productions,[],"['www', '.rajshri', '.com']"
+389,['1997'],"['Gurgaon', 'India']",[],PVR Pictures Limited,[],"['www', '.pvrpictures', '.com']"
+390,['1970'],"['Jubilee Hills', 'Hyderabad']",['Entertainment'],Padmalaya Studios,[],[]
+391,"['Mumbai, Maharashtra']","['Mumbai, Maharashtra', 'India']",['Entertainment'],Nadiadwala Grandson Entertainment Pvt. Ltd,[],"['www', '.nadiadwalagrandson', '.com']"
+392,['Subhash Ghai'],"['Mumbai', 'India']",['Entertainment'],Mukta Arts Ltd.,[],['Mukta Arts']
+393,"['Chennai', 'Tamil Nadu']","['Chennai', 'India']",['Entertainment'],Madras Talkies,[],"['www', '.madrastalkies', '.com']"
+394,"['Chennai', 'Tamil Nadu', 'India']","['Chennai', 'India']",['Entertainment'],Lyca Productions,[],"['www', '.lycaproductions', '.in']"
+395,['1981'],['Chennai'],['Entertainment'],Kavithalayaa Productions Private Limited,[],[]
+396,['1934'],"['London', 'UK']",['Oil'],Premier Oil plc,[],['www.premier-oil.com']
+397,[],['Aberdeen'],['Oil and gas industry'],Dana Petroleum,['580'],"['dana-petroleum', '.com']"
+398,['17\xa0February 1997'],['Windsor'],['Utilities'],Centrica plc,"['20,000 (2021)', '[2]']","['www', '.centrica', '.com']"
+399,['1981'],"['Edinburgh', 'Scotland', 'UK']",['Oil and gas'],Capricorn Energy PLC,[],"['www', '.capricornenergy', '.com']"
+400,"['1991', ' ', '1998', ' ']","['Kyiv', 'Ukraine']",['Oil and gas'],Naftogaz of Ukraine,"['68,386 ', '(2018)', '[2]']","[', ']"
+401,['2001'],"['Stockholm, Sweden']",['Petroleum'],Lundin Energy AB,"['448 (end 2020', '[1]', ')']",['www.lundin-energy.com']
+402,['1987'],"['Madrid', 'Spain']",['Petroleum'],Repsol S.A.,"['24,134 ', '(2021)', '[1]']",['www.repsol.com']
+403,"['Madrid', 'Spain']","['Madrid', 'Spain']",['Petroleum'],"CompaÃ±Ã­a EspaÃ±ola de PetrÃ³leos, S.A.U.","[' 10,119 ', '(2018)', '[2]', ':\u200a69\u200a']","['www', '.cepsa', '.com']"
+404,"['1\xa0October 2005', ' ', '1949', ' ']","['Novi Sad', 'Serbia']",['Petroleum'],Naftna Industrija Srbije,"['6,182 ', '(2018)']","['nis', '.rs']"
+405,['1950'],"['Almetyevsk', 'Russia']",['Oil and gas'],PJSC Tatneft,"['60,000 (2019)\xa0']","['www', '.tatneft', '.ru']"
+406,['1977'],['Surgut'],['Oil and gas'],Surgutneftgas,"['92,935']","['www', '.surgutneftegas', '.ru', '/en', '/']"
+407,['1994'],['Yuzhno-Sakhalinsk'],['Petroleum'],Sakhalin Energy,"['2,230', '[2]', '\xa0(2190 (2020))']",['sakhalinenergy.com']
+408,['2005'],"['Moscow', 'Russia']",['Oil and gas'],Rusneftegaz,[],"['rusneftegaz', '.com']"
+409,['2002'],"['Moscow', 'Russia']",['refining'],Russneft,"['10,000 (2020)']",['http://www.russneft.ru/eng/']
+410,['1940'],"['Madras', 'Hollywood']",['Motion pictures'],Gemini Studios,[],['http://geminiindia.in']
+411,['March\xa02008'],"['Mumbai', 'Maharashtra', 'India']",['Motion pictures'],Star Studios,[],"['www', '.disneystar', '.com', '/about-us', '/movies', '/']"
+412,['1999'],"['Mumbai', 'Maharashtra', 'India']",['Motion pictures'],Excel Entertainment,[],['Excel Entertainment']
+413,"['Mumbai', 'Maharashtra', 'India']","['Mumbai', 'India']",['Media & Entertainment'],Eros International Media Ltd,[],['Eros International']
+414,['Bangalore'],"['Bangalore', 'India']",['Film Production'],Felis Creations Pvt Ltd,[],"['felis', '.in']"
+415,['February 1988 (as Eskay Video Private Limited)'],"['Kolkata', 'West Bengal', 'India']",[],Eskay Movies,[],"['eskaymovies', '.com']"
+416,"['Mumbai', 'Maharashtra']","['Mumbai', 'Maharashtra']",['Entertainment'],Dharma Productions Pvt. Ltd.,[],['dharma-production.com']
+417,['2008'],"['Chennai', 'Tamil Nadu', 'India']",['Films'],Cloud Nine Movies Pvt. Ltd,[],[]
+418,['2009'],"['Mumbai', 'India']","['Film production', 'Film distribution']",DAR Motion Pictures,[],"['www', '.darproductionhouse', '.com']"
+419,['October 2013'],"['Mumbai', 'Maharashtra', 'India']",['Entertainment'],Clean Slate Filmz,[],['https://cleanslatefilmz.com']
+420,['February 2010'],"['Ahmedabad', 'Gujarat']",['Entertainment'],CineMan Productions,[],['CineMan Productions']
+421,['August\xa01994'],['Tarko-Sale'],['Oil and gas'],Novatek PJSC,"['5,997 ', '[2]']","['www', '.novatek', '.ru', '/en', '/']"
+422,['1992'],"['Geneva', 'Switzerland']",['Oil and gas'],ARETI International Group,[],"['www', '.aretigroup', '.com']"
+423,['1993'],['Moscow'],['Petroleum'],PJSC Rosneft,"['334,600 (2019)\xa0']","['rosneft', '.com']"
+424,['1946'],"['Ufa', 'Russia']",['Oil and gas industry'],Bashneft OAO,"['8,150']","['www', '.bashneft', '.com']"
+425,['25\xa0November 1991'],['Moscow'],['Oil and gas'],PJSC Lukoil,"['101,000 (2019)\xa0']",['lukoil.com']
+426,['1976'],"['Warsaw', 'Poland']",['Oil and gas'],Polskie GÃ³rnictwo Naftowe i Gazownictwo SA,"['24,763 (2018)\xa0']",['www.pgnig.pl']
+427,[],[],[],Rompetrol,[],['Rompetrol.kmginternational.com']
+428,['1991'],"['PetromCity', 'Bucharest', 'Romania']",['Oil and gas industry'],OMV Petrom S.A.,"[' 17,799 (2014)']","['www', '.omvpetrom', '.com']"
+429,"['April\xa022,\xa01999']",['Lisbon'],['Petroleum industry'],"Galp Energia, SGPS, S.A.","['6,389 ', '(2021)', '[1]']","['www', '.galp', '.com']"
+430,['PÅock'],"['PÅock', 'Poland']",['Petroleum'],PKN Orlen S.A.,"['20,262 (2017)', '[2]']","['orlen', '.pl']"
+431,[],"['Bergen', 'Norway']",['Oil and gas'],Rocksource ASA,['40 (Dec 2007)'],[]
+432,['2003'],['GdaÅsk'],['Oil and gas'],Grupa Lotos S.A.,"['7,547']","['www', '.lotos', '.pl']"
+433,['1945'],"['Vadapalani, Chennai']","['Film', 'television']",AVM Productions,[],"['www', '.avm', '.in']"
+434,['2005'],"['Mumbai', 'India']",['Motion picture'],Anurag Kashyap Films,[],[]
+435,"['1976', '1951']","['Hyderabad', 'Madras']","['Entertainment', 'Entertainment']",Annapurna Studios Pvt Ltd,[],"['Annapurna Studios', 'AISFM']"
+436,['2000'],"['Mumbai', 'Maharashtra', 'India']",['Entertainment'],Ajay Devgn FFilms,[],"['ajaydevgnffilms', '.com']"
+437,['2005'],"['Oslo', 'Norway']",['Oil and gas'],Norwegian Energy Company ASA,[],['Homepage']
+438,['2005'],"['Oslo', 'Norway']",['Petroleum'],InterOil Exploration and Production ASA,['178 (2007)'],['www.interoil.no']
+439,['14\xa0June 1972'],"['Stavanger', 'Norway']",['Petroleum industry'],Equinor ASA,"['21,126 (2021)', '[2]']","['www', '.equinor', '.com']"
+440,['2001'],"['Mumbai', 'India']",['Entertainment'],Balaji Motion Pictures,[],"['balajitelefilms', '.com']"
+441,['1971'],"['Oslo', 'Norway']",['Petroleum'],DNO ASA,"['911 ', '(end 2017)', '[1]']",['www.dno.no']
+442,['2005'],"['Oslo', 'Norway']",['Petroleum'],Bayerngas Norge,[],[]
+443,['2001\xa0'],['Fornebu'],['Oil and gas'],Aker BP ASA,"['2,400']","['www', '.akerbp', '.com', '/en', '/']"
+444,[],"['ReykjavÃ­k', 'Iceland']",['Film'],RVK Studios,[],[]
+445,['1943'],"['Athens, Greece']",['Film'],Finos Film,[],['www.finosfilm.gr']
+446,"[' ', ' 2002 ']","['Berlin, Germany', 'Paris, France']","['Motion Pictures', 'Television']",Wild Bunch AG,[],"['wildbunch', '.eu']"
+447,['Berlin'],"['Babelsberg', 'Potsdam', 'Brandenburg']",['Motion picture'],UFA,[],['ufa.de']
+448,"['1912', 'Germany']",['Germany'],[],Babelsberg Film Studio,['92 (2017)\xa0'],[]
+449,['1994'],['ChiÅinÄu'],"['Oil', 'natural gas']",Ascom Group,['500'],['Official site']
+450,['1962'],"['Milan ', 'Italy']",['Energy'],Saras S.p.A.,"['1,946', '[2]']","['www', '.saras', '.it']"
+451,"['June\xa02,\xa01938']","['Genoa', 'Italy']",['Renewable energy'],ERG S.p.A.,"['754', '[2]', '\xa0(2019)']","['www', '.erg', '.eu']"
+452,['1884'],"['Milan', 'Italy']",['Energy industry'],Edison S.p.A.,"['5,372 (2018)']","['www', '.edison', '.it']"
+453,['1933'],"['Rome', 'Italy']","['Energy', 'Oil']",api Anonima Petroli Italiana SpA,"['1500 ', '(2018)']",['http://www.apioil.com']
+454,['1920'],"['Dublin', 'Republic of Ireland', 'Mallusk', 'County Antrim', 'Northern Ireland']",['Oil'],The Maxol Group,[],"['maxol', '.ie']"
+455,['1957'],['Budapest'],"['Oil and gas', 'Retail', 'Mobility']",MOL Plc.,"['25,000 (2021)']","[' ', ' ']"
+456,['1958 as '],"['Athens', 'Greece']",['Energy industry'],Hellenic Petroleum S.A.,"['3,500\xa0(', '2020', '[8]', ')']",['Official website']
+457,[],['East Berlin'],[],Deutsche Film-Aktiengesellschaft,[],[]
+458,"['Frankfurt', 'West Germany']",['Munich'],['Film production'],Constantin Film,['829 (December 2017)'],"['constantin-film', '.de']"
+459,"['As MÃ¼nchener Lichtspielkunst AG (1919', ')', 'as Bavaria Film AG (21\xa0September\xa01932', ')']","['GrÃ¼nwald', 'Munich']",['Film industry'],Bavaria Film,['242 (2011)'],['www.bavaria-film.de']
+460,['1988'],"['Paris', 'France']","['Filmmaking', 'Film distribution']",StudioCanal S.A.S.,[],"['www', '.studiocanal', '.com']"
+461,['28\xa0September 1896'],['France\xa0'],['Entertainment'],PathÃ©,"['4,210 ', '(2017)', '[1]']",['Pathe.com']
+462,['23\xa0June 1895'],['Neuilly-sur-Seine'],['Motion pictures'],Gaumont SA,"['173 ', '(2011)', '[1]']","['gaumont.fr', 'gaumont.net']"
+463,['1995'],"['Paris', 'France']",['Film'],Les Films du Poisson,[],['filmsdupoisson.com']
+464,"['April\xa021, 2008']","['Paris', 'France']",['Film'],Disneynature,[],['nature.disney.com']
+465,"['1894 (Wintershall), 1899 (DEA, as Deutsche Tiefbohr-Actiengesellschaft, DTA)']","['Kassel', 'Hamburg']",['Gas and oil (exploration and production)'],Wintershall Dea,"['2,847', '[2]', '\xa0(2019)']",['wintershalldea.com']
+466,['2008'],['Cannes'],['Film'],Adastra Films,[],"['www', '.adastra-films', '.com']"
+467,['1975'],"['London', 'Paris']",['Petroleum industry'],Perenco,"['6,000']",['perenco.com']
+468,['22\xa0July 2008'],"['La DÃ©fense', 'France']",['Electric utility'],Engie SA,"['171,100 (2019)']","['engie', '.com', '/en']"
+469,['1948'],"['Espoo', 'Finland']",['Oil and gas industry'],Neste Oyj,"['4,872 ', '(2021)']",['www.neste.com']
+470,['1998'],"['TÃ³rshavn', 'Faroe Islands']",['Petroleum'],Atlantic Petroleum P/F,"['around 30 ', '(end 2013)', '[1]']",['www.petroleum.fo']
+471,"['14\xa0March 2006', ' (as DONG Energy)']","['Fredericia', 'Denmark']",['Electricity generation'],Ãrsted A/S,"[' 6,836 (end 2021)', '[2]']","['orsted', '.com']"
+472,"['(1913), modern company 2002']","['HodonÃ­n', 'Czech Republic']",['petroleum'],MoravskÃ© naftovÃ© doly MND,['746 (2020)'],"['www', '.mnd', '.cz']"
+473,['1 January 1964'],"['Zagreb', 'Croatia']",['Oil and gas'],"INA-Industrija nafte, d.d.","['INA Group: 9,751 (31 Dec 2021)', 'INA d.d.: 3,222 (31 Dec 2021)', '[2]']","['www', '.ina', '.hr']"
+474,"['December\xa02, 1957']","['Springfield, Missouri']",['Retail'],"OâReilly Automotive, Inc.","['83,633 (2021)']","['www', '.oreillyauto', '.com']"
+475,['1960'],"['Eau Claire', 'Wisconsin']","['Retail', 'home improvement']",Menards,"['45,000\xa0(2020)']",[' ']
+476,['1963'],"['Columbus', 'Ohio']",['Retailing'],"Bath & Body Works, Inc.","['59,950 (2019)', '[3]']","['www', '.bbwinc', '.com']"
+477,['1980'],"['Laval', 'Quebec']",['Retail'],Alimentation Couche-Tard Inc.,"['around 105,000 (2018)', '[1]']","['www.couche-tard.com', 'corpo.couche-tard.com']"
+478,['1904'],"['Helsinki', 'Finland']","['Retail', 'Horeca']",S Group,"['37,283 ', '(2018)', '[1]']",['www.s-kanava.fi']
+479,['1960'],"['Santiago', 'Chile']",['Retail'],Centros Comerciales Sudamericanos S.A.,"['126,530']",['www.cencosud.com']
+480,"['Pacifica, California']","['Dublin, California']",['Retail'],"Ross Stores, Inc.","['88,100 (2019)']","['www', '.rossstores', '.com']"
+481,"['Leeds', 'United Kingdom']",['London'],['Retail'],Marks & Spencer Group plc,"['78,000 (2022)', '[2]']",[' ']
+482,['1956'],"['Vienna, Austria']","['Oil, gas, petrochemistry and recycling']",OMV Aktiengesellschaft,"['22,434 (2021)']",['OMV.com']
+483,['6\xa0November 1906'],"['Valby', 'Copenhagen', 'Denmark']",['Entertainment'],Nordisk Film A/S,[],"['nordiskfilm', '.com']"
+484,['Copenhagen'],"['Copenhagen', 'Denmark']",['Film production'],HF Productions,[],"['www', '.hf-productions', '.net']"
+485,['1931'],"['Prague', 'Czech Republic']",['Motion pictures'],Barrandov Studios,['147 (2019)\xa0'],"['barrandov', '.cz']"
+486,['1932'],"['Sofia', 'Bulgaria']",['Oil'],Petrol AD,[],[]
+487,"['October\xa015, 1935']","['Vienna', 'Austria']",['Energy storage'],RAG Austria AG,"['196 (2020)', '[1]']",['www.rag-austria.at']
+488,['1992'],"['Hvidovre', 'Denmark']",['Motion Picture'],Zentropa,[],"['zentropa', '.dk']"
+489,['1942'],['Denmark'],['Film production'],Saga Film A/S,[],[]
+490,['7\xa0August 2014'],['London'],['Consumer electronics'],Currys plc,"['35,000 ', '(2022)', '[1]']","['www', '.currysplc', '.com']"
+491,['1981'],"['Vung Tau', 'Vietnam']",['Petroleum industry'],Vietsovpetro,[],"['www', '.vietsov', '.com', '.vn']"
+492,['3\xa0May\xa01992'],"['Tashkent', 'Uzbekistan']","['oil and gas exploration', 'extraction']",Uzbekneftegaz,"['121,000 (2014)']",['http://www.ung.uz']
+493,['1993'],"['Dubai', 'UAE']",[],Emirates National Oil Company (ENOC),"['9000+', '[1]']","['www', '.enoc', '.com']"
+494,['1971 (restructured in 1988)'],['Abu Dhabi'],['Oil and gas'],Abu Dhabi National Oil Company,"['65,000 (2015)', '[1]']","['www', '.adnoc', '.ae']"
+495,"['Verdun, Quebec']","['Montreal', 'Quebec']",['Supermarket'],Metro Inc.,"['90,000 (2020)', '[2]']","['metro.ca', 'corpo.metro.ca']"
+496,['1967'],"['Casalecchio di Reno', 'Italy']",['Wholesale distribution'],Coop Italia,"['56,682 ', '(2010)']",['e-coop.it']
+497,['1977'],['Hanoi'],['Oil and Gas'],PetroVietnam,[],"['www', '.pvn', '.vn', '/sites', '/en', '/Pages', '/default', '.aspx']"
+498,"['Montreal', 'Quebec', 'Canada']","['Montreal', 'Quebec', 'Canada']","['Restaurants', 'Coffee', 'Retail Beverages', 'Entertainment']",Van Houtte,[],['Company website']
+499,['1979'],['Seoul'],['Retail'],"Lotte Shopping Co., Ltd.",[],['www.lotteshoppingir.com']
+500,"['Tenom District', 'Sabah', 'Malaysia']",['Tenom'],['Coffee'],Yit Foh Coffee Factory Sdn Bhd,[],"['www', '.yitfohcoffee', '.com']"
+501,['2003'],"['Beijing', 'Hong Kong', 'China']","['Chinese cinema', 'Hong Kong Cinema']",Xstream Pictures,[],[]
+502,['2011'],"['Beijing', 'China']",['Film'],Wanda Media,[],['http://www.wandamedia.cn']
+503,['1925'],"['Shanghai', 'China']",['Film'],Tianyi Film Company,[],[]
+504,"['March 23, 2005']","['Tsuen Wan', 'Hong Kong']",['film'],Sundream Motion Pictures Ltd.,[],['http://www.sundream-pictures.com']
+505,['1953'],['Zagreb'],"['Animation', 'Film production']",Zagreb Film,[],"['zagrebfilm', '.hr']"
+506,['27\xa0December 1958'],"['Hong Kong', 'Macau']",['Film production'],Shaw Brothers (HK) Ltd.,[],[]
+507,['Hong Kong'],"['Hong Kong', 'Hong Kong']",['Cinema of Hong Kong'],"Win's Entertainment (Hong Kong) Co., Ltd.",[],[]
+508,['1946'],"['Shanghai', 'China']",['Film'],Wenhua Film Company,[],[]
+509,"['Shanghai', 'China']","['Shanghai', 'China']",['Entertainment'],Shanghai Animation Film Studio,[],"['www', '.ani-sh', '.com']"
+510,"['29\xa0December 1978', ' (as Petroleum Authority of Thailand)']","['Chatuchak', 'Bangkok']",['Oil and gas industry'],PTT Public Company Limited,"['4,616 (PTT)', '24,680 (subsidiaries)']",[' ']
+511,['1998'],"['Istanbul', 'Turkey']",['Energy'],ÃalÄ±k Enerji,[],"['www', '.calikenerji', '.com', '.tr', '/eng', '/']"
+512,['1954'],"['Ankara', 'Turkey']",['Oil and gas industry'],TÃ¼rkiye Petrolleri Anonim OrtaklÄ±ÄÄ± (TPAO),"['4,800 (2013)']","['www', '.tpao', '.gov', '.tr']"
+513,['2001'],"['Shanghai', 'China']","['film production', 'animations', 'dubbing']",Shanghai Film Group Corporation,[],['http://www.sfs-cn.com/']
+514,['1983'],"['Daegu', 'South Korea']",['Gas utility'],Korea Gas Corporation,"['4,164']","['www', '.kogas', '.or', '.kr']"
+515,['3 August 1961'],['Bangkok'],['Oil and Gas'],Thaioil,[],['Official website']
+516,['1979'],"['Ulsan, South Korea']",['Petroleum'],Korea National Oil Corporation ,"['1,272 (2012)', '[2]']","['www', '.knoc', '.co', '.kr', '/ENG', '/main', '.jsp']"
+517,['1962'],"['Colombo 9', 'Sri Lanka']",['Oil and gas'],Ceylon Petroleum Corporation,"[' 2,616 ', '(2019)', '[3]']","['ceypetco', '.gov', '.lk']"
+518,['Singapore'],['Singapore'],"['Oil', 'Petroleum Refining', 'Aviation']",Singapore Petroleum Company,[],[]
+519,['1974'],"['Doha', 'Qatar']",['Oil and gas'],QatarEnergy,[],"['www', '.qatarenergy', '.qa']"
+520,"['November 9, 1973']",['Taguig'],['Oil'],Philippine National Oil Company,[],['[1]']
+521,"['September\xa07, 1933', ' ']","[', ', ', ', ', ', ' ', 'SMC Head Office Complex, 40 San Miguel Avenue, ', ' 1550, ', ' ']","['Oil', 'Gas']",Petron Corporation,"['9,236 nationwide (2019)']","['www', '.petron', '.com']"
+522,['1\xa0June\xa01946'],"['Kaohsiung City', 'Taiwan']",['Oil and gas'],CPC Corporation,"['14,787']","['en', '.cpc', '.com', '.tw']"
+523,['Oxford Street'],"['Westminster', 'London']",['Retail'],John Lewis Partnership plc,"['80,000 (2022)', '[5]']","['johnlewispartnership', '.co', '.uk']"
+524,['1932'],['Amsterdam'],['Retail'],SPAR,"['410,000 (2021)', '[1]']","['www', '.spar-international', '.com']"
+525,['August\xa02002'],"['Copley Place', 'Boston', 'Massachusetts']",['E-commerce'],Wayfair Inc.,"['16,681 (2021)']","['wayfair', '.com']"
+526,"['June 1, 1978 (Nihon Densen KÅgyÅ)', 'Former Yamada Denki founded on September 1, 1983', '(established in April 1973)']","['Takasaki', 'Gunma']",['Retail'],"Yamada-Denki Co., Ltd.","['21,261 (2013)']",['yamada-denki.jp']
+527,['1984'],['Islamabad'],['Oil and Gas'],Mari Petroleum Company Limited,['1219'],"['mpcl', '.com', '.pk']"
+528,['December 2008'],[],['E-commerce'],Vipshop,[],[]
+529,['1991'],"['West Chester, Pennsylvania', ', U.S.', '[1]']","['Media', 'holding company']","Qurate Retail, Inc.","['28,255', '[3]', '\xa0(2017)']","['qurateretailgroup', '.com']"
+530,"['Phoenix', 'Arizona', 'United States']","['Phoenix, Arizona']",['Retail'],PetSmart Inc.,"['56,000 (2020)', '[3]']","['www', '.petsmart', '.com']"
+531,"['February\xa06, 1984']","['Marlborough, MA']","['Retailing', 'Warehouse club']","BJ's Wholesale Club Holdings, Inc.","['34,000 (Jan. 2022)']",['BJs.com']
+532,['16\xa0September 1982'],['London'],['Retail'],Kingfisher plc,"['80,000 (2022)', '[3]']","['www', '.kingfisher', '.com']"
+533,"['Brookfield, Wisconsin']","['Menomonee Falls', 'Wisconsin']",['Retail'],Kohl's Corporation,"[' ~99,000 (2021)', '[1]']",['kohls.com']
+534,"['Scranton, Pennsylvania', 'United States']","['Philadelphia, Pennsylvania', 'United States']",['Retail'],Rite Aid Corporation,"['50,000 ', '(2021)', '[5]']","['www', '.riteaid', '.com']"
+535,"['September\xa028, 1954']","['Quezon City', 'Metro Manila', 'Philippines']",['Manufacturing'],Universal Robina Corporation,"['12,320']","['urc', '.com', '.ph']"
+536,"['Buon Ma Thuot', 'Vietnam']",['Ho Chi Minh City'],['Coffee'],Trung Nguyen Group,[],['trungnguyenlegend.com']
+537,['Los Angeles'],"['Los Angeles', 'California']","['Restaurants ', 'Retail coffee and tea']",The Coffee Bean & Tea Leaf,"['12,000 ', '(May 2013)', '[2]']","['www', '.coffeebean', '.com']"
+538,['1994'],"['Warren, Ohio']",['Coffee'],Top Shelf Coffee,[],['www.topshelfcoffee.com']
+539,['1949'],['Hamburg'],[],Tchibo GmbH,"['12,500']","['www', '.tchibo', '.com']"
+540,['1939'],"['Petah Tikva', 'Israel']","['Food processing', 'beverages']",Strauss Group Ltd.,"['15,000']","['strauss-group', '.com']"
+541,"['Hamilton, Ontario']","['Toronto, Ontario']",['Restaurants'],Tim Hortons Inc.,[],['TimHortons.com']
+542,"['Toronto', 'Ontario', 'Canada']",['Pierrefonds'],['Coffee'],Second Cup CafÃ©,[],[' ']
+543,"['New Orleans', 'Louisiana']","['Birmingham', 'Alabama']",['Coffee industry'],Revelator Coffee Company LLC,['165\xa0(2017)'],"['revelatorcoffee', '.com']"
+544,['2003'],['San Francisco'],['Coffee shop'],Philz Coffee,[],"['www', '.philzcoffee', '.com']"
+545,['1999'],"['Beijing', 'China', 'Hong Kong']",['Chinese cinema'],Polybona Films,[],['http://www.bonafilm.cn']
+546,"['Pike Place Market', 'Elliott Bay']","['Seattle, Washington', 'United States']",['Coffee shop'],Starbucks Corporation,"['c.', '\u2009402,000', ' (2022)']","['starbucks', '.com']"
+547,['1970; 51 years ago'],"['Middle Road', 'Tsim Sha Tsui', 'Kowloon']",['Film production'],Orange Sky Golden Harvest Entertainment (Holdings) Limited,[],"['osgh', '.com', '.hk']"
+548,['Hong Kong'],['Hong Kong'],['Cinema of Hong Kong'],One Hundred Years of Film Co. Ltd.,[],[]
+549,"['August\xa06, 2012']","['Xuhui District', 'Shanghai']",['Film industry'],"Shanghai Pearl Studio Film and Television Technology Co., Ltd","['250 (2014)', '[3]']","['www', '.pearlstudio', '.com']"
+550,['1922'],"['Shanghai', 'China']",['Film'],Mingxing Film Company,[],[]
+551,['1991'],"['Causeway Bay', 'Hong Kong', 'China']",['Hong Kong cinema'],Mandarin Films Distribution Co. Ltd.,[],['http://www.mandarinfilms.com']
+552,['October\xa01993'],"['Cheung Sha Wan Road', 'Kwai Chung', 'Kowloon']",['Film & TV Entertainment'],Media Asia Entertainment Group,[],"['www', '.mediaasia', '.com']"
+553,['2000'],['Beijing'],['Chinese cinema'],Laurel Films,[],[]
+554,['4\xa0April\xa01961'],['Islamabad'],['Oil and gas'],Oil and Gas Development Corporation,"['11,000', '[3]']",['OGDCL.com']
+555,['2008'],['Beijing'],['Movie'],L'Est Films Group,[],"['English site', 'Chinese site']"
+556,"['Attock', 'Pakistan']",['Rawalpindi'],['Petroleum'],Pakistan Oilfields Limited,['749'],"['pakoil', '.com', '.pk']"
+557,['5\xa0June 1950'],"['Karachi', 'Pakistan']",['Energy'],Pakistan Petroleum,"['2,700+', 'Corporate staff only']",['Official website']
+558,['1952'],"['Athens', 'Greece']","['Oil and gas; heavy civil engineering; air, water, and effluent systems']",Consolidated Contractors Company,"['1,20,000 (2019)']",['http://www.ccc.gr']
+559,"['1937 (as ', ' ) ', '1967 (as ', ' )']","['Muscat', 'Oman']",['Oil and gas'],Petroleum Development Oman,"['8,500']",['Official website']
+560,['2002'],"['Astana', 'Kazakhstan']",[],KazMunayGas,"['over 30,000']",['www.kmg.kz']
+561,['17\xa0August 1974'],"['Petronas Towers', 'Kuala Lumpur City Centre']",['Oil and gas'],Petroliam Nasional Berhad,"['47,669 (2020)', '[7]']","['www', '.petronas', '.com']"
+562,['Pertamina'],"['Akasaka Biz Tower', 'Akasaka', 'Minato-ku', 'Tokyo']",['Petroleum'],INPEX Corporation,"['2,146 (784 temporary workers) (2011)']",['www.inpex.co.jp']
+563,['1888'],"['Tokyo, Japan']",['Oil and gasoline'],ENEOS Corporation,"['13,290 (2007)']",['Corporate website']
+564,[],"['Tel Aviv', 'Israel']",['Oil and gas exploration'],Modiin Energy Limited Partnership,[],[]
+565,['VÃ¤sterÃ¥s'],['Stockholm'],['Retail'],H&M Hennes & Mauritz AB,"['107,375', '[a]', ' ', '(2021)']","['hm.com', 'hmgroup.com']"
+566,['1989'],"['Petah Tikva', 'Israel', 'Houston', 'United States']",['Oil and gas industry'],Isramco Negev 2 LP,['25'],[]
+567,['1993'],['Seoul'],['Retailing'],Emart Inc.,[],"['www', '.emartcompany', '.com', '/en', '/main', '.do']"
+568,"['As ', ' March\xa01949', 'As ', ' September\xa01991', '1963 as Ogori Shoji Co., Ltd. (', ', Japan)', '1991 as Fast Retailing Co., Ltd. (name change)']","['Yamaguchi, Yamaguchi']",['Retail'],"Fast Retailing Co., Ltd.","['52,839 (2018)', '[2]']","['www', '.fastretailing', '.com', '/eng']"
+569,['1955'],"['Tokyo', 'Japan']",['Hydrocarbon exploration'],Japan Petroleum Exploration Company Limited,"['1,782', '[1]']",['http://www.japex.co.jp']
+570,['1994'],['Russia'],['Retail'],PJSC Magnit,"['300,000']","['www', '.magnit-info', '.ru']"
+571,"['Greenville, Michigan']","['Walker, Michigan']",['Retail (Grocery & Discount)'],Meijer Inc.,"['70,000 (Jan. 2020)', '[5]']","['meijer', '.com']"
+572,[],['Hong Kong'],['Health & Beauty Retail'],A.S. Watson Group (Hong Kong) Ltd.,"['140,000']","['www', '.aswatson', '.com']"
+573,['1963'],"['Stellarton', 'Nova Scotia']","['Conglomerate', 'Holding company']",Empire Company Limited,"['127,000 (2020)', '[2]']",['www.empireco.ca']
+574,['1792'],"['Lisbon', 'Portugal']",['Retail'],"JerÃ³nimo Martins SGPS, S.A.","['123,458 ', '(2021)', '[1]']",['www.jeronimomartins.com']
+575,['1914'],"['Perth', 'Western Australia']",['Conglomerate'],Wesfarmers,"['107,000 (2020)', '[1]']","['wesfarmers', '.com', '.au']"
+576,['1899'],['Bradford'],['Retail'],Wm Morrison Supermarkets Ltd,"['110,000 (2021)', '[4]']","['www', '.morrisons', '.com']"
+577,['Helsinki'],['Helsinki'],[],Paulig Ltd,[],['[1]']
+578,"['Ipoh', 'Perak', 'Malaysia']",['Ipoh'],['Coffee house'],OLDTOWN Berhad,[],"['oldtown', '.com', '.my']"
+579,"['Boston', 'Massachusetts']","['Malden', 'Massachusetts']",['Beverage'],"New England Tea & Coffee Company, LLC.",['250'],['NewEnglandCoffee.com']
+580,['Monmouth Street'],"['Arch 3, Discovery Estate', "" St James's Road, Bermondsey, London""]","['coffee roasting', 'Coffee shops']",Monmouth Coffee Company,[],[' ']
+581,"['Turnhout, Belgium']","['Turnhout, Belgium']",['Coffee'],Miko,['631'],"['www', '.miko', '.eu']"
+582,['2008'],"['Larissa', 'Greece']",['Restaurants'],Mikel Coffee Company,"['3000 ', '(2020)']","['www', '.mikelcoffee', '.com']"
+583,['1908'],"['Minden', 'North Rhine-Westphalia', 'Germany']",['Coffee'],Melitta Group,"['3,736 (2014)']",['www.melitta-group.com']
+584,['1973'],"['Bologna', 'Italy']",['Coffee'],Massimo Zanetti Beverage Group,[],"['www', '.mzb-group', '.com']"
+585,['17\xa0February 1977'],"['Jakarta', 'Indonesia']",['Food processing'],PT Mayora Indah Tbk,"['8,584 people (2016)']","['mayoraindah', '.co', '.id']"
+586,"['1994', '1994', '2020']","['Beijing', 'China', 'Shanghai', 'China', 'Shenzhen', 'China', 'Hong Kong', 'Macau', 'Taipei', 'Taiwan', 'Malaysia', 'Singapore']",['Entertainment'],Huayi Brothers Media Corporation,[],"['www', '.huayimedia', '.com']"
+587,[],['China'],['Film'],Heyi Pictures,[],[]
+588,[],[],[],Hengdian World Studios,[],"['www', '.hengdianworld', '.com', '/en', '/']"
+589,['1864'],"['Glasgow', 'Scotland']",[],Matthew Algie,[],['http://www.matthewalgie.com/']
+590,[],['Hong Kong'],['Hong Kong cinema'],Golden Princess Film Production Ltd.,[],[]
+591,['2008'],"['Shanghai', 'China']",['Film'],Fundamental Films,[],['http://www.fundamentalfilms.cn']
+592,['April 1984'],"['Kowloon Tong', 'Hong Kong', 'China']",['Hong Kong cinema'],Film Workshop Co. Ltd.,[],['http://www.filmworkshop.net']
+593,['1994'],"['Beverly Hills, CA']",['Entertainment'],DMG Entertainment,[],"['www', '.dmg-entertainment', '.com']"
+594,['February 1999'],"['Beijing', 'China']",['Cinema'],China Film Group Corporation,[],['http://www.zgdygf.com/']
+595,['1951'],['Netanya'],['Conglomerate'],Delek Group Ltd.,[],"['www', '.delek-group', '.com']"
+596,[],[],[],FLY FILMS,[],['http://www.flyfilms.com.cn']
+597,['2005'],"['Beijing', 'China']",['Chinese cinema'],Fantasy Pictures Entertainment,[],[]
+598,['1933'],"['Shanghai', 'China']",['Film'],Diantong Film Company,[],[]
+599,['February\xa02009'],[],[],Cinema Popular,[],[]
+600,['August\xa01968'],"['Gambir', 'Central Jakarta']",['Oil and gas'],PT Pertamina (Persero),"['13,526 (2020)', '[1]']","['www', '.pertamina', '.com']"
+601,['9\xa0June 1980'],"['Jakarta', 'Indonesia']","['Oil', 'gas', 'Power Generation', 'Coal Mining']",PT Medco Energi Internasional Tbk,"['4,000 (2019)']","['www', '.medcoenergi', '.com']"
+602,['2006'],"['ASF Center Tower A, 62-363, Jwala Mill Road, PHASE IV, Udyog Vihar, Sector 18, Gurugram, Haryana, 122016, India']",['Oil and gas'],Cairn Oil & Gas,['1001â5000'],"['www', '.cairnindia', '.com']"
+603,['20\xa0March 1951'],"['Tehran', 'Iran']",['Oil and gas'],National Iranian Oil Company,"['87,500 ', '(2018)', '[4]']","['en', '.nioc', '.ir']"
+604,[],"['Bandra', 'Mumbai', 'Maharashtra']",['Oil and gas'],Nayara Energy Ltd.,[],"['www', '.nayaraenergy', '.com']"
+605,['30 June 1959'],"[', India (headquarters)', ', ', ', India (registered office)']","['Energy', 'Oil and gas']",Indian Oil Corporation Limited,"['33,498 (2021)', '[2]']","['www', '.iocl', '.com']"
+606,['1979'],['Gandhinagar'],['Oil and gas'],Gujarat State Petroleum Corporation Ltd,[],"['www', '.gspcgroup', '.com']"
+607,[],[],['Oil & gas'],United Energy Group,[],"['uegl', '.com', '.hk']"
+608,['1894'],"['Rungis', 'France']",['Retailing'],SystÃ¨me U,[],['http://www.magasins-u.com/']
+609,['8 May 1973'],"['Mumbai', 'Maharashtra']",['Conglomerate'],Reliance Industries Limited,"['3,42,982 (2022)', '[1]']","['www', '.ril', '.com']"
+610,['14 August 1956'],"['Dehradun', 'Uttarakhand']","['Energy', 'Oil and gas']",Oil and Natural Gas Corporation Ltd,"['27,165 (31.03.2022)', '[4]']","['www', '.ongcindia', '.com']"
+611,['1925'],"['ZÃ¼rich', 'Switzerland']",['Retail'],Federation of Migros Cooperatives,"['97,541 (2021)']",['www.migros.ch']
+612,"['Sumter, South Carolina', 'Vancouver, British Columbia']","['Burnaby, British Columbia']","['Retail', 'variety', 'discount', 'Retail']","Dollar Tree, Inc.","['193,100 ', '[1]']","['dollartree', '.com', 'www', '.dollartreecanada', '.com']"
+613,['1969'],"['Basel', 'Switzerland']",['Wholesale distribution'],Coop Genossenschaft,"['90,307 ', '(2019)', '[1]']",['coop.ch']
+614,['2006'],['Moscow'],['retail'],X5 Group,"['339,716 (2020)\xa0']","['x5', '.ru', '/en', '/']"
+615,['1977'],"['Tavernes Blanques', 'Valencian Community']",['Retail'],"Mercadona, S.A.","['85,800', '[1]']","['www', '.mercadona', '.com']"
+616,"['Hangzhou', 'Zhejiang']","['\n', '\n']",['Technology company'],Alibaba Group Holding Limited,"['254,941', '[5]', ' (31 March 2022)']",[' ']
+617,"['Collingwood', 'Victoria']","['Hawthorn East', 'Victoria']",['Consumer staples'],Coles Group,[],[]
+618,"['Kerrville', 'Texas', 'United States']",['San Antonio'],['Grocery retail'],"H-E-B Grocery Company, LP","['100,000 (2018)']","['heb', '.com']"
+619,['1987'],"['Framingham, Massachusetts', ', U.S.']",['Retail'],"The TJX Companies, Inc.","['270,000\xa0(2018)']","['tjx', '.com']"
+620,['1973'],"['Bologna', 'Italy']",['Coffee'],Massimo Zanetti Beverage Group,[],"['www', '.mzb-group', '.com']"
+621,"['Danzig, the Kingdom of Prussia']","['Hannover, Germany']",['Food processing'],W. Machwitz GmbH,['fewer than 25'],"['www', '.machwitz-kaffee', '.de']"
+622,['2006'],['Taiwan'],['Coffee shop'],Louisa Coffee,[],"['www', '.louisacoffee', '.co']"
+623,['Turin'],"['Turin, Italy']",['coffee'],Luigi Lavazza S.p.A.,"['3,800\xa0(2018', '[2]', ')']","['www', '.lavazza', '.com']"
+624,['1919'],"['Holon', 'Israel']",['Beverages'],Landwer Coffee Ltd.,[],['www.landwer.com']
+625,['1994'],"['Philadelphia, Pennsylvania', 'United States']",['Coffee'],La Colombe Coffee Roasters,[],"['www', '.lacolombe', '.com']"
+626,"['October 1, 2012']","['Chicago, Illinois', 'United States']",['Food processing'],"Kraft Foods Group, Inc.","['22,500 (2015)\xa0']",['kraftheinzcompany.com']
+627,"['Waitsfield, Vermont']","['Burlington, Massachusetts', ', U.S.']",['Appliance manufacturing'],Keurig Dr Pepper Inc.,"['27,500 (2021)']","['keurigdrpepper', '.com']"
+628,['1862'],"['Vienna', 'Austria']",['Coffee roasting'],Julius Meinl,['845'],[' ']
+629,"['BogotÃ¡, Colombia']","['BogotÃ¡', 'Colombia']","['Retail ', ' & ']",Juan Valdez CafÃ©,"['5,000+']","['juanvaldezcafe', '.com']"
+630,"['Orrville, Ohio']","['Orrville, Ohio']","['Food', 'Beverage']",The J.M. Smucker Company,"['7,300\xa0(2020)']","['jmsmucker', '.com']"
+631,"['2004', ' from Anthem and WellPoint Health Networks merger']","['Indianapolis, Indiana']","['Managed healthcare', 'Insurance']","Elevance Health, Inc.","['98,200', '[1]', '\xa0(2021)']","['www', '.elevancehealth', '.com']"
+632,"['November\xa09, 2009']","['Findlay', 'Ohio', 'United States']",['Petroleum'],Marathon Petroleum Corporation,"['~43,800\xa0(December 2017)']",['marathonpetroleum.com']
+633,['1978'],['Shanghai'],['Steel'],China Baowu Steel Group,"['195 434 (2019) ', '[2]']",['www.baowugroup.com']
+634,['1994'],"['Athens, GA', 'USA']",['Coffee Roasting and Coffee Shops'],Jittery Joe's,[],"['www', '.jitteryjoes', '.com']"
+635,['1935'],"['Mumbai, Maharashtra']",['Pharmaceuticals'],Cipla Limited,"['22,036', '[4]']",['www.cipla.com']
+636,['1984'],"['Hyderabad', 'Telangana']",['Pharmaceuticals'],Dr. Reddyâs Laboratories Ltd,"['21,650 (March 2020)', '[1]']","['www', '.drreddys', '.com']"
+637,['12\xa0October 1990'],"['Hyderabad', 'Telangana', 'India']",['Pharmaceuticals'],Divi's Laboratories Limited,"['13,884\xa0(2020)']","['divislabs', '.com']"
+638,['1983'],['Mumbai'],['Pharmaceuticals'],Sun Pharmaceutical Industries Limited,"['37,000+\xa0(2021)']","['sunpharma', '.com']"
+639,"['November\xa016, 2020']","['Canonsburg, Pennsylvania']","['Pharmaceuticals', 'Healthcare']",Viatris Inc.,"['c.', '\u200937,000', ' (December 2021)']","['viatris', '.com']"
+640,"['June\xa07, 1938']",['Mexico City'],['Oil and gas'],PetrÃ³leos Mexicanos,"['124,818 (2018)']","['www', '.pemex', '.com']"
+641,"['Marietta, Georgia']","['Atlanta, Georgia']",['Retailing'],"The Home Depot, Inc.","['490,600 (Dec 2021)']",['homedepot.com']
+642,['2002'],"['Yeonsu-gu', 'Incheon', 'South Korea']",['Biopharmaceutical'],Celltrion,[],"['www', '.celltrion', '.com', '/en']"
+643,['Sri Lanka'],"['Southborough, Massachusetts']",['Information technology'],Virtusa Corporation,"[' 45,000 (2022)', '[2]']","['www', '.virtusa', '.com']"
+644,['1954\xa0'],"['Greenfield, Indiana']",['Pharmaceutical (animal)'],Elanco Animal Health Incorporated,"['10,200 (2021)', '[2]']","['elanco', '.com']"
+645,['1997'],"['Lianyungang, Jiangsu']",['Pharmaceuticals'],Jiangsu Hengrui Pharmaceuticals Co. Ltd,"['24,500 (2020)']","['www', '.hrs', '.com', '.cn']"
+646,['1983'],"['SÃ£o Paulo', 'SÃ£o Paulo', 'Brazil']",['Software'],TOTVS,"['12,000']",['totvs.com']
+647,"['February\xa015, 1954']","['UberlÃ¢ndia', 'Brazil']",['Telecommunications'],Algar Telecom,"['3,700 (2015)']",['algartelecom.com.br']
+648,['1986'],"['Blue Bell, Pennsylvania']","['Information technology', 'Consulting', 'Outsourcing']",Unisys Corporation,"['16,300 (2021)', '[2]']","['www', '.unisys', '.com']"
+649,['1999'],"['Orange County, California', 'USA']","['Professional services', 'Information technology', 'Digital engineering', 'Product development']",UST,"['30,000+ ', '[6]']",['www.ust.com']
+650,['2005'],"['Vancouver', 'Canada']",['Digital IT services Software services\nBusiness Process Outsourcing'],TELUS International,"['68,000', '[2]']","['www', '.telusinternational', '.com']"
+651,"['original', 'Leidos']","['Reston', 'Fairfax', 'Virginia']",['Information technology and engineering'],"Science Applications International Corporation, Inc.","['c.', '\u200926,000', '\xa0(January 2022)']","['saic', '.com']"
+652,"['1982', ' in Monterrey, Nuevo LeÃ³n, Mexico']","['Monterrey', 'Nuevo LeÃ³n', 'Mexico']",['Information technology'],Softtek,"['15,000 (2019)']",['www.softtek.com']
+653,"['June\xa016, 1991']","['Armonk, New York']","['Information technology', 'Consulting', 'Outsourcing']",IBM ,[],"['ibm', '.com', '/consulting']"
+654,['New Delhi'],"['New York City, New York']","['Professional services', 'Information technology', 'Consulting']",Genpact Ltd.,"['109,600 ', '(2021)']","['www', '.genpact', '.com']"
+655,['April\xa01999'],['New York City'],[],"ExlService Holdings, Inc.","['37,000+']","['www', '.exlservice', '.com']"
+656,"['2010', ' in New York City']","['New York City, New York', ', U.S.']",['System Monitoring'],"Datadog, Inc.","['3,200 (Dec 2021)', '[1]']",[' ']
+657,['January\xa02009'],"[', U.S.']",['Software'],"Okta, Inc.","['5,030 (January 2022)']","['okta', '.com']"
+658,['2003'],"['Denver, Colorado']",['Software'],Palantir Technologies Inc.,"[' 2,920 (2021)', 'a']","['palantir', '.com']"
+659,['2004'],['Beijing'],['Film'],Beijing Enlight Pictures,[],[]
+660,[],"['Zhejiang', 'China', 'Shanghai', 'China', 'Hong Kong']",['Film'],Alibaba Pictures,[],"['www', '.alibabapictures', '.com']"
+661,['1950'],"['Changchun', 'Jilin']","['film production', 'documentary']",Changchun Film Studio Group Corporation,['3000'],['cfs-cn.com']
+662,"['Hong Kong', '(1862', ')']","['North Point, Hong Kong']",['Public utility'],The Hong Kong & China Gas Co Ltd.,"['2,495 (2020)']","['towngas', '.com']"
+663,['2013'],"['Toronto', 'Ontario']",['Media and Digital Production'],sisu production,[],['sisu production']
+664,['1950'],"['Xicheng District, Beijing']",[],Sinochem Group,"['50,000 (2013) ', '[1]']","['english', '.sinochem', '.com']"
+665,['1905'],"[""Xi'an"", 'Shaanxi', 'China']",['Oil and Gas'],Shaanxi Yanchang Petroleum Group Co. Ltd.,[],"['www', '.sxycpc', '.com']"
+666,[],[],['Oil and gas industry'],Geo-Jade Petroleum,[],['www.geojade.com/']
+667,['1997'],['Hong Kong'],['Natural resources'],CITIC Resources Holdings Limited ,[],"['resources', '.citic']"
+668,['1969'],"['Bondoufle', 'France']","['hypermarkets', 'supermarkets', 'grocery stores']",IntermarchÃ©,[],['intermarche.com']
+669,['1933'],"['Trieste', 'Italy']",['Coffee'],IllycaffÃ¨ S.p.A.,['2700+ (in 2016)'],"['www', '.illy', '.com']"
+670,['1993'],"['Vancouver', 'British Columbia']","['Film production', 'Television production']",Shavick Entertainment,[],"['shavickentertainment', '.com']"
+671,"['Holborn', 'London']",['London'],['Retailing'],J Sainsbury plc,"['180,000 (2021)', '[1]']","['Corporate', 'Consumer']"
+672,"['Long Grove, Illinois']","['Castle Hill, New South Wales']",[],Gloria Jean's Gourmet Coffee Pty. Ltd.,[],"['www', '.gloriajeanscoffees', '.com']"
+673,"['Zagreb', 'Croatia']","['Zagreb', 'Croatia']",[],Franck,[],"['www', '.franck', '.eu']"
+674,['1986'],"['West Bridgewater', 'Massachusetts', 'United States']",[],Equal Exchange,['126'],['equalexchange.coop']
+675,"['Glorietta', 'Makati', 'Philippines']",[],['Coffee shop'],Figaro Coffee Company,[],"['www', '.figarocoffee', '.com']"
+676,['1854'],"['Philadelphia', 'Pennsylvania', 'United States']",['Coffee'],Ellis Coffee Company,[],"['www', '.elliscoffee', '.com']"
+677,"['Grants Pass, Oregon']","['Grants Pass, Oregon']","[' restaurants', 'Restaurants', 'Retail coffee']",Dutch Bros. Coffee,"[' 19,000 (2021)', '[2]']","['www', '.dutchbros', '.com']"
+678,['2003'],"['Dubai', 'United Arab Emirates']",['Real estate'],Nakheel Properties,"['1,500', '[2]']",['www.nakheel.com']
+679,"['1912', 'May 18, 1993']","['Beijing', 'China', 'Markham', 'Ontario', 'Canada']","['Financial services', 'Bank']",Bank of China Limited,"['306,322', '[4]', '\xa0(2021)', '310,042 (2015)\xa0']","['boc.cn', 'bankofchina.com', 'bank-of-china.com', 'bocusa.com', 'www', '.bankofchina', '.com', '/ca']"
+680,"['1949', ' (as PICC)']","['Beijing', 'China']",['Financial services'],China Life Insurance Company Limited ,"['99,739\xa0']",['chinalife.com.cn']
+681,"['St. Paul, Minnesota']",[],"['Food and beverage', 'Coffeehouse']",Dunn Brothers Coffee,[],[]
+682,"['29\xa0June 1998', ' (through the merger of Union Bank of Switzerland and Swiss Bank\n Corporation)']","['Bahnhofstrasse', 'ZÃ¼rich']","['Banking', 'Financial services']",UBS Group AG,"['71,385 (end 2021)', '[3]']","['ubs', '.com']"
+683,"['Varney Air Lines', 'Boise, Idaho']","['Willis Tower', 'Chicago']",[],"United Airlines, Inc.",[],"['united', '.com', '/en', '/us']"
+684,"['1948', '1990 (holding company)', '2007 (listed company)']",['Beijing'],['Construction'],China Railway Construction Corporation Limited,"['261,333 (2017)', '[2]']",['crcc.cn']
+685,"['1958', '1990 (company)']",['Beijing'],['Holding company'],China Railway Engineering Corporation,[],[]
+686,['2012'],"['Pleasanton, California', ', U.S.']",[],"10x Genomics, Inc.","['417 (2021)', '[1]']","['10xgenomics', '.com']"
+687,['1971'],"['Dublin, Ohio']",['Healthcare'],"Cardinal Health, Inc.","['48,000 ', '(2021)', '[3]']","['www', '.cardinalhealth', '.com']"
+688,['1870'],['Tokyo'],"['Automotive', 'Chemical', 'Electronics', 'Food', 'Financial', 'Metallurgy', 'Mining', 'Petroleum']",Mitsubishi Group,[],['mitsubishi.com']
+689,"['1926 (original foundation of Daimler-Benz)', '2007 (foundation of Daimler AG)']","['Stuttgart', 'Germany']",['Automotive'],Mercedes-Benz Group,"[' 172,425 (2021)', '[1]']","['group', '.mercedes-benz', '.com']"
+690,"['September\xa010, 1879', ' as ""Pacific Coast Oil Co.""']","['San Ramon, California']","['Energy', 'Oil and gas']",Chevron Corporation,"['42,595 ', '(March 2021)', '[5]']",['chevron.com']
+691,['2002'],"['Wilmington, Delaware']",['pharmaceutical company'],Incyte Corporation,"['2,094\xa0(December 2021)']","['incyte', '.com']"
+692,['2005'],"['\n', '\n']",['Pharmaceutical'],Horizon Therapeutics Public Ltd Co,"['1,890 (2021)']","['horizontherapeutics', '.com']"
+693,['2002'],"['Cambridge, Massachusetts', ', U.S.']",['Pharmaceutical'],"Alnylam Pharmaceuticals, Inc.","['1,323 (2019)', '[2]']","['alnylam', '.com']"
+694,"['December\xa06, 1941']","['4-6-10 Koishikawa, Bunkyo-ku, Tokyo 112-8088, Japan']",['Pharmaceuticals'],"Eisai Co., Ltd.","[' 1,864 ', '(2019)', '[1]']",['Official website']
+695,"['14\xa0April\xa01909', ' ', '10\xa0January\xa01870', ' ', '16\xa0December 1954', ' ']",['London'],['Oil and gas'],BP p.l.c.,"['60,000 ', '(2021)', '[3]']",['bp.com']
+696,['2008'],['Mainz'],['Biotechnology'],BioNTech SE,"[' 3,000+\xa0(2021)']",[' ']
+697,['Beijing'],"['Beijing', 'Cambridge, Massachusetts', 'Basel']",[],BeiGene,[],"['beigene', '.com']"
+698,['March\xa01997'],"['San Rafael, California']",['Biotechnology'],BioMarin Pharmaceutical Inc.,"['2,581 (2017)']","['biomarin', '.com']"
+699,['1999'],"['Copenhagen', 'Denmark']",['Biotechnology'],Genmab A/S,"['1,212 (2021)', '[5]']",['Genmab.com']
+700,"['April\xa03, 2017']","['Ashburn, Virginia']","['Information technology', 'Consulting', 'Outsourcing']",DXC Technology Company,"['130,000 (March 2022)']","['www', '.dxc', '.com']"
+701,['3\xa0January 2017'],"['Florham Park, New Jersey']",['Business services'],Conduent Incorporated,"['31,000', '[4]', '\xa0(2021)']","['conduent', '.com']"
+702,"['Chennai', 'Tamil Nadu']","['Teaneck, New Jersey']","['Information technology', 'Consulting', 'Outsourcing']",Cognizant Technology Solutions Corporation,"['341,000 (Q12022)', '[5]']","['www', '.cognizant', '.com']"
+703,"['June\xa018, 1914']","['McLean, Virginia']","['Management consulting', 'Information technology consulting']",Booz Allen Hamilton Holding Corporation,"['29,300\xa0(2022)']","['boozallen', '.com']"
+704,"['April\xa04, 2000']","['Seattle', 'Washington', 'U.S.']","['Professional services', 'Technology services']",Avanade,"['56,000 ', '(2021)']","['www', '.avanade', '.com', '/en']"
+705,['2000'],"['Frankfurt', 'Germany']","['Information technology', 'Consulting', 'Outsourcing']",T-Systems International GmbH,"['28,000']","['www', '.t-systems', '.com']"
+706,['June\xa01976'],"['Montreal, Quebec']","['Information technology', 'Consulting', 'Outsourcing']",CGI Inc.,"['88,500 (June 2022)']","['www', '.cgi', '.com', '/en']"
+707,['1968'],"['Paris', 'France']","['Information technology', 'consulting', 'services']",Sopra Steria Group SA,"['48,707 (28 July 2022)', '[1]']","['soprasteria', '.com']"
+708,['1\xa0June 2006'],[],"['Information technology', 'Consulting']",Orange Business Services,"['21,000+', '[1]']",['www.orange-business.com']
+709,['1993'],"['Alcobendas', 'Madrid', 'Spain']","['Information technology', 'Consulting', 'Outsourcing']","Indra Sistemas, S.A.","[' 50,539 ', '(2021)', '[1]']",[]
+710,['1980'],"['London, England']",['Professional services'],Grant Thornton International Ltd.,"['62,000', '[1]', '\xa0(2021)']","['grantthornton', '.com']"
+711,"['July\xa023, 2012']","['Bozeman, Montana']",[],Snowflake Inc.,"['3,992 (Jan 2022)']","['snowflake', '.com']"
+712,"['1998', '1849', '1854']",['London'],['Professional services'],PricewaterhouseCoopers,"['295,000 (2021)', '[4]']","['www', '.pwc', '.com']"
+713,"['1987', '(merger of Peat Marwick International and Klynveld Main Goerdeler)', '1979', ' (KMG)', '1925', ' (Peat Marwick)', '1897', ' (Marwick, Mitchell & Company)', '1818', ' (Grace, Darbyshire, & Todd)']","[', England', '(Legal)', ', Netherlands', '(Functional)']",['Professional services'],KPMG International Limited,"['236,000 (2021)', '[2]']","['home', '.kpmg']"
+714,['1999'],"['Belmont, California']",['Cloud computing'],"RingCentral, Inc.","['3,919 (December 2021)', '[2]']","['ringcentral', '.com']"
+715,['2011'],"['Austin, Texas']",['Information security'],"CrowdStrike Holdings, Inc.","['6,000 (2022)', 'a']",[' ']
+716,['1998'],"['Oklahoma City, OK']","['Software', 'SaaS', 'HCM']","Paycom Software, Inc.","['5,385 (2021)']","['paycom', '.com']"
+717,['1968'],"['Espoo', 'Finland']","['IT services', 'IT consulting']",Tietoevry Oyj,"[' 23,632 ', '(', 'FTE', ', end 2020)', '[1]']","['www', '.tietoevry', '.com']"
+718,['2007'],"['Pleasanton, California']",['Software'],Veeva Systems Inc.,"['5,482 (Jan 2022)']","['veeva', '.com']"
+719,['June\xa02006'],"[', U.S.']",['Software'],"HubSpot, Inc.","['5,895 (2021)', '[1]']","['hubspot', '.com']"
+720,"['Seattle, Washington']","['Rincon Center', 'San Francisco, California']",['Communications'],Twilio Inc.,[],[]
+721,['2003'],"[', U.S.']",['Software'],"DocuSign, Inc.","['7,461 (2022)', 'a']","['docusign', '.com']"
+722,['19\xa0April 1924'],"['Distrito TelefÃ³nica', 'Madrid', 'Spain']",['Telecommunications'],"TelefÃ³nica, S.A.","['104,150 (2021)', '[2]']","['telefonica', '.com']"
+723,"['Canonsburg, Pennsylvania']","['Canonsburg, Pennsylvania, U.S.']",['Computer software'],"Ansys, Inc.","['5,100 (Dec. 2021)']","['ansys', '.com']"
+724,['October\xa02003'],"['San Francisco, California', 'U.S.']","['Software', 'Cloud computing']",Splunk Inc.,"['7,000+ (January 2022)']",[' ']
+725,['2000'],"['Sunnyvale, California']","['Cloud Security', 'Cybersecurity', 'Network Security']","Fortinet, Inc.","['12,091 (November 2022)']","['fortinet', '.com']"
+726,['3\xa0April 1880'],"['Munich', 'Germany']",['Financial services'],Munich Re Group,"['39,642 (2020)', '[3]']","['www', '.munichre', '.com']"
+727,['1946'],['Paris'],['Electric utility'],ÃlectricitÃ© de France (EDF),"['165,000 ', '(2021)', '[4]']","['www', '.edf', '.com']"
+728,"['1964', ' as Metro-SB-GroÃmarkt GmbH & Co. KG', '1996', ' as Metro AG', '2017', ' as Metro AG (new company)']","['DÃ¼sseldorf', 'Germany']",['Wholesaling'],Metro AG,"['95,141 ', '(2020â2021)', '[3]']",['www.metroag.de']
+729,['2006'],"['Luxembourg City', 'Luxembourg']",['Steel'],ArcelorMittal S.A.,"[' 168,000 (2021)', '[4]']","['corporate', '.arcelormittal', '.com']"
+730,"['May\xa04, 1864']","['Boulevard Haussmann', '9th arrondissement', 'Paris', 'Tours SociÃ©tÃ© GÃ©nÃ©rale', 'Nanterre', 'La DÃ©fense']",['Financial services'],SociÃ©tÃ© GÃ©nÃ©rale S.A.,"['146,000 (2015)', '[2]']","['societegenerale', '.com']"
+731,"['Mannheim', 'Baden']",['Ludwigshafen'],['Chemicals'],BASF SE,"[' 111,047 (end 2021)', '[1]']","['basf', '.com']"
+732,['5\xa0November 1894'],"['Montrouge', 'France']",['Financial services'],CrÃ©dit Agricole Group,"['142,000 (2019)']","['credit-agricole', '.com']"
+733,"['7\xa0March 1916', '(as Bayerische Flugzeugwerke)']",['Munich'],['Automotive'],Bayerische Motoren Werke AG,"['118,909 (2021)', '[1]']","['bmw.com', 'bmwgroup.com']"
+734,['1994'],"['Vancouver', 'British Columbia', 'Canada']",['Television production'],Paperny Entertainment Inc.,[],['Paperny Entertainment']
+735,"['1983 (as RenÃ© Malo VidÃ©o)', '1990 (as Malofilm)', '1999 (as Les Films SÃ©ville)', '2014 (as international unit)']","['Montreal', 'Quebec']",['Film'],Les Films SÃ©ville,[],"['www', '.filmsseville', '.com']"
+736,"['Ottawa', 'Ontario']","['Montreal', 'Quebec']",[],National Film Board of Canada ,[],[' ']
+737,"['2016', 'May\xa02004', 'February\xa027, 1997']","['Vancouver', 'British Columbia', 'Toronto, Ontario']","['Animation', 'Television production', 'Television production']",WildBrain Studios,['>700\xa0(2020)'],"['www', '.wildbrain', '.com', 'www', '.iom-media', '.com']"
+738,['Canada'],"['Toronto', 'Canada']",['Animation'],Breakthrough Entertainment,[],"['www', '.breakthroughentertainment', '.com']"
+739,"['1970', '2007', '1980']","['Toronto', 'Ontario', 'Toronto', 'Ontario', 'Toronto', 'Ontario']","['Entertainment', 'Film production', 'Television production']",Entertainment One Ltd.,[],"['\xa0', '\xa0']"
+740,['2002'],"['Calgary, Alberta', 'Canada']",['Special Effects'],Bleeding Art Industries Inc.,[],"['www', '.bleedingartindustries', '.com']"
+741,['1982'],"['Beijing', 'China']",['Oil and gas'],ChinaÂ NationalÂ OffshoreÂ OilÂ Corporation,"['98,750  (2011)', '[1]']","['www', '.cnooc', '.com', '.cn']"
+742,['1963'],"['Naypyidaw', 'Burma']",['Oil and gas industry'],Myanmar Oil and Gas Enterprise,[],[]
+743,"['1929', ' in Canada', '1999']","['Awali', 'Bahrain']",['Oil and gas industry'],Bahrain Petroleum Company (BAPCO),[],"['www', '.bapco', '.net']"
+744,['1972'],"['Kawran Bazar', 'Dhaka', 'Bangladesh']",['Oil and Gas Industry'],PetroBangla,[],"['www', '.petrobangla', '.org', '.bd']"
+745,['Baku'],"['Baku', 'Azerbaijan']",['Oil and Gas'],Nobel Oil Group,[],"['www', '.nobeloil', '.com']"
+746,['13\xa0September\xa01992'],"['Baku', 'Azerbaijan']",['Oil and gas'],State Oil Company of Azerbaijan Republic (SOCAR),"['100,000 ', '(2018)', '[2]']","['www', '.socar', '.az']"
+747,['Shell Centre'],['Shell Centre'],"['Energy', 'Petroleum']",Shell plc,"['86,000', '[2]', '\xa0(2022)']","['www', '.shell', '.com']"
+748,[],['Gibraltar'],['Financial services'],Xapo Bank Limited,[],[]
+749,['2017'],"['Seoul', 'South Korea']",[],Upbit,[],"['www', '.upbit', '.com']"
+750,['July 2014'],['Switzerland'],['Cryptocurrency'],ShapeShift,[],"['shapeshift', '.com']"
+751,['2012'],"['New York, NY']",['Financial technology'],Paxos Trust Company,[],"['paxos', '.com']"
+752,['10 March 1972'],"['Tunis', 'Tunisia', 'Tunisia']",['Hydrocarbons'],Entreprise Tunisienne d'ActivitÃ©s PÃ©troliÃ¨res (ETAP),['691 (2009)'],['www.etap.com.tn']
+753,['1948'],['Ivry-sur-Seine'],['Retail'],E.Leclerc,"['133,000 (2019)']","['www', '.e', '.leclerc']"
+754,"['St. Paul, Minnesota']","['Richfield, Minnesota']",['Retail'],Best Buy Co. Inc.,"['c. 105,000\xa0(January 2022)']",['BestBuy.com']
+755,"['September\xa01,\xa02005', ' (from merger)']","['Chiyoda, Tokyo', 'Japan']",['Retail'],"Seven & i Holdings Co., Ltd.","['98,039 (Feb. 2020)', '[1]']",[' ']
+756,['1927 (current form 1972)'],['Cologne'],['Retailing'],REWE Group,"['363,633 (2019)']",['www.rewe-group.com']
+757,"['Leipzig', 'Germany']","['Hamburg', 'Germany']",['Retail'],Edeka Gruppe,"['381,000 (2019)']",['edeka.de']
+758,['2017'],['Seychelles'],[],OKX,"['2,000+\xa0(2022)']","['www', '.okx', '.com']"
+759,['Yokkaichi'],"['Mihama-ku', 'Chiba']",['Retail'],"ÃON Co., Ltd.","['500,000+ (FY 2016)']",['www.aeon.info']
+760,['25\xa0July 2016'],['Zaandam'],"['Retail', 'Wholesaling']",Koninklijke Ahold Delhaize N.V.,"['232,000', '[2]']","['www', '.aholddelhaize', '.com']"
+761,"['July\xa021, 1939']","['Boise, Idaho']","['Retail', 'Grocery']","Albertsons Companies, Inc.","['325,000 (May 2020)']","['www', '.albertsons', '.com', 'www', '.albertsonscompanies', '.com']"
+762,"['Winter Haven, Florida']","['Lakeland, Florida']",['Retail'],"Publix Super Markets, Inc.","['230,000 (2022)']","['www', '.publix', '.com']"
+763,"['Port Elizabeth, South Africa']","['Port Elizabeth, South Africa']","['Restaurant', 'Franchising']",Dulce CafÃ©,[],[]
+764,"['North Wilkesboro, North Carolina', 'United States']","['Mooresville, North Carolina']",['Retail'],"Lowe's Companies, Inc.","['300,000', '[4]', '\xa0(', '2020', ')']","['lowes', '.com']"
+765,"['Hackney', 'London']","['Welwyn Garden City', 'Hertfordshire']",['Retail'],Tesco PLC,"['367,321 (2021)', '[1]']","['www', '.tescoplc', '.com']"
+766,['1961'],"['Campo Maior', 'Portugal']",[],"Novadelta, S.A.",[],"['www', '.deltacafes', '.com', '/en']"
+767,['2012'],"['Saratoga Springs, New York']",[],Death Wish Coffee Co.,['64'],"['deathwishcoffee', '.com']"
+768,"['Irvine, California']","['Irvine, California']",['Restaurants'],"Diedrich Coffee, Inc","['815 as of February 25, 2005']",['Diedrich.com']
+769,"['Quincy, Massachusetts']","['Canton, Massachusetts']","['Food and beverage', 'Coffeehouse']",Dunkin' Donuts LLC,[],"['dunkindonuts', '.com']"
+770,['1953\xa0'],"['Oslo', 'Norway']",['Coffee'],Coop Norge Kaffe AS,[],[]
+771,['1700'],['Munich'],"['Delicatessen, Gastronomy, Vending, Catering']",Alois Dallmayr KG,"['3,500 (2014), 2.000 in Germany']",['www.dallmayr.com']
+772,"['1971', ', England']","['Dunstable', 'Bedfordshire']",['Coffee shop'],Costa Coffee,[],[' ']
+773,"['Baton Rouge, Louisiana']",[],['coffee roasting'],Community Coffee,[],[]
+774,"['Shaw, Washington, D.C.']",[],['Coffee roaster'],Compass Coffee,[],['Official website']
+775,"['Milwaukee, Wisconsin']","['Milwaukee, Wisconsin', 'U.S.']",['Retail'],Colectivo Coffee Roasters,[],['Colectivo Coffee Roasters']
+776,['1724'],"['Edinburgh', ', Scotland, UK']",['Financial services'],The Royal Bank of Scotland plc,"['71,200']",['rbs.co.uk']
+777,['1996'],"['Denver', 'Colorado']",['Telecommunications'],Qwest Communications International Inc.,"['30,000 (2010)']","['www', '.qwest', '.com']"
+778,"['October\xa08, 1998']","['388â390 Greenwich St.', 'New York', 'NY']",['Financial services'],Citigroup Inc.,"['223,400 (2021)', '[3]']",['citigroup.com']
+779,['1951'],"['Makati', 'Metro Manila', 'Philippines']",['Food and drink'],Comfoods,[],[]
+780,['1970'],"['Tysons Corner, Virginia', 'McLean']",['Financial services'],Federal Home Loan Mortgage Corporation (Freddie Mac),"['6,892 ', '(February 2019)', '[1]']","['www', '.freddiemac', '.com']"
+781,"['Shanghai', 'China']","['New York City, New York']",['Financial services'],"American International Group, Inc.","['49,600 (2020)']",['www.aig.com']
+782,"['September\xa016, 1908', ' (original company)', 'July\xa010, 2009', ' (present company)']",['Renaissance Center'],['Automotive'],General Motors Company,"['157,000 (December 2021)', '[2]']",['gm.com']
+783,[],"['Milpitas, California', 'USA']",['Optical products and broadband communications'],JDS Uniphase Corporation,"['5,100 (2015)', '[1]']",['JDSU.com']
+784,"['1866', ' (for the Anglo-Swiss Condensed Milk Company branch)']","['Vevey', 'Vaud', 'Switzerland']",['Food processing'],NestlÃ© S.A.,"['276,000 (2021)', '[3]']","['nestle', '.com']"
+785,"['February\xa010, 1972', 'August 12, 1966 (as Kinney National Company)', ' February 10, 1972 (as Warner Communications)']",['30 Hudson Yards'],"['Media', 'Entertainment']","Warner Media, LLC","['25,600 (2015)\xa0', '25,600 (2015)\xa0']",['warnermedia.com']
+786,"['1982', '1977']","['Bloomfield, Connecticut']","['Managed healthcare', 'Insurance']",Cigna Corporation,"['73,800 (2021)', '[3]']",['cignaglobalhealth.com']
+787,['1950'],"['Xicheng District, Beijing']",[],Sinochem Group,"['50,000 (2013) ', '[1]']","['english', '.sinochem', '.com']"
+788,['Shell Centre'],['Shell Centre'],"['Energy', 'Petroleum']",Shell plc,"['86,000', '[2]', '\xa0(2022)']","['www', '.shell', '.com']"
+789,['8\xa0August 1989'],['Saint Petersburg'],['Oil and gas'],Gazprom PJSC,"['466,000', '[2]', '\xa0(2018)']","['gazprom', '.com']"
+790,"['October\xa05, 1983']",['Whitacre Tower'],"['Telecommunications', 'Technology']",AT&T Inc.,"[' 203,000\xa0(Jan. 2022)']",['www.att.com']
+791,['10\xa0July 1951'],"['Beijing', 'China']",['Financial services'],Agricultural Bank of China,"[' 467,631 ', '(2020)', '[3]']",['abchina.com']
+792,['16\xa0January 2021'],['Amsterdam'],"['Automotive', 'Production systems']",Stellantis N.V.,"['281,595', '[b]', '[3]', '\xa0(December 2021)']",['stellantis.com']
+793,['1\xa0October 1954'],['Beijing'],['Financial services'],China Construction Bank,"['345,971 ', '(2018)', '[1]']",['ccb.com']
+794,"['1974', '(As Marc Rich + Co AG)']","[', Switzerland', '(Headquarters)', ', United Kingdom', '(Head office â Oil & gas)', ', Netherlands', '(Head office â Agricultural products)', ', ', '(Registered office)']","['Commodities', 'Metals', 'Mining']",Glencore plc,"['135,000 (2022)', '[3]']","['www', '.glencore', '.com']"
+795,['1984'],"['Beijing', 'China']",['Financial services'],Industrial and Commercial Bank of China Limited,"[' 434,798 ', '(2022)', '[9]']",['icbc.com.cn']
+796,['1988'],['Shenzhen'],['Financial Services'],Ping An Insurance,"['Approx. 362,035', '[1]']",['https://group.pingan.com']
+797,['28\xa0March 1924'],"['Tour Total', 'Courbevoie', 'France']","['Petroleum', 'Energy']",TotalEnergies SE,"['105,476 (2020)', '[2]']","['totalenergies', '.com']"
+798,['Merger between AmeriSource Health and Bergen Brunswig in 2001'],"['Conshohocken, Pennsylvania']",['Pharmaceutical'],AmerisourceBergen Corporation,"['c.', '\u200942,000', ' (September 2021)', '[1]']","['www', '.amerisourcebergen', '.com']"
+799,['1\xa0April 2005'],"['ChÅ«Å-ku', 'Tokyo']",['Pharmaceutical'],Astellas Pharma Inc.,"['17,217 (2016)', '[2]']",['www.astellas.com/en/']
+800,"['Seattle, Washington']","['Issaquah, Washington']",['Retail'],Costco Wholesale Corporation,"[' 304,000', '[1]', '\xa0(2022)']",[' ']
+801,['1998'],"['San Diego, California', 'U.S.']",['Biotechnology'],"Illumina, Inc.","['9,100 (Jan 2022)']","['www', '.illumina', '.com']"
+802,['1997'],"['Bothell, Washington']","['Biotechnology', 'pharmaceutical']",Seagen Inc.,['2700 (2021)'],"['seagen', '.com']"
+803,['1992'],"['Boston, Massachusetts', ', U.S.']",['Pharmaceutical industry'],"Alexion Pharmaceuticals, Inc.","['2,525 (2020)']","['www', '.alexion', '.com']"
+804,['1978'],"[', U.S.']",['Biotechnology'],Biogen Inc.,"['9,100 (2020)', '[3]']","['biogen', '.com']"
+805,['1988'],"['Tarrytown, New York']","['Pharmaceuticals', 'Biotech']","Regeneron Pharmaceuticals, Inc.","['10,368 (December 2021)']",[' ']
+806,['1989'],"['Boston, Massachusetts']","['Pharmaceuticals', 'Biotherapeutics']",Vertex Pharmaceuticals Incorporated,"['3,900']",['vrtx.com']
+807,"['Doshomachi, Osaka, Japan (12\xa0June 1781', ')']","['Nihonbashi', 'Chuo, Tokyo']",['Pharmaceuticals'],Takeda Pharmaceutical Company Limited,"['\n', '49,578 (2019)', '\n', '18,378 in United States ', '[5]', '\n', '5,350 in Japan', '[6]', '\n']","['www', '.takeda', '.com']"
+808,"['1989', ' (through merger of Ernst & Whinney and Arthur Young & Co.; oldest component from 1849)']",['London'],['Professional services'],Ernst & Young Global Limited,"['365,399 (2022)', '[5]']","['ey', '.com']"
+809,['1 October 1967'],"['Paris', 'France']","['Information technology', 'Consulting', 'Outsourcing']",Capgemini SE,"['358,400 (2022)', '[2]']","['www', '.capgemini', '.com']"
+810,['2000'],['Bezons'],"['Information technology', 'Consulting', 'Outsourcing']",Atos SE,"['104,430 (2020)', '[2]']","['atos', '.net']"
+811,"['1988 by Simon Azoulay, Laurent Schwarz and Thierry Woog']","['Boulogne-Billancourt', 'France']","['Information technology', 'Consulting', 'Outsourcing']",ALTEN,"['42,000 (June. 2022)', '[3]']","['www', '.alten', '.com']"
+812,['1\xa0August 1863'],"['Leverkusen', 'North Rhine-Westphalia', 'Germany']","['Pharmaceuticals', 'Chemicals', 'Biotechnology', 'Healthcare']",Bayer AG,"['99,637 (2021)', '[2]']","['www', '.bayer', '.com']"
+813,['1989'],['Dublin'],"['Professional services', 'Information technology', 'Consulting']",Accenture plc,"['721,000 (2022)', '[3]']","['www', '.accenture', '.com']"
+814,['London'],['London'],['Professional services'],Deloitte Touche Tohmatsu Limited,"['415,000 (2022)', '[5]']","['deloitte', '.com']"
+815,['1991'],['Hyderabad'],['Conglomerate'],Cyient,"['10,000+ (2018)']","['www', '.cyient', '.com']"
+816,['1981'],['Singapore'],"['IT, infocomm']",NCS Group,"['12,000', '[1]']",['https://www.ncs.co/en-sg/']
+817,['1975'],"['Mumbai', 'Maharashtra']","['IT services', 'IT consulting']",Datamatics Global Services Ltd,"['10,000+']","['www', '.datamatics', '.com']"
+818,['1991'],"['Pune, India']",['IT services'],Zensar Technologies Ltd,['11000+ (2022)'],"['www', '.zensar', '.com']"
+819,['13\xa0May 1992'],"['Noida', 'Uttar Pradesh']",['Information technology'],Coforge Ltd.,"['21000+ (2021)', '[3]']","['www', '.coforge', '.com']"
+820,[],"['Pune, Maharashtra']",['Automotive'],KPIT Technologies Limited,"['10,000+ (as of October 2022)', '[3]']","['www', '.kpit', '.com']"
+821,['14 June 2012'],"['Vadodara', 'Gujarat', 'India']","['Engineering', 'Consulting']",L&T Technology Services,"['19,000+ (2020)']","['www', '.ltts', '.com']"
+822,['Pune'],"['Pune', 'Maharashtra']",['IT Services'],Persistent Systems,"['21,000+']","['persistent', '.com']"
+823,['1988'],"['San Jose, California']",['Computer Software'],"Cadence Design Systems, Inc.","['9,300 (Jan 2022)', '[1]']","['www', '.cadence', '.com']"
+824,['2000'],"['Atlanta, Georgia']",['Financial data services'],"FleetCor Technologies, Inc.","['7,600 (2018)']","['www', '.fleetcor', '.com']"
+825,"['April\xa021, 2011']","['San Jose, California', ', U.S.']",[],"Zoom Video Communications, Inc.","['6,787 (2022)']",[' ']
+826,"['Richardson, Texas']","[', U.S.']","['Cloud computing', 'Virtualization', 'Computer software']","Citrix Systems, Inc.","['9,700 (December 2021)']","['www', '.citrix', '.com']"
+827,['1998'],"['Cambridge, Massachusetts']","['Internet', 'Cloud computing']","Akamai Technologies, Inc.","['8,800 (2021)']",['akamai.com']
+828,['1993'],"['Newtown, Pennsylvania']",['Software engineering'],"EPAM Systems, Inc.","['58,824 (Dec 2021)', '[2]']","['epam', '.com']"
+829,['Research Triangle Park'],"['Mountain View, California']","['Integrated circuit', 'Self-driving car', 'Software as a service', 'Software Testing', 'Internet of Things']","Synopsys, Inc.","['16,361 (2021)', '[3]']","['synopsys', '.com']"
+830,['Mill Valley'],"['One Market Plaza', 'San Francisco, California']","['media & entertainment', 'manufacturing & industrial', 'bioscience']","Autodesk, Inc.","['12,600 (January 2022)']",['autodesk.com']
+831,"['1982', ' in Israel']","[', United States (corporate)', ' (registered office)']",['Software'],Amdocs Limited,"['31,000 (2022)', '[2]']","['amdocs', '.com']"
+832,"['Sunnyvale, California']","[', Arizona, U.S.', ', Czech Republic']",['Computer software'],Gen Digital Inc.,"['c.', '\u20092,700', '\xa0(2022)']","['gendigital', '.com']"
+833,['1971'],"['Rochester, New York']","['Business Process Outsourcing', 'Human Capital Management']","Paychex, Inc.","['c.', '\u200916,000', '\xa0(2022)']","['paychex', '.com']"
+834,['2005'],"['Santa Clara, California']","['Network security', 'Cybersecurity', 'Cloud Computing']","Palo Alto Networks, Inc.","['12,561 (July 2022)', '[5]']","['paloaltonetworks', '.com']"
+835,['1831'],"['Trieste', 'Italy']",['Financial services'],Assicurazioni Generali S.p.A.,"['74,621 (2021)', '[1]']","['www', '.generali', '.com']"
+836,['2007'],"['Lingotto', 'Turin']",['Automotive'],FIAT Automobiles ,[],['fiat.com']
+837,['27\xa0November 1962'],"['Rome', 'Italy']",['Electric utility'],Enel S.p.A.,"['66,279 (2021)', '[5]']",['www.enel.com']
+838,['15\xa0May 1857'],"['Santander', 'Boadilla del Monte', 'Madrid']",['Financial services'],"Banco Santander, S.A.","[' 198,204 (2021)', '[1]']","['www', '.santander', '.com']"
+839,['22\xa0July 2008'],"['La DÃ©fense', 'France']",['Electric utility'],Engie SA,"['171,100 (2019)']","['engie', '.com', '/en']"
+840,"['1848', "" (Comptoir National d'Escompte de Paris, predecessor of BNP)"", '1872 (Banque de Paris et des Pays-Bas, later called Paribas)', '2000 (as BNP Paribas)']","['Boulevard des Italiens', 'Paris', 'France']",['Financial services'],BNP Paribas S.A.,"['190,000 (2022)', '[2]']",['group.bnpparibas']
+841,"['Berlin', 'Kingdom of Prussia']","['Munich', 'Berlin']",['Conglomerate'],Siemens Aktiengesellschaft,"['303,000 (2021)', '[2]']","['www', '.siemens', '.com']"
+842,['1816'],['Paris'],['Financial services'],AXA S.A.,"['149,000 (2021)', '[2]']","['www', '.axa', '.com']"
+843,['5 February 1890'],['Munich'],['Financial services'],Allianz,"['155,411 (2021)', '[1]']","['allianz', '.com']"
+844,['27\xa0July 1927'],"['Amsterdam', 'Netherlands']",['Holding company'],Exor N.V.,"['74,353 (approx) (2021)', '[1]']",['exor.com']
+845,['1\xa0January 1958'],"['Massy', 'Essonne']","['Retail', 'Wholesaling']",Carrefour,"['\n', ' 319,565 ', '(2021)', '[1]', '\n', ' 115,310 (', 'Latam', ')', ' 191,707 (', 'Europe', ')', ' 12,548 (', 'Asia', ')', '\n']",['www.carrefour.com']
+846,"['January\xa02,\xa01908']",['Ottawa'],['Coin mintage'],Royal Canadian Mint,"['1,280 (2016)', '[2]']",[' ']
+847,['1968'],['Singapore'],['Metalworking'],Singapore Mint,[],[]
+848,['Balerna'],"['Balerna', 'Switzerland']",['Refining'],Valcambi,['155'],"['www', '.valcambi', '.com']"
+849,"['1001 ', ' 1925 as the Royal Hungarian State Mint']","['Budapest', 'Hungary']",['Coin'],Hungarian Mint,[],"['www', '.penzvero', '.hu']"
+850,['1989'],[],[],Austrian Mint,[],['www.muenzeoesterreich.at']
+851,[' AD'],"['Llantrisant', 'Rhondda Cynon Taf']",['Coin'],The Royal Mint Limited,['900+'],"['www', '.royalmint', '.com']"
+852,"['1926 (original foundation of Daimler-Benz)', '2007 (foundation of Daimler AG)']","['Stuttgart', 'Germany']",['Automotive'],Mercedes-Benz Group,"[' 172,425 (2021)', '[1]']","['group', '.mercedes-benz', '.com']"
+853,['1989'],"['Brussels', 'Belgium']","['Metals', 'Mining']",Umicore SA,"['10,224 ', '(2018)', '[5]']",['www.umicore.com']
+854,['1962'],"['Sofia', 'Bulgaria']",['Cinematography'],Nu Boyana Film Studios,[],"['nuboyana', '.com']"
+855,['2011'],"['Shiner, Texas', 'United States']",['Precious metals'],Texas Precious Metals,[],['www.texmetals.com']
+856,['1996'],['Schelle'],['Family Entertainment'],Studio 100 NV,[],"['www', '.studio100group', '.com']"
+857,['1926'],"['Minsk', 'Belarus']","['Motion pictures', 'Animated films']",Belarusfilm,[],[]
+858,['2003'],['Bangladesh'],[],Impress Telefilm,[],[]
+859,"['December\xa025, 1998']","['Rio de Janeiro', 'RJ']",[],Globo Filmes,[],['Official website']
+860,['1881'],['Cape Town'],['Oil and gas'],Engen Petroleum Limited,"['3,485 (2017)', '[2]']",['engen.co.za']
+861,['June 2012'],['Helsinki'],[],LocalBitcoins,['100+'],"['localbitcoins', '.com']"
+862,"['July\xa028, 2011']",[],[],Kraken,[],"['kraken', '.com']"
+863,['2013'],['Seychelles'],['Bitcoin exchange'],Huobi,[],"['www', '.hbg', '.com']"
+864,['July 2013'],['Netherlands\xa0'],['Bitcoin mining pool'],GHash.io,[],['\xa0']
+865,['1999'],"['Patras', 'Greece']",['Food and Beverage'],Coffee Island,[],['https://www.coffeeisland.gr/en/']
+866,"['December\xa014, 1992', ' Edina, Minnesota, United States']","['Brooklyn Center', 'Minnesota', 'U.S.']","['coffee', 'tea']",Caribou Coffee Company,"['7,000+', '[3]']","['www', '.cariboucoffee', '.com']"
+867,"['Cincinnati, Ohio']","['Cincinnati, Ohio', 'U.S.']",['Retail'],The Kroger Company,"['465,000 (2022)', '[4]']","['www', '.thekrogerco', '.com', 'www', '.kroger', '.com']"
+868,['1995'],"['Seattle', 'Washington']",['Restaurants'],CaffÃ¨ Vita Coffee Roasting,['100'],['www.caffevita.com']
+869,['1993'],"['Ocean Financial Centre', 'Singapore']",['Commodity'],Trafigura Group Pte. Ltd.,"['8,619 (2020) ', '[3]']",['trafigura.com']
+870,"['December\xa01, 2000']",['383 Madison Avenue'],['Financial services'],JPMorgan Chase & Co.,"[' 288,474', '[1]', '\xa0(2022)']","['www', '.jpmorganchase', '.com']"
+871,"['20\xa0February 1974', ' (as Hon Hai Precision Industry Co., Ltd.)']","['Tucheng District', 'New Taipei', 'Taiwan']",['Electronics'],Hon Hai Precision Industry Co. Ltd.,"[' 1,290,000 (2020)', '[2]']","['www', '.honhai', '.com', '/en-us', '/']"
+872,['1976'],"['Flushing, Michigan']","['Coffee Chain, Coffee Roaster, Franchisor']","Coffee Beanery, Ltd.",['35'],['http://www.coffeebeanery.com/']
+873,['1984'],"['Beijing', 'China']",['Financial services'],Industrial and Commercial Bank of China Limited,"[' 434,798 ', '(2022)', '[9]']",['icbc.com.cn']
+874,"['Tokyo', 'Japan']","['Nihonbashi-honcho', 'ChÅ«Å-ku', 'Tokyo', 'Japan']",['Pharmaceutical'],"Daiichi Sankyo Company, Limited","['15,348 (as of March 2020)']",['http://www.daiichisankyo.com']
+875,['New York City'],"['Irving, Texas']",['Healthcare'],McKesson Corporation,"['c.', '\u200975,000', ' (2022)', '[1]', ':\u200a9\u200a']",['McKesson.com']
+876,"['June\xa022, 1987']","['Foster City, California']","['Pharmaceutics', 'Biotechnology']","Gilead Sciences, Inc.","[' 14,400', '[2]', '\xa0(2021)']",[]
+877,['1952'],"['Parsippany, New Jersey']",['Pharmaceutical'],Zoetis Inc.,"['c.', '\u200912,100', '\xa0(Dec 2021)']",['Zoetis.com']
+878,['Suwon'],['Samsung Digital City'],"['Electronics', 'Semiconductors', 'Information technology', 'Artificial intelligence', 'Automation', 'Home appliances', 'Medical devices', 'Internet of things', 'Robotics']","Samsung Electronics Co., Ltd.","['266,673 (December 2021)', '[4]']",['samsung.com']
+879,['1941'],"['Kalamazoo', 'Michigan', 'U.S.']",['Medical technology'],Stryker Corporation,"['46,000 (2021)', '[1]']","['stryker', '.com']"
+880,['Shell Centre'],['Shell Centre'],"['Energy', 'Petroleum']",Shell plc,"['86,000', '[2]', '\xa0(2022)']","['www', '.shell', '.com']"
+881,['18\xa0August 1999'],['Global Village Tech Park'],"['Information technology', 'Consulting', 'Outsourcing']",Mindtree,"['38,518 (July 2022)']","['www', '.mindtree', '.com']"
+882,"['1991 (as Shenyang Neu-Alpine Software Co., Ltd)']","['Shenyang', 'China', 'Shanghai']",['Software Development'],Neusoft Corporation,"['20,000 (2015)', '[3]']",['www.neusoft.com']
+883,['1995'],"['Dalian', 'China']",['Information technology'],Pactera Technology International Ltd.,"['30,000 (2017)', '[1]']",['www.pactera.com']
+884,['1973'],['Paris'],"['Pharmaceuticals', 'Biotechnology', 'Healthcare']",Sanofi S.A.,"['95,442', '[1]', '\xa0(2021)']","['sanofi', '.com']"
+885,['6\xa0April 1999'],['Cambridge'],"['Pharmaceutical', 'Biotechnology']",AstraZeneca plc,"['76,100 (2020)', '[1]']","['www', '.astrazeneca', '.com']"
+886,['23 December 1996'],['Mumbai'],"['Information technology', 'Consulting', 'Outsourcing']",Larsen & Toubro Infotech Limited,"['35,991 (2021)', '[2]']","['www', '.lntinfotech', '.com']"
+887,['1998'],"['Bangalore', 'Karnataka']","['Information technology', 'Consulting', 'Outsourcing']",Mphasis Limited,"['29,473 (June 2021)', '[5]']","['www', '.mphasis', '.com']"
+888,['27\xa0December 2000'],['London'],"['Pharmaceutical', 'Biotechnology']",GSK plc,"['94,000 ', '(2022)', '[2]']","['www', '.gsk', '.com']"
+889,['1992'],"['San Jose, California']","['Cloud Computing', 'Storage Device']","NetApp, Inc.","['11,000\xa0(2021)']",[' ']
+890,"['Windsor', 'Connecticut']","['Windsor, Connecticut', ', U.S.']","['Financial Technology', 'Software Products']","SS&C Technologies Holdings, Inc.","['24,900 (December 2021)']","['www', '.ssctech', '.com']"
+891,['2007'],"['Lake Success, New York']",['Financial technology'],"Broadridge Financial Solutions, Inc.","['13,000', '[2]', '\xa0(2021)']","['broadridge', '.com']"
+892,['March\xa02005'],"['Pleasanton, California', 'U.S.']","['Cloud computing', 'Enterprise software']","Workday, Inc.","['17,500 (November 2022)']",['workday.com']
+893,['2003'],"['Santa Clara, California']",['Enterprise software'],"ServiceNow, Inc.","['16,881', '[1]', '\xa0(Dec 2021)']","['www', '.servicenow', '.com']"
+894,['2000'],['Essen'],['Electric utility'],E.ON SE,"['72,169 (2021)', '[1]']","['www', '.eon', '.com']"
+895,['1991 through merger'],['Amsterdam'],['Financial services'],ING Groep N.V.,"['55,901 ', '(2020)', '[2]']","['ing', '.com']"
+896,[],"['Hay Street', 'East Perth']",[],Perth Mint,['516\xa0(2021)'],[' ']
+897,['1977'],"['Castel San Pietro', 'Switzerland']",['Precious metals'],PAMP SA,[],['www.pamp.ch']
+898,['2011'],"['Dhaka', 'Bangladesh']",['Entertainment'],Jaaz Multimedia,[],[]
+899,['10\xa0February 1953'],"['Rome', 'Lazio', 'Italy']",['Oil and gas'],Eni,"[' 32,689 (2021)', '[1]']","['www', '.eni', '.com']"
+900,"['1957, in London']","['London', 'United Kingdom']",[],Sharps Pixley,[],"['sharpspixley', '.com']"
+901,"['Dhaka', 'Bangladesh']","['Dhaka', 'Bangladesh']",['Entertainment'],Monsoon Films,[],"['monsoonfilmsbd', '.com']"
+902,['1993'],"['Melbourne', 'Australia']",['Production company'],Working Dog Productions Pty. Ltd.,[],"['www', '.workingdog', '.com', '.au']"
+903,['1965'],"['Cape Town, Western Cape', 'South Africa']",['Oil and gas industry'],PetroSA,"['1,594\xa0(2017)']","['www', '.petrosa', '.co', '.za']"
+904,['1954'],['The Jam Factory'],"['Media', 'Entertainment']",Village Roadshow Limited,[],['www.villageroadshow.com.au']
+905,['1950'],['Sandton'],"['Oil and gas', 'Chemical', 'Nuclear', 'Coal tar']",Sasol Limited,"['30,100', '[', 'citation needed', ']']","['www', '.sasol', '.com']"
+906,['1977'],"['Abuja', 'FCT']",['Oil and gas'],Nigerian National Petroleum Company,[],"['nnpcgroup', '.com']"
+907,['2010'],"['Cayman Islands', 'London', 'Lagos']",['Financing Oil and gas industry'],Lekoil Limited,[],"['www', '.lekoilplc', '.com']"
+908,['May\xa02019'],"['Nassau', 'New Providence', 'The Bahamas']",['Cryptocurrency'],FTX,"['c.', '\u2009300', ' (2022)', '[4]']","['ftx', '.com']"
+909,[],"['London', 'England', 'UK']",['Coffee shops'],CaffÃ¨ Nero Group Ltd.,"[' 5,000']","['www', '.caffenero', '.com']"
+910,['2015'],"['Stamford, Connecticut']",['Asset management'],Digital Currency Group Inc.,[],"['dcg', '.co']"
+911,"['New York City', 'United States']","['New York City', 'United States']",['Distributed Ledger Technology'],Digital Asset,[],"['digitalasset', '.com']"
+912,"['October\xa025, 2015']",[],[],Gemini,[],"['www', '.gemini', '.com']"
+913,['1991'],"['London', 'United Kingdom']",['Fairtrade beverages'],CafÃ©direct PLC,[],"['cafedirect', '.co', '.uk']"
+914,['1996'],"['Bengaluru', 'Karnataka', 'India']",['Coffeehouse'],Cafe Coffee Day,"['20,135', '[4]']",['cafecoffeeday.com']
+915,"['October\xa02, 2015']",['Googleplex'],['Conglomerate'],Alphabet Inc.,"[' 186,779\xa0(Sept. 2022)']","['abc', '.xyz']"
+916,['1985'],"['Heredia', 'Costa Rica']",['Coffee roasting and chocolate manufacturing'],CafÃ© Britt,[],['cafebritt.com']
+917,['1938'],"['Washington, D.C.']",['Financial services'],Fannie Mae,"['c.', '\u20097,400', ' (December 2021)']","['www', '.fanniemae', '.com']"
+918,"['August\xa05, 1882', ' (as Standard Oil of New Jersey)']","['Irving, Texas', 'Spring, Texas']","['Energy', 'Oil and gas']",ExxonMobil Corporation,"['64,000 (2021)', '[4]']",['corporate.exxonmobil.com']
+919,"['Cumberland, Rhode Island']",['Kiewit Plaza'],['Conglomerate'],Berkshire Hathaway Inc.,"['372,000 (2021)']","['berkshirehathaway', '.com']"
+920,"['Lowell, Massachusetts', 'U.S.']","['Woonsocket, Rhode Island', 'U.S.']","['Managed healthcare', 'Health insurance', 'Pharmacy']",CVS Health Corporation,"['300,000', '[2]', '\xa0(2021)']",[' ']
+921,"['1957', '11 June 1982\xa0']","['Beijing', ""People's Republic of China"", 'Beijing', ""People's Republic of China""]","['Construction', 'Construction']",China State Construction Engineering Corporation,[],"['www', '.cscec', '.com', 'www', '.cscec', '.com', '.cn']"
+922,['16\xa0September 1991'],"['Newbury, Berkshire', ', England, UK']",['Telecommunications'],Vodafone Group plc,"['96,506 (2021)', '[1]']","['www', '.vodafone', '.com']"
+923,"['April\xa08, 1980']","['Thousand Oaks, California', ', U.S.']",['Biotechnology'],Amgen Inc.,"['c.', '\u200924,200', ' (December 2021)']","['amgen', '.com']"
+924,"['August\xa028, 1937']","['Toyota City, Aichi']",['Automotive'],Toyota Motor Corporation,"[' 366,283 (FY21)']","['global', '.toyota']"
+925,['1977'],"['Minnetonka, Minnesota', 'United States']","['Managed healthcare', 'Insurance']",UnitedHealth Group Incorporated,"['380,000', '[2]', ' (2022)']","['unitedhealthgroup', '.com']"
+926,['1999'],"['Hellerup', 'Denmark']","['Life Sciences', '\nAsset management']",Novo Holdings A/S,[],"['www', '.novoholdings', '.dk']"
+927,['1887'],['New York City'],['Pharmaceuticals'],Bristol Myers Squibb Company,"[' 32,200 (2021)']","['bms', '.com']"
+928,['Berlin'],"['Wolfsburg', 'Lower Saxony']",['Automotive'],Volkswagen AG,"[' 667,647 employees (average during 2021)', '[4]']","['www', '.volkswagenag', '.com']"
+929,"['Ravenswood, Chicago']",['Illinois'],"['Health care', 'Medical devices', 'Pharmaceutical']",Abbott Laboratories,"['~113,000 (December 2021)']","['www', '.abbott', '.com']"
+930,['September\xa02010'],"['Technology Square', 'Cambridge, Massachusetts']",['Biotechnology'],"Moderna, Inc.","['2,700 (2021)']","['www', '.modernatx', '.com']"
+931,['2013'],"['North Chicago, Illinois']",['Biopharmaceutical'],AbbVie Inc.,"[' 50,000 (Jan 2022)', '[1]']","['abbvie', '.com']"
+932,['1876'],"['Indianapolis, Indiana']",['Pharmaceutical'],Eli Lilly and Company,"['c.', '\u200935,000', ' (2021)']","['www', '.lilly', '.com']"
+933,"['spinoff', 'NTT']","['Toyosu, Tokyo', 'Japan']","['Information technology', 'Consulting', 'Outsourcing']",NTT DATA Corporation,"['139,500 (2021)', '[1]']","['www', '.nttdata', '.com', '/global', '/en', '/']"
+934,"['Los Altos, California']",['1 Apple Park Way'],"['Consumer electronics', 'Software services', 'Online services']",Apple Inc.,"['164,000\xa0(2022)']",[' ']
+935,"['Kawasaki', 'Kanagawa']","['Shiodome City Center', 'Minato, Tokyo']","['Computer hardware', 'Consulting', 'Cloud computing', 'Telecommunications', 'Data storage', 'Consumer electronics']",Fujitsu Limited,"['126,400 (2021)', '[2]']","['www', '.fujitsu', '.com']"
+936,['2001'],"['Mumbai', 'Maharashtra']",['Business process management'],Firstsource Solutions Limited,"['27000+', '[4]']","['firstsource', '.com']"
+937,['1914'],"['Mumbai', 'Maharashtra']",['Conglomerate'],Hinduja Group,"['200,000+', '[2]']","['www', '.hindujagroup', '.com']"
+938,['24 August 1910'],"['Kolkata', 'West Bengal', 'India']",['Conglomerate'],ITC Limited,"['36,500 (2021)']","['www', '.itcportal', '.com']"
+939,"['March, 2000']",['India'],[],eClerx Services Limited,['14500+'],[]
+940,['1996'],['Mumbai'],"['Business process management', 'outsourcing', 'IT consulting']",WNS Global Services,"['46,918 (30 June 2021)', '[2]']","['www', '.wns', '.com', 'www', '.wnsdecisionpoint', '.com']"
+941,['National Data Corporation'],"['Alliance Center', 'Atlanta', 'Georgia']",['Payment processing'],Global Payments Inc.,"['24,000', '[6]', '\xa0(2020)']",['www.GlobalPayments.com']
+942,"['Palo Alto, California']","['Mountain View, California']",['Enterprise software'],Intuit Inc.,"['14,200', '[1]', '\xa0(2021)']",['Intuit.com']
+943,"['Palo Alto, California']",['Stanford Research Park'],"['Cloud computing', 'Virtualization', 'Computer software']","VMware, Inc.","['37,500 (2022)']",['vmware.com']
+944,"['Paterson, New Jersey']","['Roseland, New Jersey', 'U.S.']","['Business services', 'Software']","ADP, Inc.","['58,000 (2020)']","['adp', '.com']"
+945,['1984'],"['Brookfield, Wisconsin']",[],"Fiserv, Inc.","['44,000 (December 2019)']","['www', '.fiserv', '.com']"
+946,"['November\xa03, 2021']",['One Vanderbilt'],"['IT Services', 'IT Consulting']","Kyndryl Holdings, Inc.","['90,000 (2021)']","['www', '.kyndryl', '.com']"
+947,['December\xa01982'],['Adobe World Headquarters'],['Software'],Adobe Inc.,"['25,988 (2021)']","['adobe', '.com']"
+948,['Sydney (1951)'],['Sydney'],['Precious Metal Services'],Pallion Group,[],['pallion.com']
+949,['1987'],"['Newport Beach', 'California', 'United States']",['Financial services'],Monex Deposit Company (trading as Monex Precious Metals),[],"['www', '.monex', '.com']"
+950,"['Le Locle', 'Switzerland']",['NeuchÃ¢tel'],[],Metalor Group,[],['http://www.metalor.com/']
+951,['28\xa0March 1924'],"['Tour Total', 'Courbevoie', 'France']","['Petroleum', 'Energy']",TotalEnergies SE,"['105,476 (2020)', '[2]']","['totalenergies', '.com']"
+952,['1992'],"['Dubai', 'United Arab Emirates']",[],Emirates Gold,[],"['emiratesgold', '.ae']"
+953,['1660'],"['Hanau', 'Germany']",['Technology'],Heraeus,"['16,200 ', '(2021)', '[1]']","['www', '.heraeus', '.com']"
+954,['1995'],"['Adelaide, Australia']",['Visual effects'],Rising Sun Pictures,[],"['www', '.rsp', '.com', '.au']"
+955,['1\xa0May 1998'],"['Moore Park', 'Sydney', 'New South Wales', 'Australia', 'Map']",['Film'],Disney Studios Australia,[],"['www', '.disneystudiosaustralia', '.com']"
+956,['17\xa0November 1328'],"['Kremnica', 'Slovakia']",['Metalworking'],Kremnica Mint,[],[]
+957,['1960\xa0'],"['Los Angeles', 'California', 'U.S.']",[],"Goldline, LLC",[],['Goldline.com']
+958,['1996'],['Buenos Aires'],['Cinema of Argentina'],Patagonik Film Group,[],['Patagonik Film Group']
+959,['Benghazi'],['Libya'],['Oil and gas industry'],National Oil Corporation,[],['NOC.ly/index.php/en']
+960,['1979'],"['Benghazi', 'Libya']",['Petroleum'],Arabian Gulf Oil Company,[],['Official website']
+961,['February\xa02008'],"['Lagos', 'Nigeria']",['Oil and gas'],Aiteo Group,[],"['www', '.aiteogroup', '.com']"
+962,['2004'],['Singapore'],['Oil and gas'],Madagascar Oil Limited,[],"['www', '.madagascaroil', '.com']"
+963,"['April\xa024,\xa02009']",['Ghana'],"['Oil', 'Gas', 'Equity', 'Mining', 'Agriculture']",STAR AFRICA COMMODITIES & MINERALS LTD.,[],['www.star-af.com']
+964,['1998'],['Republic of the Congo'],['oil and gas industry'],SociÃ©tÃ© nationale des pÃ©troles du Congo,[],[]
+965,['1976'],"['Luanda', 'Angola']",['Oil and gas industry'],Sociedade Nacional de CombustÃ­veis de Angola E.P.,"['13,000\xa0(2022)']",['Sonangol.co.ao']
+966,['June\xa02016'],['Singapore'],['Financial services'],Crypto.com,"['4,000\xa0(2022)']","['crypto', '.com']"
+967,['Tokyo'],['Tokyo'],[],Coincheck,[],[]
+968,"['San Francisco, California']",['Remote-first'],['Cryptocurrency'],"Coinbase Global, Inc.","['3,730 (2021)']","['www', '.coinbase', '.com']"
+969,[],"['Boston, Massachusetts']",[],Circle Internet Financial Limited,[],[]
+970,"['Milwaukee, Wisconsin']","['Milwaukee, Wisconsin', 'U.S.']",['Retail'],Colectivo Coffee Roasters,[],['Colectivo Coffee Roasters']
+971,['1998'],"['Chaoyang District', 'Beijing', 'China']",['Petroleum refining'],China Petrochemical Corporation,"['582,648 (Q3 2020) ', '[2]']",['China Petrochemical Corporation']
+972,['1988'],"['Dongcheng District', 'Beijing', 'China']",['Oil and gas'],China National Petroleum Corporation,[],"['www', '.cnpc', '.com', '.cn', '/en', '/']"
+973,['2002'],"['Xicheng District, Beijing']",['Electric utility'],State Grid Corporation of China,"['1.566 million (2019) ', '[3]', '[4]']","['www', '.sgcc', '.com', '.cn']"
+974,['29 May 1933'],"['Dhahran', 'Saudi Arabia']",['Oil and gas'],Saudi Arabian Oil Company,"['66,800', '[5]', '\xa0(June 2020)']",['aramco.com']
+975,"['Bellevue, Washington']","['Seattle, Washington', 'Arlington, Virginia']","['E-commerce', 'Cloud Computing', 'Artificial intelligence', 'Consumer electronics', 'Entertainment', 'Digital distribution', 'Self-driving cars', 'Supermarket']","Amazon.com, Inc.","[' 1,544,000 (September 2022)', 'U.S.: 950,000 (June 2021)']",[' ']
+976,['Merck'],"['Rahway, New Jersey']",['Pharmaceutical industry'],"Merck & Co., Inc.","[' 68,000 (2021)']","[' (US & Canada)', ' (international)']"
+977,['1896'],"['Basel', 'Switzerland']",['Pharmaceuticals'],Roche Holding AG,"[' 100,920 (2021)', '[4]']","['www', '.roche', '.com']"
+978,['24 October 1986'],"['Pune', 'Maharashtra']","['Information technology', 'Consulting', 'Outsourcing']",Tech Mahindra,"['141,193 (2021)', '[4]']","['www', '.techmahindra', '.com']"
+979,['11\xa0August 1976'],"['Noida', 'Uttar Pradesh']","['Information technology', 'Consulting', 'Outsourcing']",HCLTech,"['210,966 (2022)', '[2]']","['www', '.hcltech', '.com']"
+980,['29 December 1945'],['Sarjapur Road'],['Conglomerate'],Wipro Limited,"['231,671 (2021)', '[3]']","['www', '.wipro', '.com']"
+981,"['February\xa03, 1999']","['Salesforce Tower', 'San Francisco, California', ', U.S.']","['Cloud computing', 'Enterprise software', 'Consulting']","Salesforce, Inc.","['73,542 (August 2022)']","['salesforce', '.com']"
+982,"['March\xa01996', '(from merger)']","[', Switzerland', ', ', ' ']",['Pharmaceuticals'],Novartis AG,"[' 110,000 (2021)', '[3]']","['www', '.novartis', '.com']"
+983,"['1849', ' in New York City']","['New York City', 'U.S.']","['Pharmaceutical', 'Biotechnology']",Pfizer Inc.,"['approx. 79,000', '[1]', '\xa0(2021)']","['pfizer', '.com']"
+984,['Weinheim'],"['Walldorf', 'Baden-WÃ¼rttemberg']","['Enterprise software', 'Business software', 'Cloud computing', 'Consulting']",SAP SE,"['107,415 (2021)', '[1]']","['www', '.sap', '.com']"
+985,['2 July 1981'],"['Bangalore', 'Karnataka']","['Information technology', 'Consulting', 'Outsourcing']",Infosys Limited,"['3,35,186 (2022)', '[3]']","['www', '.infosys', '.com']"
+986,[],[],[],China Banknote Printing and Minting Corporation,[],['www.cbpm.cn']
+987,['1965'],"['Dallas, Texas']",['Recommerce'],Envela Corporation,['60+'],[]
+988,"['Confinity', 'X.com']","['San Jose, California', 'La Vista, Nebraska']",['Financial technology'],"PayPal Holdings, Inc.","['c.', '\u200930,900', ' (2021)', '[3]']","['www', '.paypal', '.com']"
+989,"['Santa Clara, California']","['Austin, Texas']","['Enterprise software', 'Business software', 'Cloud computing', 'Computer hardware', 'Consulting']",Oracle Corporation,"['143,000 (May 2022)', '[3]']",['oracle.com']
+990,"['Computing-Tabulating-Recording Company', 'Endicott, New York']","['Armonk, New York']",['Information technology'],International Business Machines Corporation,"['282,100 (December 2021)', '[6]']",['ibm.com']
+991,['August 2019'],[],['Financial Services'],Bundle Africa,['11-50\xa0(2021)'],['https://www.bundle.africa/']
+992,['2011'],['Russia'],['Bitcoin Exchange'],BTC-e,[],"['btc-e', '.com']"
+993,['December\xa01963'],['Hydra'],['Oil and Gas'],Sonatrach,"['+200,000 (2022)']","['sonatrach', '.com']"
+994,['2013'],"['Beijing', 'China']","['Consumer electronics', 'Computer hardware']",Canaan Creative,['more than 300'],['canaan.io']
+995,['1967'],"['London', 'England']",[],Baird & Co.,['+50'],"['www', '.bairdmint', '.com']"
+996,"['York', 'United Kingdom']","['Luxembourg City', 'Luxembourg']",['Cryptocurrency'],Blockchain.com,['185'],"['blockchain', '.com']"
+997,['2014'],"['Victoria', 'British Columbia']","['Cryptocurrency', 'software']",Blockstream,"['50â100', '[', 'citation needed', ']', '\xa0(2014)']","['blockstream', '.com']"
+998,['2015'],"['Berlin, Germany']",['Financial Services'],Nuri,[],[]
+999,[],[],[],Bitstamp,[],"['www', '.bitstamp', '.net']"
+1000,[],"['Atlanta', 'Georgia', 'USA']",['Payment Processor'],BitPay,[],[]
+1001,['2014'],['Seychelles'],[],BitMEX,[],"['www', '.bitmex', '.com']"

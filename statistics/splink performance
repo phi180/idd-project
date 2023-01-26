@@ -1,0 +1,17 @@
+Splink
+Post-processing
+
+Elapsed time in: 194.7005579471588 for leven=2
+Elapsed time out: 336.63887190818787 for leven=2
+
+Elapsed time in: 233.32017827033997 for leven=5
+Elapsed time out: 376.98405718803406 for leven=5
+
+Elapsed time in: 240.23209404945374 for leven=7
+Elapsed time out: 383.2947428226471 for leven=7
+
+Elapsed time in: 161.52847480773926 for leven=9
+Elapsed time out: 205.60619163513184 for leven=9
+
+Elapsed time in: 80.12535309791565 for leven=11
+Elapsed time out: 125.00819635391235 for leven=11

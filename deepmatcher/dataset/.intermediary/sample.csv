@@ -1,0 +1,10 @@
+id,left_unique_id,right_unique_id,left_company_name,left_company_industry,left_company_location,left_company_founded,left_company_rank,left_company_country,left_company_revenue,left_company_ipo_code,left_company_facebook,left_company_twitter,left_company_instagram,left_company_website,left_company_employees,left_company_ceo,left_top_competitor,left_company_founder,left_company_ipo_year,right_company_name,right_company_industry,right_company_location,right_company_founded,right_company_rank,right_company_country,right_company_revenue,right_company_ipo_code,right_company_facebook,right_company_twitter,right_company_instagram,right_company_website,right_company_employees,right_company_ceo,right_top_competitor,right_company_founder,right_company_ipo_year
+17,20,99119,Reliance Retail,Retail,"Navi Mumbai, Maharashtra, India",2006 (17 yrs old),,,,,,,,,,,,,,Reliance Steel & Aluminum,,,,,USA,,,,,,,,,,,
+31,34,98052,Infosys BPM,BPO,"Bangalore/Bengaluru, Karnataka, India",2002 (21 yrs old),,,,,,,,,,,,,,Infosys,,,,,India,,,,,,,,,,,
+32,35,98442,Maruti Suzuki,Automobile,"New Delhi, Delhi, India",1983 (40 yrs old),,,,,,,,,,,,,,Maruti Suzuki India,,,,,India,,,,,,,,,,,
+36,39,98718,Ericsson,Telecom,"Stockholm,Stockholm County, Sweden",1876 (147 yrs old),,,,,,,,,,,,,,Ericsson,,,,,Sweden,,,,,,,,,,,
+58,66,102000,Hindustan Unilever,FMCG,"Mumbai, Maharashtra, India",1933 (90 yrs old),,,,,,,,,,,,,,Hindustan Copper,,,,,India,,,,,,,,,,,
+67,80,100926,Aurobindo Pharma,Pharma,"Hyderabad/Secunderabad, Telangana, India",1986 (37 yrs old),,,,,,,,,,,,,,Aurobindo Pharma,,,,,India,,,,,,,,,,,
+83,99,101474,Future Group,Retail,"Mumbai, Maharashtra, India",2013 (10 yrs old),,,,,,,,,,,,,,Future plc,,,,,UK,,,,,,,,,,,
+98,118,100960,Samsung,Consumer Electronics & Appliances,"Seoul, South Korea",1938 (85 yrs old),,,,,,,,,,,,,,Samsung Heavy Industries,,,,,S. Korea,,,,,,,,,,,
+130,155,98912,SBI Life Insurance Company,Insurance,"Mumbai, Maharashtra, India",2001 (22 yrs old),,,,,,,,,,,,,,SBI Life Insurance,,,,,India,,,,,,,,,,,

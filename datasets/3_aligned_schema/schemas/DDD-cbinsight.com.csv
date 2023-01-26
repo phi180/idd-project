@@ -1,0 +1,1186 @@
+,company_name,company_revenue,company_country,company_location,company_industry,company_founded
+0,Lacework,$8.3B,United States,San Jose,Cybersecurity,2015
+1,Tipalti,$8.3B,United States,San Mateo,Fintech,2010
+2,Tempus,$8.1B,United States,Chicago,Health,2015
+3,Anduril,$8.48B,United States,Irvine,Artificial intelligence,2017
+4,Bolt,$8.4B,Estonia,Tallinn,Auto & transportation,2013
+5,ByteDance,$140B,China,Beijing,Artificial intelligence,2012
+6,Niantic,$9B,United States,San Francisco,Mobile & telecommunications,2015
+7,OYO Rooms,$9B,India,Gurugram,Travel,2012
+8,Kavak,$8.7B,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,2014
+9,Personio,$8.5B,Germany,Munich,Internet software & services,2015
+10,Klaviyo,$9.2B,United States,Boston,Internet software & services,2012
+11,Rapyd,$8.75B,United Kingdom,London,Fintech,2016
+12,Nuro,$8.6B,United States,Mountain View,Auto & transportation,2016
+13,Tanium,$9B,United States,Kirkland,Cybersecurity,2007
+14,Pony.ai,$8.5B,United States,Fremont,Artificial intelligence,2016
+15,SumUp,$8.5B,United Kingdom,London,Fintech,2012
+16,Chainalysis,$8.6B,United States,New York,Fintech,2014
+17,N26,$9.23B,Germany,Berlin,Fintech,2013
+18,HEYTEA,$9.28B,China,Shenzhen,Other,2012
+19,ServiceTitan,$9.5B,United States,Glendale,Internet software & services,2012
+20,KuCoin,$10B,Seychelles,Victoria,Fintech,2017
+21,Thrasio,$10B,United States,Walpole,E-commerce & direct-to-consumer,2018
+22,Chehaoduo,$10B,China,Beijing,E-commerce & direct-to-consumer,2015
+23,reddit,$10B,United States,San Francisco,Internet software & services,2005
+24,TripActions,$9.2B,United States,Palo Alto,Travel,2015
+25,Digital Currency Group,$10B,United States,New York,Fintech,2015
+26,VulcanForms,$1B,United States,Burlington,"Supply chain, logistics, & delivery",2015
+27,Talkdesk,$10B,United States,San Francisco,Internet software & services,2011
+28,SingleStore,$1B,United States,San Francisco,Data management & analytics,2011
+29,Northvolt,$9.08B,Sweden,Stockholm,Other,2016
+30,LeadSquared,$1B,India,Bengaluru,Internet software & services,2011
+31,Unstoppable Domains,$1B,United States,Las Vegas,Internet software & services,2018
+32,JupiterOne,$1B,United States,Morrisville,Cybersecurity,2018
+33,Glean,$1B,United States,Palo Alto,Internet software & services,2019
+34,CareBridge,$1B,United States,Nashville,Health,2019
+35,FourKites,$1B,United States,Chicago,"Supply chain, logistics, & delivery",2014
+36,OutSystems,$9.5B,United States,Boston,Internet software & services,2001
+37,Remarkable,$1B,Norway,Oslo,Internet software & services,2013
+38,Polarium,$1B,Sweden,Kista,Other,2015
+39,Habi,$1B,Colombia,Bogota,Fintech,2019
+40,Opn,$1B,Japan,Tokyo,Fintech,2013
+41,Notion Labs,$10B,United States,San Francisco,Internet software & services,2016
+42,Taxfix,$1B,Germany,Berlin,Fintech,2016
+43,Immuta,$1B,United States,Boston,Data management & analytics,2015
+44,Divergent 3D,$1B,United States,Torrance,Auto & transportation,2014
+45,Lalamove,$10B,Hong Kong,Cheung Sha Wan,"Supply chain, logistics, & delivery",2013
+46,Gusto,$10B,United States,San Francisco,Fintech,2011
+47,FLASH,$1B,United States,Austin,Fintech,2011
+48,LayerZero Labs,$1B,United States,New York,Internet software & services,2021
+49,Electric,$1B,United States,New York,Cybersecurity,2016
+50,Grover,$1B,Germany,Berlin,E-commerce & direct-to-consumer,2015
+51,BostonGene,$1B,United States,Waltham,Health,2015
+52,Vayyar,$1B,Israel,Yehud,Hardware,2011
+53,Open,$1B,India,Bengaluru,Fintech,2018
+54,Genies,$1B,United States,Venice,Internet software & services,2017
+55,Oyster,$1B,United States,Wilmington,Fintech,2019
+56,CommerceIQ,$1B,United States,Palo Alto,Artificial Intelligence,2012
+57,Aptos,$1B,United States,Palo Alto,Internet software & services,2021
+58,BlueVoyant,$1B,United States,New York,Cybersecurity,2017
+59,Gauntlet Networks,$1B,United States,New York,Fintech,2018
+60,Factorial,$1B,Spain,Barcelona,Internet software & services,2016
+61,Tarana Wireless,$1B,United States,Milpitas,Mobile & telecommunications,2009
+62,Veev,$1B,United States,San Mateo,Internet software & services,None
+63,Vendr,$1B,United States,Boston,Fintech,2018
+64,Glia,$1B,United States,New York,Fintech,2012
+65,Omada Health,$1B,United States,San Francisco,Health,2011
+66,UPSIDE Foods,$1B,United States,Berkeley,Other,2015
+67,RapidAPI,$1B,United States,San Francisco,Internet software & services,2014
+68,NexHealth,$1B,United States,San Francisco,Health,2017
+69,Watershed,$1B,United States,San Francisco,Internet software & services,None
+70,Axelar,$1B,Canada,Waterloo,Internet software & services,2020
+71,Payhawk,$1B,United Kingdom,London,Fintech,2018
+72,Dune Analytics,$1B,Norway,Oslo,Data management & analytics,2018
+73,Fever Labs,$1B,United States,New York,Internet software & services,2012
+74,Scalapay,$1B,Italy,Milan,Fintech,2019
+75,Scandit,$1B,Switzerland,Zurich,"Supply chain, logistics, & delivery",2009
+76,CHEQ,$1B,United States,New York,Cybersecurity ,2022
+77,Esusu,$1B,United States,New York,Fintech,2015
+78,Betterfly,$1B,Chile,Santiago,Artificial intelligence,2018
+79,Hasura,$1B,India,Bengaluru,Internet software & services,2017
+80,Timescale,$1B,United States,New York,Internet software & services,2015
+81,Darwinbox,$1B,India,Hyderabad,Internet software & services,2015
+82,Fractal Analytics,$1B,India,Mumbai,Data management & analytics,2000
+83,Assent,$1B,Canada,Ottawa,"Supply chain, logistics, & delivery",2010
+84,VOI,$1B,Sweden,Stockholm,Travel,2018
+85,InFarm,$1B,Germany,Berlin,Other,2013
+86,ONE,$1B,Singapore,,Internet software & services,2011
+87,Minio,$1B,United States,Palo Alto,Data management & analytics,2014
+88,Pentera,$1B,Israel,Petah Tikva,Cybersecurity ,2015
+89,Placer.ai,$1B,United States,Los Altos,Artificial intelligence,2016
+90,Noname Security,$1B,United States,Palo Alto,Cybersecurity,2020
+91,Rothy's,$1B,United States,San Francisco,Consumer & retail,2016
+92,SnapLogic,$1B,United States,San Mateo,Internet software & services,2006
+93,Pet Circle,$1B,Australia,Alexandria,E-commerce & direct-to-consumer,2011
+94,Kopi Kenangan,$1B,Indonesia,Jakarta,Consumer & retail,2017
+95,SellerX,$1B,Germany,Berlin,E-commerce & direct-to-consumer,2020
+96,Cadence,$1B,United States,New York,Health,2020
+97,ReliaQuest,$1B,United States,Tampa,Cybersecurity,2007
+98,Nature's Fynd,$1B,United States,Chicago,Consumer & retail,2012
+99,Lydia,$1B,France,Paris,Fintech,2011
+100,Iodine Software,$1B,United States,Austin,Data management & analytics,2010
+101,Haomao.AI,$1B,China,Beijing,Artificial Intelligence,2019
+102,Clara,$1B,Mexico,Mexico City,Fintech,2020
+103,NoBroker,$1B,India,Bengaluru,Internet software & services,2014
+104,YipitData,$1B,United States,New York,Internet software & services,2008
+105,Anyscale,$1B,United States,Berkeley,Artificial Intelligence,2019
+106,Lessen,$1B,United States,Scottsdale,Internet software & services,2019
+107,PLACE,$1B,United States,Bellingham,Internet software & services,2020
+108,Stytch,$1B,United States,San Francisco,Cybersecurity,None
+109,Expel,$1B,United States,Herndon,Cybersecurity,2016
+110,Gaussian Robotics,$1.1B,China,Shanghai,Hardware,2013
+111,Razor,$1B,Germany,Berlin,Consumer & retail,2020
+112,Tezign,$1B,China,Shanghai,Internet software & services,2015
+113,Mensa Brands,$1B,India,Bengaluru,Other,2021
+114,IGAWorks,$1B,South Korea,Seoul,Internet software & services,2006
+115,Owkin,$1B,United States,New York,Artificial Intelligence,2016
+116,Heyday,$1B,United States,Chicago,E-commerce & direct-to-consumer,2017
+117,Wrapbook,$1B,United States,New York,Fintech,2018
+118,Fabric,$1B,United States,New York,"Supply chain, logistics, & delivery",1999
+119,Contrast Security,$1B,United States,Los Altos,Cybersecurity,2014
+120,CargoX,$1B,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",2015
+121,Zopa,$1B,United Kingdom,London,Fintech,2005
+122,Augury,$1B,United States,New York,Artificial intelligence,2011
+123,Solo.io,$1B,United States,Cambridge,Internet software & services,2017
+124,MobiKwik,$1B,India,Gurugram,Fintech,2009
+125,Weights & Biases,$1B,United States,San Francisco,Artificial intelligence,2017
+126,Masterworks,$1B,United States,New York,Fintech,2017
+127,Savage X Fenty,$1B,United States,El Segundo,E-commerce & direct-to-consumer,2018
+128,Swile,$1B,France,Montpellier,Fintech,2016
+129,Chronosphere,$1B,United States,New York,Data management & analytics,2019
+130,Moka,$1B,China,Beijing,Internet software & services,2015
+131,Licious,$1B,India,Bengaluru,E-commerce & direct-to-consumer,2015
+132,Ajaib,$1B,Indonesia,Jakarta,Fintech,2018
+133,Vagaro,$1B,United States,Dublin,Internet software & services,2009
+134,Dental Monitoring,$1B,France,Paris,Health,2014
+135,TrialSpark,$1B,United States,New York,Health,2014
+136,Vedantu,$1B,India,Bengaluru,Edtech,2014
+137,Orchard,$1B,United States,New York,Fintech,None
+138,Xendit,$1B,Indonesia,Jakarta,Fintech,2014
+139,Ninja Van,$1B,Singapore,,"Supply chain, logistics, & delivery",2014
+140,HAYDON,$1B,China,Shanghai,Consumer & retail,2020
+141,Mammoth Biosciences,$1B,United States,Brisbane,Health,None
+142,Cider,$1B,Hong Kong,,E-commerce & direct-to-consumer,2020
+143,Maven Clinic,$1B,United States,New York,Health,2014
+144,Keenon Robotics,$1B,China,Shanghai,"Supply chain, logistics, & delivery",2010
+145,TrueLayer,$1B,United Kingdom,London,Fintech,2016
+146,Agile Robots,$1B,Germany,Munich,Hardware,2018
+147,1KMXC,$1B,China,Hangzhou,Hardware,2014
+148,Gelato,$1B,Norway,Oslo,E-commerce & direct-to-consumer,2007
+149,Freshbooks,$1B,Canada,Toronto,Fintech,2003
+150,Human Interest,$1B,United States,San Francisco,Fintech,2015
+151,Assembly,$1B,United States,Culver City,Internet software & services,2019
+152,Interos,$1B,United States,Arlington,"Supply chain, logistics, & delivery",2005
+153,dMed Biopharmaceutical,$1B,China,Shanghai,Health,2016
+154,Berlin Brands Group,$1B,Germany,Berlin,E-commerce & direct-to-consumer,2005
+155,MobileCoin,$1.06B,United States,San Francisco,Fintech,2018
+156,PicsArt,$1B,United States,San Francisco,Mobile & telecommunications,None
+157,Snorkel AI,$1B,United States,Palo Alto,Artificial intelligence,2019
+158,NIUM,$1B,Singapore,,Fintech,2014
+159,Bluecore,$1B,United States,New York,Artificial intelligence,2013
+160,Pantheon Systems,$1B,United States,San Francisco,Internet software & services,2020
+161,Amperity,$1B,United States,Seattle,Artificial intelligence,2016
+162,ShipBob,$1B,United States,Chicago,"Supply chain, logistics, & delivery",2014
+163,Morning Consult,$1B,United States,Washington DC,Internet software & services,2014
+164,Worldcoin,$1B,United States,San Francisco,Fintech,None
+165,SmartAsset,$1B,United States,New York,Fintech,2012
+166,Visier,$1B,Canada,Vancouver,Internet software & services,2010
+167,JoyTunes,$1B,Israel,Tel Aviv,Edtech,2011
+168,Bringg,$1B,Israel,Tel Aviv,"Supply chain, logistics, & delivery",2013
+169,Claroty,$1B,United States,New York,Cybersecurity,2015
+170,Xiaoe Tech,$1B,China,Shenzhen,Internet software & services,2015
+171,Carro,$1B,Singapore,,E-commerce & direct-to-consumer,2015
+172,Tractable,$1B,United Kingdom,London,Artificial intelligence,2014
+173,EcoFlow,$1B,China,Shenzhen,Hardware,2017
+174,Xiaoice,$1B,China,Beijing,E-commerce & direct-to-consumer,2020
+175,Thirty Madison,$1B,United States,New York,Health,1993
+176,LetsGetChecked,$1B,Ireland,Dublin,Health,2015
+177,Matrixport,$1.05B,Singapore,,Fintech,2019
+178,Vise,$1B,United States,New York,Fintech,2016
+179,Shippo,$1B,United States,San Francisco,"Supply chain, logistics, & delivery",2013
+180,TensTorrent,$1B,Canada,Toronto,Artificial intelligence,2016
+181,Shift Technology,$1B,France,Paris,Artificial intelligence,2014
+182,Forte Labs,$1.73B,United States,San Francisco,Fintech,2018
+183,Zihaiguo,$1B,China,Chongqing,Consumer & retail,2018
+184,Carson Group,$1B,United States,Lincoln,Fintech,None
+185,Amount,$1B,United States,Chicago,Fintech,2020
+186,Augustinus Bader,$1B,London,United Kingdom,Consumer & retail,2017
+187,Axtria,$1B,United States,Berkeley Heights,Data management & analytics,2009
+188,Firefly Aerospace,$1.1B,United States,Cedar Park,Other,2014
+189,XForcePlus,$1B,China,Shanghai,Internet software & services,2015
+190,Mux,$1B,United States,San Francisco,Internet software & services,2015
+191,Aircall,$1B,United States,New York,Internet software & services,2014
+192,MOLOCO,$1.5B,United States,Redwood City,Artificial intelligence,2013
+193,Capsule,$1B,United States,New York,Health,2015
+194,Inari,$1.5B,United States,Cambridge,Other,2016
+195,Injective Protocol,$1B,United States,New York,Fintech,2018
+196,Groq,$1B,United States,Mountain View,Artificial intelligence,2016
+197,The Zebra,$1B,United States,Austin,E-commerce & direct-to-consumer,2012
+198,Clearcover,$1B,United States,Chicago,Fintech,2016
+199,Hyperchain,$1B,China,Hangzhou,Fintech,None
+200,Newsela,$1B,United States,New York,Edtech,2013
+201,Aqua Security,$1B,Israel,Ramat Gan,Cybersecurity,2015
+202,PatSnap,$1B,Singapore,,Internet software & services,2007
+203,WeBull,$1B,China,Changsha,Fintech,2016
+204,Axiom Space,$1B,United States,Houston,Other,2016
+205,Evidation,$1B,United States,San Mateo,Health,2012
+206,Fiture,$1B,China,Chengdu,Health,2019
+207,Sidecar Health,$1B,United States,El Segundo,Fintech,2018
+208,Yunxuetang,$1B,China,Suzhou,Edtech,2011
+209,Flash Express,$1B,Thailand,Bangkok,"Supply chain, logistics, & delivery",2017
+210,Standard,$1B,United States,San Francisco,Artificial intelligence,2017
+211,Skydio,$1B,United States,Redwood City,"Supply chain, logistics, & delivery",2014
+212,Locus Robotics,$1B,United States,Wilmington,Hardware,2014
+213,Splashtop,$1B,United States,San Jose,Internet software & services,2006
+214,MadeiraMadeira,$1B,Brazil,Parana,E-commerce & direct-to-consumer,2009
+215,Cameo,$1B,United States,Chicago,Internet software & services,2016
+216,Quantum Metric,$1B,United States,Colorado Springs,Data management & analytics,2015
+217,Sift,$1B,United States,San Francisco,Artificial intelligence,2011
+218,Feedzai,$1B,United States,San Mateo,Artificial intelligence,2009
+219,Alation,$1.7B,United States,Redwood City,Internet software & services,2012
+220,Playco,$1B,Japan,Tokyo,Other,2020
+221,Zwift,$1B,United States,Long Beach,E-commerce & direct-to-consumer,2014
+222,Quizlet,$1B,United States,San Francisco,Edtech,2005
+223,SaltPay,$1B,United Kingdom,London,Fintech,None
+224,News Break,$1B,United States,Mountain View,Internet software & services,2015
+225,PPRO,$1B,United Kingdom,London,Fintech,2006
+226,Boom Supersonic,$1B,United States,Englewood,Other,2014
+227,Gousto,$1.7B,United Kingdom,London,"Supply chain, logistics, & delivery",2012
+228,Infobip,$1B,Croatia,Vodnjan,Mobile & telecommunications,2006
+229,Orca Bio,$1B,United States,Menlo Park,Health,2016
+230,Emerging Markets Property Group,$1B,United Arab Emirates,Dubai,Other,2015
+231,Alto Pharmacy,$1B,United States,San Francisco,Health,2015
+232,Hotmart,$1B,Netherlands,Amsterdam,E-commerce & direct-to-consumer,2011
+233,Numbrs,$1B,Switzerland,Zurich,Fintech,None
+234,Meero,$1B,France,Paris,Artificial intelligence,2016
+235,KnowBox,$1B,China,Beijing,Edtech,2014
+236,C2FO,$1B,United States,Leawood,Fintech,2008
+237,SITECH DEV,$1B,China,Guiyang,Other,2017
+238,Poizon,$1B,China,Shanghai,Mobile & telecommunications,2015
+239,Globality,$1B,United States,Menlo Park,Artificial intelligence,2015
+240,Ynsect,$1B,France,Evry,Other,2011
+241,KK Group,$3B,China,Dongguan,E-commerce & direct-to-consumer,2014
+242,Yanolja,$1B,South Korea,Seoul,Travel,2005
+243,EBANX,$1B,Brazil,Curitiba,Fintech,2012
+244,Ibotta,$1B,United States,Denver,Fintech,2011
+245,Intellifusion,$1B,China,Shenzhen,Artificial intelligence,2014
+246,Banma Network Technologies,$1B,China,Shanghai,Auto & transportation,2015
+247,TERMINUS Technology,$1B,China,Beijing,Hardware,2015
+248,BitFury,$1B,Netherlands,Amsterdam,Hardware,2011
+249,FlashEx,$1B,China,Beijing,"Supply chain, logistics, & delivery",2014
+250,Wacai,$1B,China,Hangzhou,Mobile & telecommunications,2009
+251,China Cloud,$1B,China,Wuxi,Hardware,2010
+252,Movile,$1B,Brazil,Sao Paulo,Mobile & telecommunications,1998
+253,Pat McGrath Labs,$1B,United States,New York,Consumer & retail,2016
+254,Huike Group,$1B,China,Beijing,Edtech,2010
+255,LinkDoc Technology,$1B,China,Beijing,Health,2014
+256,Hosjoy,$1B,China,Nanjing,E-commerce & direct-to-consumer,2009
+257,WeLab,$1B,Hong Kong,,Fintech,2013
+258,Revolution Precrafted,$1B,Philippines,Manila,Other,2015
+259,Momenta,$1B,China,Beijing,Artificial intelligence,2016
+260,Cell C,$1B,South Africa,Midrand,Mobile & telecommunications,2000
+261,Zhaogang,$1B,China,Shanghai,E-commerce & direct-to-consumer,2012
+262,DianRong,$1B,China,Shanghai,E-commerce & direct-to-consumer,2012
+263,YH Global,$1B,China,Shenzhen,"Supply chain, logistics, & delivery",1997
+264,Tresata,$1B,United States,Charlotte,Fintech,2011
+265,Omio,$1B,Germany,Berlin,Travel,2013
+266,SMS Assist,$1B,United States,Chicago,Internet software & services,1999
+267,Kendra Scott,$1B,United States,Austin,Consumer & retail,2002
+268,Mobvoi,$1B,China,Beijing,Consumer & retail,2012
+269,iCarbonX,$1B,China,Shenzhen,Artificial intelligence,2015
+270,58 Daojia,$1B,China,Beijing,Internet software & services,2014
+271,iTutorGroup,$1B,China,Shanghai,Edtech,1998
+272,Dxy.cn,$1B,China,Hangzhou,Health,2000
+273,Womai,$1B,China,Beijing,E-commerce & direct-to-consumer,2009
+274,MediaMath,$1B,United States,New York,Internet software & services,2007
+275,Vox Media,$1B,United States,Washington,Internet software & services,2011
+276,FXiaoKe,$1B,China,Beijing,Mobile & telecommunications,2011
+277,Maimai,$1B,China,Beijing,Mobile & telecommunications,2013
+278,HMD Global,$1B,Finland,Espoo,Mobile & telecommunications,2016
+279,Modernizing Medicine,$1B,United States,Boca Raton,Health,2010
+280,Zhuan Zhuan,$1B,China,Beijing,E-commerce & direct-to-consumer,2015
+281,HuJiang,$1B,China,Shanghai,Edtech,2001
+282,JimuBox,$1B,China,Beijing,Fintech,None
+283,Lamabang,$1B,China,Shenzhen,E-commerce & direct-to-consumer,2011
+284,Red Ventures,$1B,United States,Fort Mill,Other,2000
+285,InMobi,$1B,India,Bengaluru,Mobile & telecommunications,2007
+286,Zebec,$1B,United States,San Francisco,Fintech,2021
+287,TechStyle Fashion Group,$1B,United States,El Segundo,E-commerce & direct-to-consumer,2010
+288,Mia.com,$1B,China,Beijing,E-commerce & direct-to-consumer,2011
+289,MindMaze,$1B,Switzerland,Lausanne,Health,2012
+290,LinkSure Network,$1B,China,Shanghai,Mobile & telecommunications,2013
+291,Lookout,$1B,United States,San Francisco,Cybersecurity,2007
+292,BeiBei,$1B,China,Hangzhou,E-commerce & direct-to-consumer,2011
+293,TransferMate,$1B,Ireland,Kilkenny,Fintech,2010
+294,Snapdeal,$1B,India,New Delhi,E-commerce & direct-to-consumer,2008
+295,Perimeter 81,$1B,Israel,Tel Aviv,Cybersecurity,2018
+296,LINE MAN Wongnai,$1B,Thailand,Bangkok,E-commerce & direct-to-consumer,2016
+297,Paystand,$1B,United States,Scotts Valley,Fintech,2014
+298,Stability AI,$1B,United Kingdom,London,Artificial intelligence,2019
+299,EcoVadis,$1B,France,Paris,"Supply chain, logistics, & delivery",2007
+300,Beamery,$1B,United Kingdom,London,Artificial intelligence,2014
+301,Xanadu,$1B,Canada,Toronto,Hardware,2016
+302,Flow,$1B,United States,New York,Fintech,2022
+303,Turntide Technologies,$1B,United States,Sunnyvale,Auto & transportation,2013
+304,Vesttoo,$1B,Israel,Tel Aviv-Yafo,Fintech,2018
+305,Celestia,$1B,Liechtenstein,Vaduz,Internet software & services,2020
+306,Wheel,$1.01B,United States,Austin,Health,2018
+307,Satispay,$1B,Italy,Milan,Fintech,2013
+308,Leap Motor,$1.01B,China,Hangzhou,Auto & transportation,2015
+309,BlackBuck,$1.02B,India,Bengaluru,"Supply chain, logistics, & delivery",2015
+310,OrCam Technologies,$1.03B,Israel,Jerusalem,Artificial intelligence,2010
+311,Ample,$1.02B,United States,San Francisco,Hardware,2014
+312,Branch,$1.05B,United States,Columbus,Fintech,2019
+313,Mixpanel,$1.05B,United States,San Francisco,Internet software & services,2009
+314,Density,$1.05B,United States,San Francisco,Hardware,2014
+315,Sendbird,$1.05B,United States,San Mateo,Mobile & telecommunications,2013
+316,Jiuxian,$1.05B,China,Beijing,E-commerce & direct-to-consumer,2009
+317,Aprogen,$1.04B,South Korea,Seongnam-Si,Health,2000
+318,Cirkul,$1.07B,United States,Sarasota,Consumer & retail,2016
+319,Rivigo,$1.07B,India,Gurgaon,"Supply chain, logistics, & delivery",2014
+320,56PINGTAI,$1.08B,China,Shanghai,"Supply chain, logistics, & delivery",None
+321,Nxin,$1.08B,China,Beijing,Internet software & services,2015
+322,Radius Payment Solutions,$1.07B,United Kingdom,Crewe,Fintech,1990
+323,Instabase,$1.05B,United States,San Francisco,Data management & analytics,2015
+324,CAIS,$1.1B,United States,New York,Fintech,2009
+325,0x,$1.05B,United States,San Francisco,Fintech,2016
+326,UISEE Technology,$1.08B,China,Beijing,"Supply chain, logistics, & delivery",2016
+327,Mamaearth,$1.07B,India,Gurgaon,E-commerce & direct-to-consumer,2016
+328,Purplle,$1.1B,India,Mumbai,E-commerce & direct-to-consumer,2012
+329,Teleport,$1.1B,United States,Oakland,Cybersecurity,2015
+330,IntelyCare,$1.1B,United States,Quincy,Health,2014
+331,Recover,$1.1B,Spain,Banyeres de Mariola,Other,1947
+332,Material Security,$1.1B,United States,Redwood City,Cybersecurity,2017
+333,Imply Data,$1.1B,United States,Burlingame,Data management & analytics,2015
+334,PhysicsWallah,$1.1B,India,Uttar Pradesh,Edtech,2016
+335,Chief,$1.1B,United States,New York,Other,2017
+336,Beyond Identity,$1.1B,United States,New York,Cybersecurity,2019
+337,LEAD School,$1.1B,India,Andheri,Edtech,2012
+338,Staffbase,$1.1B,Germany,Chemnitz,Internet software & services,2014
+339,eSentire,$1.1B,Canada,Waterloo,Cybersecurity,2001
+340,GlobalBees,$1.1B,India,New Delhi,E-commerce & direct-to-consumer,2021
+341,Fundbox,$1.1B,United States,San Francisco,Fintech,2013
+342,Turing,$1.1B,United States,Palo Alto,Internet software & services,2018
+343,The Bank of London,$1.1B,United Kingdom,London,Fintech,2018
+344,Daily Harvest,$1.1B,United States,New York,E-commerce & direct-to-consumer,2014
+345,Nowports,$1.1B,Mexico,Monterrey,"Supply chain, logistics, & delivery",2018
+346,apna,$1.1B,India,Bengaluru,Internet software & services,2019
+347,G2,$1.1B,United States,Chicago,Internet software & services,2012
+348,Sunbit,$1.1B,United States,Los Angeles,Fintech,2016
+349,Caribou,$1.1B,United States,Denver,Fintech,2016
+350,Acko General Insurance,$1.1B,India,Bengaluru,Fintech,2016
+351,Karat,$1.1B,United States,Seattle,Internet software & services,2014
+352,Carousell,$1.1B,Singapore,,E-commerce & direct-to-consumer,2012
+353,Qingting FM,$1.1B,China,Shanghai,Internet software & services,None
+354,Enpal,$1.1B,Germany,Berlin,Internet software & services,2017
+355,Zego,$1.1B,United Kingdom,London,Fintech,None
+356,Hailo,$1B,Israel,Tel Aviv,Artificial intelligence,2017
+357,Nexthink,$1.1B,Switzerland,Prilly,Data management & analytics,2004
+358,Rightway,$1.1B,United States,New York,Health,2017
+359,OVH,$1.1B,France,Roubaix,Other,1999
+360,Pharmapacks,$1.1B,United States,Islandia,E-commerce & direct-to-consumer,2010
+361,Sennder,$1.1B,Germany,Berlin,"Supply chain, logistics, & delivery",2015
+362,Juanpi,$1.1B,China,Wuhan,E-commerce & direct-to-consumer,2012
+363,Ivalua,$1.1B,United States,Redwood City,Fintech,2000
+364,AppDirect,$1.1B,United States,San Francisco,E-commerce & direct-to-consumer,2009
+365,Sisense,$1.1B,United States,New York,Data management & analytics,2004
+366,GetYourGuide,$1.1B,Germany,Berlin,Travel,2009
+367,Invoca, $1.1B,United States,Santa Barbara,Artificial intelligence,2008
+368,Flexe, $1B,United States,Seattle,"Supply chain, logistics, & delivery",2013
+369,At-Bay,$1.12B,United States,Mountain View,Fintech,2016
+370,TELD,$1.12B,China,Qingdao,Fintech,2014
+371,DANA,$1.13B,Indonesia,Jakarta,Fintech,2017
+372,TangoMe,$1.1B,United States,Mountain View,Mobile & telecommunications,2009
+373,Visby Medical, $1.12 B,United States,San Jose,Health,2015
+374,Wasabi, $1.1B,United States,Boston,Internet software & services,2015
+375,Elemy,$1.15B,United States,San Francisco,Health,None
+376,Venafi,$1.15B,United States,Salt Lake City,Cybersecurity,2000
+377,Rebellion Defense,$1.15B,United States,Washington DC,Artificial intelligence,2019
+378,Happy Money,$1.15B,United States,Tustin,Fintech,2009
+379,IRL,$1.17B,United States,San Francisco,Internet software & services,2017
+380,SOURCE Global, $1.16 B,United States,Scottsdale,Other,2014
+381,Tuhu,$1.16B,China,Shanghai,Auto & transportation,2011
+382,Yimidida,$1.17B,China,Shanghai,"Supply chain, logistics, & delivery",2015
+383,Luoji Siwei,$1.18B,China,Beijing,Edtech,2012
+384,Younited, $1.16 B,France,Paris,Fintech,2009
+385,LifeMiles,$1.15B,Colombia,Bogota,Other,2011
+386,Modern Health,$1.17B,United States,San Francisco,Health,2017
+387,Mininglamp Technology,$1.19B,China,Beijing,Artificial intelligence,2014
+388,Guideline,$1.15B,United States,San Mateo,Fintech,2015
+389,L&P Cosmetic,$1.19B,South Korea,Seoul,Consumer & retail,2009
+390,Spectrum Medical,$1.2B,United Kingdom,Gloucester,Health,2007
+391,Choco,$1.2B,Germany,Berlin,E-commerce & direct-to-consumer,2018
+392,Unit,$1.2B,United States,New York,Fintech,2019
+393,Swiftly,$1.2B,United States,Seattle,Mobile & telecommunications,2018
+394,Phantom,$1.2B,United States,San Francisco,Fintech,2021
+395,CloudBees,$1.15B,United States,San Jose,Data management & analytics,2010
+396,LivSpace,$1.2B,India,Bengaluru,E-commerce & direct-to-consumer,2015
+397,Nova Labs,$1.2B,United States,San Francisco,Internet software & services,2013
+398,stori,$1.2B,Mexico,Juarez,Fintech,2019
+399,Xpressbees,$1.2B,India,Pune,"Supply chain, logistics, & delivery",2012
+400,BigPanda,$1.2B,United States,Mountain View,Artificial intelligence,2012
+401,Viz.ai,$1.2B,United States,San Francisco,Artificial Intelligence,2016
+402,Merama,$1.2B,Mexico,Mexico City,E-commerce & direct-to-consumer,2020
+403,Jokr,$1.2B,United States,New York,"Supply chain, logistics, & delivery",2021
+404,SeekOut,$1.2B,United States,Bellevue,Internet software & services,2017
+405,Pristyn Care,$1.4B,India,Gurugram,Health,2018
+406,AgentSync,$1.2B,United States,Denver,Fintech,2018
+407,MindTickle,$1.2B,United States,San Francisco,Internet software & services,2012
+408,FloQast,$1.2B,United States,Los Angeles,Fintech,2013
+409,Copado,$1.2B,United States,Chicago,Data management & analytics,2013
+410,Vectra Networks,$1.2B,United States,San Jose,Artificial intelligence,2011
+411,SmartMore,$1.2B,China,Shenzhen,Artificial Intelligence,2019
+412,Rohlik Group,$1.2B,Czech Republic,Prague,"Supply chain, logistics, & delivery",2014
+413,Prime Medicine,$1.2B,United States,Cambridge,Health,2007
+414,Ada Support,$1.2B,Canada,Toronto,Artificial intelligence,2016
+415,Aibee,$1.2B,China,Beijing,Artificial intelligence,2017
+416,Pipa Coding,$1.2B,China,Beijing,Edtech,2017
+417,Qumulo,$1.2B,United States,Seattle,Data management & analytics,2012
+418,Yiguo,$1.2B,China,Shanghai,"Supply chain, logistics, & delivery",2005
+419,Tealium,$1.2B,United States,San Diego,Internet software & services,2008
+420,Fair,$1.2B,United States,Santa Monica,Auto & transportation,None
+421,Workhuman,$1.2B,Ireland,Dublin,Internet software & services,1999
+422,Zip,$1.2B,United States,San Francisco,Fintech,2020
+423,Kallyope, $1.22 B,United States,New York,Health,2015
+424,Spiber,$1.22B,Japan,Tsuruoka,Other,2007
+425,Insider,$1.22B,Turkey,Istanbul,Internet software & services,2012
+426,MyGlamm,$1.2B,India,Mumbai,E-commerce & direct-to-consumer,2015
+427,Offchain Labs,$1.2B,United States,Princeton,Internet software & services,2018
+428,Gem,$1.2B,United States,San Francisco,Internet software & services,2017
+429,Cava Group,$1.3B,United States,Washington,Other,2010
+430,DailyPay,$1.2B,United States,New York,Fintech,2016
+431,CarDekho,$1.2B,India,Jaipur,E-commerce & direct-to-consumer,2008
+432,Glossier,$1.65B,United States,New York,Consumer & retail,2014
+433,Pilot.com,$1.2B,United States,San Francisco,Fintech,None
+434,SeatGeek,$1.24B,United States,New York,E-commerce & direct-to-consumer,2009
+435,Enflame,$1.24B,China,Shanghai,Hardware,2018
+436,Route,$1.25B,United States,Lehi,"Supply chain, logistics, & delivery",2018
+437,airSlate,$1.25B,United States,Brookline,Internet software & services,2006
+438,Mythical Games,$1.25B,United States,Sherman Oaks,Internet software & services,2018
+439,Incode Technologies,$1.25B,United States,San Francisco,Cybersecurity,2015
+440,Nexii,$1.23B,Canada,Vancouver,Other,2020
+441,Kuaikan Manhua,$1.25B,China,Beijing,Internet software & services,2014
+442,Marshmallow,$1.25B,United Kingdom,London,Fintech,2017
+443,CaptivateIQ,$1.25B,United States,San Francisco,Fintech,2014
+444,Greater Bay Technology,$1.26B,China,Guangzhou,Hardware,2020
+445,ClassDojo,$1.25B,United States,San Francisco,Edtech,2011
+446,Flipdish,$1.25B,Ireland,Dublin,Internet software & services,2015
+447,Equashield,$1.3B,United States,Port Washington,Health,2009
+448,BrewDog,$1.24B,United Kingdom,Aberdeen,Consumer & retail,2007
+449,JMGO,$1.26B,China,Shenzhen,Hardware,2011
+450,Huisuanzhang,$1.28B,China,Beijing,Fintech,2015
+451,inDriver, $1.23 B,United States,Mountain View,Auto & transportation ,2013
+452,EQRx,$1.23B,United States,Cambridge,Health,2020
+453,STORD,$1.3B,United States,Atlanta,"Supply chain, logistics, & delivery",2015
+454,Honor Technology,$1.25B,United States,San Francisco,Internet software & services,2014
+455,WTOIP,$1.27B,China,Guangzhou,Internet software & services,None
+456,OVO Energy,$1.28B,United Kingdom,Bristol,Other,2009
+457,Intercom,$1.28B,United States,San Francisco,Internet software & services,2011
+458,Shulan Health,$1.24B,China,Hangzhou,Health,2015
+459,Clipboard Health,$1.3B,United States,San Francisco,Internet software & services,2016
+460,Tackle.io,$1.25B,United States,Boise,Internet software & services,2016
+461,BigID,$1.25B,United States,New York,Cybersecurity,2015
+462,Loadsmart,$1.3B,United States,New York,"Supply chain, logistics, & delivery",2014
+463,Biofourmis,$1.3B,United States,Boston,Health,2015
+464,Yubi,$1.3B,India,Chennai,Fintech,2017
+465,CoinTracker,$1.3B,United States,San Francisco,Fintech,2017
+466,Lukka,$1.3B,United States,New York,Fintech,2014
+467,Optibus,$1.3B,Israel,Tel Aviv,"Supply chain, logistics, & delivery",2014
+468,iTrustCapital,$1.3B,United States,Long Beach,Fintech,2018
+469,TUNGEE,$1.3B,China,Guangzhou,Artificial Intelligence,2016
+470,DistroKid,$1.3B,United States,New York,Internet software & services,2013
+471,YugaByte,$1.3B,United States,Sunnyvale,Data management & analytics,2016
+472,Manner,$1.3B,China,Shanghai,Other,2015
+473,Domestika,$1.3B,United States,Berkeley,Internet software & services,2012
+474,Flock Freight,$1.3B,United States,Encinitas,"Supply chain, logistics, & delivery",2015
+475,LinkTree,$1.3B,Australia,Melbourne,Internet software & services,2016
+476,InSightec,$1.3B,Israel,Tirat Carmel,Health,1999
+477,Betterment,$1.3B,United States,New York,Fintech,2010
+478,HeartFlow,$1.3B,United States,Redwood City,Health,2007
+479,Konfio,$1.3B,Mexico,Mexico City,Fintech,2013
+480,Everly Health,$1.3B,United States,Austin,Health,2015
+481,TalkingData,$1.3B,China,Beijing,Mobile & telecommunications,2013
+482,MasterControl,$1.3B,United States,Salt Lake City,Health,1993
+483,TravelPerk,$1.3B,Spain,Barcelona,Travel,2015
+484,Alzheon,$1.31B,United States,Framingham,Health,2013
+485,Shiprocket,$1.3B,India,New Delhi,"Supply chain, logistics, & delivery",2012
+486,Tongdun Technology,$1.32B,China,Hangzhou,Cybersecurity,2013
+487,GPclub,$1.32B,South Korea,Seoul,Other,2003
+488,Flipboard,$1.32B,United States,Palo Alto,Internet software & services,2010
+489,Unisound,$1.31B,China,Beijing,Artificial intelligence,2012
+490,Athletic Greens,$1.32B,United States,New York,Health,2010
+491,RIDI,$1.33B,South Korea,Seoul,E-commerce & direct-to-consumer,2008
+492,Yaoshibang,$1.35B,China,Guangzhou,Health,2015
+493,Epirus,$1.35B,United States,Hawthorne,Other,2018
+494,Jaguar Microsystems,$1.34B,China,Shenzhen,Hardware,2020
+495,Signifyd,$1.34B,United States,San Jose,Fintech,2011
+496,Motorway,$1.33B,United Kingdom,London,E-commerce & direct-to-consumer,2017
+497,DeepBlue Technology,$1.35B,China,Shanghai,Artificial intelligence,2014
+498,Klook,$1.35B,Hong Kong,Central,Travel,2014
+499,Neon,$1.38B,Brazil,Sao Paulo,Fintech,None
+500,Panther Labs,$1.4B,United States,San Francisco,Cybersecurity,2018
+501,Nimble Rx,$1.4B,United States,Redwood City,Health,2014
+502,Movable Ink,$1.36B,United States,New York,Internet software & services,2010
+503,Tripledot,$1.4B,United Kingdom,London,Mobile & telecommunications,2017
+504,Scalable Capital,$1.4B,Germany,Munich,Fintech,2014
+505,VideoAmp,$1.4B,United States,Los Angeles,Internet software & services,2014
+506,Salt Security,$1.4B,United States,Palo Alto,Cybersecurity,2016
+507,Astranis Space Technologies,$1.4B,United States,San Francisco,Mobile & telecommunications,2015
+508,Degreed,$1.4B,United States,Pleasanton,Edtech,2012
+509,Phenom People,$1.4B,United States,Ambler,Internet software & services,2011
+510,Stash,$1.4B,United States,New York,Fintech,2015
+511,OneCard,$1.4B,India,Pune,Fintech,2019
+512,Coda,$1.4B,United States,Mountain View,Internet software & services,None
+513,boAT,$1.4B,India,Mumbai,Consumer & retail,2016
+514,Rad Power Bikes,$1.4B,United States,Seattle,Auto & transportation,2007
+515,Paddle,$1.4B,United Kingdom,London,Fintech,2012
+516,Rebel Foods,$1.4B,India,Pune,E-commerce & direct-to-consumer,2011
+517,Clarify Health,$1.4B,United States,San Francisco,Health,2015
+518,Bucketplace,$1.4B,South Korea,Seoul,E-commerce & direct-to-consumer,2014
+519,Yotpo,$1.4B,United States,New York,Internet software & services,2011
+520,The Brandtech Group,$1.3B,United States,New York,Other,None
+521,Firebolt,$1.4B,Israel,Tel Aviv,Data management & analytics,2019
+522,Cabify,$1.4B,Spain,Madrid,Auto & transportation,2011
+523,Envoy,$1.4B,United States,San Francisco,Internet software & services,2020
+524,Koudai,$1.4B,China,Beijing,E-commerce & direct-to-consumer,2010
+525,Kong,$1.4B,United States,San Francisco,Internet software & services,2007
+526,Away,$1.4B,United States,New York,E-commerce & direct-to-consumer,2015
+527,Symphony,$1.4B,United States,New York,Fintech,2014
+528,Hive Box,$1.4B,China,Shenzhen,"Supply chain, logistics, & delivery",2015
+529,Yidian Zixun,$1.4B,China,Beijing,Mobile & telecommunications,2021
+530,Epidemic Sound,$1.4B,Sweden,Stockholm,Internet software & services,2009
+531,Deliverect,$1.4B,Belgium,Ghent,Fintech,2018
+532,Papa,$1.4B,United States,Miami,Health,2016
+533,Amagi,$1.4B,India,Bengaluru,Internet software & services,2008
+534,SparkCognition,$1.4B,United States,Austin,Artificial intelligence,2013
+535,SonderMind,$1.42B,United States,Denver,Health,2014
+536,Figment,$1.4B,Canada,Toronto,Internet software & services,2018
+537,Ouyeel,$1.45B,China,Shanghai,Internet software & services,2015
+538,M1,$1.45B,United States,Chicago,Fintech,2015
+539,Justworks,$1.43B,United States,New York,Internet software & services,2012
+540,VTS,$1.47B,United States,New York,Internet software & services,2012
+541,Aleo,$1.45B,United States,San Francisco,Cybersecurity,2019
+542,Yipin Shengxian,$1.49B,China,Hefei,E-commerce & direct-to-consumer,2017
+543,Valgen Medtech,$1.43B,China,Hangzhou,Health,2015
+544,Bordrin Motors,$1.48B,China,Shanghai,Auto & transportation,2016
+545,Shukun Technology,$1.46B,China,Beijing,Artificial Intelligence,2017
+546,Arcadia,$1.48B,United States,DC,Other,2014
+547,Dock,$1.5B,Brazil,Sao Paulo,Fintech,1997
+548,Boba,$1.5B,United States,San Francisco,Fintech,2021
+549,Veho,$1.5B,United States,Boulder,"Supply chain, logistics, & delivery",2016
+550,Upside,$1.5B,United States,DC,Mobile & telecommunications,2016
+551,Temporal,$1.5B,United States,Bellevue,Internet software & services,2019
+552,ElasticRun,$1.5B,India,Pune,"Supply chain, logistics, & delivery",2016
+553,Juma Peisong,$1.45B,China,Chengdu,"Supply chain, logistics, & delivery",2011
+554,5ire, $1.50 B,United Kingdom,London,Internet software & services,2021
+555,Coocaa,$1.45B,China,Shenzhen,Hardware,2006
+556,Prometheus, $1.50 B,United States,Santa Cruz,Other,2018
+557,Einride,$1.44B,Sweden,Stockholm,Auto & transportation,2016
+558,Gymshark,$1.45B,United Kingdom,Solihull,E-commerce & direct-to-consumer,2012
+559,Fabric,$1.5B,United States,Bellevue,E-commerce & direct-to-consumer,2017
+560,Mashgin,$1.5B,United States,Palo Alto,Artificial intelligence,2014
+561,Veriff,$1.5B,Estonia,Tallinn,Artificial intelligence,2015
+562,Zeta,$1.5B,United States,San Francisco,Fintech,2015
+563,Spendesk,$1.5B,France,Paris,Fintech,2015
+564,Il Makiage,$1.5B,United States,New York,E-commerce & direct-to-consumer,2018
+565,Airbyte,$1.5B,United States,San Francisco,Internet software & services,2020
+566,StoreDot,$1.5B,Israel,Herzliya,Other,2012
+567,Athelas,$1.5B,United States,Mountain View,Health,2016
+568,Olist,$1.5B,Brazil,Curitiba,E-commerce & direct-to-consumer,2015
+569,CureFit,$1.5B,India,Bengaluru,Health,2016
+570,Lusha,$1.5B,United States,New York,Internet software & services,2016
+571,CoinList,$1.5B,United States,San Francisco,Fintech,2017
+572,candy.com,$1.5B,United States,New York,Internet software & services,2021
+573,Paradox,$1.5B,United States,Scottsdale,Internet software & services,2016
+574,Built,$1.5B,United States,Nashville,Internet software & services,2015
+575,Ascend Money,$1.5B,Thailand,Bangkok,Fintech,2013
+576,Andela,$1.5B,United States,New York,Internet software & services,2014
+577,1047 Games,$1.5B,United States,Zephyr Cove,Internet software & services,2017
+578,Matillion,$1.5B,United Kingdom,Altrincham,Data management & analytics,2011
+579,Persona,$1.5B,United States,San Francisco,Cybersecurity,2018
+580,Culture Amp,$1.5B,Australia,Richmond,Internet software & services,2011
+581,TaxBit,$1.5B,United States,Draper,Fintech,2018
+582,Pacaso,$1.5B,United States,Cincinnati,Fintech,2020
+583,impact.com,$1.5B,United States,Santa Barbara,Internet software & services,2008
+584,YunQuNa,$1.5B,China,Shanghai,"Supply chain, logistics, & delivery",2015
+585,NotCo,$1.5B,Chile,Santiago,Consumer & retail,2015
+586,Next Silicon,$1.5B,Israel,Tel Aviv,Hardware,2018
+587,Snapdocs,$1.5B,United States,San Francisco,Fintech,2012
+588,SmartRecruiters,$1.5B,United States,San Francisco,Internet software & services,2010
+589,Chipper Cash,$2B,United States,San Francisco,Fintech,2017
+590,ID.me,$1.5B,United States,McLean,Cybersecurity,2010
+591,Uplight,$1.5B,United States,Boulder,Other,2019
+592,K Health,$1.5B,United States,New York,Health,2016
+593,Strava,$1.5B,United States,San Francisco,Internet software & services,2009
+594,Zenoti,$1.5B,United States,Bellevue,Internet software & services,2010
+595,Ledger,$1.5B,France,Paris,Hardware,2014
+596,Collective Health,$1.5B,United States,San Francisco,Fintech,2013
+597,Yijiupi,$1.5B,China,Beijing,Consumer & retail,2014
+598,DT Dream,$1.5B,China,Hangzhou,Data management & analytics,2015
+599,Cambridge Mobile Telematics,$1.5B,United States,Cambridge,Auto & transportation,2010
+600,XiaoZhu,$1.5B,China,Beijing,Travel,2012
+601,JOLLY Information Technology,$1.5B,China,Hangzhou,E-commerce & direct-to-consumer,2008
+602,Changingedu,$1.5B,China,Shanghai,Edtech,None
+603,TuJia,$1.5B,China,Beijing,Travel,2015
+604,Mu Sigma,$1.5B,United States,Northbrook,Data management & analytics,2004
+605,Gett,$1.5B,United Kingdom,London,Auto & transportation,2010
+606,Mofang Living,$1.5B,China,Shanghai,E-commerce & direct-to-consumer,2009
+607,Orna Therapeutics,$1.5B,United States,Cambridge,Health,2019
+608,First Mode,$1.5B,United States,Seattle,Other,2018
+609,Kushki,$1.5B,Ecuador,Quito,Fintech,2015
+610,OpenWeb,$1.5B,United States,New York,Internet software & services,2012
+611,Carzone,$1.52B,China,Jiangsu,E-commerce & direct-to-consumer,None
+612,Jasper,$1.5B,United States,Austin,Artificial intelligence,2020
+613,Bilt Rewards,$1.5B,United States,New York,Fintech,2021
+614,Wenheyou,$1.55B,China,Hunan,Other,2013
+615,Fresh Life Style Supply Chain Management, $1.57 B,China,Chengdu,"Supply chain, logistics, & delivery",2016
+616,Baiwang,$1.55B,China,Beijing,Fintech,2015
+617,Loom,$1.53B,United States,San Francisco,Internet software & services,2016
+618,ICON 3D, $1.57 B,United States,Austin,Hardware,2018
+619,Ximalaya FM,$1.52B,China,Shanghai,Mobile & telecommunications,2012
+620,GalaxySpace,$1.58B,China,Beijing,Mobile & telecommunications,2016
+621,Iluvatar CoreX,$1.55B,China,Shanghai,Hardware,2015
+622,Alloy,$1.55B,United States,New York,Fintech,2015
+623,Promasidor Holdings,$1.59B,South Africa,Bryanston,Consumer & retail,1979
+624,Nord Security,$1.6B,Lithuania,Vilnius,Cybersecurity,2012
+625,Pave,$1.6B,United States,San Francisco,Internet software & services,2019
+626,Kitopi,$1.55B,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery",2018
+627,Vanta,$1.6B,United States,San Francisco,Cybersecurity,2016
+628,Truepill,$1.6B,United States,Hayward,Health,2016
+629,Wayflyer,$1.6B,Ireland,Dublin,Fintech,2019
+630,Mercury,$1.6B,United States,San Francisco,Fintech,2019
+631,ASAPP,$1.6B,United States,New York,Artificial intelligence,2014
+632,Generate Biomedicines,$1.36B,United States,Cambridge,Health,2018
+633,Magic Eden,$1.6B,United States,San Francisco,Fintech,2021
+634,ezCater,$1.6B,United States,Boston,"Supply chain, logistics, & delivery",2007
+635,HomeLight,$1.7B,United States,San Francisco,Fintech,2012
+636,SmartHR,$1.6B,Japan,Tokyo,Fintech,2013
+637,Cognite,$1.5B,Norway,Lysaker,Data management & analytics,2016
+638,Cresta,$1.6B,United States,San Francisco,Artificial Intelligence,2017
+639,Extend,$1.36B,United States,San Francisco,Fintech,2021
+640,Clio,$1.6B,Canada,Burnaby,Internet software & services,2008
+641,SafetyCulture,$1.6B,Australia,Sydney,Internet software & services,2004
+642,Monte Carlo,$1.6B,United States,San Francisco,Artificial intelligence,2019
+643,Capitolis,$1.6B,United States,New York,Fintech,2017
+644,Clari,$2.6B,United States,Sunnyvale,Internet software & services,2012
+645,Cao Cao Mobility,$1.6B,China,Hangzhou,Auto & transportation,2015
+646,Afiniti,$1.6B,Bermuda,Hamilton,Artificial intelligence,2006
+647,Infinidat,$1.6B,United States,Waltham,Hardware,2011
+648,Tonal,$1.6B,United States,San Francisco,E-commerce & direct-to-consumer,2015
+649,DealShare,$1.7B,India,Bengaluru,E-commerce & direct-to-consumer,2018
+650,Transcarent,$1.62B,United States,San Francisco,Health,2020
+651,solarisBank,$1.65B,Germany,Berlin,Fintech,2016
+652,Jusfoun Big Data,$1.62B,China,Beijing,Data management & analytics,2010
+653,Optimism,$1.65B,United States,San Francisco,Internet software & services,2019
+654,Spotter,$1.7B,United States,Los Angeles,Fintech,2019
+655,ZenBusiness,$1.7B,United States,Austin,Fintech,2015
+656,H2O.ai,$1.7B,United States,Mountain View,Artificial intelligence,2012
+657,Reltio,$1.7B,United States,Redwood City,Data management & analytics,2011
+658,CircleCI,$1.7B,United States,San Francisco,Internet software & services,2011
+659,Dragos,$1.7B,United States,Hanover,Cybersecurity,2016
+660,FinAccel,$1.66B,Singapore,,Fintech,2015
+661,Redesign Health,$1.7B,United States,New York,Health,2018
+662,Multiverse,$1.7B,United Kingdom,London,Edtech,2016
+663,Zhubajie,$1.61B,China,Chongqing,Internet software & services,None
+664,Front,$1.7B,United States,San Francisco,Internet software & services,2013
+665,Unite Us,$1.6B,United States,New York,Health,2014
+666,Incredible Health,$1.65B,United States,San Francisco,Health,2017
+667,PAX,$1.7B,United States,San Francisco,Consumer & retail,2007
+668,DispatchHealth,$1.7B,United States,Denver,Health,2013
+669,Carsome,$1.7B,Malaysia,Selangor,E-commerce & direct-to-consumer,2015
+670,Harry's,$1.7B,United States,New York,Consumer & retail,2013
+671,AlphaSense,$1.7B,United States,New York,Artificial intelligence,2011
+672,Crusoe,$1.75B,United States,Denver,Internet software & services,2018
+673,Orca Security,$1.8B,United States,Portland,Cybersecurity,2019
+674,Wave,$1.7B,Senegal,Dakar,Fintech,None
+675,Uniswap,$1.66B,United States,New York,Fintech,2018
+676,Productboard,$1.73B,United States,San Francisco,Internet software & services,2014
+677,Tessera Therapeutics,$1.69B,United States,Cambridge,Health,2018
+678,Trulioo,$1.75B,Canada,Vancouver,Cybersecurity,2011
+679,Vestiaire Collective,$1.7B,France,Paris,E-commerce & direct-to-consumer,2009
+680,Spinny,$1.75B,India,Gurugram,E-commerce & direct-to-consumer,2015
+681,Cambrian BioPharma,$1.79B,United States,Brooklyn,Health,2019
+682,AIWAYS,$1.78B,China,Shanghai,Auto & transportation,2017
+683,DataStax,$1.6B,United States,Santa Clara,Data management & analytics,2010
+684,FullStory,$1.8B,United States,Atlanta,Internet software & services,2014
+685,Slice,$1.8B,India,Bengaluru,Fintech,2020
+686,MEGAZONE,$1.83B,South Korea,Seoul,Internet software & services,1998
+687,Material Bank,$1.9B,United States,Boca Raton,E-commerce & direct-to-consumer,2018
+688,Diamond Foundry,$1.8B,United States,San Francisco,Other,2012
+689,ZocDoc,$1.8B,United States,New York,Health,2007
+690,Acorns,$1.9B,United States,Irvine,Fintech,2012
+691,CoinSwitch Kuber,$1.9B,India,Bangalore,Fintech,2017
+692,eDaili,$1.9B,China,Shanghai,E-commerce & direct-to-consumer,None
+693,MX Technologies,$1.9B,United States,Lehi,Fintech,None
+694,ConcertAI,$1.9B,United States,Boston,Artificial Intelligence,2017
+695,Ankorstore,$1.98B,France,Paris,E-commerce & direct-to-consumer,2019
+696,Solugen,$2B,United States,Houston,Other,2016
+697,Geek+,$2B,China,Beijing,Hardware,2015
+698,Rimac Automobili,$2B,Croatia,Sveta Nedelja,Auto & transportation,2009
+699,Hugging Face,$2B,United States,New York,Artificial intelligence,2016
+700,ROX Motor,$2B,China,Shanghai,Auto & transportation,2021
+701,UpGrad,$2.25B,India,Mumbai,Edtech,2015
+702,Opentrons,$1.8B,United States,New York,Hardware,2016
+703,Cloudinary,$2B,United States,Santa Clara,Internet software & services,2011
+704,Pax8,$1.7B,United States,Greenwood Village,Internet software & services,2012
+705,thatgamecompany, $1.94 B,United States,Los Angeles,Internet software & services,2006
+706,Apus Group,$1.73B,China,Beijing,Mobile & telecommunications,2014
+707,Lunar,$2B,Denmark,Aarhus,Fintech,2015
+708,ENOVATE,$1.85B,China,Shanghai,Auto & transportation,2015
+709,Lightricks,$1.8B,Israel,Jerusalem,Artificial intelligence,2013
+710,Dremio,$2B,United States,Santa Clara,Data management & analytics,2015
+711,Roofstock,$1.94B,United States,Oakland,Fintech,2015
+712,Fenbi Education,$1.95B,China,Beijing,Edtech,2015
+713,Volocopter,$1.87B,Germany,Bruchsal,Auto & transportation,2011
+714,ZigBang, $1.93B,South Korea,Seoul,Mobile & telecommunications,2010
+715,Exotec,$2B,France,Croix,Hardware,2015
+716,Trax,$2B,Singapore,,Artificial intelligence,2010
+717,Devo Technology,$2B,United States,Cambridge,Data management & analytics,2011
+718,CertiK,$2B,United States,New York,Cybersecurity,2018
+719,Salsify,$2B,United States,Boston,Internet software & services,2012
+720,Akulaku,$2B,Indonesia,Jakarta,E-commerce & direct-to-consumer,2014
+721,LTK,$2B,United States,Dallas,Internet software & services,2011
+722,VerbIT,$2B,United States,New York,Artificial intelligence,2016
+723,Everlaw,$2B,United States,Oakland,Internet software & services,2010
+724,Tier,$2B,Germany,Berlin,Travel,2018
+725,Netlify,$2B,United States,San Francisco,Internet software & services,None
+726,SWORD Health,$2B,United States,New York,Health,2015
+727,StarkWare,$8B,Israel,Netanya,Cybersecurity,2017
+728,Zilch,$2B,United Kingdom,London,Fintech,2018
+729,ClickHouse,$2B,United States,Portola Valley,Data management & analytics,2021
+730,Modern Treasury,$2B,United States,San Francisco,Fintech,2018
+731,Misfits Market,$2B,United States,Pennsauken,"Supply chain, logistics, & delivery",2018
+732,Advance Intelligence Group,$2B,Singapore,,Artificial intelligence,2016
+733,Magic Leap,$2B,United States,Plantation,Hardware,2010
+734,Spring Health,$2B,United States,New York,Health,2016
+735,Black Sesame Technologies,$2B,China,Shanghai,Artificial intelligence,2016
+736,Mynt,$2B,Philippines,Taguig City,Fintech,2015
+737,SmartNews,$2B,Japan,Tokyo,Mobile & telecommunications,2012
+738,Apeel Sciences,$2B,United States,Goleta,Other,2012
+739,MURAL,$2B,United States,San Francisco,Internet software & services,2022
+740,Opay,$2B,Nigeria,Lagos,Fintech,2018
+741,OCSiAl,$2B,Luxembourg,Leudelange,Other,2012
+742,XtalPi,$2B,China,Shenzhen,Artificial intelligence,2014
+743,Loggi,$2B,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",2013
+744,Aviatrix,$2B,United States,Santa Clara,Internet software & services,2014
+745,Divvy Homes,$2B,United States,San Francisco,Fintech,2017
+746,Iterable,$2B,United States,San Francisco,Internet software & services,2013
+747,Beisen,$2B,China,Beijing,Internet software & services,2002
+748,Pipe,$2B,United States,Miami,Fintech,2019
+749,Bunq,$2B,Netherlands,Amsterdam,Fintech,2013
+750,PayFit,$2.1B,United Kingdom,London,Fintech,2016
+751,Clip,$2B,Mexico,Mexico City,Fintech,2012
+752,Kajabi,$2B,United States,Irvine,Internet software & services,2010
+753,KRY,$2B,Sweden,Stockholm,Health,2014
+754,Earnix,$2B,Israel,Giv'atayim,Fintech,2001
+755,Clearco,$2B,Canada,Toronto,Fintech,2015
+756,ISN,$2B,United States,Dallas,"Supply chain, logistics, & delivery",2001
+757,Virta Health,$2B,United States,San Francisco,Health,2015
+758,Xingyun Group,$2B,China,Shenzhen,E-commerce & direct-to-consumer,2015
+759,Druva,$2B,United States,Sunnyvale,Data management & analytics,2007
+760,Ethos,$2.7B,United States,San Francisco,Fintech,None
+761,Guoquan Shihui,$2B,China,Shanghai,Consumer & retail,2017
+762,Keep,$2B,China,Beijing,Internet software & services,2014
+763,Hive,$2B,United States,San Francisco,Artificial intelligence,2013
+764,Redis Labs,$2B,United States,Mountain View,Data management & analytics,2011
+765,AppsFlyer,$2B,United States,San Francisco,Mobile & telecommunications,2011
+766,Unqork,$2B,United States,New York,Fintech,2017
+767,Kujiale,$2B,China,Hangzhou,Internet software & services,2011
+768,Mafengwo,$2B,China,Beijing,Travel,2010
+769,4Paradigm,$2B,China,Beijing,Artificial intelligence,2015
+770,Quora,$2B,United States,Mountain View,Internet software & services,2009
+771,BlaBlaCar,$2B,France,Paris,Auto & transportation,2006
+772,Tubatu.com,$2B,China,Shenzhen,E-commerce & direct-to-consumer,None
+773,Preferred Networks,$2B,Japan,Tokyo,Artificial intelligence,2014
+774,Kaseya,$2B,United States,Miami,Cybersecurity,2000
+775,Avant,$2B,United States,Chicago,Artificial intelligence,2012
+776,Calm,$2B,United States,San Francisco,Internet software & services,2012
+777,HuiMin,$2B,China,Beijing,E-commerce & direct-to-consumer,2013
+778,Mysten Labs,$2B,United States,San Francisco,Internet software & services,2021
+779,Drata,$2B,United States,San Diego,Cybersecurity,2020
+780,GO1,$2B,Australia,Brisbane,Internet software & services,2015
+781,Formlabs,$2B,United States,Somerville,Hardware,2011
+782,BeZero,$2B,United Kingdom,London,Other,2020
+783,Jeeves,$2.1B,United States,Orlando,Fintech,2019
+784,Trendy Group International,$2B,Hong Kong,Kowloon,Consumer & retail,1999
+785,Babel Finance,$2B,Hong Kong,Hong Kong,Fintech,2018
+786,GrubMarket,$2B,United States,San Francisco,E-commerce & direct-to-consumer,2013
+787,Forto,$2.1B,Germany,Berlin,"Supply chain, logistics, & delivery",2016
+788,Aledade,$2.1B,United States,Bethesda,Health,2014
+789,ReCharge,$2.1B,United States,Los Angeles,Fintech,2017
+790,FirstCry,$2.1B,India,Pune,E-commerce & direct-to-consumer,2010
+791,GoCardless,$2.1B,United Kingdom,London,Fintech,2011
+792,Moveworks,$2.1B,United States,Mountain View,Artificial intelligence ,2016
+793,Urban Company,$2.1B,India,Gurgaon,E-commerce & direct-to-consumer,2014
+794,Medable,$2.1B,United States,Palo Alto,Health,2013
+795,Eightfold.ai,$2.1B,United States,Santa Clara,Internet software & services,2016
+796,CoinDCX,$2.15B,India,Maharashtra,Fintech,2017
+797,CloudWalk,$2.15B,Brazil,Sao Paulo,Fintech,2013
+798,Hesai Tech,$2.18B,China,Shanghai,Artificial intelligence,2013
+799,Accelerant,$2.19B,United Kingdom,Colchester,Other,2015
+800,YITU Technology,$2.17B,China,Shanghai,Artificial intelligence,2012
+801,Qualia,$2.17B,United States,San Francisco,Fintech,2015
+802,Neo4j,$2B,United States,San Mateo,Data management & analytics,2007
+803,G7 Networks,$2.2B,China,Beijing,"Supply chain, logistics, & delivery",1998
+804,Current,$2.2B,United States,New York,Fintech,2019
+805,Dialpad,$2.2B,United States,San Francisco,Internet software & services,2011
+806,Bitso,$2.2B,Mexico,Mexico City,Fintech,2014
+807,MUSINSA,$2.2B,South Korea,Seoul,E-commerce & direct-to-consumer,2001
+808,Motif FoodWorks, $2.20 B,United States,Boston,Consumer & retail ,2019
+809,Gympass,$2.2B,United States,New York,Internet software & services,2012
+810,BloomReach,$2.2B,United States,Mountain View,Artificial intelligence,2009
+811,Addepar,$2.17B,United States,Mountain View,Fintech,2009
+812,NuCom Group,$2.2B,Germany,Unterfoehring,Other,2016
+813,Algolia,$2.25B,United States,San Francisco,Internet software & services,2012
+814,Pattern,$2.25B,United States,Lehi,Internet software & services,2013
+815,Newfront Insurance,$2.2B,United States,San Francisco,Fintech,2017
+816,Zume,$2.25B,United States,Mountain View,Consumer & retail,2015
+817,MoMo,$2.27B,Vietnam,Ho Chi Minh City,Fintech,2013
+818,Bowery Farming,$2.3B,United States,New York,Other,2015
+819,Jobandtalent,$2.35B,Spain,Madrid,Internet software & services,2009
+820,Huaqin Telecom Technology,$2.19B,China,Shanghai,Mobile & telecommunications,2005
+821,Motive,$2.85B,United States,San Francisco,"Supply chain, logistics, & delivery",2013
+822,Voodoo,$2.31B,France,Paris,Other,2013
+823,Greenlight,$2.3B,United States,Atlanta,Fintech,2014
+824,WEMAKEPRICE,$2.34B,South Korea,Seoul,E-commerce & direct-to-consumer,2009
+825,Shield AI,$2.3B,United States,San Diego,Artificial intelligence,2015
+826,Uptake,$2.3B,United States,Chicago,Artificial intelligence,2014
+827,Biren Technology,$2.32B,China,Shanghai,Hardware,2019
+828,ManyPets,$2.35B,United Kingdom,London,Fintech,2012
+829,Project44,$2.62B,United States,Chicago,"Supply chain, logistics, & delivery",2014
+830,Beta Technologies,$2.4B,United States,South Burlington,Other,2017
+831,Freenome,$2.62B,United States,South San Francisco,Health,2014
+832,ABL Space Systems,$2.4B,United States,El Segundo,Other,2017
+833,HoneyBook,$2.4B,United States,San Francisco,Internet software & services,2013
+834,Paxos,$2.4B,United States,New York,Fintech,None
+835,Trumid,$2.4B,United States,New York,Fintech,2014
+836,Exabeam,$2.4B,United States,Foster City,Cybersecurity,2013
+837,Star Charge,$2.41B,China,Changzhou,Auto & transportation,2014
+838,EquipmentShare,$2.41B,United States,Columbia,Fintech,2014
+839,PolicyBazaar,$2.4B,India,Gurgaon,Fintech,2008
+840,Cgtz,$2.41B,China,Hangzhou,Fintech,2014
+841,Carbon,$2.4B,United States,Redwood City,Hardware,2013
+842,Cybereason,$2.44B,United States,Boston,Cybersecurity,2012
+843,Coda Payments,$2.5B,Singapore,,Fintech,2011
+844,Fetch Rewards,$2.5B,United States,Madison,E-commerce & direct-to-consumer,2014
+845,Games24x7,$2.5B,India,Mumbai,Internet software & services,2006
+846,Mobile Premier League,$2.45B,India,Bengaluru,Internet software & services,2018
+847,DriveNets,$2.5B,Israel,Ra'anana,Internet software & services,2015
+848,Uniphore,$2.5B,United States,Palo Alto,Artificial Intelligence,2008
+849,SiFive,$2.5B,United States,San Mateo,Hardware,2015
+850,Hibob,$2.45B,Israel,Tel Aviv,Internet software & services,2015
+851,A24 Films,$2.5B,United States,New York,Other,2012
+852,Zetwerk,$2.68B,India,Bengaluru,Internet software & services,2018
+853,Uala,$2.45B,Argentina,Buenos Aires,Fintech,2017
+854,Immutable,$2.5B,Australia,Sydney,Fintech,2018
+855,Somatus,$2.5B,United States,McLean,Health,2016
+856,Sysdig,$2.5B,United States,San Francisco,Cybersecurity,2013
+857,Rokt,$2.4B,United States,New York,Internet software & services,2012
+858,Vercel,$2.5B,United States,San Francisco,Internet software & services,2020
+859,Infra.Market,$2.5B,India,Thane,E-commerce & direct-to-consumer,2016
+860,Vista Global,$2.5B,United Arab Emirates,Dubai,Other,2004
+861,Aura,$2.5B,United States,Burlington,Cybersecurity,2019
+862,Cribl,$2.5B,United States,San Francisco,Data management & analytics,2017
+863,Varo Bank,$2.5B,United States,San Francisco,Fintech,2015
+864,Jetti Resources,$2.5B,United States,Boulder,Other,2014
+865,Eat Just,$2.59B,United States,San Francisco,Consumer & retail,2011
+866,Unico,$2.6B,Brazil,Sao Paulo,Artificial intelligence,2007
+867,Cato Networks,$2.5B,Israel,Tel Aviv,Cybersecurity,2015
+868,BYTON,$2.5B,China,Nanjing,Auto & transportation,2016
+869,Xinchao Media,$2B,China,Chengdu,Internet software & services,2007
+870,Axonius,$2.6B,United States,New York,Cybersecurity,2017
+871,Side,$2.5B,United States,San Francisco,Internet software & services,2017
+872,JumpCloud,$2.62B,United States,Louisville,Data management & analytics,2012
+873,Oura,$2.55B,Finland,Oulu,Health,2013
+874,Moglix,$2.6B,Singapore,,E-commerce & direct-to-consumer,2015
+875,Pendo,$2.6B,United States,Raleigh,Internet software & services,2013
+876,Plume,$2.6B,United States,Palo Alto,Internet software & services,2015
+877,o9 Solutions,$2.7B,United States,Dallas,Artificial intelligence,2009
+878,Illumio,$2.75B,United States,Sunnyvale,Cybersecurity,2013
+879,Dream Games,$2.75B,Turkey,Istanbul,Mobile & telecommunications,2019
+880,Thought Machine,$2.7B,United Kingdom,London,Fintech,2014
+881,Hozon Auto,$3.95B,China,Shanghai,Auto & transportation,2014
+882,ManoMano,$2.6B,France,Paris,E-commerce & direct-to-consumer,2013
+883,Tradeshift,$2.7B,United States,San Francisco,Fintech,2009
+884,Tridge,$2.7B,South Korea,Seoul,Internet software & services,2014
+885,Sourcegraph,$2.62B,United States,San Francisco,Internet software & services,2013
+886,MasterClass,$2.75B,United States,San Francisco,Edtech,2015
+887,Transmit Security,$2.74B,Israel,Tel Aviv,Cybersecurity,2014
+888,BackBase,$2.66B,Netherlands,Amsterdam,Fintech,2003
+889,Nutrabolt,$2.79B,United States,Austin,Consumer & retail,2002
+890,Nextiva,$2.7B,United States,Scottsdale,Internet software & services,2008
+891,Zipline,$2.8B,United States,South San Francisco,"Supply chain, logistics, & delivery",2014
+892,Graphcore,$2.77B,United Kingdom,Bristol,Artificial intelligence,2016
+893,Sentry,$3B,United States,San Francisco,Other,2021
+894,DriveWealth,$2.85B,United States,Chatham,Fintech,2012
+895,Workrise,$2.9B,United States,Austin,Internet software & services,2014
+896,Meicai,$2.8B,China,Beijing,Mobile & telecommunications,2014
+897,Loft,$2.9B,Brazil,Sao Paulo,E-commerce & direct-to-consumer,None
+898,Kraken,$2.92B,United States,San Francisco,Fintech,2011
+899,Gokin Solar,$2.88B,China,Zhuhai,Other,2019
+900,Cross River Bank,$3B,United States,Fort Lee,Fintech,2008
+901,Amber Group,$3B,Hong Kong,,Fintech,2015
+902,Alan,$2.85B,France,Paris,Fintech,2016
+903,Inxeption,$3B,United States,San Francisco,Fintech,2017
+904,Anchorage Digital,$3B,United States,San Francisco,Fintech,2017
+905,OpenAI,$2.92B,United States,San Francisco,Artificial intelligence,2015
+906,Flutterwave,$3B,United States,San Francisco,Fintech,2016
+907,Lattice,$3B,United States,San Francisco,Internet software & services,2015
+908,Podium,$3B,United States,Lehi,Internet software & services,2014
+909,TradingView,$3B,United States,Westerville,Fintech,2011
+910,Contentful,$3B,Germany,Berlin,Internet software & services,2013
+911,Sky Mavis,$3B,Vietnam,Ho Chi Minh City,Internet software & services,2019
+912,Seismic,$3B,United States,San Diego,Internet software & services,2010
+913,Outschool,$3B,United States,San Francisco,Edtech,2015
+914,LaunchDarkly,$3B,United States,Oakland,Internet software & services,2014
+915,Groww,$3B,India,Bengaluru,Fintech,2017
+916,Via,$3.3B,United States,New York,Auto & transportation,2012
+917,Carbon Health,$3B,United States,San Francisco,Health,2015
+918,Age of Learning,$3B,United States,Glendale,Edtech,2007
+919,Gorillas,$3.1B,Germany,Berlin,"Supply chain, logistics, & delivery",2020
+920,Lucid Software,$3B,United States,South Jordan,Internet software & services,2010
+921,ActiveCampaign,$3B,United States,Chicago,Internet software & services,2003
+922,BlockFi,$3B,United States,Jersey City,Fintech,2017
+923,CMR Surgical,$3B,United Kingdom,Cambridge,Health,2014
+924,FlixMobility,$3B,Germany,Munich,Auto & transportation,2013
+925,Wildlife Studios,$3B,Brazil,Sao Paulo,Other,2011
+926,ApplyBoard,$3.2B,Canada,Kitchener,Edtech,2015
+927,Verkada,$3.2B,United States,San Mateo,Cybersecurity,2016
+928,Zuoyebang,$3B,China,Beijing,Edtech,2014
+929,HighRadius,$3.1B,United States,Houston,Fintech,2006
+930,SouChe Holdings,$3B,China,Hangzhou,E-commerce & direct-to-consumer,2012
+931,Udaan,$3.1B,India,Bengaluru,"Supply chain, logistics, & delivery",2016
+932,Circle,$3B,United States,Boston,Fintech,2013
+933,Calendly,$3B,United States,Atlanta,Internet software & services,2013
+934,PsiQuantum,$3.15B,United States,Palo Alto,Hardware,2016
+935,Skims,$3.2B,United States,Los Angeles,E-commerce & direct-to-consumer,2019
+936,Ironclad,$3.2B,United States,Sacramento,Internet software & services,2014
+937,Eruditus Executive Education,$3.2B,India,Mumbai,Edtech,2015
+938,Eikon Therapeutics, $3.2B,United States,Hayward,Health,2019
+939,Cedar,$3.2B,United States,New York,Fintech,2016
+940,Thumbtack,$3.2B,United States,San Francisco,E-commerce & direct-to-consumer,2008
+941,Aiven,$3.21B,Finland,Helsinki,Internet software & services,2016
+942,BlockDaemon,$3.25B,United States,Los Angeles,Fintech,2016
+943,BGL Group,$3B,United Kingdom,Peterborough,Fintech,1992
+944,Traveloka,$3B,Indonesia,Jakarta,Travel,2012
+945,Dadi Cinema,$3.24B,China,Shenzhen,Other,2006
+946,Scopely,$3.3B,United States,Culver City,Mobile & telecommunications,2011
+947,Nuvemshop,$3.1B,Brazil,Sao Paulo,E-commerce & direct-to-consumer,2011
+948,Astera Labs,$3.2B,United States,Santa Clara,Hardware,2017
+949,Komodo Health,$3.3B,United States,San Francisco,Health,2014
+950,Retool,$3.2B,United States,San Francisco,Internet software & services,2000
+951,Yixia,$3B,China,Beijing,Mobile & telecommunications,2011
+952,Kurly,$3.3B,South Korea,Seoul,"Supply chain, logistics, & delivery",2014
+953,Sila Nanotechnologies,$3.3B,United States,Alameda,Other,2011
+954,ECARX,$3.31B,China,Wuhan,Auto & transportation,2016
+955,Forter,$3B,United States,New York,Cybersecurity,2013
+956,Blockstream,$3.2B,Canada,Vancouver,Fintech,2014
+957,Innovaccer,$3.2B,United States,San Francisco,Health,2014
+958,Cars24,$3.3B,India,Gurgaon,E-commerce & direct-to-consumer,2015
+959,Youxia Motors,$3.35B,China,Shanghai,Auto & transportation,2014
+960,Starling Bank,$3.34B,United Kingdom,London,Fintech,2014
+961,OwnBackup,$3.35B,United States,Englewood Cliffs,Data management & analytics,2015
+962,Starburst,$3.35B,United States,Boston,Data management & analytics,2017
+963,Improbable,$3.36B,United Kingdom,London,Other,2012
+964,Acronis,$3.5B,Switzerland,Schaffhausen,Cybersecurity,2003
+965,MoonPay,$3.4B,United States,Miami,Fintech,2019
+966,Unacademy,$3.44B,India,Bengaluru,Edtech,2015
+967,Odoo,$3.43B,Belgium,Louvain-la-Neuve,Internet software & services,2005
+968,Upstox,$3.4B,India,Mumbai,Fintech,2010
+969,Helion Energy,$3.50B,United States,Redmond,Other,2010
+970,Flock Safety,$3.5B,United States,Atlanta,Hardware,2017
+971,Handshake,$3.5B,United States,San Francisco,Internet software & services,2012
+972,Indigo Ag,$3.5B,United States,Boston,Artificial intelligence,2012
+973,ChargeBee Technologies,$3.5B,United States,San Francisco,Fintech,2011
+974,Tekion,$3.5B,United States,San Ramon,Internet software & services,2016
+975,GoStudent,$3.5B,Austria,Vienna,Edtech,2017
+976,Celsius Network,$3.5B,United States,Hoboken,Fintech,2017
+977,Mirakl,$3.5B,France,Paris,E-commerce & direct-to-consumer,2011
+978,Highspot,$3.5B,United States,Seattle,Internet software & services,2013
+979,HyalRoute,$3.5B,Singapore,,Mobile & telecommunications,2015
+980,Otto Bock HealthCare,$3.52B,Germany,Duderstadt,Health,1919
+981,Commure,$3.5B,United States,San Francisco,Internet software & services,2017
+982,Rec Room,$3.5B,United States,Seattle,Internet software & services,2016
+983,Course Hero,$3.6B,United States,Redwood City,Edtech,2006
+984,Applied Intuition,$3.6B,United States,Sunnyvale,Auto & transportation,2017
+985,SpotOn,$3.6B,United States,San Francisco,Fintech,2017
+986,Whoop,$3.6B,United States,Boston,E-commerce & direct-to-consumer,2012
+987,Relativity,$3.6B,United States,Chicago,Internet software & services,2001
+988,Autograph,$3.66B,United States,Santa Monica,Internet software & services,2021
+989,Whatnot,$3.7B,United States,Marina del Rey,E-commerce & direct-to-consumer,2019
+990,Harness,$3.7B,United States,San Francisco,Artificial intelligence,2016
+991,Abogen,$3.7B,China,Suzhou,Health,2003
+992,VAST Data,$3.7B,United States,New York,Data management & analytics,2016
+993,Dutchie,$3.75B,United States,Bend,E-commerce & direct-to-consumer,2017
+994,Dataiku,$3.7B,United States,New York,Artificial intelligence,2013
+995,Papaya Global,$3.7B,United States,New York,Internet software & services,2016
+996,GOAT,$3.7B,United States,Culver City,E-commerce & direct-to-consumer,2015
+997,Redwood Materials,$3.7B,United States,Carson City,Other,2017
+998,StockX,$3.8B,United States,Detroit,E-commerce & direct-to-consumer,2016
+999,Convoy,$3.8B,United States,Seattle,"Supply chain, logistics, & delivery",2015
+1000,MessageBird,$3.8B,Netherlands,Amsterdam,Mobile & telecommunications,2011
+1001,Cohesity,$3.7B,United States,San Jose,Data management & analytics,2013
+1002,Aurora Solar,$4B,United States,San Francisco,Internet software & services,2013
+1003,Medlinker,$3.92B,China,Chengdu,Health,2014
+1004,Abnormal Security,$4B,United States,San Francisco,Cybersecurity,2018
+1005,Webflow,$4B,United States,San Francisco,Internet software & services,2012
+1006,Yuga Labs,$4B,United States,Miami,Internet software & services,2021
+1007,Digit Insurance,$4B,India,Bengaluru,Fintech,2016
+1008,Intarcia Therapeutics,$3.8B,United States,Boston,Health,1995
+1009,ClickUp,$4B,United States,San Diego,Internet software & services,2017
+1010,Farmers Business Network,$4B,United States,San Carlos,Other,2014
+1011,Branch,$4B,United States,Redwood City,Mobile & telecommunications,2014
+1012,Noom,$3.7B,United States,New York,Health,2006
+1013,BrowserStack,$4B,Ireland,Dublin,Internet software & services,2011
+1014,Melio,$4B,United States,New York,Fintech,2019
+1015,Rubrik,$4B,United States,Palo Alto,Data management & analytics,2014
+1016,Olive,$4B,United States,Columbus,Health,2012
+1017,Cerebras Systems,$4B,United States,Los Altos,Hardware,2016
+1018,Clubhouse,$4B,United States,San Francisco,Mobile & telecommunications,2020
+1019,Greensill,$4B,United Kingdom,London,Fintech,2011
+1020,Patreon,$4B,United States,San Francisco,Internet software & services,2013
+1021,Impossible Foods,$4B,United States,Redwood City,Consumer & retail,2011
+1022,Radiology Partners,$4B,United States,El Segundo,Health,2012
+1023,Next Insurance,$4B,United States,Palo Alto,Fintech,2016
+1024,PointClickCare,$4B,Canada,Mississauga,Internet software & services,2000
+1025,MEGVII,$4B,China,Beijing,Artificial intelligence,2011
+1026,Zapier,$4B,United States,Sunnyvale,Internet software & services,None
+1027,Houzz,$4B,United States,Palo Alto,E-commerce & direct-to-consumer,2008
+1028,Yello Mobile,$4B,South Korea,Seoul,Mobile & telecommunications,2012
+1029,Skydance Media,$4B,United States,Santa Monica,Other,2010
+1030,Weee!,$4.1B,United States,Fremont,"Supply chain, logistics, & delivery",2015
+1031,Globalization Partners,$4.2B,United States,Boston,Internet software & services,2012
+1032,dbt Labs,$4.2B,United States,Philadelphia,Data management & analytics,2016
+1033,Dataminr,$4.1B,United States,New York,Artificial intelligence,2009
+1034,Relativity Space,$4.2B,United States,Inglewood,Other,2016
+1035,ThoughtSpot,$4.2B,United States,Sunnyvale,Internet software & services,2012
+1036,BitPanda,$4.11B,Austria,Vienna,Fintech,2014
+1037,Sorare,$4.3B,France,Paris,Internet software & services,2019
+1038,Arctic Wolf Networks,$4.3B,United States,Eden Prairie,Cybersecurity,2012
+1039,Guild Education,$4.4B,United States,Denver,Internet software & services,2015
+1040,Miaoshou Doctor,$4.25B,China,Beijing,E-commerce & direct-to-consumer,2015
+1041,Outreach,$4.4B,United States,Seattle,Internet software & services,2011
+1042,Lenskart,$4.5B,India,Faridabad,E-commerce & direct-to-consumer,2008
+1043,UBTECH Robotics,$4.58B,China,Shenzhen,Hardware,2012
+1044,WeRide,$4.4B,China,Guangzhou,Auto & transportation,2017
+1045,wefox,$4.5B,Germany,Berlin,Fintech,2014
+1046,Monzo,$4.5B,United Kingdom,London,Fintech,2018
+1047,Pleo,$4.7B,Denmark,Copenhagen,Fintech,2015
+1048,Chipone,$4.73B,China,Beijing,Hardware,2008
+1049,SonarSource,$4.7B,Switzerland,Geneva,Internet software & services,2008
+1050,VIPKid,$4.5B,China,Beijing,Edtech,2013
+1051,Socure,$4.5B,United States,New York,Cybersecurity,2012
+1052,Vinted,$4.53B,Lithuania,Vilnius,E-commerce & direct-to-consumer,2008
+1053,BetterUp,$4.7B,United States,San Francisco,Internet software & services,2013
+1054,Lendable,$4.58B,United Kingdom,London,Fintech,2014
+1055,Reify Health,$4.8B,United States,Boston,Health,2012
+1056,Color,$4.6B,United States,Burlingame,Health,2013
+1057,Checkr,$4.6B,United States,San Francisco,Internet software & services,2014
+1058,Cerebral,$4.8B,United States,San Francisco,Health,2019
+1059,Creditas,$4.8B,Brazil,Sao Paulo,Fintech,2012
+1060,Lyra Health,$5.85B,United States,Burlingame,Health,2015
+1061,Meesho,$4.9B,India,Bengaluru,Internet software & services,2015
+1062,SSENSE,$4.15B,Canada,Montreal,E-commerce & direct-to-consumer,None
+1063,Grafana Labs,$4.93B,United States,New York,Internet software & services,2014
+1064,OfBusiness,$5B,India,Gurgaon,E-commerce & direct-to-consumer,2015
+1065,ShareChat,$5B,India,Bengaluru,Internet software & services,2015
+1066,Ola Electric Mobility,$5B,India,Bengaluru,Auto & transportation,2019
+1067,VerSe Innovation,$5B,India,Bengaluru,Mobile & telecommunications,2007
+1068,OakNorth Bank,$5B,United Kingdom,London,Fintech,2015
+1069,Qonto,$5B,France,Paris,Fintech,2016
+1070,Pine Labs,$5B,India,Noida,Fintech,1998
+1071,ZEPZ,$5B,United Kingdom,London,Fintech,2010
+1072,Coalition,$5B,United States,San Francisco,Cybersecurity,2017
+1073,Hopper,$5B,Canada,Montreal,Travel,2007
+1074,SambaNova Systems,$5B,United States,Palo Alto,Data management & analytics,2017
+1075,Icertis,$5B,United States,Bellevue,Artificial intelligence,2009
+1076,Cockroach Labs,$5B,United States,New York,Data management & analytics,2015
+1077,Howden Group Holdings,$5B,United Kingdom,London,Other,1994
+1078,Airwallex,$5.5B,Australia,Melbourne,Fintech,2015
+1079,QuintoAndar,$5.1B,Brazil,Campinas,E-commerce & direct-to-consumer,2012
+1080,Rappi,$5.25B,Colombia,Bogota,"Supply chain, logistics, & delivery",2015
+1081,Horizon Robotics,$5B,China,Beijing,Artificial intelligence,2015
+1082,Hello TransTech,$5B,China,Shanghai,Auto & transportation,2016
+1083,Collibra,$5.25B,Belgium,Brussels,Data management & analytics,2008
+1084,Flink,$5B,Germany,Berlin,E-commerce & direct-to-consumer,2021
+1085,Mambu,$5.5B,Netherlands,Amsterdam,Fintech,2011
+1086,The Boring Company,$5.7B,United States,Pflugerville,Other,2016
+1087,ContentSquare,$5.6B,France,Paris,Internet software & services,2012
+1088,Trade Republic,$5.36B,Germany,Berlin,Fintech,2015
+1089,OneTrust,$5.1B,United States,Atlanta,Internet software & services,2016
+1090,RELEX,$5.7B,Finland,Helsinki,"Supply chain, logistics, & delivery",2005
+1091,FiveTran,$5.6B,United States,Oakland,Data management & analytics,2012
+1092,Postman,$5.6B,United States,San Francisco,Internet software & services,2014
+1093,Back Market,$5.7B,France,Paris,E-commerce & direct-to-consumer,2014
+1094,Attentive,$5.99B,United States,Hoboken,Mobile & telecommunications,2016
+1095,Lianjia,$5.77B,China,Beijing,E-commerce & direct-to-consumer,2001
+1096,6Sense,$5.2B,United States,San Francisco,Artificial intelligence,2013
+1097,Better.com,$6B,United States,New York,Fintech,2018
+1098,Benchling,$6.1B,United States,San Francisco,Internet software & services,2012
+1099,Royole Corporation,$6B,China,Shenzhen,Hardware,2012
+1100,Workato,$5.7B,United States,Mountain View,Internet software & services,2013
+1101,Easyhome,$5.78B,China,Beijing,Consumer & retail,1999
+1102,Vice Media,$5.7B,United States,Brooklyn,Internet software & services,1994
+1103,iCapital Network,$6B,United States,New York,Fintech,2013
+1104,Wiz,$6B,Israel,Tel Aviv,Cybersecurity,2020
+1105,Black Unicorn Factory,$6.1B,United States,Los Angeles,Other,2020
+1106,Upgrade,$6.28B,United States,San Francisco,Fintech,2009
+1107,Cityblock Health,$5.7B,United States,Brooklyn,Health,2017
+1108,Hinge Health,$6.2B,United States,San Francisco,Health,2015
+1109,National Stock Exchange of India,$6.5B,India,Mumbai,Fintech,1992
+1110,Doctolib,$6.4B,France,Paris,Health,2013
+1111,CRED,$6.4B,India,Bengaluru,Fintech,2021
+1112,SVOLT,$6.51B,China,Changzhou,Auto & transportation,2018
+1113,1Password,$6.8B,Canada,Toronto,Cybersecurity,2005
+1114,Ola Cabs,$7.5B,India,Bengaluru,Auto & transportation,None
+1115,Ziroom,$6.6B,China,Beijing,E-commerce & direct-to-consumer,2011
+1116,C6 Bank,$5.05B,Brazil,Sao Paulo,Fintech,None
+1117,Klarna,$6.7B,Sweden,Stockholm,Fintech,2005
+1118,DataRobot,$6.3B,United States,Boston,Artificial intelligence,2012
+1119,ConsenSys,$7B,United States,New York,Fintech,2014
+1120,Mollie,$6.5B,Netherlands,Amsterdam,Fintech,2004
+1121,We Doctor,$7B,China,Hangzhou,Health,2010
+1122,Ro,$7B,United States,New York,Health,2017
+1123,Automation Anywhere,$6.8B,United States,San Jose,Artificial intelligence,2003
+1124,Toss,$7B,South Korea,Seoul,Fintech,2013
+1125,Argo AI,$7.25B,United States,Pittsburgh,Auto & transportation,2016
+1126,Gemini,$7.1B,United States,New York,Fintech,2015
+1127,Gong,$7.25B,United States,Palo Alto,Artificial intelligence,2015
+1128,Scale AI,$7.3B,United States,San Francisco,Artificial intelligence,None
+1129,Carta,$7.4B,United States,San Francisco,Fintech,2012
+1130,Hopin,$7.75B,United Kingdom,London,Internet software & services,None
+1131,Dapper Labs,$7.6B,Canada,Vancouver,Internet software & services,2018
+1132,Flexport,$8B,United States,San Francisco,"Supply chain, logistics, & delivery",2013
+1133,Snyk,$7.4B,United States,Boston,Cybersecurity,2015
+1134,Caris Life Sciences,$7.83B,United States,Irving,Health,1996
+1135,Razorpay,$7.5B,India,Bengaluru,Fintech,2013
+1136,Automattic,$7.5B,United States,San Francisco,Internet software & services,2005
+1137,FalconX,$8B,United States,San Mateo,Fintech,2018
+1138,Fireblocks,$8B,United States,New York,Fintech,2018
+1139,Weilong,$10.88B,China,Luohe,Consumer & retail,2001
+1140,Alchemy,$10.2B,United States,San Francisco,Fintech,2017
+1141,Swiggy,$10.7B,India,Bengaluru,"Supply chain, logistics, & delivery",2014
+1142,Dream11,$8B,India,Mumbai,Internet software & services,2007
+1143,Ramp,$8.1B,United States,New York,Fintech,2019
+1144,Global Switch,$11.1B,United Kingdom,London,Hardware,1998
+1145,Bolt,$11B,United States,San Francisco,Fintech,2014
+1146,Xingsheng Selected,$12B,China,Changsha,E-commerce & direct-to-consumer,2009
+1147,Getir,$11.8B,Turkey,Istanbul,"Supply chain, logistics, & delivery",2015
+1148,GoodLeap,$12B,United States,Roseville,Internet software & services,2003
+1149,Rippling,$11.25B,United States,San Francisco,Internet software & services,2017
+1150,Deel,$12B,United States,San Francisco,Fintech,2019
+1151,Biosplice Therapeutics,$12B,United States,San Diego,Health,2008
+1152,ZongMu Technology,$11.4B,China,Shanghai,Auto & transportation,2013
+1153,Airtable,$11.7B,United States,San Francisco,Internet software & services,2013
+1154,Brex,$12.3B,United States,San Francisco,Fintech,2017
+1155,Devoted Health,$12.6B,United States,Waltham,Health,2017
+1156,Bitmain Technologies,$12B,China,Beijing,Hardware,2013
+1157,Faire,$12.59B,United States,San Francisco,Artificial intelligence,2017
+1158,JUUL Labs,$12B,United States,San Francisco,Consumer & retail,2015
+1159,Grammarly,$13B,United States,San Francisco,Internet software & services,2009
+1160,Celonis,$13B,Germany,Munich,Data management & analytics,2011
+1161,Yuanfudao,$15.5B,China,Beijing,Edtech,2012
+1162,Ripple,$15B,United States,San Francisco,Fintech,2012
+1163,Discord,$15B,United States,San Francisco,Internet software & services,2012
+1164,Plaid,$13.5B,United States,San Francisco,Fintech,2012
+1165,OpenSea,$13.3B,United States,New York,Internet software & services,2017
+1166,goPuff,$15B,United States,Philadelphia,"Supply chain, logistics, & delivery",2013
+1167,Blockchain.com,$14B,United Kingdom,London,Fintech,2011
+1168,Yuanqi Senlin,$15B,China,Beijing,Consumer & retail,2016
+1169,DJI Innovations,$15B,China,Shenzhen,Hardware,2006
+1170,Xiaohongshu,$20B,China,Shanghai,E-commerce & direct-to-consumer,2013
+1171,BYJU's,$22B,India,Bengaluru,Edtech,2011
+1172,Miro,$17.5B,United States,San Francisco,Internet software & services,2011
+1173,J&T Express,$20B,Indonesia,Jakarta,"Supply chain, logistics, & delivery",2015
+1174,SHEIN,$100B,China,Shenzhen,E-commerce & direct-to-consumer,2008
+1175,Revolut,$33B,United Kingdom,London,Fintech,2015
+1176,Canva,$40B,Australia,Surry Hills,Internet software & services,2012
+1177,Checkout.com,$40B,United Kingdom,London,Fintech,2012
+1178,Epic Games,$31.5B,United States,Cary,Other,1991
+1179,Chime,$25B,United States,San Francisco,Fintech,2013
+1180,SpaceX,$127B,United States,Hawthorne,Other,2002
+1181,Fanatics,$31B,United States,Jacksonville,E-commerce & direct-to-consumer,1995
+1182,Instacart,$39B,United States,San Francisco,"Supply chain, logistics, & delivery",2012
+1183,Databricks,$38B,United States,San Francisco,Data management & analytics,2013
+1184,Stripe,$95B,United States,San Francisco,Fintech,2010

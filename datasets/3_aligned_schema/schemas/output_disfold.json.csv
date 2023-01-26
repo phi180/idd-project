@@ -1,0 +1,1001 @@
+,company_ceo,company_country,company_employees,company_founded,company_location,company_industry,company_revenue,company_name,company_ipo_code
+0, Mr. Joseph A. Ferraro,United States," 16,000", 2006Â ,"Parsippany,NJ,UnitedStates",Rental & Leasing Services,$18.12 B,"Avis Budget Group, Inc.",CAR
+1, Mr. Christian  Mauad Gebara,Brazil," 34,000", 1998,"SÃÂ£oPaulo,SP,Brazil",Telecom Services,$20.19 B,TelefÃ´nica Brasil SA,VIV
+2, Mr. Yuji  Fukasawa,Japan," 71,973",,"Tokyo,Japan",Railroads,$22.78 B,East Japan Railway Company,9020
+3, Mr. Jeffrey  Lawson,United States," 7,867", 2008,"SanFrancisco,CA,UnitedStates",Internet Content & Information,$26.09 B,Twilio Inc.,TWLO
+4, Mr. Ping  Cheng,Taiwan,,,"Taipei,Taiwan",Electronic Components,$24.05 B,"Delta Electronics, Inc.",2308
+5, Mr. Robert Jeffrey Orr,Canada," 30,000", 1925,"MontrÃÂ©al,QC,Canada",InsuranceâLife,$21.48 B,Power Corporation of Canada,POW
+6, Mr. Peter Maxwell Kern,United States," 14,800"," OctoberÂ 22, 1996","Seattle,WA,UnitedStates",Travel Services,$27.91 B,"Expedia Group, Inc.",EXPE
+7,,United Kingdom," 4,000", 1925,"Goole,UnitedKingdom",Specialty Chemicals,$19.22 B,Croda International plc,CRDA
+8, Mr. Bom Suk  Kim,South Korea," 68,000",,"Seoul,SouthKorea",Internet Retail,$30.53 B,"Coupang, Inc.",CPNG
+9, Mr. Michael J. Hennigan,United States," 1,139", 1988,"Findlay,OH,UnitedStates",Oil & Gas Midstream,$35.27 B,MPLX LP,MPLX
+10, Ms. Alison Marie Rose-Slade B.A.,United Kingdom," 58,735", 25Â March 1968,"Edinburgh,UnitedKingdom",Banks,$32.72 B,NatWest Group plc,NWG
+11, Mr. Edward D. Breen,United States," 28,000"," SeptemberÂ 1, 2017","Wilmington,DE,UnitedStates",Chemicals,$39.72 B,"DuPont de Nemours, Inc.",DD
+12, Mr. Enrique J. Lores,United States," 51,000"," JanuaryÂ 1, 1939","PaloAlto,CA,UnitedStates",Computer Hardware,$43.90 B,HP Inc.,HPQ
+13, Mr. Toshihiro  Mibe,Japan," 211,374"," Hamamatsu, Japan OctoberÂ 1946, incorporated 24Â September 1948","Tokyo,Japan",Auto Manufacturers,$49.11 B,"Honda Motor Co., Ltd.",7267
+14," Ms. Shemara R. Wikramanayake B.Com., L.L.B., LLB, BCom (UNSW)",Australia," 17,209", 1969,"Sydney,NSW,Australia",Capital Markets,$55.99 B,Macquarie Group Limited,MQG
+15, Ms. Mary T. Barra,United States," 157,000"," SeptemberÂ 16, 1908","Detroit,MI,UnitedStates",Auto Manufacturers,$62.69 B,General Motors Company,GM
+16, Mr. Michael A. Mussallem,United States," 15,700", 1958,"Irvine,CA,UnitedStates",Medical Devices,$73.38 B,Edwards Lifesciences Corporation,EW
+17, Mr. Mario  Greco,Switzerland," 55,000",,"Zurich,Switzerland",InsuranceâDiversified,$73.58 B,Zurich Insurance Group AG,ZURN
+18, Mr. Michael  Cannon-Brookes,Australia," 7,388", 2002,"Sydney,NSW,Australia",SoftwareâApplication,$73.72 B,Atlassian Corporation Plc,TEAM
+19, Mr. Ernie L. Herrman,United States," 270,000", 1987,"Framingham,MA,UnitedStates",Apparel Retail,$73.99 B,"The TJX Companies, Inc.",TJX
+20, Mr. Jeffrey C. Sprecher,United States," 8,858"," MayÂ 11, 2000","Atlanta,GA,UnitedStates",Financial Data & Stock Exchanges,$74.17 B,"Intercontinental Exchange, Inc.",ICE
+21,,Canada," 9,735",,"Calgary,AB,Canada",Oil & Gas E&P,$74.78 B,Canadian Natural Resources Limited,CNQ
+22, Mr. William Henry Rogers Jr.,United States," 50,283", 1872,"Charlotte,NC,UnitedStates",Banks,$74.79 B,Truist Financial Corporation,TFC
+23," Dr. Leonard S. Schleifer M.D., Ph.D.",United States," 10,368", 1988,"Tarrytown,NY,UnitedStates",Biotechnology,$74.91 B,"Regeneron Pharmaceuticals, Inc.",REGN
+24, Mr. Daniel P.  O'Day,United States," 14,400"," JuneÂ 22, 1987","FosterCity,CA,UnitedStates",Drug ManufacturersâGeneral,$76.15 B,"Gilead Sciences, Inc.",GILD
+25, Mr. Thomas E. Polen Jr.,United States," 75,000"," East Rutherford, New Jersey 1897","FranklinLakes,NJ,UnitedStates",Medical Instruments & Supplies,$76.98 B,"Becton, Dickinson and Company",BDX
+26, Mr. William S. Demchak,United States," 57,668"," AprilÂ 10, 1845","Pittsburgh,PA,UnitedStates",Banks,$77.10 B,"The PNC Financial Services Group, Inc.",PNC
+27, Mr. Timothy M. Archer,United States," 16,300", 1980,"Fremont,CA,UnitedStates",Semiconductor Equipment & Materials,$77.60 B,Lam Research Corporation,LRCX
+28, Mr. Thomas A. Fanning,United States," 27,027", 1945,"Atlanta,GA,UnitedStates",UtilitiesâRegulated Electric,$78.38 B,The Southern Company,SO
+29,,China," 384,065"," Beijing, China 25 February 2000","Beijing,China",Oil & Gas Integrated,$78.39 B,China Petroleum & Chemical Corporation,600028
+30,,China," 3,985",,"Beijing,China",UtilitiesâIndependent Power Producers,$78.42 B,China Yangtze Power Co. Ltd,600900
+31, Mr. FranÃÂ§ois-Henri  Pinault,France," 42,811",,"Paris,France",Luxury Goods,$78.66 B,Kering SA,KER
+32, Mr. William Darryl White,Canada," 43,863", Montreal Bank 23Â June 1817,"Montreal,QC,Canada",Banks,$79.22 B,Bank of Montreal,BMO
+33, Mr. Toshiki  Kawai,Japan," 14,479",,"Tokyo,Japan",Semiconductor Equipment & Materials,$79.62 B,Tokyo Electron Ltd,8035
+34, Mr. Andrew J. Cecere,United States," 68,796"," JulyÂ 13, 1863","Minneapolis,MN,UnitedStates",Banks,$80.16 B,U.S. Bancorp,USB
+35, Mr. Francesco  Milleri,France," 144,888",,"Paris,France",Medical Instruments & Supplies,$80.49 B,EssilorLuxottica SA,EL
+36, Mr. Jay A. Brown,United States," 5,000", 1994,"Houston,TX,UnitedStates",REITâSpecialty,$80.92 B,Crown Castle International Corp. (REIT),CCI
+37," Mr. Ross Maxwell McEwan B.B.S., CBE",Australia," 32,741", 1982,"Docklands,VIC,Australia",Banks,$81.03 B,National Australia Bank Limited,NAB
+38, Mr. Samuel N. Hazen,United States," 204,000", 1968,"Nashville,TN,UnitedStates",Medical Care Facilities,$82.60 B,"HCA Healthcare, Inc.",HCA
+39, Mr. Benoit  Potier,France," 66,400",,"Paris,France",Chemicals,$83.24 B,Air Liquide SA,AI
+40, Mr. Tobias  LÃÂ¼tke,Canada," 10,000", 2006,"Ottawa,ON,Canada",SoftwareâApplication,$83.80 B,Shopify Inc.,SHOP
+41, Mr. David Michael Cordani,United States," 72,226", 1982,"Bloomfield,CT,UnitedStates",Healthcare Plans,$84.67 B,Cigna Corporation,CI
+42, Mr. Hironori  Kamezawa,Japan," 132,700"," OctoberÂ 1, 2005","Tokyo,Japan",Banks,$85.03 B,"Mitsubishi UFJ Financial Group, Inc.",8306
+43, Mr. Sanjay  Mehrotra,United States," 43,000"," OctoberÂ 5, 1978","Boise,ID,UnitedStates",Semiconductors,$86.49 B,"Micron Technology, Inc.",MU
+44, Mr. Daniel S. Glaser,United States," 83,000", 1905,"NewYork,NY,UnitedStates",Insurance Brokers,$87.16 B,"Marsh & McLennan Companies, Inc.",MMC
+45, Mr. Terrence A. Duffy,United States," 3,480", 1848,"Chicago,IL,UnitedStates",Financial Data & Stock Exchanges,$87.17 B,CME Group Inc.,CME
+46, Mr. Gary  Nagle,Switzerland," 81,284", 1974,"Baar,Switzerland",Other Industrial Metals & Mining,$87.31 B,Glencore plc,GLEN
+47, Mr. James Bruce Flatt,Canada," 150,000", 1899,"Toronto,ON,Canada",Asset Management,$87.46 B,Brookfield Asset Management Inc.,BAM.A
+48," Mr. Stephen Allen Schwarzman B.A., M.B.A.",United States," 3,795", 1985,"NewYork,NY,UnitedStates",Asset Management,$87.64 B,The Blackstone Group Inc.,BX
+49," Mr. Brian Johnston Porter A.M.P., B.Com.",Canada," 89,782"," MarchÂ 30, 1832","Halifax,NS,Canada",Banks,$87.76 B,Bank of Nova Scotia,BNS
+50, Ms. Lynn J. Good,United States," 27,605", 1904,"Charlotte,NC,UnitedStates",UtilitiesâRegulated Electric,$88.76 B,Duke Energy Corporation,DUK
+51, Mr. Michael F. Roman,United States," 95,000"," JuneÂ 13, 1902","St.Paul,MN,UnitedStates",Specialty Industrial Machinery,$88.77 B,3M Company,MMM
+52, Mr. Paul R. Perreault B.A.,Australia," 25,000", 1916,"Parkville,VIC,Australia",Biotechnology,$89.69 B,CSL Limited,CSL
+53, Ms. Kristin C. Peck,United States," 12,100", 1952Â ,"Parsippany,NJ,UnitedStates",Drug ManufacturersâSpecialty & Generic,$89.82 B,Zoetis Inc.,ZTS
+54,,United States, 68,,"Wilmington,DE,UnitedStates",Chemicals,$90.34 B,Vulcan International Corp,VULC
+55, Mr. Qiangdong  Liu,China," 310,000", 6Â June 2009,"Beijing,China",Internet Retail,$90.46 B,"JD.com, Inc.",9618
+56, Mr. Dirk  Van de Put,United States," 79,000"," DecemberÂ 10, 1923","Chicago,IL,UnitedStates",Confectioners,$90.67 B,"Mondelez International, Inc.",MDLZ
+57, Ms. Belen  Garijo Lopez M.D.,Germany," 60,334",,"Darmstadt,Germany",Drug ManufacturersâSpecialty & Generic,$90.74 B,MERCK Kommanditgesellschaft auf Aktien,MRK
+58, Mr. Timotheus  Hottges,Germany," 216,528",,"Bonn,Germany",Telecom Services,$93.01 B,Deutsche Telekom AG,DTE
+59, Mr. Jean-Pascal  Tricoire,France," 166,025",,"Rueil-Malmaison,France",Specialty Industrial Machinery,$94.34 B,Schneider Electric SE,SU
+60, Mr. Al  Monaco,Canada," 10,900"," AprilÂ 30,Â 1949Â as Interprovincial Pipe Line Company","Calgary,AB,Canada",Oil & Gas Midstream,$94.94 B,Enbridge Inc.,ENB
+61, Ms. Tracy A. Robinson,Canada," 22,604", 6Â June 1919,"Montreal,QC,Canada",Railroads,$94.96 B,Canadian National Railway Company,CNR
+62, Mr. Glenn D. Fogel,United States," 20,097", 1996,"Norwalk,CT,UnitedStates",Travel Services,$95.02 B,Booking Holdings Inc.,BKNG
+63,,China," 77,029",,"Beijing,China",Thermal Coal,$95.34 B,China Shenhua Energy Company Ltd,601088
+64,,United Kingdom," 60,000", 14Â AprilÂ 1909 as the Anglo-Persian Oil Company,"London,UnitedKingdom",Oil & Gas Integrated,$96.24 B,BP plc,BP.
+65, Mr. Carlos A. Rodriguez,United States," 56,000", 1949,"Roseland,NJ,UnitedStates",Staffing & Employment Services,$96.98 B,"Automatic Data Processing, Inc.",ADP
+66, Mr. Michel Abbas Khalaf,United States," 49,000"," MarchÂ 24, 1868","NewYork,NY,UnitedStates",InsuranceâLife,$62.69 B,"MetLife, Inc.",MET
+67, Mr. Bernard S. Charles,France," 20,496",,"Velizy-Villacoublay,France",SoftwareâApplication,$62.75 B,Dassault SystÃ¨mes SE,DSY
+68, Mr. William J. Fehrman,United States," 4,800",,"Portland,OR,UnitedStates",UtilitiesâDiversified,$62.87 B,PacifiCorp,PPWLM
+69, Mr. Michael F. Mahoney,United States," 41,000", 1979,,Medical Devices,$63.08 B,Boston Scientific Corporation,BSX
+70, Mr. Frederick W. Smith,United States," 384,000"," MayÂ 5, 1971","Memphis,TN,UnitedStates",Integrated Freight & Logistics,$63.25 B,FedEx Corporation,FDX
+71,,Japan," 24,629",,"Tokyo,Japan",Chemicals,$63.43 B,Shin-Etsu Chemical Co Ltd,4063
+72, Mr. Soren  Skou,Denmark," 95,000",,"Copenhagen,Denmark",Marine Shipping,$64.40 B,AP Moller - Maersk A-S,MAERSK.B
+73,,South Korea," 29,047",,"Icheon-Si,SouthKorea",Semiconductors,$64.60 B,"SK hynix, Inc.",000660
+74, Mr. Toshio  Kagami,Japan," 8,782",,"Urayasu,Japan",Leisure,$64.66 B,Oriental Land Co. Ltd,4661
+75, Mr. Frank  Slootman,United States," 2,495"," JulyÂ 23, 2012","SanMateo,CA,UnitedStates",SoftwareâApplication,$65.04 B,Snowflake Inc.,SNOW
+76, Mr. Christopher Mark Crane,United States," 31,518"," OctoberÂ 20, 2000","Chicago,IL,UnitedStates",UtilitiesâDiversified,$65.53 B,Exelon Corporation,EXC
+77, Mr. Noel R. Wallace,United States," 33,800", 1806,"NewYork,NY,UnitedStates",Household & Personal Products,$65.64 B,Colgate-Palmolive Company,CL
+78, Mr. James D. Farley Jr.,United States," 183,000"," JuneÂ 16, 1903","Dearborn,MI,UnitedStates",Auto Manufacturers,$65.74 B,Ford Motor Company,F
+79, Mr. Thomas Ronald Palmer,United States," 14,400", 1921,"Denver,CO,UnitedStates",Gold,$65.89 B,Newmont Corporation,NEM
+80, Mr. Charles J. Meyers,United States," 10,944", 1998,"RedwoodCity,CA,UnitedStates",REITâSpecialty,$66.35 B,"Equinix, Inc. (REIT)",EQIX
+81, Mr. Sandeep  Bakhshi B.E.,India," 98,750", 5Â January 1994,"Mumbai,India",Banks,$66.62 B,ICICI Bank Limited,IBN
+82, Mr. Piyush  Gupta,Singapore," 33,000",,"Singapore,Singapore",Banks,$66.74 B,DBS Group Holdings Ltd,D05
+83,,China," 59,630",,"Fuzhou,China",Banks,$66.87 B,Industrial Bank Co. Ltd,601166
+84, Mr. James C. Fish Jr.,United States," 48,500"," JanuaryÂ 1, 1968","Houston,TX,UnitedStates",Waste Management,$66.95 B,"Waste Management, Inc.",WM
+85,,Switzerland," 104,400", 1988,"Zurich,Switzerland",Electrical Equipment & Parts,$67.19 B,ABB Ltd,ABBN
+86," Mr. Peter Francis King F.C.A., BEc, FCA",Australia," 40,143",,"Sydney,NSW,Australia",Banks,$67.20 B,Westpac Banking Corporation,WBC
+87, Ms. Susan Patricia Griffith,United States," 49,077"," MarchÂ 10, 1937","Mayfield,OH,UnitedStates",InsuranceâProperty & Casualty,$67.31 B,The Progressive Corporation,PGR
+88, Mr. E. Scott Santi,United States," 45,000", 1912,"Glenview,IL,UnitedStates",Specialty Industrial Machinery,$67.49 B,Illinois Tool Works Inc.,ITW
+89," Dr. Reshma  Kewalramani FASN, M.D.",United States," 3,900", 1989,"Boston,MA,UnitedStates",Biotechnology,$67.49 B,Vertex Pharmaceuticals Incorporated,VRTX
+90, Mr. John G. Morikis,United States," 61,000"," Cleveland, Ohio, U.S. 1866","Cleveland,OH,UnitedStates",Specialty Chemicals,$67.54 B,The Sherwin-Williams Company,SHW
+91, Mr. Werner  Baumann,Germany," 95,950",,"Leverkusen,Germany",Drug ManufacturersâGeneral,$68.09 B,Bayer AG,BAYN
+92, Mr. Hisayuki  Idekoba,Japan," 46,800",,"Tokyo,Japan",Staffing & Employment Services,$68.11 B,Recruit Holdings Co Ltd,6098
+93, Mr. Jose Ignacio  Sanchez Galan,Spain," 38,702",,"Bilbao,Spain",UtilitiesâDiversified,$68.23 B,"Iberdrola, SA",IBE
+94, Mr. Frank J. Bisignano,United States," 44,000", 1984,"Brookfield,WI,UnitedStates",Information Technology Services,$68.68 B,"Fiserv, Inc.",FISV
+95, Mr. Herman Oskarovich Gref,Russia," 287,866",,"Moscow,Russia",Banks,$68.69 B,Sberbank of Russia PJSC,SBER
+96, Mr. Ralph A. J. G. Hamers,Switzerland," 71,385", 29Â June 1998,"Zurich,Switzerland",Banks,$68.93 B,UBS Group AG,UBSG
+97, Mr. Joseph D. Russell Jr.,United States," 5,800", 1972,"Glendale,CA,UnitedStates",REITâIndustrial,$69.31 B,Public Storage,PSA
+98, Mr. Daniel Hajj Aboumrad,Mexico," 181,205", 1986,"MexicoCity,DF,Mexico",Telecom Services,$69.45 B,"AmÃ©rica MÃ³vil, S.A.B. de C.V.",AMXA
+99, Mr. Jean-Laurent  Bonnafe,France," 190,000",,"Paris,France",Banks,$69.90 B,BNP Paribas SA,BNP
+100, Mr. Francesco  Starace,Italy," 66,279",,"Rome,RM,Italy",UtilitiesâDiversified,$70.15 B,Enel SpA,ENEL
+101, Mr. Robert M. Blue,United States," 17,100"," Virginia, U.S. 1983","Richmond,VA,UnitedStates",UtilitiesâDiversified,$70.20 B,"Dominion Energy, Inc.",D
+102, Dr. Thomas  Buberl,France," 106,128",,"Paris,France",InsuranceâDiversified,$70.20 B,AXA SA,CS
+103, Ms. Phebe N. Novakovic,United States," 103,100"," FebruaryÂ 7, 1899",,Aerospace & Defense,$70.55 B,General Dynamics Corporation,GD
+104, Mr. Stephane  Bancel,United States," 2,700", SeptemberÂ 2010,"Cambridge,MA,UnitedStates",Biotechnology,$70.81 B,"Moderna, Inc.",MRNA
+105," Mr. Mark  Cutifani B.E., BEng (Mining), Fellow AusIMM, CEngFIMMM, DBA",United Kingdom," 106,000", 1917,"London,UnitedKingdom",Other Industrial Metals & Mining,$71.48 B,Anglo American plc,AAL
+106, Dr. Bernhard  Montag,Germany," 66,800",,"Erlangen,Germany",Diagnostics & Research,$71.50 B,Siemens Healthineers AG,SHL
+107, Mr. Ezra Y. Yacob,United States," 2,800", 1999,"Houston,TX,UnitedStates",Oil & Gas E&P,$71.90 B,"EOG Resources, Inc.",EOG
+108,,Indonesia," 25,370",,"Jakarta,Indonesia",Banks,$71.91 B,PT Bank Central Asia Tbk,BBCA
+109, Mr. Guilherme  De Souza Macedo Loureiro,Mexico," 231,259",,"MexicoCity,DF,Mexico",Discount Stores,$71.96 B,Wal-Mart de Mexico SAB de CV,WALMEX
+110, Mr. Richard C. Adkerson,United States," 24,700", 1912,"Phoenix,AZ,UnitedStates",Copper,$72.16 B,Freeport-McMoRan Inc.,FCX
+111, Mr. James A. Squires,United States," 18,100"," JulyÂ 23,Â 1980 in Norfolk, Virginia, United States","Norfolk,VA,UnitedStates",Railroads,$72.31 B,Norfolk Southern Corporation,NSC
+112,,Japan," 47,320",,"Tokyo,Japan",Telecom Services,$73.12 B,KDDI Corp,9433
+113, Ms. Kathy J. Warden,United States," 88,000", 1994,"FallsChurch,VA,UnitedStates",Aerospace & Defense,$73.25 B,Northrop Grumman Corporation,NOC
+114, Mr. Gregory Clarence Case,United Kingdom," 50,000", 1982,"London,UnitedKingdom",Insurance Brokers,$73.33 B,Aon Plc,AON
+115, Mr. Oliver  Zipse,Germany," 118,909",,"Munich,Germany",Auto Manufacturers,$56.17 B,Bayerische Motoren Werke AG,BMWB
+116,,China," 90,238",,"Shanghai,China",Banks,$56.38 B,Bank of Communications Co. Ltd,601328
+117, Mr. Richard P. Wallace,United States," 11,300", 1997,"Milpitas,CA,UnitedStates",Semiconductor Equipment & Materials,$56.48 B,KLA Corporation,KLAC
+118, Mr. Bruce Dale Broussard,United States," 95,500"," AugustÂ 18, 1961","Louisville,KY,UnitedStates",Healthcare Plans,$56.55 B,Humana Inc.,HUM
+119, Mr. Francois Lionel Poirier,Canada," 7,017",,"Calgary,AB,Canada",Oil & Gas Midstream,$56.77 B,TC Energy Corporation,TRP
+120, Mr. Saeed  Bin Mohammed A. Al-Ghamdi,Saudi Arabia," 16,113",,"Riyadh,SaudiArabia",Banks,$56.89 B,The Saudi National Bank,1180
+121,,United Kingdom," 16,000", 1959,"London,UnitedKingdom",Consulting Services,$56.94 B,IHS Markit Ltd.,INFO
+122, Mr. Lei  Chen,China," 7,986",,"Shanghai,China",Internet Retail,$57.09 B,Pinduoduo Inc.,PDD
+123, Mr. Anthony G. Capuano Jr.,United States," 120,000"," MarchÂ 5, 1927","Bethesda,MD,UnitedStates",Lodging,$57.18 B,"Marriott International, Inc.",MAR
+124, Mr. Victor G. Dodig,Canada," 46,030"," JuneÂ 1, 1961","Toronto,ON,Canada",Banks,$57.20 B,Canadian Imperial Bank of Commerce,CM
+125, Mr. Takehiko  Kakiuchi,Japan,,,"Tokyo,Japan",Conglomerates,$57.23 B,Mitsubishi Corp,8058
+126,,China," 6,058",,"Foshan,China",Packaged Foods,$57.40 B,Foshan Haitian Flavouring and Food Company Ltd,603288
+127, Mr. A. James Teague,United States," 7,000", 1968,"Houston,TX,UnitedStates",Oil & Gas Midstream,$57.43 B,Enterprise Products Partners L.P.,EPD
+128, Mr. Milton Maluhy Filho,Brazil," 99,600",,"SÃÂ£oPaulo,SP,Brazil",Banks,$57.45 B,ItaÃº Unibanco Holding SA,ITUB
+129, Mr. Matthew J. Murphy,United States," 6,695",,"Wilmington,DE,UnitedStates",Semiconductors,$57.62 B,"Marvell Technology, Inc.",9MW
+130, Mr. Olivier  Le Peuch,United States," 92,000", 1926,"Houston,TX,UnitedStates",Oil & Gas Equipment & Services,$57.63 B,Schlumberger Limited,SLB
+131, Mr. Alexandre  Ricard,France," 18,500",,"Paris,France",BeveragesâWineries & Distilleries,$57.75 B,Pernod Ricard SA,RI
+132, Mr. Seifollah  Ghasemi,United States," 20,000", 1940,"Allentown,PA,UnitedStates",Chemicals,$57.82 B,"Air Products and Chemicals, Inc.",APD
+133, Mr. Matthew J. Murphy,Bermuda," 6,695", 1995,"Hamilton,Bermuda",                                        Semiconductors                                    ,$58.36 B,Marvell Technology Group Ltd.,MRVL
+134, Mr. Erik  Engstrom,United Kingdom," 33,500", 1993,"London,UnitedKingdom",Publishing,$58.53 B,RELX plc,REL
+135, Mr. Aneel  Bhusri,United States," 15,200", MarchÂ 2005,"Pleasanton,CA,UnitedStates",SoftwareâApplication,$58.70 B,"Workday, Inc.",WDAY
+136, Mr. Xavier M. P. Huillard,France," 218,569",,"Rueil-Malmaison,France",Engineering & Construction,$59.01 B,Vinci SA,DG
+137,,China," 11,833",,"Shenzhen,China",Medical Devices,$59.26 B,Shenzhen Mindray Bio-Medical Electronics Co. Ltd,300760
+138, Mr. Oscar  Gonzalez Rocha,United States," 14,700", 1952,"Phoenix,AZ,UnitedStates",Copper,$59.46 B,Southern Copper Corporation,SCCO
+139,,Saudi Arabia,,,"Riyadh,SaudiArabia",Telecom Services,$59.47 B,Saudi Telecom Company,7010
+140,,China," 20,773",,"Hangzhou,China",BeveragesâNon-Alcoholic,$59.50 B,Nongfu Spring Co. Ltd,9633
+141,,United Kingdom," 43,000", 1814,"Slough,UnitedKingdom",Household & Personal Products,$59.53 B,Reckitt Benckiser Group plc,RKT
+142," Mr. Shayne Cary Elliott B.Com, B.Com.",Australia," 39,684", 1Â October 1970,"Melbourne,VIC,Australia",Banks,$59.55 B,Australia and New Zealand Banking Group Limited,ANZ
+143, Mr. Nikesh  Arora C.F.A.,United States," 11,527", 2005,"SantaClara,CA,UnitedStates",SoftwareâInfrastructure,$59.65 B,"Palo Alto Networks, Inc.",PANW
+144, Mr. Surendralal Lanca Karsanbhai,United States," 86,700", 1890,"SaintLouis,MO,UnitedStates",Specialty Industrial Machinery,$59.66 B,Emerson Electric Co.,EMR
+145, Mr. Richard D. Fairbank,United States," 50,767"," July 21, 1994","McLean,VA,UnitedStates",Credit Services,$59.67 B,Capital One Financial Corporation,COF
+146, Mr. Alejandro Nicolas  Aguzin,Hong Kong," 2,146",,"Central,HongKong",Financial Data & Stock Exchanges,$59.75 B,Hong Kong Exchanges & Clearing Ltd,0388
+147, Mr. Lei  Ding,China," 18,129", JuneÂ 1997,"Hangzhou,China",Internet Content & Information,$59.76 B,"NetEase, Inc.",9999
+148, Dr. Frank  Appel,Germany," 548,042",,"Bonn,Germany",Integrated Freight & Logistics,$59.80 B,Deutsche Post AG,DPWA
+149, Mr. Jack  Dorsey,United States," 8,521"," FebruaryÂ 14, 2009","SanFrancisco,CA,UnitedStates",SoftwareâInfrastructure,$59.95 B,"Block, Inc.",SQ
+150, Mr. Kenneth A. Seitz,Canada," 23,500",,"Saskatoon,SK,Canada",Agricultural Inputs,$60.06 B,Nutrien Ltd.,NTR
+151, Mr. Keqiang  Xu,Hong Kong," 18,151", August 1999,"Central,HongKong",Oil & Gas E&P,$60.19 B,CNOOC Limited,0883
+152, Mr. Mats  RahmstrÃÂ¶m,Sweden," 42,862",,"Nacka,Sweden",Specialty Industrial Machinery,$60.97 B,Atlas Copco AB,ATCO.A
+153, Mr. Pieter Willem van der Does,Netherlands," 2,180",,"Amsterdam,Netherlands",SoftwareâInfrastructure,$61.11 B,Adyen N.V.,ADYEN
+154, Mr. Rolf Habben Jansen,Germany," 14,106",,"Hamburg,Germany",Marine Shipping,$61.46 B,Hapag-Lloyd AG,HLAG
+155, Mr. Jose Antonio  Alvarez Alvarez,Spain," 177,033", 15Â May 1857,"Madrid,Spain",Banks,$61.67 B,"Banco Santander, SA",SAN
+156, Mr. Gary Adam Norcross,United States," 65,000", 1968,"Jacksonville,FL,UnitedStates",Information Technology Services,$61.73 B,"Fidelity National Information Services, Inc.",FIS
+157, Mr. Vincent T. Roche,United States," 24,700"," Cambridge, Massachusetts, United States 1965","Norwood,MA,UnitedStates",Semiconductors,$62.00 B,"Analog Devices, Inc.",ADI
+158, Mr. Craig  Arnold,Ireland," 85,947", 1911,"Dublin,Ireland",Specialty Industrial Machinery,$62.17 B,Eaton Corporation plc,ETN
+159, Mr. Scott Douglas Sheffield,United States," 1,932", 1997,"Irving,TX,UnitedStates",Oil & Gas E&P,$62.19 B,Pioneer Natural Resources Company,PXD
+160,,Japan," 6,574",,"Kyoto,Japan",Electronic Gaming & Multimedia,$62.20 B,Nintendo Co Ltd,7974
+161, Mr. Robert Scott Fauber,United States," 13,460", 1909Â ,"NewYork,NY,UnitedStates",Financial Data & Stock Exchanges,$62.58 B,Moody's Corporation,MCO
+162, Mr. Dara  Khosrowshahi,United States," 29,300", MarchÂ 2009,"SanFrancisco,CA,UnitedStates",SoftwareâApplication,$62.66 B,"Uber Technologies, Inc.",UBER
+163, Mr. Xiaodong  Li,Singapore," 29,800",,"Singapore,Singapore",Electronic Gaming & Multimedia,$62.66 B,Sea Limited,SE
+164, Mr. Martin  Mucci,United States," 15,000", 1971,"Rochester,NY,UnitedStates",Staffing & Employment Services,$49.23 B,"Paychex, Inc.",PAYX
+165, Ms. Sarah M. London,United States," 72,500", 1984,"St.Louis,MO,UnitedStates",Healthcare Plans,$49.32 B,Centene Corporation,CNC
+166, Mr. Miguel  Patricio,United States," 36,000"," JulyÂ 2, 2015","Pittsburgh,PA,UnitedStates",Packaged Foods,$49.42 B,The Kraft Heinz Company,KHC
+167, Mr. Laurence Neil Hunn,United States," 19,300", 1890,"Sarasota,FL,UnitedStates",Specialty Industrial Machinery,$49.66 B,"Roper Technologies, Inc.",ROP
+168, Mr. Marcos  Eduardo GalperÃÂ­n,Argentina," 29,957"," AugustÂ 2, 1999","BuenosAires,Argentina",Internet Retail,$49.83 B,"MercadoLibre, Inc.",MELI
+169, Mr. Francis A. deSouza,United States," 9,800", 1998,"SanDiego,CA,UnitedStates",Diagnostics & Research,$49.91 B,"Illumina, Inc.",ILMN
+170, Mr. Olivier  Andries,France," 77,008",,"Paris,France",Aerospace & Defense,$50.02 B,Safran SA,SAF
+171, Dr. Aart J. de Geus,United States," 16,361"," 1986 in Research Triangle Park, North Carolina.","MountainView,CA,UnitedStates",SoftwareâInfrastructure,$50.18 B,"Synopsys, Inc.",SNPS
+172, Mr. Leonid Viktorovich Mikhelson,Russia,,,"Tarko-Sale,Russia",Oil & Gas E&P,$50.19 B,Novatek PJSC,NVTK
+173, Mr. Christophe  Beck,United States," 47,000", 1923Â ,"SaintPaul,MN,UnitedStates",Specialty Chemicals,$50.29 B,Ecolab Inc.,ECL
+174,,China," 14,217",,"Beijing,China",Travel Services,$50.46 B,China Tourism Group Duty Free Corp Ltd,601888
+175,,Taiwan,,,"NewTaipeiCity,Taiwan",Electronic Components,$50.75 B,Hon Hai Precision Industry Co. Ltd,2317
+176, Ms. Elizabeth Anne Gaines CA,Australia," 10,232", 2003,"EastPerth,WA,Australia",Other Industrial Metals & Mining,$50.76 B,Fortescue Metals Group Limited,FMG
+177, Mr. Nicholas K. Akins,United States," 16,688", 1906,"Columbus,OH,UnitedStates",UtilitiesâRegulated Electric,$50.95 B,"American Electric Power Company, Inc.",AEP
+178, Mr. Juan Ricardo Luciano,United States," 39,218"," Minneapolis, Minnesota, U.S.1902","Chicago,IL,UnitedStates",Farm Products,$51.03 B,Archer-Daniels-Midland Company,ADM
+179,,United Kingdom,,,,InsuranceâProperty & Casualty,$51.43 B,General Accident plc,GACA
+180,,United States,,,"SaintPaul,MN,UnitedStates",Credit Services,$51.49 B,"AgriBank, FCB",AGRIP
+181," Mr. Christopher E. Kubasik CPA, CPA",United States," 47,000"," JuneÂ 29, 2019","Melbourne,FL,UnitedStates",Aerospace & Defense,$51.51 B,"L3Harris Technologies, Inc.",LHX
+182, Mr. Akio  Toyoda,Japan," 371,365"," AugustÂ 28, 1937","Toyota,Japan",Auto Manufacturers,$51.55 B,Toyota Motor Corporation,7203
+183, Mr. Koji  Arima,Japan," 168,391",,"Kariya,Japan",Auto Parts,$51.58 B,DENSO Corp,6902
+184, Mr. Mirko  Bibic,Canada," 49,781", 1983,"Verdun,QC,Canada",Telecom Services,$51.71 B,BCE Inc.,BCE
+185, Mr. Carlos  Tavares,Netherlands," 281,595",,"Amsterdam,Netherlands",Auto Manufacturers,$51.80 B,Stellantis N.V.,STLA
+186, Mr. Claudio  Descalzi,Italy," 31,495", 10Â February 1953,"Rome,RM,Italy",Oil & Gas Integrated,$52.00 B,Eni S.p.A.,ENI
+187, Mr. Masahiro  Okafuji,Japan," 125,944",,"Tokyo,Japan",Conglomerates,$52.19 B,ITOCHU Corp,8001
+188, Mr. Victor  Peng,United States," 4,890", 1984,"SanJose,CA,UnitedStates",Semiconductors,$52.19 B,"Xilinx, Inc.",XLNX
+189, Mr. Kurt  Sievers,Netherlands," 31,000", Established in 2006,"Eindhoven,Netherlands",Semiconductors,$52.28 B,NXP Semiconductors N.V.,NXPI
+190, Mr. Tadashi  Yanai,Japan," 55,589",,"Yamaguchi,Japan",Apparel Retail,$52.29 B,Fast Retailing Co. Ltd,9983
+191, Mr. Ronald L. Zimmerly Jr.,United States,,,"Ada,OH,UnitedStates",Banks,$52.30 B,"Liberty Bancshares, Inc. (OH)",LBSI
+192, Ms. Vicki A. Hollub,United States," 11,678", JuneÂ 1909,"Houston,TX,UnitedStates",Oil & Gas E&P,$52.30 B,Occidental Petroleum Corporation,OXY
+193, Mr. Jeffrey Walker Martin,United States," 15,390", 1998,"SanDiego,CA,UnitedStates",UtilitiesâDiversified,$52.47 B,Sempra Energy,SRE
+194, Dr. Martin  Brudermuller,Germany," 108,718",,"LudwigshafenamRhein,Germany",Chemicals,$52.76 B,BASF SE,BAS
+195," Mr. Stephen John Hasker B.Com., M.B.A.",Canada," 24,400",,"Toronto,ON,Canada",Consulting Services,$53.30 B,Thomson Reuters Corporation,TRI
+196, Mr. David A. Schwimmer,United Kingdom," 24,158", 23Â June 2007,"London,UnitedKingdom",Financial Data & Stock Exchanges,$53.33 B,London Stock Exchange Group plc,LSEG
+197,,Switzerland," 16,218",,"Basel,Switzerland",Diagnostics & Research,$53.76 B,Lonza Group Ltd,LONN
+198, Mr. Benedetto  Vigna,Italy," 4,609", 13Â September 1939,"Maranello,MO,Italy",Auto Manufacturers,$53.78 B,Ferrari N.V.,RACE
+199, Mr. Evan  Spiegel,United States," 5,661"," SeptemberÂ 16, 2011","SantaMonica,CA,UnitedStates",Internet Content & Information,$53.86 B,Snap Inc.,SNAP
+200, Mr. Ken  Xie,United States," 10,195", 2000,"Sunnyvale,CA,UnitedStates",SoftwareâInfrastructure,$53.86 B,"Fortinet, Inc.",FTNT
+201, Mr. Todd J. Vasos,United States," 163,000", OctoberÂ 1939,"Goodlettsville,TN,UnitedStates",Discount Stores,$54.30 B,Dollar General Corporation,DG
+202, Mr. Peter Salvatore Zaffino,United States," 36,600"," DecemberÂ 19, 1919","NewYork,NY,UnitedStates",InsuranceâDiversified,$54.31 B,"American International Group, Inc.",AIG
+203, Mr. Michael J. Hennigan,United States," 17,700"," NovemberÂ 9, 2009","Findlay,OH,UnitedStates",Oil & Gas Refining & Marketing,$54.54 B,Marathon Petroleum Corporation,MPC
+204, Mr. Keith E. Creel,Canada," 11,834", 16Â February 1881,"Calgary,AB,Canada",Railroads,$54.59 B,Canadian Pacific Railway Limited,CP
+205, Mr. Jean Jereissati Neto,Brazil," 53,000",,"SÃÂ£oPaulo,SP,Brazil",BeveragesâBrewers,$54.69 B,Ambev SA,ABEV3
+206, Mr. Rudolf Gijsbert Servaas van den Brink,Netherlands," 81,070",,"Amsterdam,Netherlands",BeveragesâBrewers,$54.87 B,Heineken N.V.,HEIA
+207, Mr. Masayoshi  Son,Japan," 58,786",,"Tokyo,Japan",Telecom Services,$54.93 B,SoftBank Group Corp.,9984
+208,,United States,,,"NorthAndover,MA,UnitedStates",Staffing & Employment Services,$55.23 B,Ergo Science Corp,ERGN
+209, Mr. Robert J. Gamgort,United States," 27,500", 1981,"Burlington,MA,UnitedStates",BeveragesâNon-Alcoholic,$55.28 B,Keurig Dr Pepper Inc.,KDP
+210, Dr. Osamu  Okuda,Japan," 7,664",,"Tokyo,Japan",Drug ManufacturersâGeneral,$55.31 B,Chugai Pharmaceutical Co. Ltd,4519
+211, Mr. Masanori  Togawa,Japan," 84,870",,"Osaka,Japan",Building Products & Equipment,$55.58 B,"Daikin Industries,Ltd.",6367
+212,,United Kingdom," 23,683", 1990,"London,UnitedKingdom",UtilitiesâDiversified,$55.88 B,National Grid plc,NG.
+213,,China," 43,876",,"Longyan,China",Gold,$43.93 B,Zijin Mining Group Co Ltd,601899
+214, Mr. Thierry  Delaporte,India," 220,000", 29 December 1945,"Bengaluru,India",Information Technology Services,$43.98 B,Wipro Limited,WIPRO
+215, Mr. John Chongbo  Rim,South Korea," 3,247",,"Incheon,SouthKorea",Biotechnology,$44.01 B,"Samsung Biologics Co.,Ltd.",207940
+216, Mr. Jun  Ohta,Japan," 86,800"," June 6, 1996","Tokyo,Japan",Banks,$44.06 B,"Sumitomo Mitsui Financial Group, Inc.",8316
+217, Mr. Brian R. Niccol,United States," 97,660"," JulyÂ 13, 1993","NewportBeach,CA,UnitedStates",Restaurants,$44.11 B,"Chipotle Mexican Grill, Inc.",CMG
+218, Dr. Anirudh  Devgan Ph.D.,United States," 9,300", 1988,"SanJose,CA,UnitedStates",SoftwareâApplication,$44.23 B,"Cadence Design Systems, Inc.",CDNS
+219, Mr. Todd M. Schneider,United States," 40,000", 1929,"Cincinnati,OH,UnitedStates",Specialty Business Services,$44.32 B,Cintas Corporation,CTAS
+220, Mr. Ari  Bousbib,United States," 79,000", 1982,"Durham,NC,UnitedStates",Diagnostics & Research,$44.32 B,IQVIA Holdings Inc.,IQV
+221, Mr. William C. Rhodes III,United States," 65,100"," JulyÂ 4, 1979","Memphis,TN,UnitedStates",Specialty Retail,$44.39 B,"AutoZone, Inc.",AZO
+222, Mr. Terrence R. Curtin CPA,Switzerland," 85,000", 2007,"Schaffhausen,Switzerland",Electronic Components,$44.78 B,TE Connectivity Ltd.,TEL
+223, Mr. Carlo  Messina,Italy," 78,000",,"Turin,TO,Italy",Banks,$44.95 B,Intesa Sanpaolo S.p.A.,ISP
+224, Mr. Vagit Yusufovich Alekperov,Russia," 101,374",,"Moscow,Russia",Oil & Gas Integrated,$44.96 B,PJSC Lukoil,LKOH
+225, Mr. Robert G. Wilt,Saudi Arabia,,,"Riyadh,SaudiArabia",Other Industrial Metals & Mining,$45.00 B,Saudi Arabian Mining Company,1211
+226, Mr. Kenichi  Hori,Japan," 44,509",,"Tokyo,Japan",Oil & Gas E&P,$45.09 B,Mitsui & Co. Ltd,8031
+227, Mr. Olivier  Pomel,United States," 3,200", 2010,"NewYork,NY,UnitedStates",SoftwareâApplication,$45.13 B,"Datadog, Inc.",DDOG
+228, Mr. William A. Newlands,United States," 9,300", 1945,"Victor,NY,UnitedStates",BeveragesâWineries & Distilleries,$45.21 B,"Constellation Brands, Inc.",STZ
+229, Dr. Reinhard  Ploss,Germany," 50,280",,"Munich,Germany",Semiconductors,$45.35 B,Infineon Technologies AG,IFXA
+230, Mr. Alan David Schnitzer,United States," 30,184", 1853,"NewYork,NY,UnitedStates",InsuranceâProperty & Casualty,$45.56 B,"The Travelers Companies, Inc.",TRV
+231, Mr. Jonathan J. Mazelsky,United States," 10,350", 1983,"Westbrook,ME,UnitedStates",Diagnostics & Research,$45.64 B,"IDEXX Laboratories, Inc.",IDXX
+232, Mr. Nicholas Jonathan Read,United Kingdom," 105,000", 16Â September 1991,"Newbury,UnitedKingdom",Telecom Services,$45.74 B,Vodafone Group plc,VOD
+233, Ms. Su Hua Tian,United States,,,"Houston,TX,UnitedStates",Residential Construction,$45.74 B,Vanjia Corp,VNJA
+234, Mr. Richard Adam Norwitt,United States," 90,000", 1932,"Wallingford,CT,UnitedStates",Electronic Components,$45.77 B,Amphenol Corporation,APH
+235, Ms. Michele Gross Buck,United States," 16,620"," FebruaryÂ 8, 1894","Hershey,PA,UnitedStates",Confectioners,$45.83 B,The Hershey Company,HSY
+236, Mr. Christophe  Weber,Japan," 47,099"," Doshomachi, Osaka, Japan JuneÂ 12,Â 1781","Tokyo,Japan",Drug ManufacturersâSpecialty & Generic,$45.89 B,Takeda Pharmaceutical Company Limited,4502
+237, Mr. Yanhong  Li,China," 45,500"," JanuaryÂ 1, 2000","Beijing,China",Internet Content & Information,$45.98 B,"Baidu, Inc.",9888
+238,,Switzerland," 26,272",,"Baar,Switzerland",Specialty Chemicals,$46.01 B,Sika AG,SIKA
+239, Mr. Kasper Bo Rorsted,Germany," 53,870",,"Herzogenaurach,Germany",Footwear & Accessories,$46.13 B,adidas AG,ADS1
+240, Mr. Jun  Seki,Japan, 758,,"Kyoto,Japan",Specialty Industrial Machinery,$46.33 B,Nidec Corp,6594
+241," Mr. Octavio  de Lazari Jr., Junior",Brazil," 85,264"," MarchÂ 10, 1943","Osasco,SP,Brazil",Banks,$46.71 B,Banco Bradesco SA,BBDC3
+242, Mr. Kevin Ronald Sayer,United States," 6,300", 1999,"SanDiego,CA,UnitedStates",Diagnostics & Research,$46.86 B,"DexCom, Inc.",DXCM
+243, Mr. Leon J. Topalian,United States," 28,800",,"Charlotte,NC,UnitedStates",Steel,$46.86 B,Nucor Corporation,NUE
+244, Mr. Brian  Humphries,United States," 330,600", 26Â January 1994,"Teaneck,NJ,UnitedStates",Information Technology Services,$47.07 B,Cognizant Technology Solutions Corporation,CTSH
+245, Igor Y. Zhilkin,Russia,,,"Moscow,Russia",Specialty Industrial Machinery,$47.15 B,Open Joint Stock Company OMZ,OMZZP
+246, Mr. Charles Frederick Lowrey Jr.,United States," 40,916", 1875,"Newark,NJ,UnitedStates",InsuranceâLife,$47.17 B,"Prudential Financial, Inc.",PRU
+247, Dr. Andrew  Anagnost,United States," 12,600"," JanuaryÂ 30, 1982","SanRafael,CA,UnitedStates",SoftwareâApplication,$47.69 B,"Autodesk, Inc.",ADSK
+248, Mr. Bob  van Dijk,South Africa," 28,445",,"CapeTown,SouthAfrica",Internet Content & Information,$47.73 B,Naspers Ltd,NPN
+249, Mr. George R. Kurtz,United States," 4,965", 2011,"Sunnyvale,CA,UnitedStates",SoftwareâInfrastructure,$47.89 B,"CrowdStrike Holdings, Inc.",CRWD
+250,,Mexico," 29,707",,"MexicoCity,DF,Mexico",Other Industrial Metals & Mining,$48.00 B,Grupo Mexico SAB de CV,GMEXICOB
+251, Mr. Gregory D. Johnson,United States," 82,852"," DecemberÂ 2, 1957","Springfield,MO,UnitedStates",Specialty Retail,$48.14 B,"O'Reilly Automotive, Inc.",ORLY
+252, Mr. George R. Oliver,Ireland," 101,000", 1885,"Cork,Ireland",Engineering & Construction,$48.15 B,Johnson Controls International plc,JCI
+253, Mr. Rangarajan  Raghuram,United States," 34,000"," FebruaryÂ 10, 1998","PaloAlto,CA,UnitedStates",SoftwareâInfrastructure,$48.17 B,"VMware, Inc.",VMW
+254, Mr. Mark S. Little,Canada," 16,922"," Montreal, Quebec, Canada in 1919","Calgary,AB,Canada",Oil & Gas Integrated,$48.27 B,Suncor Energy Inc.,SU
+255, Mr. Brian S. Tyler Ph.D.,United States," 59,000"," New York City, United States1833","Irving,TX,UnitedStates",Medical Distribution,$48.46 B,McKesson Corporation,MCK
+256, Mr. Igor Ivanovich Sechin,Russia,,,"Moscow,Russia",Oil & Gas Integrated,$48.50 B,Rosneft Oil Co PJSC,ROSN
+257, Mr. James R. Fitterling,United States," 35,700"," AprilÂ 1, 2019","Midland,MI,UnitedStates",Chemicals,$48.50 B,Dow Inc.,DOW
+258, Mr. Calvin R. McDonald,Canada," 25,000", 1998,"Vancouver,BC,Canada",Apparel Retail,$48.52 B,Lululemon Athletica Inc.,LULU
+259, Dr. Lih Shyng  Tsai Ph.D.,Taiwan,,,"HsinchuCity,Taiwan",Semiconductors,$48.74 B,"MediaTek, Inc.",2454
+260, Mr. Peter Kenneth Allen,Australia," 2,780", 2014,"Sydney,NSW,Australia",REITâRetail,$48.83 B,Scentre Group,SCG
+261, Mr. Toshiaki  Higashihara,Japan," 350,864",,"Tokyo,Japan",Conglomerates,$48.92 B,Hitachi Ltd,6501
+262,,China," 19,692",,"Yantai,China",Chemicals,$39.73 B,Wanhua Chemical Group Co. Ltd,600309
+263," Mr. Ee Cheong  Wee B.Sc., M.A.",Singapore," 24,346",,"Singapore,Singapore",Banks,$39.73 B,United Overseas Bank Ltd,U11
+264, Mr. Robert C. Frenzel,United States," 11,321", 1909,"Minneapolis,MN,UnitedStates",UtilitiesâRegulated Electric,$39.76 B,Xcel Energy Inc.,XEL
+265, Mr. Shankh S. Mitra,United States, 464, 1970,"Toledo,OH,UnitedStates",REITâHealthcare Facilities,$39.96 B,Welltower Inc.,WELL
+266, Mr. Henry A. Fernandez,United States," 4,303", 1968,"NewYork,NY,UnitedStates",Financial Data & Stock Exchanges,$39.97 B,MSCI Inc.,MSCI
+267, Mr. Yu  Sun,Hong Kong," 14,462",,"Central,HongKong",Banks,$39.99 B,BOC Hong Kong Holdings Ltd,2388
+268, Mr. Jose E. Almeida,United States," 60,000", 1931,"Deerfield,IL,UnitedStates",Medical Instruments & Supplies,$40.13 B,Baxter International Inc.,BAX
+269,,China," 11,380",,"Shenzhen,China",Capital Markets,$40.17 B,CITIC Securities Company Ltd,600030
+270, Mr. Jeffrey S. Sloan J.D.,United States," 25,000", 2000,"Atlanta,GA,UnitedStates",Specialty Business Services,$40.35 B,Global Payments Inc.,GPN
+271, Mr. Michael R. McMullen,United States," 17,200", 1999,"SantaClara,CA,UnitedStates",Diagnostics & Research,$40.49 B,"Agilent Technologies, Inc.",A
+272, Ms. Rosalind Gates Brewer,United States," 202,000"," DecemberÂ 31, 2014","Deerfield,IL,UnitedStates",Pharmaceutical Retailers,$40.55 B,"Walgreens Boots Alliance, Inc.",WBA
+273, Mr. Arthur William Stein,United States," 3,030", 2004,"SanFrancisco,CA,UnitedStates",REITâOffice,$40.64 B,"Digital Realty Trust, Inc.",DLR
+274,,Singapore," 29,622",,"Singapore,Singapore",Banks,$40.77 B,Oversea-Chinese Banking Corp Ltd,O39
+275, Mr. David L. Gitlin,United States," 58,000"," JuneÂ 26, 1915","PalmBeachGardens,FL,UnitedStates",Building Products & Equipment,$40.79 B,Carrier Global Corporation,CARR
+276, Mr. Thomas P. Gibbons,United States," 49,100"," JulyÂ 1, 2007","NewYork,NY,UnitedStates",Asset Management,$40.83 B,The Bank of New York Mellon Corporation,BK
+277,,China," 5,696",,"Shanghai,China",Internet Content & Information,$40.83 B,"East Money Information Co.,Ltd.",300059
+278, Mr. Gregory Q. Brown,United States," 18,700"," January 4, 2011","Chicago,IL,UnitedStates",Communication Equipment,$40.87 B,"Motorola Solutions, Inc.",MSI
+279,,Russia,,,"Moscow,Russia",Other Industrial Metals & Mining,$41.16 B,MMC Norilsk Nickel PJSC,GMKN
+280, Mr. Steven J. A. van Rijswijk,Netherlands," 57,000",,"Amsterdam,Netherlands",Banks,$41.25 B,ING Groep N.V.,INGA
+281, Mr. Joseph W. Gorder,United States," 9,794"," JanuaryÂ 1, 1980","SanAntonio,TX,UnitedStates",Oil & Gas Refining & Marketing,$41.27 B,Valero Energy Corporation,VLO
+282,,Hong Kong," 9,396",,"Central,HongKong",Banks,$41.47 B,Hang Seng Bank Limited,0011
+283, Mr. Thomas Joseph Wilson II,United States," 54,300"," AprilÂ 17, 1931","Northbrook,IL,UnitedStates",InsuranceâProperty & Casualty,$41.54 B,The Allstate Corporation,ALL
+284, Mr. Alan S. Armstrong,United States," 4,783", 1908,"Tulsa,OK,UnitedStates",Oil & Gas Midstream,$41.60 B,"The Williams Companies, Inc.",WMB
+285, Mr. Richard E. Muncrief,United States," 1,600", 1971,"OklahomaCity,OK,UnitedStates",Oil & Gas E&P,$41.82 B,Devon Energy Corporation,DVN
+286, Mr. Jean-Marc  Chery,Switzerland," 48,254",,"Geneva,Switzerland",Semiconductors,$41.91 B,STMicroelectronics N.V.,STM
+287, Prof. Ugur  Sahin M.D.,Germany," 2,800", 2008,"Mainz,Germany",Biotechnology,$41.93 B,BioNTech SE,22UA
+288, Mr. Rocco  Gori,Canada," 38,000"," JuneÂ 23, 1887","Toronto,ON,Canada",InsuranceâLife,$41.98 B,Manulife Financial Corporation,MFC
+289, Mr. William Rodney McMullen,United States," 500,000", 1883,"Cincinnati,OH,UnitedStates",Grocery Stores,$42.03 B,The Kroger Co.,KR
+290, Mr. Kevin P. Hourican,United States," 58,000"," MarchÂ 19, 1969","Houston,TX,UnitedStates",Food Distribution,$42.22 B,Sysco Corporation,SYY
+291, Dr. Ge  Li Ph.D.,China," 34,912",,"Shanghai,China",Diagnostics & Research,$42.25 B,WuXi AppTec Co. Ltd,603259
+292, Mr. Christopher J. Nassetta,United States," 142,000"," MayÂ 31, 1919","McLean,VA,UnitedStates",Lodging,$42.39 B,Hilton Worldwide Holdings Inc.,HLT
+293, Mr. Jens Bjorn Andersen,Denmark," 77,958",,"Hedehusene,Denmark",Integrated Freight & Logistics,$42.49 B,DSV PANALPINA A-S,DSV
+294,,Japan," 58,975",,"Tokyo,Japan",Grocery Stores,$42.53 B,Seven & i Holdings Co. Ltd,3382
+295, Mr. Jeffrey L. Harmening,United States," 35,000"," JuneÂ 20, 1866","Minneapolis,MN,UnitedStates",Packaged Foods,$42.65 B,"General Mills, Inc.",GIS
+296," Mr. Charles Victor Magro B.Sc. (Chem), MBA",United States," 21,000", 2019,"Wilmington,DE,UnitedStates",Agricultural Inputs,$42.66 B,"Corteva, Inc.",CTVA
+297,,China," 46,631",,"Xi'an,China",Semiconductor Equipment & Materials,$42.68 B,LONGi Green Energy Technology Co. Ltd,601012
+298, Mr. Rodney Cyril Sacks,United States," 3,458", 1935,"Corona,CA,UnitedStates",BeveragesâNon-Alcoholic,$42.81 B,Monster Beverage Corporation,MNST
+299,,China," 34,389",,"Shanghai,China",Packaged Foods,$42.84 B,Yihai Kerry Arawana Holdings Co. Ltd,300999
+300, Mr. Eiichiro  Ikeda,Japan," 37,245",,"Tokyo,Japan",Medical Instruments & Supplies,$42.88 B,HOYA Corp,7741
+301, Mr. Jon  Vander Ark,United States," 35,000"," JulyÂ 2, 1998","Phoenix,AZ,UnitedStates",Waste Management,$42.91 B,"Republic Services, Inc.",RSG
+302, Mr. Robert G. Scott,Australia," 122,000", 1914,"Perth,WA,Australia",Home Improvement Retail,$43.09 B,Wesfarmers Limited,WES
+303, Mr. Jun  Lei,China," 33,427",,"Beijing,China",Consumer Electronics,$43.10 B,Xiaomi Corp,1810
+304, Mr. Michael D. Hsu,United States," 45,000", 1872,"Dallas,TX,UnitedStates",Household & Personal Products,$43.21 B,Kimberly-Clark Corporation,KMB
+305, Mr. Steven J. Kean,United States," 10,529", 1997,"Houston,TX,UnitedStates",Oil & Gas Midstream,$43.38 B,"Kinder Morgan, Inc.",KMI
+306,,Japan," 77,398",,"Nagaokakyo,Japan",Electronic Components,$43.41 B,Murata Manufacturing Co. Ltd,6981
+307, Dr. Dennis Mark Bristow,Canada," 18,421", 1983,"Toronto,ON,Canada",Gold,$43.50 B,Barrick Gold Corporation,ABX
+308, Mr. Daniel Paul Amos,United States," 12,447"," NovemberÂ 17, 1955","Columbus,GA,UnitedStates",InsuranceâLife,$43.59 B,Aflac Incorporated,AFL
+309, Mr. David E. Simon,United States," 2,400", 1993,"Indianapolis,IN,UnitedStates",REITâRetail,$43.69 B,"Simon Property Group, Inc.",SPG
+310,,United Kingdom," 57,955",,"London,UnitedKingdom",Banks,$43.70 B,Lloyds Banking Group plc,LLOY
+311," Mr. Bradford Leon Banducci BComm (Acc), LLB, MBA",Australia," 210,067", 22Â September 1924,"BellaVista,NSW,Australia",Grocery Stores,$35.33 B,Woolworths Group Limited,WOW
+312, Dr. Gary S. Guthart Ph.D.,United States," 9,793", 1995,"Sunnyvale,CA,UnitedStates",Medical Instruments & Supplies,$35.37 B,"Intuitive Surgical, Inc.",ISRG
+313, Mr. Brian J. Cassin,Ireland," 20,000", 1996,"Dublin,Ireland",Consulting Services,$35.40 B,Experian plc,EXPN
+314," Mr. Michael J. Farrell BE, MBA, SM",United States," 7,970", 1989,"SanDiego,CA,UnitedStates",Medical Instruments & Supplies,$35.44 B,ResMed Inc.,RMD
+315, Mr. Peter Z. E. Vanacker,Finland," 4,719",,"Espoo,Finland",Oil & Gas Refining & Marketing,$35.57 B,Neste Oyj,NESTE
+316,,China," 12,614",,"Fenyang,China",BeveragesâWineries & Distilleries,$35.84 B,"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",600809
+317, Mr. Brian  Armstrong,United States," 3,730",,"Wilmington,DE,UnitedStates",SoftwareâApplication,$35.86 B,"Coinbase Global, Inc.",COIN
+318, Mr. William  Li,China," 7,763", NovemberÂ 2014,"Shanghai,China",Auto Manufacturers,$35.86 B,NIO Limited,NIO
+319, Mr. Matthew  Prince,United States," 2,440", JulyÂ 2009,"SanFrancisco,CA,UnitedStates",SoftwareâInfrastructure,$35.92 B,"Cloudflare, Inc.",NET
+320,,France," 98,105",,"Paris,France",Packaged Foods,$35.93 B,Danone SA,BN
+321, Mr. Kenneth Todd Lane,United States," 19,100", 2007,"Houston,TX,UnitedStates",Specialty Chemicals,$35.96 B,LyondellBasell Industries N.V.,LYB
+322, Mr. Worthing F. Jackman,United States," 19,998"," 1997 in Folsom, California",,Waste Management,$36.14 B,"Waste Connections, Inc.",WCN
+323, Dr. Kevin M. Stein Ph.D.,United States," 13,300", 1993,"Cleveland,OH,UnitedStates",Aerospace & Defense,$36.14 B,TransDigm Group Incorporated,TDG
+324, Dr. Ralph  Izzo Ph.D.,United States," 12,684", 1903,"Newark,NJ,UnitedStates",UtilitiesâDiversified,$36.28 B,Public Service Enterprise Group Incorporated,PEG
+325," Mr. Darren  Entwistle B.A., LL.D., M.B.A.",Canada," 90,800", 1990,"Vancouver,BC,Canada",Telecom Services,$36.37 B,TELUS Corporation,T
+326,,China," 59,159",,"Hohhot,China",Packaged Foods,$36.61 B,Inner Mongolia Yili Industrial Group Co. Ltd,600887
+327,,Canada," 16,000", 1995,"Toronto,ON,Canada",SoftwareâApplication,$36.67 B,Constellation Software Inc.,CSU
+328,,China," 61,686",,"Shanghai,China",Banks,$36.72 B,Shanghai Pudong Development Bank Co. Ltd,600000
+329, Mr. Tony  Xu,United States," 8,600", JanuaryÂ 2013,"SanFrancisco,CA,UnitedStates",Internet Content & Information,$36.74 B,"DoorDash, Inc.",DASH
+330, Dr. Torsten  Jeworrek,Germany," 39,281",,"Munich,Germany",InsuranceâReinsurance,$36.89 B,MÃ¼nchener RÃ¼ckversicherungs-Gesellschaft Aktiengesellschaft in MÃ¼nchen,MUV2
+331,,China, 57,,"Beijing,China",Railroads,$36.90 B,"Beijing-Shanghai High-Speed Railway Co.,Ltd.",601816
+332,,China," 28,903",,"Lianyungang,China",Drug ManufacturersâGeneral,$36.90 B,Jiangsu Hengrui Medicine Co. Ltd,600276
+333, Mr. Satoru  Komiya,Japan," 43,257",,"Tokyo,Japan",InsuranceâProperty & Casualty,$36.99 B,"Tokio Marine Holdings, Inc.",8766
+334, Mr. Thomas L. Williams,United States," 54,640"," 1917, Cleveland, Ohio, U.S.","Cleveland,OH,UnitedStates",Specialty Industrial Machinery,$37.05 B,Parker-Hannifin Corporation,PH
+335,,Japan," 20,619",,"Tokyo,Japan",Specialty Industrial Machinery,$37.08 B,SMC Corp,6273
+336, Mr. David S. Regnery,Ireland," 37,000", 1871,"Swords,Ireland",Specialty Industrial Machinery,$37.36 B,Trane Technologies plc,TT
+337, Mr. Greg C. Garland,United States," 14,000", 1927,"Houston,TX,UnitedStates",Oil & Gas Refining & Marketing,$37.51 B,Phillips 66,PSX
+338, Mr. Andrew  Wilson,United States," 11,000"," MayÂ 27, 1982","RedwoodCity,CA,UnitedStates",Electronic Gaming & Multimedia,$37.38 B,Electronic Arts Inc.,EA
+339,,Indonesia," 79,398",,"Jakarta,Indonesia",Banks,$37.51 B,PT Bank Rakyat Indonesia (Persero) Tbk,BYRA
+340, Dr. Joachim  Kreuzburg,France," 10,409",,"Aubagne,France",Medical Instruments & Supplies,$37.55 B,Sartorius Stedim Biotech SA,DIM
+341, Mr. Dominic  Blakemore,United Kingdom," 480,000", 1941,"Chertsey,UnitedKingdom",Restaurants,$37.73 B,Compass Group plc,CPG
+342," Mr. Sunao  Manabe D.V.M., Ph.D.",Japan," 16,033",,"Tokyo,Japan",Drug ManufacturersâGeneral,$37.79 B,Daiichi Sankyo Company Ltd,4568
+343, Mr. Aiman  Ezzat,France," 324,700",,"Paris,France",Information Technology Services,$37.82 B,Capgemini SE,CAP
+344, Mr. Jeffrey A. Stoops,United States," 1,596",,"BocaRaton,FL,UnitedStates",REITâSpecialty,$37.93 B,SBA Communications Corporation,SBAC
+345, Mr. Michael A. Witynski,United States," 61,886", 1986,"Chesapeake,VA,UnitedStates",Discount Stores,$38.00 B,"Dollar Tree, Inc.",DLTR
+346, Mr. Philippe  Brassac,France," 75,975",,"Montrouge,France",Banks,$38.01 B,CrÃ©dit Agricole SA,ACA
+347, Mr. Martin  Lundstedt M.Sc.,Sweden," 92,144",,"Gothenburg,Sweden",Farm & Heavy Construction Machinery,$38.13 B,AB Volvo,VOL4
+348, Mr. Yixiao  Cheng,China," 27,125",,"Beijing,China",Broadcasting,$38.15 B,Kuaishou Technology,1024
+349, Mr. Michael Saul Dell,United States," 133,000"," SeptemberÂ 7, 2016","RoundRock,TX,UnitedStates",Computer Hardware,$38.16 B,Dell Technologies Inc.,DELL
+350, Mr. Onur  Genc,Spain," 110,432",,"Bilbao,Spain",Banks,$38.25 B,"Banco Bilbao Vizcaya Argentaria, SA",BBVA
+351, Mr. Lorenzo  Simonelli,United States," 54,000", 1907,"Houston,TX,UnitedStates",Oil & Gas Equipment & Services,$38.39 B,Baker Hughes Company,BKR
+352,,Colombia," 18,000", 1921,"BogotÃÂ¡,Colombia",                                        Oil & Gas Integrated                                    ,$38.69 B,Ecopetrol SA,EC
+353, Mr. David J. Endicott,Switzerland," 24,389"," 1945, Fort Worth, Texas, United States","Geneva,Switzerland",Medical Instruments & Supplies,$38.90 B,Alcon Inc.,ALC
+354,,United Kingdom," 23,000", 1848,"London,UnitedKingdom",InsuranceâLife,$39.00 B,Prudential plc,PRU
+355, Ms. Ester  Baiget,Denmark," 6,184",,"Bagsvaerd,Denmark",Chemicals,$39.03 B,Novozymes A-S,NZYM.B
+356,,Switzerland," 16,842",,"Vernier,Switzerland",Specialty Chemicals,$39.29 B,Givaudan SA,GIVN
+357, Mr. Jamie J. Iannone,United States," 10,800"," SeptemberÂ 3, 1995","SanJose,CA,UnitedStates",Internet Retail,$39.34 B,eBay Inc.,EBAY
+358, Mr. Brian P. Hannasch,Canada," 98,000", 1980,"Laval,QC,Canada",Grocery Stores,$39.56 B,Alimentation Couche-Tard Inc.,ATD.B
+359, Mr. Christian  Sinding,Japan," 1,059",,"Tokyo,Japan",Asset Management,$39.71 B,EQT AB,6EQ
+360, Mr. John B. Hess,United States," 1,545"," DecemberÂ 11, 1919","NewYork,NY,UnitedStates",Oil & Gas E&P,$32.81 B,Hess Corporation,HES
+361, Mr. Stephane  Richard,France," 132,002", 1Â January 1988,"Paris,France",Telecom Services,$32.84 B,Orange SA,ORA
+362, Dr. Theodor  Weimer,Germany," 8,855",,"Eschborn,Germany",Financial Data & Stock Exchanges,$32.99 B,Deutsche BÃ¶rse AG,DB1
+363, Mr. Alexander J. Pourbaix,Canada," 5,938", 2009,"Calgary,AB,Canada",Oil & Gas Integrated,$33.02 B,Cenovus Energy Inc.,CVE
+364, Mr. Kevin P. Clark,Ireland," 155,000", 1994,"Dublin,Ireland",Auto Parts,$33.02 B,Aptiv PLC,APTV
+365, Mr. Blake D. Moret,United States," 24,500", 1903,"Milwaukee,WI,UnitedStates",Specialty Industrial Machinery,$33.05 B,"Rockwell Automation, Inc.",ROK
+366," Mr. Kevin David Strain C.A., CPA",Canada," 22,719",,"Toronto,ON,Canada",InsuranceâDiversified,$33.08 B,Sun Life Financial Inc.,SLF
+367, Ms. Judith F. Marks,United States," 70,000", 20Â September 1853,"Farmington,CT,UnitedStates",Specialty Industrial Machinery,$33.09 B,Otis Worldwide Corporation,OTIS
+368, Mr. Eric S. Yuan,United States," 6,787"," AprilÂ 21, 2011","SanJose,CA,UnitedStates",Telecom Services,$33.22 B,"Zoom Video Communications, Inc.",ZM
+369,,Hong Kong," 47,537",,"WanChai,HongKong",Real EstateâDevelopment,$33.26 B,China Resources Land Ltd,1109
+370," Mr. E. Borje Ekholm MBA, MSc",Sweden," 100,454"," Stockholm, Sweden 1876","Stockholm,Sweden",Communication Equipment,$33.29 B,Telefonaktiebolaget LM Ericsson,ERIC.A
+371, Mr. Franklin K. Clyburn Jr.,United States," 24,000", 1889Â ,"NewYork,NY,UnitedStates",Specialty Chemicals,$33.32 B,International Flavors & Fragrances Inc.,IFF
+372, Mr. Jiusheng  Zhu MBA,China," 140,565",,"Shenzhen,China",Real EstateâDevelopment,$33.35 B,China Vanke Co. Ltd,000002
+373, Mr. Frans W. H. Muller,Netherlands," 144,550",,"Zaandam,Netherlands",Grocery Stores,$33.43 B,Koninklijke Ahold Delhaize N.V.,AD
+374, Mr. Auttapol  Rerkpiboon,Thailand,,,"Bangkok,Thailand",Oil & Gas Integrated,$33.46 B,PTT PCL,PTT
+375, Mr. Masahiro  Kihara,Japan," 54,492", 2001,"Tokyo,Japan",Banks,$33.47 B,"Mizuho Financial Group, Inc.",8411
+376, Mr. Joseph Y. Bae,United States," 3,238", 1976,"NewYork,NY,UnitedStates",Asset Management,$33.49 B,KKR & Co. Inc.,KKR
+377,,China," 61,201",,"Guangzhou,China",Real EstateâDevelopment,$33.64 B,Poly Developments and Holdings Group Co. Ltd,600048
+378, Dr. Chak-pui  Kam,Hong Kong," 31,968",,"KowloonBay,HongKong",Railroads,$33.66 B,MTR Corp Ltd,0066
+379, Mr. Kenji  Yamaguchi,Japan," 8,256",,"Yamanashi,Japan",Specialty Industrial Machinery,$33.68 B,FANUC Corp,6954
+380, Dr. Detlef A. Trefzger,Switzerland," 73,516",,"Schindellegi,Switzerland",Integrated Freight & Logistics,$33.69 B,Kuehne + Nagel International AG,KNIN
+381, Mr. Roger Crosby Hochschild,United States," 16,700", 1985,"Riverwoods,IL,UnitedStates",Credit Services,$33.73 B,Discover Financial Services,DFS
+382, Mr. Donnie D. King,United States," 137,000", 1935,"Springdale,AR,UnitedStates",Farm Products,$33.73 B,"Tyson Foods, Inc.",TSN
+383, Mr. Jeffrey Allen Miller,United States," 40,000", 1919,"Houston,TX,UnitedStates",Oil & Gas Equipment & Services,$33.95 B,Halliburton Company,HAL
+384," Mr. Robert W. Sharps C.F.A., CPA, CFA, CPA",United States," 7,529", 1937,"Baltimore,MD,UnitedStates",Asset Management,$34.01 B,"T. Rowe Price Group, Inc.",TROW
+385, Mr. Chi-Mau  Sheih,Taiwan," 20,341"," JuneÂ 15, 1996","TaipeiCity,Taiwan",Telecom Services,$34.06 B,"Chunghwa Telecom Co., Ltd.",2412
+386, Mr. Mark J. Parrell,United States," 2,400", 1969,"Chicago,IL,UnitedStates",REITâResidential,$34.11 B,Equity Residential,EQR
+387,,China," 3,380",,"Chongqing,China",Biotechnology,$34.13 B,Chongqing Zhifei Biological Products Co. Ltd,300122
+388, Mr. J. Patrick Gallagher Jr.,United States," 39,000", 1927,"RollingMeadows,IL,UnitedStates",Insurance Brokers,$34.22 B,Arthur J. Gallagher & Co.,AJG
+389, Mr. Kentaro  Kawabe,Japan," 22,531",,"Tokyo,Japan",Internet Retail,$34.24 B,Z Holdings Corp,4689
+390, Mr. Scott G. Stephenson,United States," 9,367", 1971,"JerseyCity,NJ,UnitedStates",Consulting Services,$34.39 B,"Verisk Analytics, Inc.",VRSK
+391,,Australia, 418, 2002,"Sydney,NSW,Australia",Airports & Air Services,$34.40 B,Sydney Airport Limited,SYD
+392, Dr. Michael  Strugl M.B.A.,Austria," 2,870",,"Vienna,Austria",                                        UtilitiesâRenewable                                    ,$34.44 B,VERBUND AG,OEW
+393, Mr. Joseph M. Hogan,United States," 22,540", 1997,"Tempe,AZ,UnitedStates",Medical Devices,$34.49 B,"Align Technology, Inc.",ALGN
+394, Mr. Daniel L. Florness,United States," 18,370", 1967,"Winona,MN,UnitedStates",Industrial Distribution,$34.58 B,Fastenal Company,FAST
+395, Mr. James M. Cracchiolo,United States," 12,000", 1894,"Minneapolis,MN,UnitedStates",Asset Management,$34.64 B,"Ameriprise Financial, Inc.",AMP
+396, Mr. Aditya  Mittal,Luxembourg," 158,000",,"LuxembourgCity,Luxembourg",                                        Steel                                    ,$34.66 B,ArcelorMittal,MT
+397, Mr. Jan Eli B.  Craps,Hong Kong," 26,038",,"CausewayBay,HongKong",BeveragesâBrewers,$34.73 B,Budweiser Brewing Company APAC Ltd,1876
+398,,China," 57,062",,"Beijing,China",Banks,$34.84 B,China CITIC Bank Corp Ltd,601998
+399, Mr. Timothy P. Cawley,United States," 13,871", 1823 as the New York Gas Light Company,"NewYork,NY,UnitedStates",UtilitiesâRegulated Electric,$34.89 B,"Consolidated Edison, Inc.",ED
+400, Mr. Jack A. Fusco,United States," 1,550", 1996,"Houston,TX,UnitedStates",Oil & Gas Midstream,$34.92 B,"Cheniere Energy, Inc.",LNG
+401, Mr. Greg C. Gantt,United States," 23,663", 1934,"Thomasville,NC,UnitedStates",Trucking,$34.94 B,"Old Dominion Freight Line, Inc.",ODFL
+402,,Hong Kong," 38,500",,"WanChai,HongKong",Real EstateâDevelopment,$35.04 B,Sun Hung Kai Properties Ltd,0016
+403, Mr. David W. Gibbs,United States," 36,000"," October 6, 1997","Louisville,KY,UnitedStates",Restaurants,$35.12 B,"Yum! Brands, Inc.",YUM
+404, Mr. Bradley William Corson BS,Canada," 5,400", 1880,"Calgary,AB,Canada",Oil & Gas Integrated,$35.13 B,Imperial Oil Limited,IMO
+405, Mr. Benjamin W. Schall,United States," 2,839", 1978,"Arlington,VA,UnitedStates",REITâResidential,$35.19 B,"AvalonBay Communities, Inc.",AVB
+406, Mr. Philippe Roger Donnet,Italy," 74,621",,"Trieste,Italy",InsuranceâDiversified,$35.20 B,Assicurazioni Generali,G
+407," Mr. Ola  RollÃÂ©n B.Sc., B.Sc. (Econ.)",Sweden," 22,097",,"Stockholm,Sweden",Scientific & Technical Instruments,$35.21 B,Hexagon AB,HXG
+408," Mr. Andrew Richard Penn M.B.A., AMP, MBA, BEc, FCCA, HFAIPM",Australia," 26,728", 1Â July 1975,"Melbourne,VIC,Australia",Telecom Services,$35.24 B,Telstra Corporation Limited,TLS
+409, Dr. Carsten  Knobel,Germany," 52,450",,"DÃ¼sseldorf,Germany",Household & Personal Products,$30.53 B,Henkel AG & Co KGaA,HEN
+410, Mr. Parag  Agrawal,United States," 7,500"," MarchÂ 21, 2006","SanFrancisco,CA,UnitedStates",Internet Content & Information,$30.83 B,"Twitter, Inc.",TWTR
+411, Mr. Marshall S. McCrea III,United States," 12,558", 1995,"Dallas,TX,UnitedStates",Oil & Gas Midstream,$30.69 B,Energy Transfer LP,ET
+412," Mr. Galen G. Weston B.A., M.B.A, M.B.A.",Canada," 200,000"," Toronto, Ontario, Canada 1956","Brampton,ON,Canada",Grocery Stores,$30.70 B,Loblaw Companies Limited,L
+413, Mr. Peter P. Gassner,United States," 4,506", 2007,"Pleasanton,CA,UnitedStates",Health Information Services,$30.76 B,Veeva Systems Inc.,VEEV
+414, Mr. Pekka Ilmari Lundmark,Finland," 87,927", 12Â May 1865,"Espoo,Finland",Communication Equipment,$30.91 B,Nokia Corporation,NOKIA.SEK
+415,,China," 204,815",,"Shanghai,China",Auto Manufacturers,$30.93 B,SAIC Motor Corp Ltd,600104
+416, Mr. Ronald Philip O'Hanley,United States," 38,784", 1792,"Boston,MA,UnitedStates",Asset Management,$30.95 B,State Street Corporation,STT
+417, Ms. Catherine  MacGregor,France," 154,364",,"Courbevoie,France",UtilitiesâDiversified,$31.00 B,Engie SA,ENGI
+418,,China," 47,539",,"Wuhu,China",Building Materials,$31.02 B,Anhui Conch Cement Company Ltd,600585
+419, Mr. Paul  Brink,Canada, 38,,"Toronto,ON,Canada",Gold,$31.00 B,Franco-Nevada Corporation,FNV
+420,,China," 110,940",,"Shanghai,China",InsuranceâLife,$31.04 B,China Pacific Insurance,601601
+421, Mr. Jagtar Singh Chaudhry,United States," 3,153", 2007,"SanJose,CA,UnitedStates",SoftwareâInfrastructure,$31.03 B,"Zscaler, Inc.",ZS
+422, Dr. Leonhard  Birnbaum,Germany," 63,227",,"Essen,Germany",UtilitiesâDiversified,$31.12 B,E.ON SE,EOAA
+423, Mr. David A. Zapico,United States," 18,500", 1930,"Berwyn,PA,UnitedStates",Specialty Industrial Machinery,$31.15 B,"AMETEK, Inc.",AME
+424,,China," 2,526",,"Zhangzhou,China",Drug ManufacturersâGeneral,$31.17 B,Zhangzhou Pientzehuang Pharmaceutical. Ltd,600436
+425,,Taiwan,,,"Mailiao,Taiwan",Oil & Gas Refining & Marketing,$31.22 B,Formosa Petrochemical Corp,6505
+426, Mr. Dimitri  de Vreeze,Netherlands," 21,358",,"Heerlen,Netherlands",Specialty Chemicals,$31.25 B,Koninklijke DSM N.V.,DSM
+427, Mr. Urs  Schaeppi lic. oec. HSG,Switzerland," 18,905",,"Bern,Switzerland",Telecom Services,$31.26 B,Swisscom AG,SCMN
+428, Mr. Michel  Vounatsos,United States," 9,610", 1978,"Cambridge,MA,UnitedStates",Drug ManufacturersâGeneral,$31.35 B,Biogen Inc.,BIIB
+429, Mr. Hiroya  Masuda,Japan," 243,612",,"Tokyo,Japan",Banks,$31.41 B,Japan Post Holdings Co. Ltd,6178
+430,,Ireland," 77,400"," Cement Limited 1936, Roadstone Limited 1949 & merger to form Cement Roadstone Holdings 1970","Dublin,Ireland",Building Materials,$31.45 B,CRH plc,CRH
+431, Mr. Ruiwen  Ke,Hong Kong," 278,922",,"WanChai,HongKong",Telecom Services,$31.49 B,China Telecom Corp Ltd,0728
+432, Mr. Joseph R. Nolan Jr.,United States," 9,227", 1966,"Springfield,MA,UnitedStates",UtilitiesâRegulated Electric,$31.56 B,Eversource Energy,ES
+433, Mr. Hongmeng  Cheng,China," 196,159",,"Shenzhen,China",Communication Equipment,$31.58 B,Foxconn Industrial Internet Co. Ltd,601138
+434, Mr. Masamichi  Terabatake,Japan," 55,381",,"Tokyo,Japan",Tobacco,$31.59 B,"Japan Tobacco, Inc.",2914
+435, Mr. Wendell P. Weeks,United States," 61,200", 1851,"Corning,NY,UnitedStates",Electronic Components,$31.60 B,Corning Incorporated,GLW
+436, Mr. Gregory Leith Goodman,Australia, 941, 1989,"Rosebery,NSW,Australia",REITâDiversified,$31.64 B,Goodman Group,GMG
+437, Mr. Pierce H. Norton II,United States," 2,847", 1906,"Tulsa,OK,UnitedStates",Oil & Gas Midstream,$31.66 B,"ONEOK, Inc.",OKE
+438, Mr. Patrick K. Kaltenbach,United States," 15,600", 1945,"Columbus,OH,UnitedStates",Diagnostics & Research,$31.78 B,Mettler-Toledo International Inc.,MTD
+439,,Indonesia," 20,817", 23 October 1856,"Bandung,Indonesia",Telecom Services,$31.78 B,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,TLK
+440, Mr. Michael H. McGarry,United States," 49,300", 1883,"Pittsburgh,PA,UnitedStates",Specialty Chemicals,$31.89 B,"PPG Industries, Inc.",PPG
+441,,Japan," 12,451",,"Tokyo,Japan",Banks,$31.93 B,"JAPAN POST BANK Co.,Ltd.",7182
+442, Mr. Xuping  Chen,China," 44,065",,"Beijing,China",Real EstateâDevelopment,$31.98 B,Longfor Group Holdings Ltd,0960
+443,,China," 63,174",,"Baoding,China",Auto Manufacturers,$32.01 B,Great Wall Motor Co Ltd,601633
+444, Mr. R. Preston Feight,United States," 28,500", 1905,"Bellevue,WA,UnitedStates",Farm & Heavy Construction Machinery,$32.04 B,PACCAR Inc,PCAR
+445, Mr. Harry  Schmelzer Jr.,Brazil," 36,987",,"JaraguÃ¡doSul,SC,Brazil",Specialty Industrial Machinery,$32.05 B,WEG SA,WEGE3
+446, Mr. Lawson E. Whiting,United States," 4,700", 1870,"Louisville,KY,UnitedStates",BeveragesâWineries & Distilleries,$32.07 B,Brown-Forman Corporation,BF.B
+447, Mr. Coimbatore Sundararajan Venkatakrishnan,United Kingdom," 81,600", 17Â November 1690,"London,UnitedKingdom",Banks,$32.19 B,Barclays plc,BARC
+448, Mr. Shizhong  Ding,China," 52,000",,"Jinjiang,China",Leisure,$32.20 B,ANTA Sports Products Ltd,2020
+449, Mr. Kuan Moon  Yuen,Singapore," 22,914",,"Singapore,Singapore",Telecom Services,$32.23 B,Singapore Telecommunications Ltd,Z74
+450,,China," 99,299",,"Qingdao,China","Furnishings, Fixtures & Appliances",$32.31 B,Haier Smart Home Co Ltd,600690
+451, Mr. Tobias  Martinez Gimeno,Spain," 2,877",,"Madrid,Spain",Telecom Services,$32.32 B,"Cellnex Telecom, SA",CLNX
+452,,Hong Kong," 135,304",,"Central,HongKong",Conglomerates,$32.33 B,CITIC Ltd,0267
+453, Dr. Zhisheng  Chen,China," 9,864",,"Wuxi,China",Biotechnology,$32.41 B,WuXi Biologics,2269
+454, Mr. ZhiChao  Zhang,Hong Kong," 5,916",,"Central,HongKong",Real EstateâDevelopment,$32.49 B,China Overseas Land & Investment Ltd,0688
+455, Mr. Steven H. Collis,United States," 38,000", Merger between AmeriSource Health and Bergen Brunswig in 2001,"Chesterbrook,PA,UnitedStates",Medical Distribution,$32.51 B,AmerisourceBergen Corporation,ABC
+456, Mr. Scott J. Lauber,United States," 6,938", 1896,"Milwaukee,WI,UnitedStates",UtilitiesâRegulated Electric,$32.54 B,"WEC Energy Group, Inc.",WEC
+457, Ms. Barbara  Rentler,United States," 88,100", 1982,"Dublin,CA,UnitedStates",Apparel Retail,$32.71 B,"Ross Stores, Inc.",ROST
+458,,China," 18,248",,"Shenzhen,China",UtilitiesâIndependent Power Producers,$19.25 B,CGN Power Co. Ltd,003816
+459, Mr. Marco  AlverÃÂ ,Italy," 3,388",,"SanDonatoMilanese,MI,Italy",UtilitiesâRegulated Gas,$19.27 B,Snam S.p.A.,SRG
+460, Mr. Seetarama Swamy Kotagiri,Canada," 158,000", 1957,"Aurora,ON,Canada",Auto Parts,$19.36 B,Magna International Inc.,MG
+461, Dr. Jong-Kyoo  Yoon Ph.D.,South Korea," 25,428"," SeptemberÂ 29,Â 2008","Seoul,SouthKorea",Banks,$19.39 B,KB Financial Group Inc.,105560
+462, Mr. Carl  Cederschiold,Sweden," 10,793",,"Stockholm,Sweden",Banks,$19.42 B,Svenska Handelsbanken AB,SHB.A
+463, Mr. Robert Maurice Powell Jr.,Germany," 122,909",,"BadHomburg,Germany",Medical Care Facilities,$19.42 B,Fresenius Medical Care AG & Co. KGaA,FME
+464, Mr. Miguel Stilwell de Andrade,Portugal," 12,236",,"Lisbon,Portugal",                                        UtilitiesâDiversified                                    ,$19.43 B,EDP - Energias de Portugal SA,EDP
+465, Mr. Ignacio Madridejos Fernandez,Spain," 18,680",,"Madrid,Spain",Infrastructure Operations,$19.44 B,"Ferrovial, SA",FER
+466, Mr. Joseph Michael Zubretsky,United States," 14,000", 1980,"LongBeach,CA,UnitedStates",Healthcare Plans,$19.46 B,"Molina Healthcare, Inc.",MOH
+467, Mr. Michael  Stubblefield,United States," 13,500", 1904,"Radnor,PA,UnitedStates",Specialty Chemicals,$19.48 B,"Avantor, Inc.",AVTR
+468, Mr. Guanlin  Huang,Hong Kong," 94,400",,"Kowloon,HongKong",Textile Manufacturing,$19.50 B,Shenzhou International Group Holdings Ltd,2313
+469, Mr. Gilberto  Tomazoni,Brazil," 250,000",,"SaoPaulo,SP,Brazil",Packaged Foods,$19.53 B,JBS SA,JBSS3
+470, Mr. Christopher A. Cartwright,United States," 10,200"," FebruaryÂ 8, 1968","Chicago,IL,UnitedStates",Consulting Services,$19.53 B,TransUnion,TRU
+471, Mr. Marc  Grandisson,Bermuda," 5,200", 1995,"Pembroke,Bermuda",                                        InsuranceâDiversified                                    ,$19.54 B,Arch Capital Group Ltd.,ACGL
+472, Mr. Lee M. Tillman,United States," 1,531", 1887,"Houston,TX,UnitedStates",Oil & Gas E&P,$19.54 B,Marathon Oil Corporation,MRO
+473, Mr. Yi  Zhou,China," 7,375",,"Nanjing,China",Capital Markets,$19.55 B,"Huatai Securities Co., Ltd.",601688
+474,,China," 20,500",,"Beijing,China",Telecom Services,$19.55 B,China Tower Corp Ltd,0788
+475, Dr. F. Thomson Leighton,United States," 8,700", 1998,"Cambridge,MA,UnitedStates",SoftwareâInfrastructure,$19.59 B,"Akamai Technologies, Inc.",AKAM
+476, Mr. Yifang  Wu,China," 32,258",,"Shanghai,China",Drug ManufacturersâSpecialty & Generic,$19.63 B,Shanghai Fosun Pharmaceutical,600196
+477, Mr. Rene A. Lacerte,United States," 1,384", 2006,"PaloAlto,CA,UnitedStates",SoftwareâApplication,$19.65 B,"Bill.com Holdings, Inc.",BILL
+478,,Hong Kong," 10,059",,"Central,HongKong",Real Estate Services,$19.67 B,Henderson Land Development Co Ltd,0012
+479, Mr. George D. Schindler,Canada," 82,000", JuneÂ 1976,"Montreal,QC,Canada",Information Technology Services,$19.67 B,CGI Inc.,GIB.A
+480, Mr. Masahiko  Uotani,Japan," 39,035",,"Tokyo,Japan",Household & Personal Products,$19.69 B,Shiseido Co Ltd,4911
+481,,Bermuda,," JanuaryÂ 14, 2008","Hamilton,Bermuda",                                        UtilitiesâDiversified                                    ,$19.70 B,Brookfield Infrastructure Partners L.P.,BIP.UN
+482, Mr. Hidetoshi  Shibata,Japan," 18,612",,"Tokyo,Japan",Semiconductors,$19.73 B,Renesas Electronics Corp,6723
+483, Mr. Edmond  Scanlon,Ireland," 22,000",,"Tralee,Ireland",Packaged Foods,$19.74 B,Kerry Group plc,KRZ
+484, Mr. Stephen P. MacMillan,United States," 6,705", 1985,"Marlborough,MA,UnitedStates",Medical Instruments & Supplies,$19.75 B,"Hologic, Inc.",HOLX
+485, Mr. Michael  O'Leary,Ireland," 17,000", 28Â NovemberÂ 1984,"Swords,Ireland",Airlines,$19.78 B,Ryanair Holdings plc,RY4C
+486," Mr. Simpiwe Kenneth Tshabalala AMP, B.A., BA, HDip Tax, L.L.B., L.L.M., LLB, LLM",South Africa," 49,224",,"Johannesburg,SouthAfrica",Banks,$19.82 B,Standard Bank Group Ltd,SBK
+487,,United Kingdom," 22,000", 2000,"London,UnitedKingdom",InsuranceâDiversified,$19.82 B,Aviva plc,AV.
+488,,China," 133,294",,"Beijing,China",Engineering & Construction,$19.83 B,China Communications Construction Co Ltd,601800
+489, Mr. Xiaohai  Hou,Hong Kong," 25,000",,"WanChai,HongKong",BeveragesâBrewers,$19.84 B,China Resources Beer (Holdings) Company Ltd,0291
+490, Mr. Mark E. Jagiela,United States," 5,900", 1960,"NorthReading,MA,UnitedStates",Semiconductor Equipment & Materials,$19.85 B,"Teradyne, Inc.",TER
+491, Mr. Yoshihiro  Hasebe,Japan," 33,409",,"Tokyo,Japan",Household & Personal Products,$19.85 B,Kao Corp,4452
+492, Mr. Cristiano Cardoso Teixeira,Brazil,,,"SaoPaulo,SP,Brazil",Paper & Paper Products,$19.86 B,Klabin SA,KLBN11
+493, Mr. Chad R. Richison,United States," 5,385", 1998,"OklahomaCity,OK,UnitedStates",SoftwareâApplication,$19.87 B,"Paycom Software, Inc.",PAYC
+494, Mr. Sunil  Duggal,India," 17,047", 22Â April 2003 as Angelchange Limited ,"Mumbai,India",Other Industrial Metals & Mining,$19.93 B,Vedanta Limited,VEDL
+495,,China," 18,645",,"Changzhou,China",Solar,$19.94 B,Trina Solar Co. Ltd,688599
+496, Mr. Lee  Olesky,United States," 1,046", 1998,"NewYork,NY,UnitedStates",Capital Markets,$19.98 B,Tradeweb Markets Inc.,TW
+497, Mr. Gary A. Shiffman,United States," 4,948", 1975,"Southfield,MI,UnitedStates",REITâResidential,$19.98 B,"Sun Communities, Inc.",SUI
+498, Mr. Jean-Jacques  Henchoz,Germany," 3,346",,"Hanover,Germany",InsuranceâReinsurance,$20.02 B,Hannover RÃ¼ck SE,HNRB
+499, Dr. Prahlad R. Singh Ph.D.,United States," 16,700", 1937,"Waltham,MA,UnitedStates",Diagnostics & Research,$20.05 B,"PerkinElmer, Inc.",PKI
+500, Ms. Hilde Merete Aasheim,Norway," 31,264",,"Oslo,Norway",                                        Aluminum                                    ,$20.10 B,Norsk Hydro ASA,NHY
+501, Mr. Daniel Joseph Houston,United States," 18,600", 1879,"DesMoines,IA,UnitedStates",InsuranceâDiversified,$20.13 B,"Principal Financial Group, Inc.",PFG
+502, Mr. Stefan  Bomhard,United Kingdom," 30,300", 1901,"Bristol,UnitedKingdom",Tobacco,$20.14 B,Imperial Brands plc,IMB
+503,,Taiwan," 21,159",,"TaipeiCity,Taiwan",InsuranceâLife,$20.15 B,CTBC Financial Holding Co. Ltd,2891
+504,,Hong Kong," 288,729",,"Kowloon,HongKong",Engineering & Construction,$20.15 B,China Railway Group Ltd,0390
+505, Mr. Sigve  Brekke,Norway," 18,000",,"Fornebu,Norway",                                        Telecom Services                                    ,$20.15 B,Telenor ASA,TEL
+506, Dr. Patrick  Frost,Switzerland," 8,623",,"Zurich,Switzerland",InsuranceâDiversified,$20.16 B,Swiss Life Holding AG,SLHN
+507,,China," 193,494",,"Beijing,China",InsuranceâProperty & Casualty,$27.93 B,The People's Insurance Company (Group) of China Ltd,601319
+508,,Hong Kong," 172,907",,"Central,HongKong",Conglomerates,$27.94 B,CK Hutchison Holdings Ltd,0001
+509,,Thailand,,,"Bangkok,Thailand",Airports & Air Services,$28.00 B,Airports of Thailand Public Company Ltd,AOT
+510, Ms. Jennifer C. Witz,United States," 5,590"," JulyÂ 29, 2008","NewYork,NY,UnitedStates",Broadcasting,$28.05 B,Sirius XM Holdings Inc.,SIRI
+511, Mr. George  Wills,Germany, 888,,"Stuttgart,Germany",Auto Manufacturers,$28.15 B,Porsche Automobil Holding SE,PAHA
+512, Dr. Hai Jun  Zhao,China," 17,354",,"Shanghai,China",Semiconductors,$28.24 B,Semiconductor Manufacturing International Corp,688981
+513, Mr. Ken  Murphy,United Kingdom," 360,000"," 1919Â (1919) - Hackney, London, England","WelwynGardenCity,UnitedKingdom",Grocery Stores,$28.11 B,Tesco plc,TSCO
+514, Mr. Mark W. Begor,United States," 12,700", 1899,"Atlanta,GA,UnitedStates",Consulting Services,$28.24 B,Equifax Inc.,EFX
+515, Mr. Brendan  Horgan,United Kingdom," 21,033", 1947,"London,UnitedKingdom",Rental & Leasing Services,$28.28 B,Ashtead Group plc,AHT
+516, Dr. David Todd Feinberg MBA,United States," 25,150", 1979,"NorthKansasCity,MO,UnitedStates",Health Information Services,$28.31 B,Cerner Corporation,CERN
+517, Mr. James P. Snee,United States," 20,000", 1891,"Austin,MN,UnitedStates",Packaged Foods,$28.52 B,Hormel Foods Corporation,HRL
+518," Mr. Robert Anthony Wheals C.A., B.Com., BCom, CA, GAICD, MAICD",Australia," 2,000",,"Sydney,NSW,Australia",UtilitiesâRegulated Gas,$28.55 B,APA Group,APA
+519, Mr. Francisco Miguel  ReynÃÂ©s Massanet,Spain," 7,231",,"HumanesdeMadrid,Spain",UtilitiesâRegulated Gas,$28.71 B,"Naturgy Energy Group, SA",NTGY
+520," Mr. Joseph  Galli Jr., BSBA, M.B.A., MBA.",Hong Kong," 51,426",,"KwaiChung,HongKong",Tools & Accessories,$28.75 B,Techtronic Industries Company Ltd,0669
+521, Mr. James M. Foote,United States," 20,900"," NovemberÂ 1, 1980","Jacksonville,FL,UnitedStates",Railroads,$28.90 B,CSX Corporation,CSX
+522, Mr. Gregory W. Becker,United States," 6,567", 1983,"SantaClara,CA,UnitedStates",Banks,$28.91 B,SVB Financial Group,SIVB
+523,,China," 29,379",,"Shanghai,China",Marine Shipping,$28.93 B,COSCO SHIPPING Holdings Co Ltd,601919
+524, Dr. Markus  Krebber,Germany," 18,902",,"Essen,Germany",UtilitiesâDiversified,$29.06 B,RWE AG,RWE
+525, Mr. Robert Glen Goldstein,United States," 44,500"," November 17, 1988","LasVegas,NV,UnitedStates",Resorts & Casinos,$29.07 B,Las Vegas Sands Corp.,LVS
+526,,China," 25,549",,"Chengdu,China",Farm Products,$29.10 B,Tongwei Co. Ltd,600438
+527," Mr. Anthony  Staffieri F.C.A., FCA, FCPA",Canada," 23,000",,"Toronto,ON,Canada",Telecom Services,$29.13 B,Rogers Communications Inc.,RCI.B
+528, Mr. Jean-Bernard  Levy,France," 163,423",,"Paris,France",UtilitiesâDiversified,$29.17 B,ElectricitÃ© de France SA,EDF
+529, Mr. Luis  Maroto Camino,Spain," 15,936",,"Madrid,Spain",Information Technology Services,$29.19 B,"Amadeus IT Group, SA",AMS
+530, Mr. Kenji  Yasukawa Ph.D.,Japan," 15,455",,"Tokyo,Japan",Drug ManufacturersâGeneral,$29.22 B,"Astellas Pharma, Inc.",4503
+531, Mr. Ronald S. Nersesian,United States," 14,300", 2014,"SantaRosa,CA,UnitedStates",Scientific & Technical Instruments,$29.40 B,"Keysight Technologies, Inc.",KEYS
+532, Mr. John A. Hayes,United States," 24,300", 1880,"Westminster,CA,UnitedStates",Packaging & Containers,$29.40 B,Ball Corporation,BLL
+533,,Saudi Arabia,,,"Riyadh,SaudiArabia",UtilitiesâRegulated Electric,$29.42 B,Saudi Electricity Company,5110
+534," Mr. Devin W. Stockfish Esq., J.D.",United States," 9,214", 1900,"Seattle,WA,UnitedStates",REITâSpecialty,$29.42 B,Weyerhaeuser Company,WY
+535, Ms. Adena T. Friedman,United States," 5,814"," FebruaryÂ 8, 1971","NewYork,NY,UnitedStates",Financial Data & Stock Exchanges,$29.52 B,"Nasdaq, Inc.",NDAQ
+536, Mr. Daniel G. Ek,Luxembourg," 6,617", 23Â April 2006,"Luxembourg,Luxembourg",                                        Internet Content & Information                                    ,$29.56 B,Spotify Technology SA,SPOT
+537, Mr. A. Jayson Adair,United States," 8,600"," Vallejo, California 1982","Dallas,TX,UnitedStates",Specialty Business Services,$29.58 B,"Copart, Inc.",CPRT
+538,,Taiwan," 57,347",,"Taipei,Taiwan",InsuranceâLife,$29.58 B,Cathay Financial Holding Co. Ltd,2882
+539, Mr. Andrea  Orcel,Italy," 80,879",,"Milan,MI,Italy",Banks,$29.65 B,UniCredit S.p.A.,UCG
+540, Mr. Johan  Thijs,Belgium," 33,916",,"Brussels,Belgium",Banks,$29.81 B,KBC Group NV,KDB
+541, Ms. Sharmistha  Dubey,United States," 2,500", 1986,"Dallas,TX,UnitedStates",Internet Content & Information,$29.82 B,"Match Group, Inc.",MTCH
+542, Mr. Carl A. Hess,United Kingdom," 46,000", 5Â January 2016,"London,UnitedKingdom",Insurance Brokers,$29.85 B,Willis Towers Watson plc,WLTW
+543, Mr. Mohammed Abdullah Al-Yahya,Saudi Arabia," 5,660",,"Riyadh,SaudiArabia",Banks,$29.86 B,Riyad Bank,1010
+544, Mr. Henrik  Andersen,Denmark," 29,427",,"Aarhus,Denmark",Specialty Industrial Machinery,$29.93 B,Vestas Wind Systems A-S,VWS
+545, Mr. N. Thomas Linebarger,United States," 59,900", 1919,"Columbus,IN,UnitedStates",Specialty Industrial Machinery,$29.94 B,Cummins Inc.,CMI
+546, Mr. Nico  Delvaux,Sweden," 51,000",,"Stockholm,Sweden",Security & Protection Services,$30.05 B,ASSA ABLOY AB,ALZ
+547, Mr. Peter M. Moglia,United States, 559, OctoberÂ 1994,"Pasadena,CA,UnitedStates",REITâOffice,$30.10 B,"Alexandria Real Estate Equities, Inc.",ARE
+548, Mr. Benoit  Bazin,France," 167,816",,"Courbevoie,France",Building Products & Equipment,$30.16 B,Compagnie de Saint-Gobain SA,SGO
+549, Mr. Eric M. Green,United States," 10,065", 1923,"Exton,PA,UnitedStates",Medical Instruments & Supplies,$30.23 B,"West Pharmaceutical Services, Inc.",WST
+550, Mr. Takahito  Tokita,Japan," 126,371",,"Tokyo,Japan",Information Technology Services,$30.28 B,Fujitsu Ltd,6702
+551, Ms. M. Susan Hardwick,United States," 6,400", 1886,"Camden,NJ,UnitedStates",UtilitiesâRegulated Water,$30.43 B,"American Water Works Company, Inc.",AWK
+552, Mr. Robert E. Sulentic,United States," 105,000"," August 27, 1906","LosAngeles,CA,UnitedStates",Real Estate Services,$30.45 B,"CBRE Group, Inc.",CBRE
+553, Mr. Gregory D. Carmichael,United States," 19,112"," JuneÂ 17, 1858","Cincinnati,OH,UnitedStates",Banks,$30.46 B,Fifth Third Bancorp,FITB
+554,,United Kingdom," 89,600", 30Â November 1999,"London,UnitedKingdom",Aerospace & Defense,$30.51 B,BAE Systems plc,BA.
+555, Mr. Kevin  Murphy,United Kingdom," 31,000",,"Wokingham,UnitedKingdom",Industrial Distribution,$30.52 B,Ferguson plc,FERG
+556, Mr. Yozo  Shimano,Japan," 12,244",,"Sakai,Japan",Leisure,$21.51 B,"Shimano, Inc.",7309
+557, Mr. Thomas E. Jorden,United States, 936," July 26, 2016","Bristol,TN,UnitedStates",Thermal Coal,$21.57 B,"Contura Energy, Inc.",CTRA
+558, Mr. Gilson  Finkelsztain,Brazil,,,"SaoPaulo,SP,Brazil",Financial Data & Stock Exchanges,$21.58 B,"B3 S.A. - Brasil, Bolsa, Balcao",B3SA3
+559, Dr. Robert  Mehrabian,United States," 14,500", 1960,"ThousandOaks,CA,UnitedStates",Scientific & Technical Instruments,$21.65 B,Teledyne Technologies Incorporated,TDY
+560, Mr. Christopher Marrott Gorman,United States," 17,654", 1825,"Cleveland,OH,UnitedStates",Banks,$21.71 B,KeyCorp,KEY
+561, Mr. Rene F. Jones CPA,United States," 17,115"," AugustÂ 29, 1856","Buffalo,NY,UnitedStates",Banks,$21.74 B,M&T Bank Corporation,MTB
+562,,Japan," 64,823",,"Tokyo,Japan",InsuranceâLife,$21.76 B,"Dai-ichi Life Holdings, Inc.",8750
+563, Mr. David C. Kimbell,United States," 16,000", 1990,"Bolingbrook,IL,UnitedStates",Specialty Retail,$21.82 B,"Ulta Beauty, Inc.",ULTA
+564, Mr. Anders  Gustafsson,United States," 9,800", 1969,"Lincolnshire,IL,UnitedStates",Communication Equipment,$21.87 B,Zebra Technologies Corporation,ZBRA
+565, Mr. Michael R. Hsing,United States," 2,773", 1997,"Kirkland,WA,UnitedStates",Semiconductors,$21.87 B,"Monolithic Power Systems, Inc.",MPWR
+566,,Canada," 5,700",,"Toronto,ON,Canada",Restaurants,$21.89 B,Restaurant Brands International Limited Partnership,QSP.UN
+567, Mr. James B. Connor,United States, 340, 1972,"Indianapolis,IN,UnitedStates",REITâIndustrial,$21.93 B,Duke Realty Corporation,DRE
+568, Mr. Stephen D. Steinour,United States," 18,442", 1866,"Columbus,OH,UnitedStates",Banks,$21.93 B,Huntington Bancshares Incorporated,HBAN
+569, Mr. Scott Wellington Wine,United Kingdom," 71,895", 2012,"London,UnitedKingdom",Farm & Heavy Construction Machinery,$21.93 B,CNH Industrial N.V.,CNHI
+570, Mr. Gerteric  Lindquist,Sweden," 20,400",,"Markaryd,Sweden",Building Products & Equipment,$21.93 B,NIBE Industrier AB,NJB
+571, Mr. W. Anthony Will,United States," 2,970", 1946Â ,"Deerfield,IL,UnitedStates",Agricultural Inputs,$21.95 B,"CF Industries Holdings, Inc.",CF
+572," Mr. Steven Justus Johnston C.F.A., CERA, CFA, FCAS, MAAA",United States," 5,166"," Cincinnati, Ohio, U.S 1950","Fairfield,OH,UnitedStates",InsuranceâProperty & Casualty,$21.99 B,Cincinnati Financial Corporation,CINF
+573,,Japan," 66,947",,"Kariya,Japan",Auto Manufacturers,$21.99 B,Toyota Industries Corp,6201
+574, Dr. Christian  Buhl,Switzerland," 11,149",,"Rapperswil-Jona,Switzerland",Building Products & Equipment,$22.03 B,Geberit AG,GEBN
+575, Mr. Meisong  Lai,China," 22,536",,"Shanghai,China",Integrated Freight & Logistics,$22.05 B,ZTO Express (Cayman) Inc.,ZTO
+576, Mr. Takahisa  Takahara,Japan," 16,665",,"Tokyo,Japan",Household & Personal Products,$22.08 B,Unicharm Corp,8113
+577, Mr. Thiago  Maffra,Brazil," 3,000", May 2001,"SÃÂ£oPaulo,SP,Brazil",Capital Markets,$22.16 B,XP Inc.,XPBR31
+578, Mr. Liam K. Griffin,United States," 11,000", 2002,"Irvine,CA,UnitedStates",Semiconductors,$22.17 B,"Skyworks Solutions, Inc.",SWKS
+579,,China," 164,177",,"Beijing,China",Railroads,$22.21 B,CRRC Corp Ltd,601766
+580," Mr. William B. Berry B.Sc., M.Sc.",United States," 1,254",,"OklahomaCity,OK,UnitedStates",Oil & Gas E&P,$22.25 B,"Continental Resources, Inc.",CLR
+581, Mr. Stephen D. Steinour,United States," 18,442",,"Columbus,OH,UnitedStates",Banks,$22.26 B,"Huntington Bancshares, Inc.",HU3
+582, Mr. Alfonso  Garza Garza,Mexico," 320,808", 1890,"Monterrey,NL,Mexico",BeveragesâBrewers,$22.28 B,"Fomento EconÃ³mico Mexicano, S.A.B. de C.V.",FEMSAUB
+583, Mr. Daniel  Julien,France," 420,000",,"Paris,France",Consulting Services,$22.30 B,Teleperformance SE,TEP
+584, Mr. Norman D. Schwartz,United States," 7,900", 1952,"Hercules,CA,UnitedStates",Medical Devices,$22.32 B,"Bio-Rad Laboratories, Inc.",BIO
+585,,Sweden," 155,000",,"Stockholm,Sweden",Apparel Manufacturing,$22.33 B,Hennes & Mauritz AB,HM.B
+586, Mr. Fausto  de Andrade Ribeiro,Brazil," 84,597",,"Brasilia,DF,Brazil",Banks,$22.36 B,Banco do Brasil SA,BBAS3
+587, Mr. Thierry Yves Henri  Bollore,India," 75,278", 1945,"Mumbai,India",Auto Manufacturers,$22.38 B,Tata Motors Limited,TTM
+588, Mr. Masayuki  Hyodo,Japan," 74,920",,"Tokyo,Japan",Conglomerates,$22.42 B,Sumitomo Corp,8053
+589,,China," 14,506",,"Beijing,China",UtilitiesâIndependent Power Producers,$22.42 B,China National Nuclear Power Co. Ltd,601985
+590, Mr. Todd  McKinnon,United States," 5,030", JanuaryÂ 2009,"SanFrancisco,CA,UnitedStates",SoftwareâInfrastructure,$22.45 B,"Okta, Inc.",OKTA
+591, Ms. Magdalena  Martullo-Blocher,Switzerland," 2,646",,"Domat/Ems,Switzerland",Specialty Chemicals,$22.48 B,EMS-CHEMIE HOLDING AG,EMSN
+592, Mr. Michael J. Schall CPA,United States," 1,739", 1971,"SanMateo,CA,UnitedStates",REITâResidential,$22.51 B,"Essex Property Trust, Inc.",ESS
+593, Mr. Damian Paul Gammell,United Kingdom," 22,000",,"Uxbridge,UnitedKingdom",BeveragesâNon-Alcoholic,$22.53 B,Coca-Cola Europacific Partners plc,CCEP
+594,,Hong Kong," 55,302",,"NorthPoint,HongKong",UtilitiesâRegulated Gas,$22.54 B,The Hong Kong and China Gas Company Ltd,0003
+595, Mr. Hiroyuki  Ogawa,Japan," 61,564",,"Tokyo,Japan",Farm & Heavy Construction Machinery,$22.56 B,Komatsu Ltd,6301
+596, Mr. Jose Marcos  Ramirez Miguel,Mexico,,,"SantaFe,DF,Mexico",Banks,$22.60 B,Grupo Financiero Banorte SAB de CV,GFNORTEO
+597,,China," 171,508",,"Beijing,China",InsuranceâProperty & Casualty,$22.62 B,PICC Property and Casualty Company Ltd,2328
+598, Mr. Steven A. Cahillane,United States," 31,000"," FebruaryÂ 19, 1906","BattleCreek,MI,UnitedStates",Packaged Foods,$22.63 B,Kellogg Company,K
+599, Mr. Antonio Fabio Neri,United States," 60,400"," NovemberÂ 1, 2015","Houston,TX,UnitedStates",Communication Equipment,$22.65 B,Hewlett Packard Enterprise Company,HPE
+600, Mr. Jun  Yan,China," 14,068",,"Shanghai,China",Marine Shipping,$22.65 B,Shanghai International Port,600018
+601, Mr. Jean-Christophe  Tellier,Belgium," 8,600",,"Brussels,Belgium",Biotechnology,$22.71 B,UCB SA,UCB
+602, Mr. Yuki  Kusumi,Japan," 240,786",,"Kadoma,Japan",Consumer Electronics,$22.73 B,Panasonic Corp,6752
+603, Dr. Gilles G. Martin Ph.D.,Luxembourg," 57,992",,"LuxembourgCity,Luxembourg",                                        Diagnostics & Research                                    ,$22.75 B,Eurofins Scientific SE,ERF
+604,,Chile," 6,081"," June 11th, 1968","Santiago,Chile",Chemicals,$22.77 B,Sociedad QuÃ­mica y Minera de Chile SA,SQM
+605, Ms. Helena  Hedblom M.Sc.,Sweden," 15,529",,"Nacka,Sweden",Farm & Heavy Construction Machinery,$24.08 B,Epiroc AB,3AD2
+606, Mr. James Thomas Hill,United States," 11,912", 1909 as Birmingham Slag Company,"Birmingham,AL,UnitedStates",Building Materials,$24.08 B,Vulcan Materials Company,VMC
+607, Mr. Philip Eric Rene Jansen,United Kingdom," 99,700", 18Â June 1846,"London,UnitedKingdom",Telecom Services,$24.09 B,BT Group plc,BT.A
+608, Mr. Teiichi  Goto,Japan," 73,275",,"Tokyo,Japan",Business Equipment & Supplies,$24.12 B,FUJIFILM Holdings Corp,4901
+609, Mr. Stephan  Sturm,Germany," 316,078",,"BadHomburgvorderHohe,Germany",Medical Care Facilities,$24.12 B,Fresenius SE & Co KGaA,FRE
+610, Mr. H. Eric Bolton Jr.,United States," 2,429", 1977,"Germantown,TN,UnitedStates",REITâResidential,$24.18 B,"Mid-America Apartment Communities, Inc.",MAA
+611, Mr. Phanich  Sodsee,United States," 1,664"," Vancouver, British Columbia, Canada 2009","SanFrancisco,CA,UnitedStates",SoftwareâApplication,$24.30 B,"Slack Technologies, Inc.",WORK
+612, Mr. Michael G. O'Grady,United States," 21,100", 1889,"Chicago,IL,UnitedStates",Asset Management,$24.42 B,Northern Trust Corporation,NTRS
+613, Mr. Xiaopeng  He,China," 5,084", 2014,"Guangzhou,China",Auto Manufacturers,$24.44 B,XPeng Inc.,XPEV
+614, Mr. Maurici  Lucena Betriu,Spain," 8,162",,"Madrid,Spain",Airports & Air Services,$24.45 B,"Aena S.M.E., SA",AENA
+615,,Taiwan,,,"Taipei,Taiwan",Marine Shipping,$24.49 B,Evergreen Marine Corp,2603
+616," Ms. Marguerite Eileen O'Neill B.Sc., M.Sc.",Australia," 3,684", 26Â JulyÂ 1954,"Perth,WA,Australia",Oil & Gas E&P,$24.60 B,Woodside Petroleum Ltd,WPL
+617, Mr. Michael  Rapino,United States," 10,200"," JanuaryÂ 25, 2010","BeverlyHills,CA,UnitedStates",Entertainment,$24.61 B,"Live Nation Entertainment, Inc.",LYV
+618,,China," 59,262",,"Beijing,China",Banks,$24.65 B,China Minsheng Banking Corp Ltd,600016
+619, Mr. Martin J. Lyons Jr.,United States," 9,116", 1997,"St.Louis,MO,UnitedStates",UtilitiesâRegulated Electric,$24.79 B,Ameren Corporation,AEE
+620, Mr. Matthew Thomas Farrell,United States," 5,100"," 1847: as John Dwight and Company 1896: as Church & Dwight, Co.","Ewing,NJ,UnitedStates",Household & Personal Products,$24.81 B,"Church & Dwight Co., Inc.",CHD
+621, Mr. D. James Bidzos,United States, 902," AprilÂ 12, 1995","Reston,VA,UnitedStates",SoftwareâInfrastructure,$24.81 B,"VeriSign, Inc.",VRSN
+622, Mr. Travis D. Stice,United States, 870,,"Midland,TX,UnitedStates",Oil & Gas E&P,$24.84 B,"Diamondback Energy, Inc.",FANG
+623, Dr. Clay B. Siegall,United States," 2,675", 1997,"Bothell,WA,UnitedStates",Biotechnology,$24.87 B,Seagen Inc.,SGEN
+624, Dr. Alexander C. Karp,United States," 2,920", 2003,"Denver,CO,UnitedStates",SoftwareâInfrastructure,$24.91 B,Palantir Technologies Inc.,PLTR
+625, Mr. Edward H. Bastian,United States," 83,000"," MarchÂ 2, 1925","Atlanta,GA,UnitedStates",Airlines,$24.92 B,"Delta Air Lines, Inc.",DAL
+626, Mr. Miguel Stilwell de Andrade,Spain," 2,114",,"Madrid,Spain",UtilitiesâRenewable,$25.01 B,"EDP RenovÃ¡veis, SA",EDPR
+627, Mr. Eugene A. Hall,United States," 16,600", 1979,"Stamford,CT,UnitedStates",Information Technology Services,$25.03 B,"Gartner, Inc.",IT
+628, Ms. Christine A. Leahy,United States," 13,900", 1984,"Lincolnshire,IL,UnitedStates",Information Technology Services,$25.04 B,CDW Corporation,CDW
+629, Mr. James C. O'Rourke P.Eng.,United States," 12,525"," OctoberÂ 22, 2004","Tampa,FL,UnitedStates",Agricultural Inputs,$25.09 B,The Mosaic Company,MOS
+630, Mr. Johan  Torgeby,Sweden," 15,500",,"Stockholm,Sweden",Banks,$25.15 B,Skandinaviska Enskilda Banken AB,SEB.A
+631,,Hong Kong," 17,088",,"Central,HongKong",Resorts & Casinos,$25.17 B,Galaxy Entertainment Group Ltd,0027
+632, Mr. BenoÃÂ®t  Coquart,France," 38,207",,"Limoges,France",Specialty Industrial Machinery,$25.19 B,Legrand SA,LR
+633, Mr. Badrinarayanan  Kothandaraman,United States," 2,260", 2006,"Fremont,CA,UnitedStates",Solar,$25.20 B,"Enphase Energy, Inc.",ENPH
+634,,Hong Kong," 54,000",,"Central,HongKong",Real EstateâDevelopment,$25.21 B,CK Asset Holdings Limited,1113
+635, Mr. Jerry Kent Masters Jr.,United States," 6,000", 1994,"Charlotte,NC,UnitedStates",Specialty Chemicals,$25.25 B,Albemarle Corporation,ALB
+636, Mr. Steven E. Strah,United States," 12,395"," NovemberÂ 7, 1997","Akron,OH,UnitedStates",UtilitiesâDiversified,$25.26 B,FirstEnergy Corp.,FE
+637,,China," 63,869",,"Zoucheng,China",Thermal Coal,$25.26 B,Yanzhou Coal Mining Company Ltd,600188
+638, Mr. Richard Kendall  Lancaster BE,Hong Kong," 7,061",,"HungHom,HongKong",UtilitiesâRegulated Electric,$25.29 B,CLP Holdings Ltd,0002
+639, Mr. Guillaume  Daniellot,Switzerland," 8,692",,"Basel,Switzerland",Medical Instruments & Supplies,$25.31 B,Straumann Holding AG,STMN
+640, Mr. Jonathan M. Jaffe,United States," 10,753", 1954,"Miami,FL,UnitedStates",Residential Construction,$25.34 B,Lennar Corporation,LEN
+641,,Taiwan,,,"Kaohsiung,Taiwan",Specialty Chemicals,$25.41 B,Nan Ya Plastics Corp,1303
+642, Mr. Matthew J. Flannery,United States," 20,400"," AugustÂ 14, 1997","Stamford,CT,UnitedStates",Rental & Leasing Services,$25.46 B,"United Rentals, Inc.",URI
+643, Mr. Amitabh  Chaudhry,India," 86,266",,"Mumbai,India",Banks,$25.54 B,Axis Bank Ltd,AXISBANK
+644, Mr. Mario Roberto Opice Leao,Brazil," 48,834", 1982,"SaoPaulo,SP,Brazil",Banks,$25.59 B,Banco Santander (Brasil) SA,SANB11
+645, Mr. Dev C. Ittycheria,United States," 2,539", 2007,"NewYork,NY,UnitedStates",SoftwareâInfrastructure,$25.73 B,"MongoDB, Inc.",MDB
+646, Mr. Kei  Uruma,Japan," 145,653"," JanuaryÂ 15, 1921","Tokyo,Japan",Electrical Equipment & Parts,$25.61 B,Mitsubishi Electric Corporation,6503
+647, Mr. Adam H. Schechter,United States," 67,950"," SeptemberÂ 5, 1978","Burlington,NC,UnitedStates",Diagnostics & Research,$25.75 B,Laboratory Corporation of America Holdings,LH
+648, Mr. Christopher Jerome Swift CPA,United States," 18,100", 1810,"Hartford,CT,UnitedStates",InsuranceâDiversified,$25.76 B,"The Hartford Financial Services Group, Inc.",HIG
+649, Dr. Frank  Mastiaux,Germany," 24,519",,"Karlsruhe,Germany",UtilitiesâDiversified,$25.82 B,EnBW Energie Baden-Wuerttemberg AG,EBK
+650, Mr. Xiang  Li,China," 11,901", 2015,"Beijing,China",Auto Manufacturers,$25.83 B,Li Auto Inc.,LI
+651,,Japan," 30,153",,"Nagoya,Japan",Railroads,$26.00 B,Central Japan Railway Co,9022
+652, Mr. Jose MarÃÂ­a  Alvarez-Pallete Lopez,Spain," 104,150", 19Â April 1924,"Madrid,Spain",Telecom Services,$26.04 B,"TelefÃ³nica, SA",TEF
+653, Mr. David  Baszucki,United States," 1,600",,"SanMateo,CA,UnitedStates",Electronic Gaming & Multimedia,$26.05 B,Roblox Corp,RBLX
+654,,China," 46,989",,"Beijing,China",Banks,$26.13 B,China Everbright Bank Company Ltd,601818
+655, Mr. Sumit  Roy,United States, 367, 1969,"SanDiego,CA,UnitedStates",REITâRetail,$26.18 B,Realty Income Corporation,O
+656, Mr. Arnd  Kaldowski,Switzerland," 14,922",,"Stafa,Switzerland",Medical Instruments & Supplies,$26.22 B,Sonova Holding AG,SOON
+657, Mr. Laurent  Ferreira,Canada," 27,804", NovemberÂ 1979,"Montreal,QC,Canada",Banks,$26.29 B,National Bank of Canada,
+658, Mr. Bhavesh V. Patel,United States," 5,300",,"Fairlawn,OH,UnitedStates",Chemicals,$26.38 B,"LYONDELLBASELL ADVANCED POLYMERS, Inc.",SLMNP
+659, Mr. Fujio  Mitarai,Japan," 184,034", 10Â August 1937,"Tokyo,Japan",Computer Hardware,$26.38 B,Canon Inc.,7751
+660, Mr. Christian  Sewing,Germany," 82,969", 10 March 1869,"FrankfurtamMain,Germany",Banks,$26.38 B,Deutsche Bank AG,DBK
+661, Mr. Charles J. G. Brindamour B.Sc.,Canada," 26,000", 1809,"Toronto,ON,Canada",InsuranceâProperty & Casualty,$26.40 B,Intact Financial Corporation,IFC
+662, Mr. Gerard M. Anderson,United States," 10,300",,"Detroit,MI,UnitedStates",UtilitiesâRegulated Electric,$26.41 B,DTE Energy Company,DTE
+663, Mr. Robert E. Jordan,United States," 55,100"," MarchÂ 15, 1967","Dallas,TX,UnitedStates",Airlines,$26.52 B,Southwest Airlines Co.,LUV
+664, Mr. Patrice  Caine,France," 81,098",,"Courbevoie,France",Aerospace & Defense,$26.55 B,Thales SA,HO
+665, Mr. John S. Riccitiello,United States," 5,245", 2004,"SanFrancisco,CA,UnitedStates",SoftwareâApplication,$26.56 B,Unity Software Inc.,U
+666, Mr. Patrick J. Ottensmeyer,United States," 6,522", 1887,"KansasCity,MO,UnitedStates",Railroads,$26.59 B,Kansas City Southern,KSU
+667, Ms. Patricia Kessler Poppe,United States," 26,000", 1905,"SanFrancisco,CA,UnitedStates",UtilitiesâRegulated Electric,$26.66 B,PG&E Corporation,PCG
+668, Mr. Jack A. Fusco,United States,,,"Houston,TX,UnitedStates",Oil & Gas Midstream,$26.68 B,"Cheniere Energy Partners, L.P.",CQP
+669, Mr. Stefan  Widing,Sweden," 44,133",,"Stockholm,Sweden",Specialty Industrial Machinery,$26.71 B,Sandvik AB,SAND
+670, Mr. Rolf Eberhard Buch,Germany," 16,051",,"Bochum,Germany",Real Estate Services,$26.78 B,Vonovia SE,VNA
+671,,China," 3,103",,"Beijing,China",Biotechnology,$26.80 B,Beijing Wantai Biological Pharmacy Enterprise Co. Ltd,603392
+672,,Sweden," 8,987",,"Stockholm,Sweden",Gambling,$26.82 B,Evolution Gaming Group AB,EVO
+673, Mr. Shuichi  Ishibashi,Japan," 138,036",,"Tokyo,Japan",Auto Parts,$26.88 B,Bridgestone Corp,5108
+674, Mr. Bryan C. Hanson,United States," 19,500", 1927,"Warsaw,IN,UnitedStates",Medical Devices,$26.94 B,"Zimmer Biomet Holdings, Inc.",ZBH
+675,,China," 22,808",,"Changsha,China",Medical Care Facilities,$26.95 B,Aier Eye Hospital Group Co. Ltd,300015
+676,,China," 36,344",,"Xi'an,China",Thermal Coal,$26.95 B,Shaanxi Coal Industry Company Ltd,601225
+677, Dr. Ajei S. Gopal Ph.D.,United States," 5,100"," Canonsburg, Pennsylvania, United States 1970","Canonsburg,PA,UnitedStates",SoftwareâApplication,$26.98 B,"ANSYS, Inc.",ANSS
+678, Dr. Dieter  Weisskopf Ph.D.,Switzerland," 14,000",,"Kilchberg,Switzerland",Confectioners,$27.08 B,Chocoladefabriken Lindt & SprÃ¼ngli AG,LISN
+679, Mr. Harry A. Lawton III,United States," 22,000", 1938,"Brentwood,TN,UnitedStates",Specialty Retail,$27.09 B,Tractor Supply Company,TSCO
+680,,Taiwan," 44,461",,"Taipei,Taiwan",InsuranceâLife,$27.13 B,Fubon Financial Holding Co. Ltd,2881
+681, Mr. Alexander Valerievich Dyukov,Russia,,,"SaintPetersburg,Russia",Oil & Gas Integrated,$27.14 B,Gazprom Neft PJSC,SIBN
+682, Mr. Milan  Galik,United States," 2,571"," New York City, United States 1978","Greenwich,CT,UnitedStates",Capital Markets,$27.22 B,"Interactive Brokers Group, Inc.",IBKR
+683,,China," 3,291",,"Shanghai,China",Semiconductors,$27.24 B,Will Semiconductor Co. Ltd,603501
+684, Mr. Liangbin  Li,China," 5,533",,"Xinyu,China",Chemicals,$27.25 B,Ganfeng Lithium Co. Ltd,002460
+685, Mr. Hiroshi  Honma,Japan," 139,677",,"Tokyo,Japan",Information Technology Services,$27.26 B,NTT Data Corp,9613
+686, Mr. Lawrence E. Kurzius,United States," 14,000", 1889,"HuntValley,MD,UnitedStates",Packaged Foods,$27.29 B,"McCormick & Company, Incorporated",MKC
+687, Mr. Henrik  Ehrnrooth M.Sc. (Econ),Finland," 62,720",,"Espoo,Finland",Specialty Industrial Machinery,$27.29 B,KONE Oyj,KNEBV
+688,,China," 8,806",,"Nanjing,China",Specialty Industrial Machinery,$27.33 B,NARI Technology Co. Ltd,600406
+689, Mr. Donald G. Macpherson,United States," 22,700", 1927,"LakeForest,IL,UnitedStates",Industrial Distribution,$27.33 B,"W.W. Grainger, Inc.",GWW
+690, Mr. David V. Auld,United States," 11,788", 1978,"Arlington,TX,UnitedStates",Residential Construction,$27.34 B,"D.R. Horton, Inc.",DHI
+691, Dr. Joachim  Kreuzburg,Germany," 13,832",,"Gottingen,Germany",Medical Instruments & Supplies,$27.35 B,Sartorius AG,SRT
+692, Mr. Joseph Daniel Margolis J.D.,United States," 4,309", 1977,"SaltLakeCity,UT,UnitedStates",REITâIndustrial,$27.37 B,Extra Space Storage Inc.,EXR
+693, Mr. Torbjorn  Magnusson,Finland," 13,340",,"Helsinki,Finland",InsuranceâDiversified,$27.46 B,Sampo Oyj,SAMPO
+694, Mr. Gonzalo Maria  Gortazar Rotaeche,Spain," 49,607",,"Valencia,Spain",Banks,$27.58 B,"CaixaBank, SA",CABK
+695, Mr. Hassane S. El-Khoury,United States," 30,000", 1999,"Phoenix,AZ,UnitedStates",Semiconductors,$27.63 B,ON Semiconductor Corporation,ON
+696, Ms. Nancy  McKinstry,Netherlands," 19,454",,"AlphenaandenRijn,Netherlands",Publishing,$27.65 B,Wolters Kluwer N.V.,WKL
+697, Mr. Pedro J. Pizarro,United States," 13,003", 1886,"Rosemead,CA,UnitedStates",UtilitiesâRegulated Electric,$27.67 B,Edison International,EIX
+698,,Switzerland," 13,985",,"Zurich,Switzerland",InsuranceâReinsurance,$27.80 B,Swiss Re AG,SREN
+699, Mr. Thapana  Sirivadhanabhakdi,Thailand,,,"Bangkok,Thailand",BeveragesâWineries & Distilleries,$27.81 B,Thai Beverage Public Company Ltd,Y92
+700, Mr. Paul Anthony Mahon,Canada," 28,000", 1891,"Winnipeg,MB,Canada",InsuranceâLife,$27.85 B,Great-West Lifeco Inc.,GWO
+701, Mr. FranÃÂ§ois Adrianus van Houten,Netherlands," 78,189", 15Â May 1891,"Amsterdam,Netherlands",Diagnostics & Research,$27.89 B,Koninklijke Philips N.V.,PHIA
+702, Mr. Michael J. Roffler,United States," 6,295", 1985,"SanFrancisco,CA,UnitedStates",Banks,$27.90 B,First Republic Bank,FRC
+703,,Netherlands," 82,257",,"Amsterdam,Netherlands",BeveragesâBrewers,$22.78 B,Heineken Holding N.V.,HEIO
+704, Mr. Abdulrahman Ahmed Shamsaddin,Saudi Arabia,,,"Jubail,SaudiArabia",Agricultural Inputs,$22.78 B,SABIC Agri-Nutrients Company,2020
+705, Dr. Jan G.J. van de Winkel,Denmark," 1,212",,"Copenhagen,Denmark",Biotechnology,$22.83 B,Genmab A/S,GMAB
+706,,China," 29,522",,"Dalian,China",Textile Manufacturing,$22.86 B,"Hengli Petrochemical Co.,Ltd.",600346
+707, Mr. Vincent  Sorgi,United States," 5,607"," June 4, 1920","Allentown,PA,UnitedStates",UtilitiesâRegulated Electric,$22.87 B,PPL Corporation,PPL
+708, Mr. Richard Joseph Tobin,United States," 25,000", 1955,"DownersGrove,IL,UnitedStates",Specialty Industrial Machinery,$22.94 B,Dover Corporation,DOV
+709, Mr. Steven E. Rendle,United States," 27,200", OctoberÂ 1899,"GreenwoodVillage,CO,UnitedStates",Apparel Manufacturing,$22.96 B,V.F. Corporation,VFC
+710, Mr. Yasuo  Takeuchi,Japan," 31,653",,"Tokyo,Japan",Medical Instruments & Supplies,$23.00 B,Olympus Corp,7733
+711, Mr. Pablo Gerardo Legorreta,United States,,,"NewYork,NY,UnitedStates",Biotechnology,$23.04 B,Royalty Pharma plc,RPRX
+712, Mr. Dallas B. Tanner,United States," 1,240", 2012,"Dallas,TX,UnitedStates",REITâResidential,$23.09 B,Invitation Homes Inc.,INVH
+713, Mr. Zhaohui  Huang,China," 9,372",,"Beijing,China",Capital Markets,$23.13 B,China International Capital Corp Ltd,601995
+714, Mr. Shinjiro  Sato,Japan," 26,482",,"Tokyo,Japan",Medical Instruments & Supplies,$23.16 B,Terumo Corp,4543
+715, Mr. Frederic  Oudea,France," 124,089",,"Paris,France",Banks,$23.18 B,SociÃ©tÃ© GÃ©nÃ©rale SA,GLE
+716,,China," 52,809",,"Yunfu,China",Farm Products,$23.20 B,Wens Foodstuff Group Co. Ltd,300498
+717, Mr. Lachlan Keith Murdoch,United States," 9,000"," JanuaryÂ 1, 2019","NewYork,NY,UnitedStates",Broadcasting,$23.26 B,Fox Corporation,FOXA
+718,,China," 24,586",,"Beijing,China",Farm & Heavy Construction Machinery,$23.27 B,Sany Heavy Industry Co. Ltd,600031
+719, Mr. Arnold W. Donald,United States," 40,000", 1972,"Miami,FL,UnitedStates",Travel Services,$23.29 B,Carnival Corporation & plc,CCL
+720,,China," 18,352", 2005,"Shanghai,China",Lodging,$23.34 B,Huazhu Group Limited,HTHT
+721, Mr. Clifton  Albert Pemble,Switzerland," 18,700", OctoberÂ 1989,"Schaffhausen,Switzerland",Scientific & Technical Instruments,$23.35 B,Garmin Ltd.,GRMN
+722,,Taiwan," 19,500",,"HsinchuCity,Taiwan",Semiconductors,$23.35 B,United Microelectronics Corporation,2303
+723, Mr. Gregory B. Maffei,United States,,,"Englewood,CO,UnitedStates",Entertainment,$23.40 B,Liberty Broadband Corporation,LBRDK
+724,,Taiwan,,,"Kaohsiung,Taiwan",Specialty Chemicals,$23.42 B,Formosa Plastics Corp,1301
+725, Mr. David Gerard Hutchens,Canada," 9,095",,"St.John's,NF,Canada",UtilitiesâRegulated Electric,$23.43 B,Fortis Inc.,FTS
+726, Mr. Jay D. Farner,United States," 26,000", 1985,"Detroit,MI,UnitedStates",Mortgage Finance,$23.44 B,"Rocket Companies, Inc.",RKT
+727,,United States," 7,100", 1983,"SanJose,CA,UnitedStates",Semiconductors,$23.44 B,"Maxim Integrated Products, Inc.",MXIM
+728," Mr. Ralph Tendai Mupita B.Sc., M.B.A.",South Africa," 21,975",,"Johannesburg,SouthAfrica",Telecom Services,$23.45 B,MTN Group Ltd,MTN
+729,,Japan," 43,293",,"Osaka,Japan",Farm & Heavy Construction Machinery,$23.46 B,Kubota Corp,6326
+730, Mr. Philip Kelvin Rodda Pascall,Canada," 20,000", 1983,"Toronto,ON,Canada",Copper,$23.47 B,First Quantum Minerals Ltd.,FM
+731,,Indonesia," 37,840",,"Jakarta,Indonesia",Banks,$23.51 B,PT Bank Mandiri (Persero) Tbk,PQ9
+732, Mr. Vincent  Warnery,Germany," 20,567",,"Hamburg,Germany",Household & Personal Products,$23.51 B,Beiersdorf AG,BEI
+733, Mr. Ren Xian  Cao,China," 4,492",,"Hefei,China",Electrical Equipment & Parts,$23.55 B,Sungrow Power Supply Co. Ltd,300274
+734, Mr. James M. Loree,United States," 71,300", 1843,"NewBritain,CT,UnitedStates",Tools & Accessories,$23.57 B,"Stanley Black & Decker, Inc.",SWK
+735,,China," 47,710",,"Shanghai,China",Steel,$23.59 B,Baoshan Iron & Steel Co. Ltd,600019
+736, Mr. Timothy P. Walbert,Ireland," 1,890", 2005,"Dublin,Ireland",Drug ManufacturersâGeneral,$23.64 B,Horizon Therapeutics Public Limited Company,HZNP
+737, Mr. Florent  Menegaux,France," 118,400",,"Clermont-Ferrand,France",Auto Parts,$23.65 B,Compagnie GÃ©nÃ©rale des Etablissements Michelin SCA,ML
+738, Mr. Alistair  Phillips-Davies,United Kingdom," 11,865", 1998,"Perth,UnitedKingdom",UtilitiesâDiversified,$23.73 B,SSE plc,SSE
+739, Mr. Jose Damian  Bogas Galvez,Spain," 9,258",,"Madrid,Spain",UtilitiesâRegulated Electric,$23.78 B,"Endesa, SA",ELE
+740, Ms. Debra A. Cafaro,United States, 434, 1998,"Chicago,IL,UnitedStates",REITâHealthcare Facilities,$23.81 B,"Ventas, Inc.",VTR
+741,,China," 9,669",,"Huizhou,China",Electrical Equipment & Parts,$23.82 B,EVE Energy Co. Ltd,300014
+742, Mr. Graham Vivian Smith,United States," 7,500", OctoberÂ 2003,"SanFrancisco,CA,UnitedStates",SoftwareâInfrastructure,$23.84 B,Splunk Inc.,SPLK
+743,,Japan," 8,249",,"Tokyo,Japan",Health Information Services,$23.89 B,"M3, Inc.",2413
+744, Mr. Leo P. Denault,United States," 12,369", 1913,"NewOrleans,LA,UnitedStates",UtilitiesâDiversified,$23.92 B,Entergy Corporation,ETR
+745, Mr. Daniel A. Carestio,Ireland," 13,000", 1985,"Dublin,Ireland",Medical Instruments & Supplies,$23.93 B,STERIS plc,STE
+746, Ms. Corie Sue Barry,United States," 57,750"," AugustÂ 22, 1966","Richfield,MN,UnitedStates",Specialty Retail,$23.93 B,"Best Buy Co., Inc.",BBY
+747,,China," 9,994",,"Beijing,China",Capital Markets,$23.94 B,CSC Financial Co. Ltd,601066
+748, Mr. C. Howard Nye,United States," 10,000", 1993,"Raleigh,NC,UnitedStates",Building Materials,$23.94 B,"Martin Marietta Materials, Inc.",MLM
+749, Mr. Makoto  Inoue,Japan," 33,153",,"Tokyo,Japan",Credit Services,$23.97 B,ORIX Corporation,8591
+750, Mr. Silvio  Napoli,Switzerland," 69,015",,"Hergiswil,Switzerland",Specialty Industrial Machinery,$24.02 B,Schindler Holding AG,SCHN
+751,,Russia,,,"Moscow,Russia",Gold,$24.02 B,Public Joint Stock Company Polyus,PLZL
+752,,Taiwan," 9,594",,"Taipei,Taiwan",Banks,$20.21 B,Mega Financial Holding Co. Ltd,2886
+753, Mr. William Joseph Hornbuckle IV,United States," 52,000", 1986,"LasVegas,NV,UnitedStates",Resorts & Casinos,$20.22 B,MGM Resorts International,MGM
+754, Mr. Shingo  Konomoto,Japan," 16,196",,"Tokyo,Japan",Information Technology Services,$20.26 B,Nomura Research Institute Ltd,4307
+755," Mr. J. Powell Brown C.P.C.U., CPCU",United States," 12,023", 1939,"DaytonaBeach,FL,UnitedStates",Insurance Brokers,$20.27 B,"Brown & Brown, Inc.",BRO
+756, Mr. Thomas Sinnickson Gayner,United States," 20,300", 1930,"GlenAllen,VA,UnitedStates",InsuranceâProperty & Casualty,$20.30 B,Markel Corporation,MKL
+757, Mr. Ernest C. Garcia III,United States," 21,000", 2012,"Tempe,AZ,UnitedStates",Internet Retail,$20.33 B,Carvana Co.,CVNA
+758,,Japan," 27,318",,"Osaka,Japan",Specialty Chemicals,$20.38 B,Nippon Paint Holdings Co. Ltd,4612
+759,,China," 15,198",,"Shanghai,China",Capital Markets,$20.39 B,Guotai Junan Securities Co. Ltd,601211
+760, Mr. Junichi  Yoshida,Japan," 9,982",,"Tokyo,Japan",Real EstateâDiversified,$20.39 B,Mitsubishi Estate Co. Ltd,8802
+761, Mr. Johan  Hjertonsson MBA,Sweden," 8,001",,"Gothenburg,Sweden",Asset Management,$20.39 B,Investment AB Latour,LATO.B
+762,,Saudi Arabia," 3,280",,"Riyadh,SaudiArabia",Banks,$20.41 B,Alinma Bank,1150
+763, Mr. Brian D. Doubles,United States," 18,000"," SeptemberÂ 12, 2003","Stamford,CT,UnitedStates",Credit Services,$20.43 B,Synchrony Financial,SYF
+764, Mr. Owen David Thomas,United States, 743, 1970,"Boston,MA,UnitedStates",REITâOffice,$20.54 B,"Boston Properties, Inc.",BXP
+765, Mr. Masayoshi  Fujimoto,Japan," 19,463",,"Tokyo,Japan",Conglomerates,$20.55 B,Sojitz Corp,2768
+766, Mr. Jeremy Peter Jackson,Ireland," 16,813", 2 February 2016,"Dublin,Ireland",Gambling,$20.58 B,Flutter Entertainment plc,FLTR
+767, Mr. J. Scott Burrows,Canada," 2,349",,"Calgary,AB,Canada",Oil & Gas Midstream,$20.61 B,Pembina Pipeline Corporation,PPL
+768, Mr. Hideo  Tanimoto,Japan," 78,490",,"Kyoto,Japan",Consumer Electronics,$20.62 B,Kyocera Corp,6971
+769, Mr. Somchai  Lertsutiwong,Thailand,,,"Bangkok,Thailand",Telecom Services,$20.65 B,Advanced Info Service PCL,ADVANC
+770, Mr. Walter M. Rosebrough Jr.,United States,,,"Mentor,OH,UnitedStates",Medical Devices,$20.66 B,STERIS Corp,S1TE34
+771, Mr. Garrick J. Rochow,United States," 8,504", 1886,"Jackson,MI,UnitedStates",UtilitiesâRegulated Electric,$20.73 B,CMS Energy Corporation,CMS
+772, Mr. Ning  Li,China," 4,019",,"Beijing,China",Leisure,$20.75 B,Li Ning Co Ltd,2331
+773,,United Kingdom," 81,770"," As Chartered Bank of India, Australia, and China on 29Â December 1853","London,UnitedKingdom",Banks,$20.78 B,Standard Chartered plc,STAN
+774, Mr. Masumi  Kakinoki,Japan,,,"Tokyo,Japan",Conglomerates,$20.78 B,Marubeni Corp,8002
+775, Mr. Josu Jon  Imaz San Miguel Ph.D.,Spain," 23,268",,"Madrid,Spain",Oil & Gas Integrated,$20.80 B,Repsol SA,REP
+776, Mr. Jason T. Liberty,United States," 84,900", 1997Â ,"Miami,FL,UnitedStates",Travel Services,$20.81 B,Royal Caribbean Cruises Ltd.,RCL
+777, Mr. Adam Arash Foroughi,United States," 1,594",,"PaloAlto,CA,UnitedStates",SoftwareâApplication,$20.86 B,AppLovin Corp,APP
+778, Mr. James A. Lico,United States," 18,000", 2016,"Everett,WA,UnitedStates",Scientific & Technical Instruments,$20.88 B,Fortive Corporation,FTV
+779, Mr. Ronald F. Clarke,United States," 9,700", 2000,"Atlanta,GA,UnitedStates",Information Technology Services,$20.92 B,"FLEETCOR Technologies, Inc.",FLT
+780, Ms. Yamini  Rangan,United States," 5,895", June 2006,"Cambridge,MA,UnitedStates",SoftwareâApplication,$20.93 B,"HubSpot, Inc.",HUBS
+781, Mr. Ganesh  Moorthy,United States," 19,500", 1989,"Chandler,AZ,UnitedStates",Semiconductors,$21.03 B,Microchip Technology Incorporated,MCHP
+782, Mr. Arkady  Volozh,Netherlands," 18,004", 23 September 1997,"Schiphol,Netherlands",Internet Content & Information,$21.05 B,Yandex N.V.,YNDX
+783, Mr. David John Rivers Sleath O.B.E.,United Kingdom, 385, 1920,"London,UnitedKingdom",REITâIndustrial,$21.08 B,SEGRO plc,SGRO
+784, Mr. Vicente  Reynal,United States," 16,000", 1859,"Davidson,NC,UnitedStates",Specialty Industrial Machinery,$21.13 B,Ingersoll Rand Inc.,IR
+785, Mr. Minfang  Lu,Hong Kong," 43,397",,"CausewayBay,HongKong",Packaged Foods,$21.17 B,China Mengniu Dairy Co Ltd,2319
+786, Dr. William David Mosley,Ireland," 40,000"," NovemberÂ 1, 1979","Dublin,Ireland",Computer Hardware,$21.21 B,Seagate Technology plc,STX
+787,,China," 9,111",,"Baotou,China",Other Industrial Metals & Mining,$21.21 B,China Northern Rare Earth,600111
+788, Mr. Robert Marc Bakish,United States," 22,965"," DecemberÂ 4, 2019","NewYork,NY,UnitedStates",Entertainment,$21.22 B,ViacomCBS Inc.,VIACA
+789, Mr. Henry L. Schuck,United States," 2,742", 2007,"Vancouver,WA,UnitedStates",SoftwareâApplication,$21.23 B,ZoomInfo Technologies Inc.,ZI
+790," Mr. Randy V. J. Smallwood P.Eng, P.Eng.",Canada, 44, 2004,"Vancouver,BC,Canada",Gold,$21.26 B,Wheaton Precious Metals Corp.,WPM
+791, Mr. John M. Turner Jr.,United States," 19,626", 1971,"Birmingham,AL,UnitedStates",Banks,$21.32 B,Regions Financial Corporation,RF
+792, Dr. Nigel David Wilson,United Kingdom," 10,046", 1836,"London,UnitedKingdom",InsuranceâLife,$21.34 B,Legal & General Group plc,LGEN
+793, Mr. Albert G. White III,United States," 12,000", 1958Â ,"SanRamon,CA,UnitedStates",Medical Instruments & Supplies,$21.35 B,"The Cooper Companies, Inc.",COO
+794, Mr. Owen  Mahoney,Japan," 6,288",,"Tokyo,Japan",Electronic Gaming & Multimedia,$21.36 B,NEXON Co. Ltd,3659
+795, Mr. Paulo Junqueira Moll,Brazil,,,"SaoPaulo,SP,Brazil",Medical Care Facilities,$21.40 B,Rede D'Or SÃ£o Luiz SA,RDOR3
+796," Mr. Donald R. Lindsay B.Sc. Honours, M.B.A",Canada," 10,600",,"Vancouver,BC,Canada",Other Industrial Metals & Mining,$21.41 B,Teck Resources Limited,TECK.B
+797,,Switzerland," 96,216",,"Geneva,Switzerland",Consulting Services,$21.43 B,SGS SA,SGSN
+798, Mr. Anthony William Cripps,Saudi Arabia," 4,156",,"Riyadh,SaudiArabia",Banks,$21.45 B,The Saudi British Bank,1060
+799, Mr. Masanobu  Komoda,Japan," 23,992",,"Tokyo,Japan",Real EstateâDiversified,$21.46 B,Mitsui Fudosan Co. Ltd,8801
+800, Mr. John N. Roberts III,United States," 33,045"," AugustÂ 10, 1961","Lowell,AR,UnitedStates",Integrated Freight & Logistics,$21.48 B,"J.B. Hunt Transport Services, Inc.",JBHT
+801, Mr. Antoine  FrÃÂ©rot,France," 171,450",,"Aubervilliers,France",Waste Management,$18.14 B,Veolia Environnement SA,VIE
+802, Engineer Daniel  BeneÃÂ,Czechia," 28,000",,"Prague,Czechia",                                        UtilitiesâRenewable                                    ,$18.16 B,CEZ AS,CEZ
+803, Ms. Joey  Wat,China," 147,000"," NovemberÂ 1,Â 2016","Shanghai,China",Restaurants,$18.18 B,"Yum China Holdings, Inc.",YUMC
+804,,Canada," 5,700"," DecemberÂ 15, 2014","Toronto,ON,Canada",Restaurants,$18.19 B,Restaurant Brands International Inc.,QSR
+805," Mr. Gerhardus Metselaar Fourie B.Com., M.B.A., B.Comm (Hons), MBA",South Africa," 14,789",,"Stellenbosch,SouthAfrica",Banks,$18.21 B,Capitec Bank Holdings Ltd,CPI
+806, Mr. Atsushi  Katsuki,Japan," 30,020",,"Tokyo,Japan",BeveragesâBrewers,$18.21 B,Asahi Group Holdings Ltd,2502
+807,,China," 11,282",,"Shanghai,China",Capital Markets,$18.23 B,Haitong Securities Co. Ltd,600837
+808, Mr. John R. Chiminski,United States," 17,300", 2007,"Somerset,NJ,UnitedStates",Drug ManufacturersâSpecialty & Generic,$18.24 B,"Catalent, Inc.",CTLT
+809, Mr. Earl C. Austin Jr.,United States," 43,700", 1997,"Houston,TX,UnitedStates",Engineering & Construction,$18.25 B,"Quanta Services, Inc.",PWR
+810, Mr. Robert J. Pera,United States," 1,223", OctoberÂ 2003,"NewYork,NY,UnitedStates",Communication Equipment,$18.25 B,Ubiquiti Inc.,UI
+811, Dr. Isao  Teshirogi Ph.D.,Japan," 5,485",,"Osaka,Japan",Drug ManufacturersâSpecialty & Generic,$18.27 B,Shionogi & Co. Ltd,4507
+812, Mr. Kwok Lung  Hongchoy,Hong Kong," 1,100",,"KwunTong,HongKong",REITâRetail,$18.27 B,Link Real Estate Investment Trust,0823
+813,,Japan," 155,578",,"Chiba,Japan",Department Stores,$18.32 B,Aeon Co. Ltd,8267
+814," Dr. Yvonne L. Greenstreet M.B.A., MBA, MBChB",United States," 1,665", 2002,"Cambridge,MA,UnitedStates",Biotechnology,$18.33 B,"Alnylam Pharmaceuticals, Inc.",ALNY
+815,,China," 10,169",,"Shenzhen,China",Capital Markets,$18.35 B,China Merchants Securities Co. Ltd,600999
+816, Mr. Strauss H. Zelnick Esq.,United States," 6,495"," SeptemberÂ 30, 1993","NewYork,NY,UnitedStates",Electronic Gaming & Multimedia,$18.35 B,"Take-Two Interactive Software, Inc.",TTWO
+817, Mr. Mohamed Shameel Aziz Joosub,South Africa," 7,642",,"Midrand,SouthAfrica",Telecom Services,$18.41 B,Vodacom Group Ltd,VOD
+818, Mr. Paul D. Donahue,United States," 52,000", 1925,"Atlanta,GA,UnitedStates",Specialty Retail,$18.41 B,Genuine Parts Company,GPC
+819,,China," 12,307",,"Guangzhou,China",Capital Markets,$18.44 B,GF Securities Co. Ltd,000776
+820, Mr. Laurans A. Mendelson,United States," 5,600", 1957 as Heinicke Instruments,"Hollywood,FL,UnitedStates",Aerospace & Defense,$18.49 B,HEICO Corporation,HEI
+821, Mr. Robert Glen Goldstein,Macao," 25,751",,"Taipa,Macao",                                        Resorts & Casinos                                    ,$18.52 B,Sands China Ltd,1928
+822,,China," 57,513", 30Â JuneÂ 1994 in Beijing,"Beijing,China",UtilitiesâIndependent Power Producers,$18.57 B,"Huaneng Power International, Inc.",600011
+823," Mr. Graham  Kerr BBus, FCPA",Australia," 13,576",,"Perth,WA,Australia",Other Industrial Metals & Mining,$18.67 B,South32 Limited,S32
+824, Mr. Enlin  Jin,China," 2,576",,"Beijing,China",Medical Care Facilities,$18.69 B,"JD Health International, Inc.",8ZN
+825,,China," 132,125",,"Beijing,China",Engineering & Construction,$18.69 B,Power Construction Corp of China Ltd,601669
+826,,China," 89,373",,"Beijing,China",Airlines,$18.72 B,Air China Ltd,601111
+827, Dr. Thomas P. Gottstein,Switzerland," 50,110", 1856,"Zurich,Switzerland",Banks,$18.72 B,Credit Suisse Group AG,CSGN
+828,,United States, 84, 1991,"Englewood,CO,UnitedStates",Broadcasting,$18.74 B,The Liberty SiriusXM Group,LSXMB
+829, Mr. Noriyuki  Hara,Japan," 41,501",,"Tokyo,Japan",InsuranceâProperty & Casualty,$18.75 B,"MS&AD Insurance Group Holdings, Inc.",8725
+830, Mr. Thomas M. Herzog,United States, 196, 1985,"Denver,CO,UnitedStates",REITâHealthcare Facilities,$18.76 B,"Healthpeak Properties, Inc.",PEAK
+831, Mr. George  Kurian,United States," 11,000", 1992,"Sunnyvale,CA,UnitedStates",Computer Hardware,$18.76 B,"NetApp, Inc.",NTAP
+832," Mr. Galen G. Weston B.A., M.B.A, M.B.A.",Canada," 215,298"," Toronto, Ontario, Canada 1882","Toronto,ON,Canada",Grocery Stores,$18.77 B,George Weston Limited,WN
+833,,United Kingdom,, 1909,,Asset Management,$18.78 B,Scottish Mortgage Investment Trust plc,SMT
+834,,United States," 49,300", 1898,"Memphis,TN,UnitedStates",Packaging & Containers,$18.78 B,International Paper Company,INPAP
+835,,China," 34,977",,"Xi'an,China",Aerospace & Defense,$18.79 B,"Aecc Aviation Power Co.,Ltd",600893
+836, Mr. John D. Wren,United States," 71,700", 1986,"NewYork,NY,UnitedStates",Advertising Agencies,$18.80 B,Omnicom Group Inc.,OMC
+837,,Indonesia," 123,894",,"Jakarta,Indonesia",Auto Parts,$18.90 B,Astra International Tbk PT,ASJA
+838, Mr. Joo-Wan  Cho,South Korea," 37,245",,"Seoul,SouthKorea",Consumer Electronics,$18.91 B,"LG Electronics, Inc.",066570
+839, Mr. Taro  Shimada,Japan," 117,300",,"Tokyo,Japan",Specialty Industrial Machinery,$18.93 B,Toshiba Corp,6502
+840, Mr. Gil  Shwed,Israel," 6,000", 1993,"TelAviv,Israel",SoftwareâInfrastructure,$18.94 B,Check Point Software Technologies Ltd.,CHKP
+841, Mr. Bruce Winfield Van Saun,United States," 17,463", 1828,"Providence,RI,UnitedStates",Banks,$18.95 B,"Citizens Financial Group, Inc.",CFG
+842, Mr. Paolo  Rocca,Luxembourg," 22,776", 2001,"LuxembourgCity,Luxembourg",                                        Oil & Gas Equipment & Services                                    ,$18.98 B,Tenaris SA,TEN
+843, Mr. Tatsuo  Higuchi,Japan," 33,151",,"Tokyo,Japan",Drug ManufacturersâGeneral,$19.03 B,Otsuka Holdings Co. Ltd,4578
+844, Dr. Udit  Batra Ph.D.,United States," 7,800", 1958,"Milford,MA,UnitedStates",Diagnostics & Research,$19.11 B,Waters Corporation,WAT
+845,,Israel," 6,800", 1986,"RaÃ¢ÂÂanana,Israel",SoftwareâApplication,$19.12 B,NICE Ltd.,NICE
+846, Mr. Cees C. ÃÂ´t Hart,Denmark," 39,000",,"Copenhagen,Denmark",BeveragesâBrewers,$19.12 B,Carlsberg A-S,CARL.A
+847, Mr. William C. Stone,United States," 24,900"," MarchÂ 1, 1986","Windsor,CT,UnitedStates",SoftwareâApplication,$19.15 B,"SS&C Technologies Holdings, Inc.",SSNC
+848,,China," 8,079",,"Tongxiang,China",Other Industrial Metals & Mining,$19.20 B,Zhejiang Huayou Cobalt Co. Ltd,603799
+849, Mr. Stephen Forbes Cooper,United States," 5,900"," AprilÂ 6, 1958","NewYork,NY,UnitedStates",Entertainment,$19.21 B,Warner Music Group Corp.,WMG
+850, Mr. Anders  Opedal,Norway," 21,126", 14Â June 1972,"Stavanger,Norway",                                        Oil & Gas Integrated                                    ,$122.74 B,Equinor ASA,EQNR
+851,,Hong Kong," 23,000",,"Central,HongKong",InsuranceâLife,$125.16 B,AIA Group Ltd,1299
+852, Mr. James D. Taiclet Jr.,United States," 114,000"," MarchÂ 15, 1995","Bethesda,MD,UnitedStates",Aerospace & Defense,$124.98 B,Lockheed Martin Corporation,LMT
+853, Mr. D. James Umpleby III,United States," 107,700"," AprilÂ 15, 1925","Deerfield,IL,UnitedStates",Farm & Heavy Construction Machinery,$124.13 B,Caterpillar Inc.,CAT
+854,,Belgium," 169,339",,"Leuven,Belgium",BeveragesâBrewers,$123.59 B,Anheuser-Busch InBev SA/NV,ABI
+855, Mr. Sidney  Toledano,France," 119,243",,"Paris,France",Luxury Goods,$122.11 B,Christian Dior SE,CDI
+856," Mr. Jakob  Stausholm M.S., MS",United Kingdom," 49,000", 1873,"London,UnitedKingdom",Other Industrial Metals & Mining,$125.84 B,Rio Tinto Group,RIO
+857, Mr. Kenichiro  Yoshida,Japan," 109,700", 7Â May 1946,"Tokyo,Japan",Consumer Electronics,$126.64 B,Sony Group Corporation,6758
+858, Mr. David L. Calhoun,United States," 142,000"," JulyÂ 15, 1916","Chicago,IL,UnitedStates",Aerospace & Defense,$110.46 B,The Boeing Company,BA
+859, Mr. Oscar Garcia Maceiras,Spain," 104,431",,"Corunna,Spain",Apparel Retail,$110.65 B,"Industria de DiseÃ±o Textil, SA",ITX
+860," Mr. Scott  Charlton M.B.A., BSci, BEng (Elec), MBA, Member of FEI, FTA",Australia, 672," 14 March 1996, Melbourne","Melbourne,VIC,Australia",Infrastructure Operations,$110.79 B,Transurban Group,TCL
+861, Mr. David  Solomon,United States," 43,900", 1869,"NewYork,NY,UnitedStates",Capital Markets,$112.71 B,"The Goldman Sachs Group, Inc.",GS
+862,,Japan," 8,380",,"Osaka,Japan",Scientific & Technical Instruments,$113.20 B,Keyence Corp,6861
+863, Mr. Xing  Wang,China," 69,205",,"Beijing,China",Internet Retail,$114.28 B,Meituan,3690
+864,,China," 104,160", 1949,"Beijing,China",InsuranceâLife,$97.31 B,China Life Insurance Company Limited,LFC
+865, Mr. Sasan K. Goodarzi,United States," 13,500", 1983,"MountainView,CA,UnitedStates",SoftwareâApplication,$126.77 B,Intuit Inc.,INTU
+866, Mr. Rainer M. Blair,United States," 78,000", 1969,"Washington,DC,UnitedStates",Diagnostics & Research,$208.03 B,Danaher Corporation,DHR
+867, Mr. Robert M. Davis J.D.,United States," 67,000", 1891,"Kenilworth,NJ,UnitedStates",Drug ManufacturersâGeneral,$210.38 B,"Merck & Co., Inc.",MRK
+868," Mr. Mike P. Henry B.Sc., BSc (Chem)",Australia," 40,110", 1885,"Melbourne,VIC,Australia",Other Industrial Metals & Mining,$211.25 B,BHP Group,BHP
+869, Mr. John J. Donahoe II,United States," 73,300"," JanuaryÂ 25, 1964","Beaverton,OR,UnitedStates",Footwear & Accessories,$213.60 B,"Nike, Inc.",NKE
+870, Mr. Robert B. Ford,United States," 113,000", 1888,"NorthChicago,IL,UnitedStates",Medical Devices,$215.02 B,Abbott Laboratories,ABT
+871, Mr. Hans E. Vestberg,United States," 118,400"," OctoberÂ 7, 1983","NewYork,NY,UnitedStates",Telecom Services,$216.68 B,Verizon Communications Inc.,VZ
+872, Mr. Brian L. Roberts,United States," 189,000"," JuneÂ 28, 1963","Philadelphia,PA,UnitedStates",Entertainment,$218.90 B,Comcast Corporation,CMCSA
+873, Ms. Julie T. Spellman Sweet,Ireland," 699,000", 1989,"Dublin,Ireland",Information Technology Services,$219.03 B,Accenture plc,ACN
+874, Mr. Nicolas  Hieronimus,France," 85,400",,"Clichy,France",Household & Personal Products,$225.24 B,L'OrÃ©al SA,OR
+875, Ms. Safra Ada Catz,United States," 132,000"," JuneÂ 16, 1977","RedwoodCity,CA,UnitedStates",SoftwareâInfrastructure,$228.18 B,Oracle Corporation,ORCL
+876, Mr. Marc N. Casper,United States," 130,000", 1956,"Waltham,MA,UnitedStates",Diagnostics & Research,$236.15 B,Thermo Fisher Scientific Inc.,TMO
+877, Mr. Charles H. Robbins,United States," 79,500"," DecemberÂ 10, 1984","SanJose,CA,UnitedStates",Communication Equipment,$238.45 B,"Cisco Systems, Inc.",CSCO
+878, Mr. Ramon Luis Laguarta,United States," 309,000"," AugustÂ 28, 1898","Purchase,NY,UnitedStates",BeveragesâNon-Alcoholic,$241.05 B,"PepsiCo, Inc.",PEP
+879, Mr. Robert A. Chapek,United States," 152,000"," OctoberÂ 16, 1923","Burbank,CA,UnitedStates",Entertainment,$247.88 B,The Walt Disney Company,DIS
+880,,China," 439,787",,"Beijing,China",Banks,$250.37 B,Industrial & Commercial Bank of China Ltd,601398
+881, Mr. Lars Fruergaard Jorgensen,Denmark," 47,792"," DecemberÂ 21, 1923","Bagsvaerd,Denmark",Biotechnology,$257.24 B,Novo Nordisk A/S,NOVO.B
+882, Mr. W. Craig Jelinek,United States," 288,000"," JulyÂ 12, 1976","Issaquah,WA,UnitedStates",Discount Stores,$258.15 B,Costco Wholesale Corporation,COST
+883, Mr. Hock E. Tan,United States," 20,000", 1961,"SanJose,CA,UnitedStates",Semiconductors,$265.27 B,Broadcom Inc.,AVGO
+884, Mr. David A. Ricks,United States," 35,000", 1876,"Indianapolis,IN,UnitedStates",Drug ManufacturersâGeneral,$273.01 B,Eli Lilly and Company,LLY
+885, Mr. James Robert B. Quincey,United States," 79,000"," JanuaryÂ 29, 1892","Atlanta,GA,UnitedStates",BeveragesâNon-Alcoholic,$273.20 B,The Coca-Cola Company,KO
+886, Mr. Peter T. F. M. Wennink,Netherlands," 29,861", 1984,"Veldhoven,Netherlands",Semiconductor Equipment & Materials,$274.35 B,ASML Holding N.V.,ASML
+887, Mr. Yong  Zhang,China," 259,316", 28Â June 1999,"Hangzhou,China",Internet Retail,$290.40 B,Alibaba Group Holding Limited,9988
+888, Mr. Richard A. Gonzalez,United States," 50,000", 2013,"NorthChicago,IL,UnitedStates",Drug ManufacturersâGeneral,$294.27 B,AbbVie Inc.,ABBV
+889," Dr. Albert  Bourla D.V.M., DVM, Ph.D.",United States," 79,000", 1849,"NewYork,NY,UnitedStates",Drug ManufacturersâGeneral,$300.79 B,Pfizer Inc.,PFE
+890, Mr. Michael K. Wirth,United States," 42,595"," SeptemberÂ 10, 1879","SanRamon,CA,UnitedStates",Oil & Gas Integrated,$315.13 B,Chevron Corporation,CVX
+891, Mr. Edward P. Decker,United States," 490,600"," FebruaryÂ 6, 1978","Atlanta,GA,UnitedStates",Home Improvement Retail,$321.47 B,"The Home Depot, Inc.",HD
+892,,China," 29,031",,"Renhuai,China",BeveragesâWineries & Distilleries,$348.22 B,Kweichow Moutai Co. Ltd,600519
+893, Mr. Darren W. Woods,United States," 63,000"," NovemberÂ 30, 1999","Irving,TX,UnitedStates",Oil & Gas Integrated,$348.72 B,Exxon Mobil Corporation,XOM
+894, Dr. Severin  Schwan Ph.D.,Switzerland," 100,920",,"Basel,Switzerland",Drug ManufacturersâGeneral,$349.50 B,Roche Holding AG,ROG
+895, Mr. Brian Thomas Moynihan,United States," 208,000", 1998,"Charlotte,NC,UnitedStates",Banks,$350.84 B,Bank of America Corporation,BAC
+896, Mr. Michael  Miebach,United States," 24,000", 1966,"Purchase,NY,UnitedStates",Credit Services,$358.60 B,Mastercard Incorporated,MA
+897, Mr. Bernard  Arnault,France," 148,343",,"Paris,France",Luxury Goods,$359.26 B,"LVMH MoÃ«t Hennessy - Louis Vuitton, SE",MC
+898, Mr. Jong-Hee  Han,South Korea,,,"Suwon-si,SouthKorea",Consumer Electronics,$378.35 B,"Samsung Electronics Co., Ltd.",005930
+899, Mr. Jon R. Moeller,United States," 101,000"," OctoberÂ 31, 1837","Cincinnati,OH,UnitedStates",Household & Personal Products,$384.60 B,The Procter & Gamble Company,PG
+900, Mr. James  Dimon,United States," 271,025"," DecemberÂ 1, 2000","NewYork,NY,UnitedStates",Banks,$410.84 B,JPMorgan Chase & Co.,JPM
+901, Mr. C. Douglas McMillon,United States," 2,300,000"," JulyÂ 2, 1962","Bentonville,AR,UnitedStates",Discount Stores,$429.05 B,Walmart Inc.,WMT
+902, Mr. Huateng Pony  Ma,China," 112,771",,"Shenzhen,China",Internet Content & Information,$441.17 B,Tencent Holdings Ltd,0700
+903, Mr. Joaquin  Duato,United States," 141,700", JanuaryÂ 1886,"NewBrunswick,NJ,UnitedStates",Drug ManufacturersâGeneral,$475.93 B,Johnson & Johnson,JNJ
+904, Mr. Alfred Francis Kelly Jr.,United States," 21,500"," SeptemberÂ 18, 1958","SanFrancisco,CA,UnitedStates",Credit Services,$486.77 B,Visa Inc.,V
+905, Sir Andrew Philip Witty,United States," 350,000", 1977,"Minnetonka,MN,UnitedStates",Healthcare Plans,$488.52 B,UnitedHealth Group Incorporated,UNH
+906, Dr. C. C.  Wei,Taiwan," 54,193"," Industrial Technology Research Institute, Hsinchu, Taiwan.1987","Hsinchu,Taiwan",Semiconductors,$527.89 B,Taiwan Semiconductor Manufacturing Company Limited,2330
+907, Mr. Mark Elliot Zuckerberg,United States," 71,970"," JanuaryÂ 4, 2004","MenloPark,CA,UnitedStates",Internet Content & Information,$617.50 B,"Meta Platforms, Inc.",META
+908, Mr. Jen-Hsun  Huang,United States," 22,473"," AprilÂ 5, 1993","SantaClara,CA,UnitedStates",Semiconductors,$660.38 B,Nvidia Corporation,NVDA
+909, Mr. Warren E. Buffett,United States," 372,000", 1839,"Omaha,NE,UnitedStates",Financial Conglomerates,$798.47 B,Berkshire Hathaway Inc.,BRK.A
+910, Mr. Elon R. Musk,United States," 99,290"," JulyÂ 1, 2003","PaloAlto,CA,UnitedStates",Auto Manufacturers,$1.016 T,"Tesla, Inc.",TSLA
+911, Mr. Andrew R. Jassy,United States," 1,608,000"," JulyÂ 5, 1994","Seattle,WA,UnitedStates",Internet Retail,$1.642 T,"Amazon.com, Inc.",AMZN
+912, Mr. Sundar  Pichai,United States," 156,500"," OctoberÂ 2, 2015","MountainView,CA,UnitedStates",Internet Content & Information,$1.825 T,Alphabet Inc.,GOOG
+913, Mr. Amin H. Nasser,Saudi Arabia,,,"Dhahran,SaudiArabia",Oil & Gas Integrated,$2.297 T,Saudi Arabian Oil Company,2222
+914, Mr. Satya  Nadella,United States," 181,000"," AprilÂ 4, 1975","Redmond,WA,UnitedStates",SoftwareâInfrastructure,$2.328 T,Microsoft Corporation,MSFT
+915, Mr. Timothy D. Cook,United States," 100,000"," AprilÂ 1, 1976","Cupertino,CA,UnitedStates",Consumer Electronics,$2.825 T,Apple Inc.,AAPL
+916, Dr. Lisa T. Su Ph.D.,United States," 15,500"," MayÂ 1, 1969","SantaClara,CA,UnitedStates",Semiconductors,$128.29 B,"Advanced Micro Devices, Inc.",AMD
+917, Mr. John C. May II,United States," 75,550", 1837,"Moline,IL,UnitedStates",Farm & Heavy Construction Machinery,$130.31 B,Deere & Company,DE
+918, Mr. Paul  Hudson,France," 95,442", 1973,"Paris,France",Drug ManufacturersâGeneral,$132.29 B,Sanofi,SAN
+919, Mr. Daniel H. Schulman,United States," 30,900", DecemberÂ 1998,"SanJose,CA,UnitedStates",Credit Services,$133.92 B,"PayPal Holdings, Inc.",PYPL
+920, Mr. Christian  Klein,Germany," 107,415"," Weinheim, Germany1972","Walldorf,Germany",SoftwareâApplication,$134.19 B,SAP SE,SAP
+921, Mr. Bo  Yao,China," 355,982",,"Shenzhen,China",InsuranceâLife,$134.25 B,Ping An Insurance (Group) Company of China Ltd,601318
+922, Ms. Karen Sue Lynch,United States," 216,000", 1963,"Woonsocket,RI,UnitedStates",Healthcare Plans,$135.27 B,CVS Health Corporation,CVS
+923, Mr. Ryan M. Lance,United States," 9,900", 30Â August 2002,"Houston,TX,UnitedStates",Oil & Gas E&P,$136.32 B,ConocoPhillips,COP
+924, Mr. Darius E. Adamczyk,United States," 99,000", 1906,"Charlotte,NC,UnitedStates",Specialty Industrial Machinery,$136.48 B,Honeywell International Inc.,HON
+925, Mr. Patrick  PouyannÃÂ©,France," 105,476", 28Â March 1924,"Paris,France",Oil & Gas Integrated,$137.50 B,TotalEnergies SE,TTE
+926, Mr. Xin  Dong,Hong Kong," 449,934",,"HongKong,HongKong",Telecom Services,$139.30 B,China Mobile Ltd,0941
+927, Mr. Noel Paul Quinn,United Kingdom," 219,697", First established on 3Â March 1865,"London,UnitedKingdom",Banks,$140.15 B,HSBC Holdings plc,HSBA
+928,,China," 309,084",,"Beijing,China",Banks,$141.22 B,Bank of China Ltd,601988
+929, Mr. Robert A. Bradway,United States," 24,200"," AprilÂ 8, 1980","ThousandOaks,CA,UnitedStates",Drug ManufacturersâGeneral,$141.72 B,Amgen Inc.,AMGN
+930, Mr. Marvin R. Ellison,United States," 300,000"," MarchÂ 25, 1921","Mooresville,NC,UnitedStates",Home Improvement Retail,$143.77 B,"Lowe's Companies, Inc.",LOW
+931, Mr. Matthew  Comyn,Australia," 47,532", 22Â DecemberÂ 1911,"Sydney,NSW,Australia",Banks,$144.32 B,Commonwealth Bank of Australia,CBA
+932,,China," 432,003", 5Â November 1999,"Beijing,China",Oil & Gas Integrated,$144.50 B,PetroChina Company Limited,601857
+933, Mr. Bharat B. Masrani,Canada," 90,000", 1Â February 1955,"Toronto,ON,Canada",Banks,$145.41 B,Toronto-Dominion Bank,TD
+934,,France," 17,595", 1837,"Paris,France",Luxury Goods,$148.98 B,HermÃ¨s International SCA,RMS
+935, Mr. Stephen Joseph Squeri,United States," 64,000"," MarchÂ 18, 1850","NewYork,NY,UnitedStates",Credit Services,$150.76 B,American Express Company,AXP
+936, Mr. Gregory J. Hayes,United States," 174,000", 2020,"Waltham,MA,UnitedStates",Aerospace & Defense,$150.96 B,Raytheon Technologies Corporation,RTX
+937, Mr. Geoffrey Straub Martha,Ireland," 90,000", 2001Â ,"Dublin,Ireland",Medical Devices,$151.06 B,Medtronic plc,MDT
+938, Mr. Jacek  Olczak,United States," 69,600", 2008,"NewYork,NY,UnitedStates",Tobacco,$154.71 B,Philip Morris International Inc.,PM
+939, Mr. Walter William Bettinger II,United States," 33,400", 1971,"SanFrancisco,CA,UnitedStates",Capital Markets,$158.06 B,The Charles Schwab Corporation,SCHW
+940, Mr. David I. McKay,Canada," 85,211",,"Toronto,ON,Canada",Banks,$159.74 B,Royal Bank of Canada,RY
+941, Mr. Wilmot Reed Hastings Jr.,United States," 11,300"," AugustÂ 29, 1997","LosGatos,CA,UnitedStates",Entertainment,$163.19 B,"Netflix, Inc.",NFLX
+942, Mr. James Patrick Gorman,United States," 75,000", 1935,"NewYork,NY,UnitedStates",Capital Markets,$164.05 B,Morgan Stanley,MS
+943, Mr. G. Michael Sievert,United States," 75,000", 1994,"Bellevue,WA,UnitedStates",Telecom Services,$164.31 B,"T-Mobile US, Inc.",TMUS
+944,,China," 459,000",,"Beijing,China",Banks,$165.00 B,Agricultural Bank of China Ltd,601288
+945, Mr. John W. Ketchum,United States," 15,000", 1984,"JunoBeach,FL,UnitedStates",UtilitiesâRegulated Electric,$165.53 B,"NextEra Energy, Inc.",NEE
+946, Mr. Sanjiv  Lamba,United Kingdom," 72,327", 21Â June 1879,"Guildford,UnitedKingdom",Specialty Chemicals,$166.07 B,Linde plc,LIN
+947, Mr. Bob  van Dijk,Netherlands," 23,939",,"Amsterdam,Netherlands",Internet Content & Information,$170.00 B,Prosus N.V.,PRX
+948, Dr. Giovanni  Caforio M.D.,United States," 32,200", 1887,"NewYork,NY,UnitedStates",Drug ManufacturersâGeneral,$170.56 B,Bristol-Myers Squibb Company,BMY
+949, Mr. Richard K. Templeton,United States," 31,000", 1930,"Dallas,TX,UnitedStates",Semiconductors,$171.28 B,Texas Instruments Incorporated,TXN
+950, Mr. Cristiano Renno Amon,United States," 45,000", JulyÂ 1985,"SanDiego,CA,UnitedStates",Semiconductors,$172.25 B,Qualcomm Incorporated,QCOM
+951, Mr. John T. Stankey,United States," 203,000"," OctoberÂ 5, 1983","Dallas,TX,UnitedStates",Telecom Services,$175.88 B,AT&T Inc.,T
+952, Mr. Lance M. Fritz,United States," 29,905", 1969Â ,"Omaha,NE,UnitedStates",Railroads,$184.19 B,Union Pacific Corporation,UNP
+953,,China," 33,078",,"Ningde,China",Electrical Equipment & Parts,$185.67 B,Contemporary Amperex Technology Co. Ltd,300750
+954, Mr. Huiyu  Tian MPA,China," 103,669",,"Shenzhen,China",Banks,$185.98 B,China Merchants Bank Co Ltd,600036
+955, Mr. Christopher J. Kempczinski,United States," 100,000"," MayÂ 15, 1940","Chicago,IL,UnitedStates",Restaurants,$186.57 B,McDonald's Corporation,MCD
+956,,China," 373,814",,"Beijing,China",Banks,$189.37 B,China Construction Bank Corp,601939
+957, Ms. Carol B. Tome,United States," 267,890"," AugustÂ 28, 1907","Atlanta,GA,UnitedStates",Integrated Freight & Logistics,$190.50 B,"United Parcel Service, Inc.",UPS
+958, Mr. Marc R. Benioff,United States," 73,541"," FebruaryÂ 3, 1999","SanFrancisco,CA,UnitedStates",SoftwareâApplication,$193.80 B,"salesforce.com, inc.",CRM
+959, Mr. Shantanu  Narayen,United States," 25,988", DecemberÂ 1982,"SanJose,CA,UnitedStates",SoftwareâInfrastructure,$199.57 B,Adobe Inc.,ADBE
+960, Mr. Charles W. Scharf,United States," 247,848", 1929,"SanFrancisco,CA,UnitedStates",Banks,$200.01 B,Wells Fargo & Company,WFC
+961, Mr. Patrick P. Gelsinger,United States," 121,100"," JulyÂ 18, 1968","SantaClara,CA,UnitedStates",Semiconductors,$201.72 B,Intel Corporation,INTC
+962," Mr. Pascal  Soriot D.V.M., M.B.A.",United Kingdom," 83,100", 6Â April 1999,"Cambridge,UnitedKingdom",Drug ManufacturersâGeneral,$201.75 B,AstraZeneca plc,AZN
+963,,Switzerland," 104,323", MarchÂ 1996,"Basel,Switzerland",Drug ManufacturersâGeneral,$204.13 B,Novartis AG,NOVN
+964, Mr. Ben  Van Beurden,United Kingdom," 87,000",,"London,UnitedKingdom",Oil & Gas Integrated,$207.68 B,Shell plc,SHEL
+965, Mr. Guillaume M.J.D Faury,Netherlands," 121,056",,"Leiden,Netherlands",Aerospace & Defense,$97.41 B,Airbus SE,AIR
+966, Mr. Joaquim Silva e Luna,Brazil," 46,416", 3 October 1953,"RioDeJaneiro,RJ,Brazil",Oil & Gas Integrated,$98.37 B,PetrÃ³leo Brasileiro S.A. - Petrobras,PBR
+967, Mr. Oliver  Bate,Germany," 155,411",,"Munich,Germany",InsuranceâDiversified,$98.47 B,Allianz SE,ALV
+968, Mr. Evan G. Greenberg,Switzerland," 31,000"," Hamilton, Bermuda 1985","Zurich,Switzerland",InsuranceâProperty & Casualty,$98.57 B,Chubb Limited,CB
+969, Mr. Ola  Kallenius,Germany," 289,282",,"Stuttgart,Germany",Auto Manufacturers,$98.79 B,Daimler AG,DAI
+970, Mr. H. Lawrence Culp Jr.,United States," 168,000"," AprilÂ 15, 1892","Boston,MA,UnitedStates",Specialty Industrial Machinery,$99.22 B,General Electric Company,GE
+971, Mr. Fabrizio  Freda,United States," 44,640", 1946,"NewYork,NY,UnitedStates",Household & Personal Products,$100.16 B,The EstÃ©e Lauder Companies Inc.,EL
+972, Mr. Douglas L. Peterson M.B.A.,United States," 22,850", 1917,"NewYork,NY,UnitedStates",Financial Data & Stock Exchanges,$100.84 B,S&P Global Inc.,SPGI
+973, Mr. Kevin A. Lobo,United States," 46,000", 1941,"Kalamazoo,MI,UnitedStates",Medical Devices,$101.41 B,Stryker Corporation,SYK
+974, Mr. Jack Marie Henry David Bowles,United Kingdom," 54,365", 1902,"London,UnitedKingdom",Tobacco,$101.44 B,British American Tobacco plc,BATS
+975, Mr. William F. Gifford Jr.,United States," 6,000", 1985,"Richmond,VA,UnitedStates",Tobacco,$102.98 B,"Altria Group, Inc.",MO
+976, Mr. Jun  Sawada,Japan," 324,667",,"Tokyo,Japan",Telecom Services,$103.75 B,Nippon Telegraph & Telephone Corp,9432
+977, Mr. Yousef  Bin Abdullah Al-Benyan,Saudi Arabia,,,"Riyadh,SaudiArabia",Chemicals,$104.00 B,Saudi Basic Industries Corp,2010
+978, Mr. Chuan-Fu  Wang,China," 224,280",,"Shenzhen,China",Auto Manufacturers,$104.42 B,BYD Co Ltd,002594
+979, Mr. Thomas M. Rutledge,United States," 93,700", 1993,"Stamford,CT,UnitedStates",Entertainment,$104.97 B,"Charter Communications, Inc.",CHTR
+980, Mr. Brian  Chesky,United States," 6,132", AugustÂ 2008,"SanFrancisco,CA,UnitedStates",Internet Content & Information,$105.07 B,"Airbnb, Inc.",ABNB
+981,,Saudi Arabia," 15,078",,"Riyadh,SaudiArabia",Banks,$106.37 B,Al Rajhi Banking and Investment Corp,1120
+982, Mr. Salil Satish Parekh,India," 292,067", 2 July 1981,"Bengaluru,India",Information Technology Services,$106.77 B,Infosys Limited,INFY
+983, Mr. Brian C. Cornell,United States," 450,000"," JuneÂ 24, 1902","Minneapolis,MN,UnitedStates",Discount Stores,$106.89 B,Target Corporation,TGT
+984, Mr. William R. McDermott,United States," 16,881", 2003,"SantaClara,CA,UnitedStates",SoftwareâApplication,$107.99 B,"ServiceNow, Inc.",NOW
+985,,Brazil,,,"RiodeJaneiro,RJ,Brazil",Other Industrial Metals & Mining,$107.99 B,Vale SA,VALE3
+986, Mr. Kevin R. Johnson,United States," 383,000"," MarchÂ 30, 1971","Seattle,WA,UnitedStates",Restaurants,$108.19 B,Starbucks Corporation,SBUX
+987, Dr. Herbert  Diess,Germany," 645,318",,"Wolfsburg,Germany",Auto Manufacturers,$108.63 B,Volkswagen AG,VOW3
+988, Ms. Jane Nind Fraser,United States," 220,092"," OctoberÂ 8, 1998","NewYork,NY,UnitedStates",Banks,$109.56 B,Citigroup Inc.,C
+989, Ms. Emma N. Walmsley,United Kingdom," 90,096", DecemberÂ 2000,"Brentford,UnitedKingdom",Drug ManufacturersâGeneral,$109.98 B,GlaxoSmithKline plc,GSK
+990, Dr. Roland  Busch Dipl.Phys.,Germany," 303,000",,"Munich,Germany",Specialty Industrial Machinery,$114.66 B,Siemens AG,SIE
+991, Mr. Thomas A. Bartlett CPA,United States," 6,378", 1995,"Boston,MA,UnitedStates",REITâSpecialty,$115.11 B,American Tower Corporation (REIT),AMT
+992, Mr. Ivan M. Menezes,United Kingdom," 27,783",,"London,UnitedKingdom",BeveragesâWineries & Distilleries,$115.58 B,Diageo plc,DGE
+993, Mr. Sashidhar  Jagdishan,India," 134,412",,"Mumbai,India",Banks,$115.68 B,HDFC Bank Limited,HDB
+994, Mr. Laurence Douglas Fink,United States," 18,400", 1988,"NewYork,NY,UnitedStates",Asset Management,$115.98 B,"BlackRock, Inc.",BLK
+995, Mr. Alan W. Jope,United Kingdom," 148,012", 2Â September 1929,"London,UnitedKingdom",Household & Personal Products,$117.84 B,Unilever plc,ULVR
+996, Mr. Arvind  Krishna,United States," 282,100"," JuneÂ 16, 1911","Armonk,NY,UnitedStates",Information Technology Services,$119.20 B,International Business Machines Corporation,IBM
+997, Ms. Gail Koziara Boudreaux,United States," 98,200", Anthem and WellPoint Health Networks merger in 2004,"Indianapolis,IN,UnitedStates",Healthcare Plans,$119.80 B,"Anthem, Inc.",ANTM
+998, Mr. Gary E. Dickerson,United States," 28,500"," NovemberÂ 10, 1967","SantaClara,CA,UnitedStates",Semiconductor Equipment & Materials,$121.12 B,"Applied Materials, Inc.",AMAT
+999, Mr. Hamid R. Moghadam,United States," 2,053", 1983,"SanFrancisco,CA,UnitedStates",REITâIndustrial,$121.20 B,"Prologis, Inc.",PLD

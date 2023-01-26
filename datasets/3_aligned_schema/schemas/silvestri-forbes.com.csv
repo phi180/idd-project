@@ -1,0 +1,1001 @@
+,company_country,company_name
+0,united states,berkshire hathaway
+1,china,icbc
+2,saudi arabia,saudi arabian oil company (saudi aramco)
+3,united states,jpmorgan chase
+4,china,china construction bank
+5,united states,amazon
+6,united states,apple
+7,china,agricultural bank of china
+8,united states,bank of america
+9,japan,toyota motor
+10,united states,alphabet
+11,united states,microsoft
+12,china,bank of china
+13,south korea,samsung group
+14,united states,exxonmobil
+15,united kingdom,shell
+16,china,ping an insurance group
+17,united states,wells fargo
+18,united states,verizon communications
+19,united states,at&t
+20,china,petrochina
+21,united states,unitedhealth group
+22,united states,walmart
+23,china,china merchants bank
+24,germany,volkswagen group
+25,united states,chevron
+26,united states,citigroup
+27,china,tencent holdings
+28,france,total
+29,china,postal savings bank of china (psbc)
+30,hong kong,china mobile
+31,united states,comcast
+32,china,alibaba group
+33,united states,meta platforms
+34,germany,allianz
+35,united states,morgan stanley
+36,united states,goldman sachs group
+37,united kingdom,hsbc holdings
+38,france,bnp paribas
+39,united states,johnson & johnson
+40,germany,mercedes-benz group
+41,united states,cvs health
+42,united states,pfizer
+43,japan,softbank
+44,china,sinopec
+45,canada,rbc
+46,switzerland,nestlÃ©
+47,france,axa group
+48,russia,gazprom
+49,united kingdom,bp
+50,united states,intel
+51,canada,td bank group
+52,japan,nippon telegraph & tel
+53,india,reliance industries
+54,china,industrial bank
+55,japan,sony
+56,spain,santander
+57,japan,mitsubishi ufj financial
+58,taiwan,taiwan semiconductor
+59,canada,ford motor
+60,france,lvmh moÃ«t hennessy louis vuitton
+61,china,bank of communications
+62,united states,procter & gamble
+63,germany,bmw group
+64,brazil,petrobras
+65,germany,deutsche telekom
+66,united states,abbvie
+67,switzerland,novartis
+68,united states,general motors
+69,norway,equinor
+70,china,china life insurance
+71,switzerland,roche holding
+72,hong kong,aia group
+73,united states,metlife
+74,australia,bhp group
+75,canada,the home depot
+76,united states,american express
+77,germany,siemens
+78,netherlands,stellantis
+79,switzerland,zurich insurance group
+80,russia,rosneft
+81,united kingdom,rio tinto
+82,canada,brookfield asset management
+83,united states,cigna
+84,united states,prudential financial
+85,united states,pepsico
+86,united states,merck & co.
+87,united states,elevance health
+88,canada,bank of nova scotia
+89,united states,american international group
+90,switzerland,glencore international
+91,united states,cisco systems
+92,belgium,anheuser-busch inbev
+93,united states,walt disney
+94,switzerland,chubb
+95,hong kong,citic
+96,united kingdom,lloyds banking group
+97,united states,ibm
+98,france,sanofi
+99,united states,united parcel service
+100,united kingdom,british american tobacco
+101,switzerland,ubs
+102,japan,honda motor
+103,japan,mitsubishi
+104,china,china state construction engineering
+105,india,state bank of india
+106,australia,commonwealth bank
+107,china,shanghai pudong development
+108,united states,raytheon technologies
+109,italy,enel
+110,italy,eni
+111,united states,capital one
+112,united states,bristol myers squibb
+113,united states,coca-cola
+114,united states,oracle
+115,russia,sberbank
+116,canada,bank of montreal
+117,brazil,vale
+118,france,edf
+119,united states,thermo fisher scientific
+120,france,credit agricole
+121,netherlands,airbus
+122,united states,costco wholesale
+123,taiwan,hon hai precision
+124,united kingdom,unilever
+125,united states,charter communications
+126,japan,sumitomo mitsui financial
+127,united states,conocophillips
+128,united kingdom,glaxosmithkline
+129,italy,intesa sanpaolo
+130,canada,manulife
+131,united states,us bancorp
+132,germany,basf
+133,hong kong,cnooc
+134,united states,abbott laboratories
+135,spain,iberdrola
+136,china,china shenhua energy
+137,brazil,itaÃº unibanco holding
+138,united states,caterpillar
+139,japan,mitsui
+140,japan,itochu
+141,united states,charles schwab
+142,united states,truist financial
+143,canada,enbridge
+144,japan,hitachi
+145,japan,kddi
+146,south korea,hyundai motor
+147,china,china citic bank
+148,united states,visa
+149,united states,target
+150,spain,bbva-banco bilbao vizcaya
+151,united states,tesla
+152,united states,deere & company
+153,india,hdfc bank
+154,united kingdom,barclays
+155,germany,munich re
+156,japan,japan post holdings
+157,united states,walgreens
+158,united states,danaher
+159,italy,generali group
+160,denmark,mÃ¸ller-maersk
+161,united states,lowe's
+162,united states,fedex
+163,germany,deutsche post
+164,united states,pnc financial services
+165,united states,broadcom
+166,russia,lukoil
+167,ireland,medtronic
+168,germany,sap
+169,south korea,sk hynix
+170,france,engie
+171,united states,lockheed martin
+172,united states,blackrock
+173,australia,westpac banking group
+174,united states,duke energy
+175,united states,dell technologies
+176,france,vinci
+177,japan,tokio marine holdings
+178,mexico,amÃ©rica mÃ³vil
+179,germany,e.on
+180,united kingdom,anglo american
+181,brazil,banco bradesco
+182,netherlands,ing group
+183,ireland,accenture
+184,united states,honeywell international
+185,japan,mizuho financial
+186,united kingdom,linde
+187,luxembourg,arcelormittal
+188,canada,canadian imperial bank
+189,china,poly developments & holdings group
+190,united states,micron technology
+191,australia,anz
+192,taiwan,fubon financial
+193,china,china telecom
+194,united states,hca healthcare
+195,united states,dow
+196,spain,telefÃ³nica
+197,china,china vanke
+198,australia,nab - national australia bank
+199,taiwan,cathay financial
+200,united states,qualcomm
+201,france,l'orÃ©al
+202,canada,allstate
+203,china,saic motor
+204,india,icici bank
+205,china,china everbright bank
+206,united states,gilead sciences
+207,china,china pacific insurance
+208,united states,nvidia
+209,united states,amgen
+210,united states,union pacific
+211,japan,dai-ichi life insurance
+212,canada,nike
+213,japan,takeda pharmaceutical
+214,united states,philip morris international
+215,united states,paypal
+216,hong kong,china resources land
+217,singapore,oversea-chinese banking
+218,china,midea group
+219,united states,travelers
+220,united states,eli lilly
+221,united states,mondelez international
+222,united states,mcdonald's
+223,canada,general electric
+224,france,sociÃ©tÃ© gÃ©nÃ©rale
+225,france,schneider electric
+226,united states,3m
+227,united states,aflac
+228,india,oil & natural gas
+229,united states,southern company
+230,germany,deutsche bank
+231,thailand,ptt
+232,hong kong,ck hutchison
+233,canada,canadian natural resources
+234,canada,sun life financial
+235,united states,northrop grumman
+236,united states,archer daniels midland
+237,united states,marathon petroleum
+238,china,china minsheng bank
+239,united kingdom,legal & general group
+240,united states,netflix
+241,united states,progressive
+242,china,longfor group holdings
+243,singapore,dbs
+244,china,cosco shipping
+245,china,china communications construction
+246,united kingdom,natwest group
+247,united states,exelon
+248,united states,humana
+249,united states,general dynamics
+250,canada,power corp of canada
+251,qatar,qatar national bank
+252,germany,bayer
+253,united states,kkr
+254,china,country garden holdings
+255,united states,nextera energy
+256,south korea,kb financial group
+257,china,china railway group
+258,united states,hp
+259,finland,nordea bank
+260,japan,seven & i holdings
+261,canada,suncor energy
+262,united states,salesforce.com
+263,france,air liquide
+264,japan,denso
+265,united states,bank of new york mellon
+266,united states,mastercard
+267,brazil,banco do brasil
+268,united states,centene
+269,india,hdfc
+270,united states,freeport-mcmoran
+271,germany,"merck kgaa, darmstadt, germany and its affiliates"
+272,spain,caixabank
+273,switzerland,abb
+274,sweden,volvo group
+275,united states,occidental petroleum
+276,united kingdom,national grid
+277,united states,mckesson
+278,south korea,shinhan financial group
+279,netherlands,asml holding
+280,canada,nutrien
+281,sweden,investor ab
+282,south korea,kia
+283,france,saint-gobain
+284,denmark,novo nordisk
+285,south korea,posco
+286,united kingdom,diageo
+287,netherlands,royal ahold delhaize n.v.
+288,china,picc
+289,united states,dominion energy
+290,united states,kroger
+291,china,baoshan iron & steel
+292,china,kweichow moutai
+293,china,xiaomi
+294,china,bank of ningbo
+295,colombia,ecopetrol
+296,united kingdom,lyondellbasell industries
+297,china,contemporary amperex technology
+298,italy,unicredit
+299,united states,amerisourcebergen
+300,france,essilorluxottica
+301,spain,inditex
+302,united states,starbucks
+303,united states,nucor
+304,united states,intercontinentalexchange
+305,united states,tjx cos
+306,belgium,kbc group
+307,united kingdom,tesco
+308,china,boe technology group
+309,united states,blackstone
+310,united states,american electric
+311,australia,macquarie group
+312,japan,marubeni
+313,switzerland,swiss re
+314,united states,eog resources
+315,france,cnp assurances
+316,united states,automatic data processing
+317,united states,phillips 66
+318,united states,tyson foods
+319,spain,repsol
+320,japan,sumitomo
+321,switzerland,holcim
+322,united states,altria group
+323,united states,applied materials
+324,germany,daimler truck holding
+325,china,zijin mining group
+326,saudi arabia,the saudi national bank
+327,switzerland,richemont
+328,france,kering
+329,saudi arabia,saudi electricity
+330,france,danone
+331,japan,nippon steel
+332,south korea,lg chem
+333,united states,discover financial services
+334,canada,couche tard
+335,china,huaxia bank
+336,netherlands,nn group
+337,united states,fannie mae
+338,germany,fresenius
+339,united states,marsh & mclennan
+340,united states,ameriprise financial
+341,united states,becton dickinson
+342,japan,panasonic
+343,japan,ms&ad insurance
+344,japan,orix
+345,china,citic securities
+346,united arab emirates,first abu dhabi bank
+347,canada,bce
+348,united states,schlumberger
+349,united states,texas instruments
+350,indonesia,bank rakyat indonesia (bri)
+351,united kingdom,standard chartered
+352,ireland,crh
+353,china,bank of beijing
+354,united states,paramount
+355,china,bank of jiangsu
+356,united states,dupont de nemours
+357,china,gree electric appliances
+358,india,indian oil
+359,united states,dollar general
+360,united states,kraft heinz company
+361,singapore,wilmar international
+362,united states,freddie mac
+363,united states,hewlett packard enterprise
+364,japan,japan tobacco
+365,italy,poste italiane
+366,singapore,united overseas bank
+367,hong kong,china unicom
+368,united states,valero energy
+369,united states,csx
+370,denmark,danske bank
+371,australia,fortescue metals group
+372,china,china railway construction
+373,united states,moderna
+374,australia,woolworths
+375,china,anhui conch cement
+376,united states,adobe
+377,united states,hartford financial services
+378,united states,state street
+379,saudi arabia,al rajhi bank
+380,china,power construction corporation of china
+381,japan,shin-etsu chemical
+382,united states,fiserv
+383,united states,regeneron pharmaceuticals
+384,japan,eneos holdings
+385,india,tata consultancy services
+386,japan,sompo
+387,austria,omv group
+388,switzerland,swiss life holding
+389,china,bank of shanghai
+390,united states,american tower
+391,united states,pioneer natural resources
+392,hong kong,sun hung kai properties
+393,china,wanhua chemical group
+394,finland,sampo
+395,china,china merchants shekou industrial zone holdings
+396,china,haier smart home
+397,ireland,eaton
+398,south korea,sk
+399,ireland,johnson controls international
+400,brazil,jbs
+401,saudi arabia,saudi telecom
+402,bermuda,jardine matheson
+403,canada,canadian national railway
+404,united states,stryker
+405,finland,nokia
+406,japan,mitsubishi electric
+407,japan,nissan motor
+408,india,tata steel
+409,netherlands,heineken
+410,united kingdom,bae systems
+411,united arab emirates,etisalat
+412,united kingdom,bt group
+413,taiwan,ctbc financial
+414,russia,novatek
+415,china,greenland holdings group
+416,germany,rwe group
+417,japan,daikin industries
+418,netherlands,aegon
+419,china,baidu
+420,sweden,ericsson
+421,japan,canon
+422,united states,lennar
+423,china,bank of nanjing
+424,netherlands,philips
+425,united states,keurig dr pepper
+426,china,china yangtze power
+427,norway,dnb bank
+428,united states,emerson electric
+429,united kingdom,imperial brands
+430,canada,boeing
+431,united states,general mills
+432,india,axis bank
+433,canada,national bank of canada
+434,united states,the estÃ©e lauder companies
+435,united kingdom,cnh industrial
+436,canada,fairfax financial
+437,germany,adidas
+438,france,michelin group
+439,united states,norfolk southern
+440,united states,principal financial group
+441,united states,sempra
+442,finland,fortum
+443,mexico,grupo mexico
+444,united states,d.r. horton
+445,united states,l3harris technologies
+446,south africa,naspers
+447,south africa,standard bank group
+448,canada,tc energy
+449,russia,norilsk nickel
+450,spain,naturgy energy group
+451,canada,waste management
+452,germany,henkel
+453,taiwan,mediatek
+454,japan,recruit holdings
+455,china,hengli petrochemical
+456,united states,xcel energy
+457,united states,corteva
+458,united states,synchrony financial
+459,japan,toyota tsusho
+460,japan,toyota industries
+461,united kingdom,astrazeneca
+462,china,sunac china holdings
+463,china,china evergrande group
+464,japan,bridgestone
+465,united arab emirates,emirates nbd
+466,japan,daiwa house industry
+467,china,jd.com
+468,united states,kinder morgan
+469,china,china national building
+470,united states,fifth third bank
+471,south africa,firstrand
+472,france,carrefour
+473,japan,fujitsu
+474,sweden,seb ab
+475,russia,surgutneftegas
+476,china,new china life insurance
+477,canada,barrick gold
+478,denmark,dsv panalpina
+479,germany,talanx
+480,united kingdom,vodafone
+481,japan,nintendo
+482,south korea,hana financial group
+483,south korea,hyundai mobis
+484,india,ntpc
+485,malaysia,maybank
+486,united states,cme group
+487,united arab emirates,taqa
+488,france,pernod ricard
+489,indonesia,bank mandiri
+490,mexico,femsa
+491,united states,paccar
+492,united states,consolidated edison
+493,japan,mitsui fudosan
+494,taiwan,evergreen marine corp. (taiwan)
+495,japan,komatsu
+496,china,shaanxi coal industry
+497,hong kong,lenovo group
+498,japan,fast retailing
+499,united kingdom,london stock exchange
+500,germany,vonovia
+501,united kingdom,aviva
+502,united states,sherwin-williams
+503,japan,fujifilm holdings
+504,united states,intuit
+505,united states,lam research
+506,austria,erste group bank
+507,united states,lincoln national
+508,united states,carrier global
+509,united states,dish network
+510,china,china coal energy
+511,germany,continental
+512,russia,vtb bank
+513,japan,murata manufacturing
+514,india,larsen & toubro
+515,united states,ally financial
+516,china,netease
+517,indonesia,bank central asia
+518,sweden,volvo car
+519,canada,intact financial
+520,denmark,orsted
+521,united states,cummins
+522,united states,williams
+523,france,capgemini
+524,united states,prologis
+525,france,thales
+526,france,bouygues
+527,mexico,banorte
+528,hong kong,ck asset holdings
+529,france,orange
+530,switzerland,kuehne & nagel international
+531,united states,bunge
+532,south korea,samsung life insurance
+533,united states,vmware
+534,united states,albertsons
+535,china,crrc
+536,united states,cbre group
+537,japan,toshiba
+538,south korea,samsung c&t
+539,india,infosys
+540,united kingdom,prudential
+541,china,yankuang energy group
+542,canada,canadian pacific railway
+543,united states,loews
+544,japan,tokyo electron
+545,south korea,lg electronics
+546,australia,csl
+547,canada,magna international
+548,united states,analog devices
+549,japan,kubota
+550,united states,air products & chemicals
+551,united states,newmont mining
+552,switzerland,te connectivity
+553,ireland,aon
+554,canada,telus
+555,united states,dollar tree
+556,united states,keycorp
+557,united kingdom,wtw
+558,china,china zheshang bank
+559,australia,wesfarmers
+560,japan,suzuki motor
+561,united states,best buy
+562,united states,svb financial group
+563,united states,advanced micro devices
+564,united states,markel
+565,china,muyuan foodstuff
+566,united states,kimberly-clark
+567,sweden,swedbank
+568,united states,cognizant
+569,united states,corning
+570,germany,infineon technologies
+571,united states,citizens financial group
+572,united states,devon energy
+573,japan,asahi group holdings
+574,india,jsw steel
+575,united states,lumen technologies
+576,united states,regions financial
+577,sweden,svenska handelsbanken
+578,united states,raymond james financial
+579,china,byd
+580,united states,illinois tool works
+581,china,pinduoduo
+582,united states,activision blizzard
+583,united kingdom,liberty global
+584,united states,colgate-palmolive
+585,united kingdom,sse
+586,taiwan,nan ya plastics
+587,france,vivendi
+588,united states,baxter international
+589,china,fosun international
+590,china,weichai power
+591,united states,fidelity national financial
+592,united states,parker-hannifin
+593,india,vedanta limited
+594,south korea,woori financial group
+595,united states,sysco
+596,australia,telstra
+597,switzerland,credit suisse group
+598,canada,rogers communications
+599,united states,m&t bank
+600,united states,boston scientific
+601,united states,edison international
+602,france,financiere de l'odet
+603,japan,sumitomo mitsui trust
+604,united states,entergy
+605,switzerland,swisscom
+606,germany,enbw-energie baden
+607,china,hikvision
+608,japan,nippon yusen
+609,united states,stanley black & decker
+610,united states,oneok
+611,united states,marriott international
+612,united states,warner bros. discovery
+613,china,s.f. holding
+614,united states,delta air lines
+615,india,bharat petroleum
+616,united states,halliburton
+617,china,metallurgical corp of china
+618,united states,northern trust
+619,germany,heidelbergcement
+620,taiwan,china steel
+621,united states,eversource energy
+622,china,sany heavy industry
+623,france,hermÃ¨s international
+624,united states,international paper
+625,turkey,koÃ§ holding
+626,japan,nidec
+627,china,meituan
+628,india,kotak mahindra bank
+629,canada,teck resources
+630,united states,southwest airlines
+631,germany,deutsche boerse
+632,united states,labcorp
+633,china,china tower corp.
+634,japan,inpex
+635,united kingdom,coca-cola european partners
+636,china,wuliangye yibin
+637,hong kong,shimao property holdings
+638,japan,idemitsu kosan
+639,taiwan,formosa petrochemical
+640,united states,crown castle international
+641,united states,firstenergy
+642,china,rongsheng petrochemical
+643,india,hindalco industries
+644,china,bank of hangzhou
+645,france,renault
+646,united arab emirates,international holding company
+647,united states,cincinnati financial
+648,japan,mitsubishi estate
+649,united states,cleveland-cliffs
+650,spain,grupo acs
+651,china,cgn power
+652,taiwan,ase technology holding
+653,japan,jfe holdings
+654,united states,dte energy
+655,china,china hongqiao group
+656,netherlands,nxp semiconductors
+657,united states,western digital
+658,united states,booking holdings
+659,japan,aeon
+660,united states,first republic bank
+661,china,lufax holding
+662,sweden,atlas copco
+663,united states,fidelity national information (fis)
+664,japan,mitsubishi chemical
+665,portugal,edp-energias de portugal
+666,japan,kyocera
+667,china,xiamen c&d
+668,united states,autozone
+669,hong kong,china taiping insurance
+670,canada,cenovus energy
+671,finland,neste
+672,germany,porsche automobil holding
+673,sweden,h&m - hennes & mauritz
+674,united kingdom,relx
+675,united states,pg&e
+676,united states,republic services
+677,united states,ross stores
+678,united states,wec energy group
+679,united states,cardinal health
+680,united states,carmax
+681,taiwan,china development financial
+682,saudi arabia,riyad bank
+683,united states,thomson reuters
+684,russia,transneft
+685,united kingdom,ferguson
+686,united states,iqvia
+687,hong kong,hong kong exchanges
+688,united states,ppg
+689,china,legend holding
+690,united states,ecolab
+691,china,sinopharm group
+692,china,luxshare precision industry
+693,china,seazen group
+694,united states,global payments
+695,china,china energy engineering
+696,france,safran
+697,united states,s&p global
+698,united states,huntington bank
+699,bermuda,arch capital group
+700,united states,jackson financial
+701,israel,bank leumi
+702,ireland,trane technologies
+703,france,veolia environnement
+704,united states,o'reilly automotive
+705,united states,biogen
+706,france,publicis groupe
+707,south korea,hanwha
+708,united states,the mosaic company
+709,india,bharti airtel
+710,china,daqin railway
+711,united states,uber
+712,switzerland,stmicroelectronics
+713,china,gemdale
+714,belgium,ageas
+715,taiwan,quanta computer
+716,canada,george weston
+717,united states,weyerhaeuser
+718,south korea,korea electric power
+719,united states,fox
+720,japan,mitsubishi heavy industries
+721,united states,steel dynamics
+722,japan,keyence
+723,china,longi green energy technology
+724,united kingdom,reckitt benckiser group
+725,india,coal india
+726,japan,aisin seiki
+727,united states,digital realty trust
+728,india,tata motors
+729,japan,resona holdings
+730,united states,simon property group
+731,south korea,industrial bank of korea
+732,hong kong,clp holdings
+733,kuwait,national bank of kuwait
+734,singapore,singtel
+735,united states,coinbase
+736,united states,centerpoint energy
+737,saudi arabia,saudi arabian mining
+738,china,china cinda asset management
+739,japan,asahi kasei
+740,japan,nec
+741,united states,united airlines holdings
+742,united states,mgm resorts
+743,netherlands,dsm
+744,indonesia,telkom indonesia
+745,poland,pkn orlen
+746,china,guotai junan securities
+747,norway,norsk hydro
+748,taiwan,formosa plastics
+749,united states,nrg energy
+750,malaysia,public bank
+751,china,tcl
+752,china,huatai securities
+753,united states,kellogg
+754,china,inner mongolia yili
+755,united kingdom,wpp
+756,united states,omnicom group
+757,japan,sekisui house
+758,united states,cheniere energy
+759,sweden,sandvik
+760,thailand,siam cement
+761,japan,east japan railway
+762,united arab emirates,abu dhabi commercial bank
+763,china,huishang bank
+764,china,great wall motor
+765,china,haitong securities
+766,china,dongfeng motor group
+767,china,china reinsurance group
+768,hong kong,henderson land
+769,south korea,samsung sdi
+770,canada,fortis (canada)
+771,south korea,sk telecom
+772,netherlands,hal trust
+773,brazil,banco btg pactual
+774,united states,baker hughes company
+775,united states,gallagher
+776,bermuda,everest re group
+777,united states,amphenol
+778,united states,american airlines group
+779,united states,kla
+780,japan,astellas pharma
+781,japan,otsuka holding
+782,china,china bohai bank
+783,thailand,kasikornbank
+784,israel,bank hapoalim
+785,australia,woodside petroleum
+786,hong kong,mtr
+787,russia,tatneft
+788,india,power finance
+789,united states,zoetis
+790,switzerland,lonza group
+791,france,eiffage
+792,japan,sumitomo chemical
+793,united states,vertex pharmaceuticals
+794,united states,constellation energy
+795,china,cifi holdings group
+796,austria,raiffeisen bank international
+797,united states,whirlpool
+798,germany,siemens energy
+799,united states,westrock
+800,south korea,samsung fire & marine
+801,united states,us steel
+802,finland,upm-kymmene
+803,taiwan,formosa chemicals
+804,south korea,sk innovation
+805,sweden,telia
+806,japan,t&d holdings
+807,spain,mapfre
+808,india,hcl technologies
+809,japan,sumitomo realty
+810,united states,westlake chemical
+811,united states,apollo global management
+812,united states,united rentals
+813,united states,diamondback energy
+814,united states,otis worldwide
+815,china,chongqing rural bank
+816,united states,ball
+817,finland,stora enso
+818,taiwan,yang ming marine transport
+819,united kingdom,phoenix group holdings
+820,india,wipro
+821,india,power grid of india
+822,south africa,absa group
+823,russia,novolipetsk steel
+824,japan,sumitomo electric
+825,united kingdom,st. james's place
+826,india,grasim industries
+827,united kingdom,segro
+828,taiwan,mega financial holding
+829,china,zhongsheng group holdings
+830,taiwan,shin kong financial
+831,united states,cms energy
+832,chile,quinenco
+833,germany,evonik industries
+834,china,east money information
+835,australia,qbe insurance group
+836,malaysia,tenaga nasional
+837,south korea,naver
+838,japan,tdk
+839,japan,nomura
+840,china,jinke property group
+841,japan,tokyo electric power
+842,united states,cdw
+843,united states,the hershey company
+844,india,itc
+845,poland,pgnig group
+846,south africa,mtn group
+847,united kingdom,compass group
+848,united states,wr berkley
+849,united states,moody's
+850,united states,genuine parts
+851,china,beijing-shanghai high-speed railway
+852,china,aluminum corp of china
+853,japan,kansai electric power
+854,united states,public storage
+855,china,china international travel service
+856,switzerland,sika
+857,united states,signature bank
+858,united states,t rowe price
+859,united states,international flavors & fragrances
+860,italy,atlantia
+861,united states,roper technologies
+862,china,shanghai international port
+863,japan,daiichi sankyo
+864,japan,rakuten
+865,united states,franklin resources
+866,ireland,bank of ireland
+867,japan,mitsui osk lines
+868,saudi arabia,saudi british bank
+869,united states,ameren
+870,taiwan,chunghwa telecom
+871,sweden,assa abloy
+872,china,zte
+873,netherlands,asr nederland
+874,united states,conagra brands
+875,germany,commerzbank
+876,india,bajaj finserv
+877,south korea,hyundai steel
+878,south korea,lg display
+879,south korea,kt
+880,china,logan property holdings
+881,united states,public service enterprise group
+882,russia,en+ group international
+883,turkey,isbank
+884,united states,expeditors international
+885,luxembourg,ternium
+886,czech republic,cez group
+887,japan,isuzu motors
+888,japan,renesas electronics
+889,netherlands,universal music group
+890,italy,unipol gruppo
+891,japan,sbi holdings
+892,hong kong,techtronic industries
+893,spain,ferrovial
+894,malaysia,cimb group holdings
+895,finland,kone
+896,south korea,e-mart
+897,china,gf securities
+898,china,china merchants securities
+899,united states,annaly capital management
+900,australia,coles group
+901,japan,central japan railway
+902,turkey,sabanci holding
+903,taiwan,yuanta financial holding
+904,chile,antarchile
+905,south korea,hmm
+906,ireland,seagate technology
+907,united states,alleghany
+908,china,guosen securities
+909,united states,avis budget group
+910,china,jiangxi copper
+911,japan,mitsubishi ufj lease
+912,japan,sumitomo metal mining
+913,taiwan,asustek computer
+914,united kingdom,associated british foods
+915,china,china national nuclear power
+916,china,china international capital
+917,china,china molybdenum
+918,united states,equitable holdings
+919,germany,covestro
+920,united kingdom,m&g
+921,canada,shopify
+922,china,shanghai construction
+923,sweden,essity
+924,united states,ww grainger
+925,india,canara bank
+926,united states,viatris
+927,united states,american water works
+928,taiwan,united microelectronics
+929,united states,vf
+930,united states,intuitive surgical
+931,italy,snam
+932,denmark,vestas wind systems
+933,japan,subaru
+934,china,jiangsu zhongnan construction group
+935,denmark,carlsberg
+936,united states,builders firstsource
+937,china,semiconductor manufacturing international
+938,poland,pko bank polski
+939,china,enn energy holdings
+940,hong kong,wh group
+941,united kingdom,amcor
+942,south korea,korea gas
+943,united states,jefferies financial
+944,russia,severstal
+945,united states,alexandria real estate equities
+946,switzerland,julius baer group
+947,south africa,sanlam
+948,united arab emirates,emaar properties
+949,vietnam,joint stock commercial bank for foreign trade of vietnam
+950,united states,motorola solutions
+951,china,shanghai rural commercial bank
+952,brazil,braskem
+953,india,bank of baroda
+954,south korea,s-oil
+955,united states,tractor supply
+956,australia,suncorp group
+957,hungary,mol hungarian oil
+958,ireland,aptiv
+959,united states,voya financial
+960,south korea,gs holdings
+961,brazil,gerdau (cosigua)
+962,united states,equity residential
+963,qatar,qatar islamic bank
+964,united states,hormel foods
+965,china,shenwan hongyuan group
+966,united states,reinsurance group of america
+967,united states,quest diagnostics
+968,belgium,solvay
+969,canada,pembina pipeline
+970,saudi arabia,banque saudi fransi
+971,japan,smc
+972,south africa,sasol
+973,united states,molson coors brewing
+974,united states,macy's
+975,colombia,bancolombia
+976,united states,cintas
+977,china,china international marine
+978,china,huaneng power international
+979,canada,restaurant brands international
+980,poland,grupa pzu
+981,japan,kao
+982,china,agile group holdings
+983,united states,arrow electronics
+984,china,shenzhen overseas
+985,united states,tenet healthcare
+986,colombia,grupo aval
+987,thailand,cp all
+988,hong kong,geely automobile holdings
+989,united kingdom,centrica
+990,united arab emirates,dubai islamic bank
+991,brazil,suzano papel e celulose
+992,hong kong,link reit
+993,canada,yum! brands
+994,canada,first quantum minerals
+995,ireland,aercap holdings
+996,united states,first horizon
+997,japan,dentsu
+998,united states,molina healthcare
+999,india,union bank of india

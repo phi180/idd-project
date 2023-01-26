@@ -1,0 +1,1001 @@
+,company_country,company_name,company_industry
+0,finland,swappie,technology
+1,lithuania,kilo health,health
+2,uk,oci,financial services
+3,uk,onlyfans,technology
+4,germany,enpal,energy
+5,germany,mr consulting,waste management & recycling
+6,uk,thriva,health
+7,france,exotec,industrial goods
+8,italy,winelivery,ecommerce
+9,sweden,instabox,technology
+10,austria,waterdrop,food & beverage
+11,france,one lease,support services
+12,italy,datlas*,technology
+13,uk,zego,fintech
+14,germany,hcl-logistics,transport
+15,uk,popsa,technology
+16,switzerland,unit8,technology
+17,finland,luoto company,technology
+18,austria,journi print,ecommerce
+19,france,portify,support services
+20,norway,tibber,energy
+21,poland,rascal industry,fashion
+22,italy,pegaso security,support services
+23,uk,tide,fintech
+24,italy,euro top brand,retail
+25,uk,bold security group,support services
+26,norway,play magnus group,games industry
+27,uk,blue whale growth fund,financial services
+28,belgium,kazidomi,ecommerce
+29,latvia,sun finance,fintech
+30,italy,credimi,financial services
+31,germany,sirplus,retail
+32,the netherlands,aihr | academy to innovate hr,education
+33,luxembourg,logistics capital partners (lcp),property
+34,germany,sÃ¼dwest invest,property
+35,france,corade (plurimmo),property
+36,spain,carranco,food & beverage
+37,poland,telemedi,health
+38,germany,inkitt,technology
+39,italy,h.k.trading,retail
+40,uk,attest,technology
+41,france,lgm immobilier,property
+42,the netherlands,wolfram chain*,management consulting
+43,germany,rightnow,technology
+44,uk,eo charging,technology
+45,italy,chetariffa.it,support services
+46,uk,simply,financial services
+47,uk,salary finance,fintech
+48,sweden,dbt,fintech
+49,poland,tutlo,education
+50,france,ponera,ecommerce
+51,greece,active energy solutions,energy
+52,france,acteam enr,energy
+53,uk,everflow,technology
+54,uk,azure prism,retail
+55,germany,wr logistics,transport
+56,uk,iproov,technology
+57,italy,spin up,advertising
+58,germany,begreat,retail
+59,italy,tsunami nutrition*,ecommerce
+60,the netherlands,matt sleeps,interiors
+61,uk,tessian,technology
+62,germany,solarisbank,financial services
+63,france,m2dg (myflexoffice),support services
+64,italy,eukon,health
+65,italy,evolution adv,advertising
+66,spain,making science,technology
+67,italy,everli,ecommerce
+68,finland,appfollow,technology
+69,poland,synerise,technology
+70,poland,chaikola,food & beverage
+71,germany,scolution,technology
+72,france,jl&p,energy
+73,italy,efarma.com,pharmaceuticals
+74,uk,elvie,technology
+75,italy,farmarelax,personal & household goods
+76,uk,omnisend,technology
+77,italy,world trade group,fashion
+78,france,besteam conseil,technology
+79,uk,motorway,automobiles
+80,germany,iso public services,technology
+81,uk,octopus energy,energy
+82,uk,cyberiam*,cyber security
+83,italy,cbweed*,personal & household goods
+84,portugal,catraport,automobiles
+85,france,ouihelp,support services
+86,denmark,inpay,fintech
+87,italy,m.g.i. meccaniche generali irpine,industrial goods
+88,uk,glencar construction,construction
+89,uk,qmee,technology
+90,italy,myappfree,advertising
+91,germany,investa dienstleistungen,support services
+92,sweden,polarium energy solutions,batteries
+93,italy,baroni home,ecommerce
+94,uk,dayshape,technology
+95,italy,marketers company,advertising
+96,spain,easo magno,beauty
+97,germany,greyfood,retail
+98,uk,misfits health,food & beverage
+99,france,meilleursbiens.com,property
+100,uk,fasanara capital,financial services
+101,cyprus,ntechlab,technology
+102,italy,babylino sensitive,personal & household goods
+103,the netherlands,fastned,technology
+104,portugal,oxray,health
+105,germany,zega invest,property
+106,hungary,abylon consulting,technology
+107,norway,milrab,ecommerce
+108,belgium,urbantz,technology
+109,uk,tricas construction,construction
+110,italy,florence one,technology
+111,germany,ergotopia,retail
+112,hungary,mcule.com kft.,chemicals & pharmaceuticals
+113,italy,filo,technology
+114,italy,homepal,property
+115,germany,staffbase,technology
+116,france,ilon materiel,construction
+117,ireland,bio-marine,personal & household goods
+118,france,isodeco,construction
+119,italy,treedom,support services
+120,germany,fenstermaxx24,retail
+121,germany,pohl & sÃ¶hne gerÃ¼stbau,construction
+122,france,yso corp,media
+123,italy,gyada cosmetics,beauty
+124,uk,privitar,technology
+125,uk,delineate,technology
+126,poland,spyrosoft,technology
+127,slovakia,bio energy solutions,waste management & recycling
+128,italy,increso,management consulting
+129,italy,lsg - logistic & service group,transport
+130,sweden,energihem,construction
+131,uk,amity,technology
+132,germany,goyago,retail
+133,france,la regie de portage salarial,support services
+134,denmark,dall energy,energy
+135,germany,appinio,technology
+136,italy,pinsami,food & beverage
+137,france,aer trading,retail
+138,france,valumen,support services
+139,france,follow,advertising
+140,germany,darpdecade,retail
+141,estonia,bolt,technology
+142,italy,kiteworldshop.com,ecommerce
+143,germany,peter kenkel,retail
+144,denmark,templafy,technology
+145,italy,comservice,support services
+146,italy,falcor presse,industrial goods
+147,the netherlands,roomraccoon,technology
+148,spain,signaturit,technology
+149,uk,modulr,fintech
+150,germany,profishop,ecommerce
+151,the netherlands,floer,interiors
+152,italy,audiosalus,retail
+153,uk,statsbomb,technology
+154,italy,theras biocare,pharmaceuticals
+155,uk,stenn,fintech
+156,hungary,nanushka,fashion
+157,germany,dpm - deutsches personal management,support services
+158,uk,monese,fintech
+159,spain,arquimea,technology
+160,france,groupe perspective,education
+161,sweden,funnel,technology
+162,germany,living quarter,health
+163,sweden,svea solar,energy
+164,ireland,bevcraft group,food & beverage
+165,uk,learning technologies group,technology
+166,italy,cura farma,health
+167,lithuania,kamado bono,personal & household goods
+168,spain,sipadan,management consulting
+169,czech republic,dateio,fintech
+170,germany,crest investment,property
+171,italy,componenti digitali,retail
+172,germany,immo-konzepte,property
+173,denmark,swipbox,technology
+174,sweden,nextory,media
+175,poland,itds polska,technology
+176,italy,savait,ecommerce
+177,spain,adpone,advertising
+178,lithuania,nord security,cyber security
+179,the netherlands,mews,technology
+180,spain,titulae,education
+181,ireland,systeme.io,ecommerce
+182,greece,eodh sa,aerospace & defence
+183,italy,multix solutions,health
+184,france,b2digit,technology
+185,uk,a million ads,advertising
+186,the netherlands,woodwatch,retail
+187,france,fenÃªtres du doubs,construction
+188,germany,koesea,construction
+189,italy,podium advanced technologies,automobiles
+190,croatia,spegra,construction
+191,spain,gpainnova,industrial goods
+192,italy,soluzione tasse,management consulting
+193,germany,velocultour,retail
+194,hungary,butorpiac.hu,ecommerce
+195,czech republic,success solutions,technology
+196,denmark,bug bite thing europe,health
+197,estonia,dexatel,technology
+198,italy,gemco,construction
+199,france,lyonnaise de construction et renovation,construction
+200,uk,gousto,food & beverage
+201,uk,winter in venice,beauty
+202,germany,infratech bau,construction
+203,italy,4streets building innovation tunnels bridges roads,construction
+204,uk,landbay,fintech
+205,sweden,degoo,technology
+206,germany,franco fresco,food & beverage
+207,uk,lendable,fintech
+208,germany,ulrich mÃ¼ller wealth academy,education
+209,germany,cerascreen,health
+210,france,eqinov,energy
+211,italy,serre famiglia pederiva viticoltori dal 1958,food & beverage
+212,uk,bloom & wild,ecommerce
+213,germany,brÃ¤utigam,automobiles
+214,finland,newil & bau,construction
+215,spain,id finance,fintech
+216,sweden,kry,health
+217,italy,sixth sense,technology
+218,italy,nethive,cyber security
+219,uk,latitude investment management,financial services
+220,sweden,qred,fintech
+221,germany,oculavis,technology
+222,italy,the information lab,technology
+223,germany,md sonnenschutztechnik,construction
+224,croatia,syntio,technology
+225,denmark,bomae,financial services
+226,uk,gophr,technology
+227,germany,memory pc,retail
+228,germany,sollis solargroÃhandel,retail
+229,greece,spotawheel,automobiles
+230,uk,ooni pizza ovens,personal & household goods
+231,germany,robovox distributions,retail
+232,uk,centralnic group,technology
+233,germany,bernd andert transporte,transport
+234,uk,bluewater bio,technology
+235,italy,tecma solutions,technology
+236,poland,delante,sales & marketing
+237,germany,intumind,health
+238,germany,saljol,health
+239,germany,tkd solutions,telecoms
+240,finland,kuori,technology
+241,sweden,ferroamp,energy
+242,uk,valor real estate partners,financial services
+243,france,anexiti,technology
+244,france,genius,support services
+245,italy,instilla,advertising
+246,spain,footdistrict,ecommerce
+247,sweden,spiideo,technology
+248,uk,contractpodai,technology
+249,germany,tarhan bauausfÃ¼hrungen,construction
+250,uk,matillion,technology
+251,germany,extra mile live service,retail
+252,france,littlebig connection,support services
+253,italy,spc general service,construction
+254,spain,jobandtalent,technology
+255,uk,financial house,fintech
+256,poland,mylead,sales & marketing
+257,italy,mia-platform,technology
+258,italy,tecnimed,health
+259,uk,longevity partners,retail
+260,italy,nexumstp,management consulting
+261,france,g-on,support services
+262,uk,picnic,advertising
+263,italy,egomnia,technology
+264,uk,loyaltylion,technology
+265,norway,remarkable,technology
+266,uk,kubrick,management consulting
+267,italy,contrader,technology
+268,germany,samont,industrial goods
+269,italy,sirive,construction
+270,spain,multienergia verde,energy
+271,belgium,wielandts upmt,technology
+272,sweden,asket,fashion
+273,czech republic,central warehouse solution,transport
+274,italy,chef in camicia,advertising
+275,uk,piper homes,construction
+276,spain,alturas cubiertas y fachadas,construction
+277,germany,autosalon uhingen,automobiles
+278,france,yumi beauty,chemicals & pharmaceuticals
+279,france,for me lab,ecommerce
+280,sweden,stockholms elbolag,energy
+281,germany,flohr,waste management & recycling
+282,italy,agricodem,agricultural commodities
+283,germany,dach schutzbekleidung,industrial goods
+284,germany,em-tec energiemontagen,construction
+285,romania,wave studio,technology
+286,croatia,bazzar,retail
+287,the netherlands,cybersprint,cyber security
+288,italy,brandon group,ecommerce
+289,germany,feiniko handelsgesellschaft,retail
+290,italy,pharmagrin,health
+291,czech republic,life m,technology
+292,portugal,plÃ¡sticos dÃ£o / sacos & saquetas,industrial goods
+293,germany,logipal24,transport
+294,the netherlands,pastbook,technology
+295,uk,bluefin,ecommerce
+296,uk,milk & honey pr,sales & marketing
+297,france,prodeval,energy
+298,finland,virta,technology
+299,italy,bizaway,travel & leisure
+300,france,karl & lÃ©on,retail
+301,uk,identity,management consulting
+302,hungary,blackbelt holding,technology
+303,france,dynveo,retail
+304,czech republic,favi,ecommerce
+305,finland,hopkins,sales & marketing
+306,italy,ap italian luxury,fashion
+307,uk,novicap,fintech
+308,italy,iglm store,ecommerce
+309,germany,luis technology,technology
+310,uk,quantexa,fintech
+311,italy,enerbrain,energy
+312,germany,brinckmann,construction
+313,italy,lmg building,construction
+314,norway,nordic unmanned,aerospace & defence
+315,france,hemisphere,property
+316,germany,therapiezentrum.com nw,health
+317,uk,beauhurst,technology
+318,romania,c.u.n. cargo carriers,transport
+319,italy,mg project,telecoms
+320,germany,bonmea,retail
+321,italy,oceanis yachts,travel & leisure
+322,france,opus db,construction
+323,france,devensys cybersecurity,technology
+324,cyprus,project agora,advertising
+325,germany,bettertrust,advertising
+326,italy,banale,ecommerce
+327,the netherlands,maatwerk online,sales & marketing
+328,france,les constructeurs du bois,property
+329,italy,esserre pharma,pharmaceuticals
+330,uk,onbuy.com,ecommerce
+331,france,gojob,support services
+332,germany,newroom,retail
+333,italy,christmas the original,retail
+334,germany,dimaxbau,construction
+335,germany,comnovis it,technology
+336,germany,die direktkontakter,support services
+337,italy,mega trasporti,transport
+338,france,lehibou,technology
+339,italy,stufe a pellet italia,interiors
+340,uk,aquis exchange,financial services
+341,uk,chattermill,technology
+342,germany,schÃ¶nertel,construction
+343,italy,global work,telecoms
+344,germany,allygatr,support services
+345,uk,cru wine,food & beverage
+346,italy,abc rent,automobiles
+347,uk,superior wellness,personal & household goods
+348,austria,schrott24,waste management & recycling
+349,italy,mazzoni etech,industrial goods
+350,france,berdugo immobilier,property
+351,lithuania,nova rent,industrial goods
+352,czech republic,rouvy,games industry
+353,italy,business analysis & legal expertise - b.a.l.e.,management consulting
+354,poland,jmb,energy
+355,france,nocnoc,travel & leisure
+356,uk,crowdproperty,fintech
+357,france,tutosâme,education
+358,italy,studio ekoâ,management consulting
+359,uk,beings,technology
+360,poland,dmrgroupltd.com,chemicals & pharmaceuticals
+361,uk,ice telecommunications ltd,telecoms
+362,italy,gallas group,support services
+363,italy,etracom,ecommerce
+364,uk,xalient,technology
+365,italy,labevolution,health
+366,italy,kuadra,interiors
+367,spain,kyo electric,telecoms
+368,uk,sopost,technology
+369,italy,s.f.r.e.,construction
+370,germany,sportstech,retail
+371,france,opÃ©ra energie,energy
+372,uk,routenote,technology
+373,uk,doctify,health
+374,uk,fruugo,ecommerce
+375,germany,insidemarketing,technology
+376,italy,falzi,waste management & recycling
+377,spain,atrys health,health
+378,italy,il cantiere costruzioni,construction
+379,germany,soorce,support services
+380,belgium,sortlist,technology
+381,poland,virtuslab,technology
+382,sweden,skalhuset.se,ecommerce
+383,germany,vipino,retail
+384,italy,gea service,waste management & recycling
+385,italy,gellify,technology
+386,uk,billion dollar boy,advertising
+387,italy,westrafo,energy
+388,the netherlands,goboony,travel & leisure
+389,italy,multiservice ambrosiana,support services
+390,germany,b&c systems,construction
+391,bulgaria,s&g solar,energy
+392,romania,bittnet,management consulting
+393,belgium,ibanfirst,fintech
+394,germany,uplink network,telecoms
+395,france,base organic food,agricultural commodities
+396,uk,currentbody,ecommerce
+397,uk,apex aero,aerospace & defence
+398,poland,startup development house,technology
+399,italy,gruppo gheron,health
+400,italy,dyflowing,technology
+401,germany,digital masters,advertising
+402,germany,prusseit auto-outlet,automobiles
+403,norway,techouse,energy
+404,italy,svs,construction
+405,uk,telcoswitch group,telecoms
+406,germany,bothe-reimann tortechnik,construction
+407,italy,e-pol / personalizzalo,ecommerce
+408,spain,riluxa,interiors
+409,france,modalis,transport
+410,france,olympp,technology
+411,germany,zeck fishing,retail
+412,bulgaria,storpool storage,technology
+413,germany,vimcar,technology
+414,france,joannes distribution sas,retail
+415,france,sourcing force,technology
+416,germany,schalttechnik nord,technology
+417,germany,dgc,cyber security
+418,france,superprof,education
+419,uk,improveasy,management consulting
+420,france,viarÃ©no,construction
+421,slovakia,cmt,waste management & recycling
+422,poland,rets,property
+423,uk,mubi,media
+424,italy,dynamicom education,education
+425,slovakia,touch4it,technology
+426,italy,tattahome.com,interiors
+427,uk,speechmatics,technology
+428,spain,samy road,advertising
+429,italy,prometeo,support services
+430,uk,dialectica,management consulting
+431,uk,wolf & badger,ecommerce
+432,france,eco co2,support services
+433,hungary,lakÃ³gÃ©p kft.,construction
+434,germany,beyer betonwaren,construction
+435,france,fill up mÃ©dia,media
+436,italy,zara imballaggi fabriano,industrial goods
+437,poland,cd projekt,games industry
+438,germany,vpace bikes,retail
+439,spain,tooltester,sales & marketing
+440,estonia,bunker partner,energy
+441,france,tikamoon,ecommerce
+442,croatia,s.t.a.r. digital,advertising
+443,uk,funding options,fintech
+444,italy,isimed,health
+445,switzerland,"sonar, sonarqube, sonarcloud, sonarlint",technology
+446,germany,scherer,support services
+447,italy,mycroclean italia,support services
+448,italy,piscor,ecommerce
+449,italy,marwincar,automobiles
+450,uk,brighton & hove albion football club,travel & leisure
+451,bulgaria,inpe transport,transport
+452,poland,rtb house,technology
+453,france,obiz,media
+454,italy,vmway,technology
+455,poland,legimi,media
+456,germany,msg beauty,retail
+457,germany,leogra trading,retail
+458,italy,benefind,technology
+459,italy,ab oil & gas service,support services
+460,spain,mailtrack,technology
+461,uk,bumper,fintech
+462,germany,otl - online trainer,health
+463,italy,macingo technologies,support services
+464,germany,mycs,retail
+465,germany,audience serv,advertising
+466,italy,start,telecoms
+467,the netherlands,mvh media,sales & marketing
+468,france,pure gaming,ecommerce
+469,uk,parcel compare,transport
+470,italy,ames centro polidiagnostico strumentale,health
+471,italy,arcadia italia,energy
+472,uk,zia lucia,restaurants
+473,italy,travaglini costruzioni,construction
+474,spain,versa design zycle,technology
+475,germany,maucher consult,construction
+476,italy,ayes,technology
+477,italy,brandup group,advertising
+478,italy,opyn,financial services
+479,uk,var capital,financial services
+480,uk,storyterrace,technology
+481,slovenia,blubit,technology
+482,france,zenâup,insurance
+483,germany,lÃ¶rcher bauunternehmen,construction
+484,the netherlands,barcode architects,architecture
+485,france,top chaleur,retail
+486,italy,seingim,construction
+487,uk,amphibian scaffolding,construction
+488,liechtenstein,beliani,ecommerce
+489,sweden,hatstore,ecommerce
+490,italy,carpenteria martino,construction
+491,uk,capitalontap,fintech
+492,poland,netguru,technology
+493,italy,fazio,retail
+494,germany,grillfÃ¼rst,retail
+495,italy,dealernet,automobiles
+496,germany,alpha real estate,property
+497,belgium,appwise,technology
+498,greece,convert group,technology
+499,sweden,revolution race,ecommerce
+500,france,gong galaxy,retail
+501,italy,gdr costruzioni,construction
+502,italy,emporio elettrico,ecommerce
+503,uk,exscientia ai,technology
+504,uk,featurespace,fintech
+505,france,xl energies,energy
+506,spain,claveria,support services
+507,germany,timberagents,retail
+508,france,fermeture econâhome,construction
+509,sweden,nrse,management consulting
+510,germany,simwert,telecoms
+511,uk,flex legal,law
+512,norway,documaster,technology
+513,germany,immo-team allgÃ¤u,construction
+514,germany,creditshelf,financial services
+515,italy,blife,food & beverage
+516,italy,nohup,technology
+517,poland,noctuai,technology
+518,germany,ares,industrial goods
+519,uk,moonpig group,ecommerce
+520,uk,wealth club,financial services
+521,france,factory,property
+522,spain,beck ingredients,health
+523,hungary,mentors & partners group,management consulting
+524,the netherlands,sb supply,ecommerce
+525,czech republic,mediaboard,media
+526,france,dw trans,transport
+527,france,nacelexpert,industrial goods
+528,germany,keylight,technology
+529,italy,technacy,technology
+530,france,genoskin,chemicals & pharmaceuticals
+531,uk,payment assist,fintech
+532,germany,my boo,retail
+533,sweden,84codes.com,technology
+534,germany,klg liquida,chemicals & pharmaceuticals
+535,france,ignimission,technology
+536,italy,adamant bionrg,energy
+537,uk,xplort,interiors
+538,uk,bambridge accountants,financial services
+539,slovakia,g2park,property
+540,italy,pelizzari studio,architecture
+541,the netherlands,postex,technology
+542,italy,consorzio stabile ambientemilia,waste management & recycling
+543,italy,yocabeâ,ecommerce
+544,france,chez nestor,property
+545,italy,mint italia,transport
+546,the netherlands,sendcloud,ecommerce
+547,italy,datakey software engineering,technology
+548,romania,metaminds,cyber security
+549,italy,time vision,education
+550,germany,werksrÃ¤der24,automobiles
+551,uk,fod mobility group,technology
+552,italy,selferg,energy
+553,lithuania,poppri fashion auctions,ecommerce
+554,uk,vizion network,automobiles
+555,uk,beyond law group*,law
+556,germany,eda warehousing,transport
+557,germany,bpv,telecoms
+558,france,ultra premium direct,agricultural commodities
+559,spain,afr-ix telecom,telecoms
+560,poland,blue energy,cyber security
+561,france,câjuste paris,retail
+562,france,sos-accessoire,ecommerce
+563,germany,hannes kÃ¶nig,construction
+564,germany,zanatta media group,advertising
+565,uk,wastepack,waste management & recycling
+566,italy,radar consulting italia,support services
+567,france,agriconomie,agricultural commodities
+568,spain,anytech365,technology
+569,uk,cladspray solutions,construction
+570,france,im global partner,financial services
+571,italy,confinvest,precious metals
+572,france,ethic technology,technology
+573,italy,bomax,telecoms
+574,germany,kk-trade,retail
+575,germany,marsapet,retail
+576,italy,gruppo tera,ecommerce
+577,italy,codiceplastico,technology
+578,romania,tremend,technology
+579,spain,doofinder,technology
+580,lithuania,hostinger,technology
+581,switzerland,catalyx,sales & marketing
+582,bulgaria,harness code,sales & marketing
+583,italy,nanoprom chemicals,chemicals & pharmaceuticals
+584,spain,elite,construction
+585,poland,appunite,technology
+586,france,eskalia et nakupenda,retail
+587,germany,lgx logistics,transport
+588,portugal,polipop,industrial goods
+589,italy,stampasi,ecommerce
+590,italy,cam,industrial goods
+591,france,plug in digital,media
+592,poland,predica,technology
+593,spain,ocean transport,transport
+594,uk,serinus,energy
+595,germany,demv deutscher maklerverbund,financial services
+596,spain,sti norland,energy
+597,germany,hd elektrotechnik,technology
+598,italy,engenie group,technology
+599,france,groupe n.a.t,support services
+600,italy,la sarraz pictures,media
+601,germany,smart-planet,retail
+602,italy,sidea group,management consulting
+603,france,couteaujaponais.com,retail
+604,france,physidia,health
+605,germany,horando deutschland,retail
+606,poland,"diablochairs, jan nowak",ecommerce
+607,sweden,parkster,technology
+608,france,biotyfull,ecommerce
+609,spain,bioksan,food & beverage
+610,norway,trippel,support services
+611,uk,yourparkingspace limited,technology
+612,france,carslift,automobiles
+613,germany,zimmerei nordmann,construction
+614,germany,si silicone innovation,industrial goods
+615,germany,a.u.e. genc warenhandels-ug,retail
+616,italy,mgvision,advertising
+617,italy,new general service,support services
+618,france,andre renovation,construction
+619,italy,m.d.g. components unipersonale,industrial goods
+620,bulgaria,amco-bulgaria,retail
+621,uk,symprove,personal & household goods
+622,uk,tecknuovo,technology
+623,france,platform.sh,technology
+624,germany,isg express logistik,transport
+625,italy,manelli impresa,construction
+626,portugal,sa formaÃ§Ã£o,education
+627,germany,sm sektmanufaktur,industrial goods
+628,germany,beauty consult deutschland,health
+629,italy,finauto,automobiles
+630,france,aucoffre.com,financial services
+631,uk,divido,fintech
+632,germany,r&k ingenieure,construction
+633,uk,nephos technologies,technology
+634,uk,la vida,support services
+635,uk,midstream lighting,technology
+636,france,propulse it,technology
+637,spain,additius santa maria,agricultural commodities
+638,france,conexio telecom,telecoms
+639,germany,tripin,retail
+640,hungary,continental wood kft.,industrial goods
+641,italy,geoteam,energy
+642,france,leascorp,financial services
+643,uk,positive healthcare,management consulting
+644,germany,ralph schmolke,retail
+645,italy,roomie milano,property
+646,romania,trencadis corp,technology
+647,france,worteks,technology
+648,france,remove,construction
+649,czech republic,citadelo,cyber security
+650,germany,grill autoservice,automobiles
+651,spain,inbrooll,industrial goods
+652,germany,cross,retail
+653,italy,b1gas s.p.a,energy
+654,italy,filva,construction
+655,italy,archingest,construction
+656,uk,alpha fx group,financial services
+657,switzerland,lemonads,advertising
+658,norway,signicat,technology
+659,germany,alfred dÃ¶pker,construction
+660,germany,bavaria-ei,retail
+661,lithuania,oxylabs.io,technology
+662,germany,a.s.h. automobile,automobiles
+663,hungary,vascular,health
+664,france,andjaro,support services
+665,germany,rÃ¶hrtaler wertstoff,waste management & recycling
+666,uk,autel karnetic,technology
+667,italy,discoup.com,advertising
+668,cyprus,hellas direct,insurance
+669,germany,herrles,automobiles
+670,austria,investmentpunk academy,education
+671,germany,born stahlbau,industrial goods
+672,germany,rettel projektbau,construction
+673,italy,suntronic,energy
+674,italy,tmt,industrial goods
+675,germany,gedankenburg,advertising
+676,sweden,svop special vehicle operation,automobiles
+677,uk,glenholme healthcare group,health
+678,france,audensiel,technology
+679,spain,ivnosys,technology
+680,spain,mulconsa,construction
+681,germany,50nrth,retail
+682,croatia,delecto,retail
+683,poland,mardruk opakowania,industrial goods
+684,france,manang,construction
+685,germany,bestbion dx,health
+686,uk,avamore capital,financial services
+687,germany,solaris and more,energy
+688,uk,clearcycle,retail
+689,france,opteamis,support services
+690,spain,codenor,construction
+691,france,happybulle,ecommerce
+692,uk,aurora energy research,energy
+693,spain,bacci,fashion
+694,italy,emilia foods,food & beverage
+695,italy,t.e.a.m. - ti educa a migliorare,health
+696,poland,brainhub,technology
+697,italy,assitech,construction
+698,uk,schott packaging,ecommerce
+699,italy,alba,energy
+700,uk,fintru,financial services
+701,italy,global edilizia,construction
+702,uk,tpximpact,management consulting
+703,italy,lgs sportlab,advertising
+704,germany,weiser brandschutz & technik,construction
+705,uk,fairfax and favor,fashion
+706,france,fao consulting,technology
+707,italy,gruppo del barba consulting,financial services
+708,uk,exclaimer,technology
+709,italy,join business management consulting,management consulting
+710,germany,vennes,construction
+711,the netherlands,piggy,technology
+712,finland,epassi,fintech
+713,germany,atheneum partners,technology
+714,uk,pharmacy2u,technology
+715,france,phoenix developpement,support services
+716,germany,wiwie transport,transport
+717,romania,mevas auto center,automobiles
+718,germany,bk beachhouse mode,retail
+719,italy,f.lli urso,construction
+720,uk,gohenry,financial services
+721,italy,adrilog,transport
+722,uk,attachment,advertising
+723,france,paris herbes,agricultural commodities
+724,france,interlog logistic,transport
+725,italy,conglomerati bituminosi,construction
+726,belgium,nikkel art,ecommerce
+727,italy,esyen,technology
+728,uk,sav-eco packaging ltd,industrial goods
+729,germany,elmar mair tiefbau,construction
+730,spain,atlas innovative engineering,energy
+731,france,secure-ic,technology
+732,france,datalyo,technology
+733,uk,signify technology,management consulting
+734,uk,boxt,ecommerce
+735,uk,james and james fulfilment,ecommerce
+736,italy,armonie,food & beverage
+737,italy,maverick group,technology
+738,italy,brainpull,advertising
+739,france,wiseband,media
+740,france,groupe ezdo la boulangerie des gourmets,agricultural commodities
+741,poland,pakar service,support services
+742,france,bio-uv,industrial goods
+743,italy,f.g. service,construction
+744,italy,allways logistics system,transport
+745,sweden,matsmart,ecommerce
+746,germany,autargo,construction
+747,norway,brewshop.no,food & beverage
+748,italy,visualitics,technology
+749,germany,hifi extra,retail
+750,germany,ankerkraut,food & beverage
+751,italy,gda,fashion
+752,italy,nexid,technology
+753,italy,gs studio & service,energy
+754,italy,neosperience,technology
+755,slovenia,lunos,technology
+756,italy,meic costruzioni,construction
+757,uk,trident lifting solutions ltd,construction
+758,germany,smart battery solutions,technology
+759,germany,eu-bay commerce,retail
+760,germany,jens rabe academy,education
+761,uk,hyperoptic,telecoms
+762,france,sepale,energy
+763,italy,3a informatica,telecoms
+764,france,emsproto,ecommerce
+765,france,laboratoires dermosun,chemicals & pharmaceuticals
+766,italy,saico,construction
+767,italy,nutis,food & beverage
+768,poland,ogrodosfera.pl,ecommerce
+769,france,svti,industrial goods
+770,italy,enhancers,technology
+771,france,agripower france,waste management & recycling
+772,italy,next turbo technologies,industrial goods
+773,italy,velvet media italia,advertising
+774,italy,booster box,advertising
+775,slovakia,rmf group,food & beverage
+776,uk,darwin group limited,construction
+777,poland,itfs,technology
+778,france,skillsday,education
+779,finland,gapps,technology
+780,italy,maxfel,interiors
+781,spain,herrero brigantina,insurance
+782,italy,manitech,industrial goods
+783,italy,tradeco,industrial goods
+784,france,mon chasseur immo,property
+785,france,upslide,support services
+786,france,cogeclim energies,construction
+787,hungary,cellarius,sales & marketing
+788,germany,careful-service,health
+789,lithuania,softneta,health
+790,uk,progeny,financial services
+791,france,web geo services,technology
+792,germany,spedition ibov,transport
+793,germany,mypostcard.com,retail
+794,germany,variosan,retail
+795,germany,riedle + bertsch,technology
+796,italy,mobili fiver,interiors
+797,france,klc desamiantage,construction
+798,france,secret arts of spirits,retail
+799,uk,mpb group limited,ecommerce
+800,germany,3zehn auto discount,automobiles
+801,france,adikteev,technology
+802,germany,fundis reitsport,retail
+803,germany,antriebstechnik ebner-seibold,retail
+804,belgium,invibes advertising,technology
+805,italy,jointly il welfare condiviso,support services
+806,sweden,abtot mark & anlÃ¤ggning ab,construction
+807,germany,dusapro immobilien,property
+808,france,soldats films,media
+809,italy,eagleprojects,telecoms
+810,italy,agile lab,technology
+811,norway,importpris.no,ecommerce
+812,germany,truu,industrial goods
+813,france,lâatelier,technology
+814,germany,frigoclim kÃ¤lte-klima,construction
+815,germany,m coffee company,retail
+816,france,protextyl,retail
+817,france,sp architecte,construction
+818,spain,embargos a lo bestia,retail
+819,ireland,snigel,technology
+820,germany,ims rettungsdienst,health
+821,italy,way2global sb,support services
+822,uk,media access solutions,support services
+823,spain,exadi,sales and marketing
+824,germany,fiber-service-gesellschaft,telecoms
+825,poland,tenderhut (group),technology
+826,spain,worldwide fishing company,food & beverage
+827,italy,doctor hail spa,automobiles
+828,germany,kbs group,support services
+829,estonia,terre ehitus,construction
+830,germany,bauer energiekonzepte,energy
+831,italy,new euroart,construction
+832,italy,capelli for you,beauty
+833,uk,ogury,advertising
+834,germany,tft ernst,construction
+835,uk,somerford associates,technology
+836,germany,arcadia investment,property
+837,italy,filoblu,management consulting
+838,uk,tribus digital,technology
+839,italy,doit,technology
+840,uk,global perspectives,health
+841,italy,pirene,support services
+842,uk,ipulse,personal & household goods
+843,germany,blue networks,technology
+844,germany,n. schwegler,construction
+845,germany,marcus lutz bau,construction
+846,germany,hkr-technik,retail
+847,germany,licht + strom,technology
+848,germany,die autowelt,automobiles
+849,france,artheau aviation,aerospace & defence
+850,italy,cepo,industrial goods
+851,france,sneakers & jackets,financial services
+852,uk,89up,advertising
+853,france,luxury & performance selection,automobiles
+854,uk,grayce group,management consulting
+855,italy,nemesi italia,technology
+856,uk,halo service solutions,technology
+857,uk,raspberry pi,technology
+858,italy,giopato & coombes,interiors
+859,germany,ship it,retail
+860,germany,rheinische scheidestÃ¤tte,retail
+861,poland,whites agency,advertising
+862,italy,casa di riposo medicalizzata sempione*,health
+863,poland,cshark,technology
+864,italy,zinox laser,interiors
+865,italy,tera automation,industrial goods
+866,italy,innova hts,health
+867,czech republic,kentigen,technology
+868,belgium,teal partners,technology
+869,italy,lm medical division,health
+870,germany,bec,technology
+871,croatia,xylon,technology
+872,germany,spedition kai rindert,transport
+873,italy,co.ge.sa. costruzioni generali saba,construction
+874,sweden,skÃ¤rgÃ¥rdstunnan/skargards,ecommerce
+875,italy,autonova milano,automobiles
+876,germany,polarstern,energy
+877,germany,halsdorfer + ingenieure projekt,property
+878,france,opna,support services
+879,spain,stikets,ecommerce
+880,italy,campustore,education
+881,croatia,ars futura,technology
+882,italy,cemir security,support services
+883,czech republic,borgy cz,personal & household goods
+884,france,groupe zephyr,health
+885,france,dernier cri,technology
+886,germany,yes!devs,technology
+887,germany,hydroflex group,retail
+888,italy,proteko service,support services
+889,hungary,minicrm,technology
+890,italy,cnq consorzio nazionale qualitÃ ,waste management & recycling
+891,czech republic,accolade,property
+892,spain,panel sandwich,construction
+893,france,symbiose informatique,technology
+894,italy,g.engineering,industrial goods
+895,france,i-particuliers,property
+896,germany,henco,retail
+897,italy,giglio.com,ecommerce
+898,sweden,alphaspel,retail
+899,lithuania,sapiegos klinika,health
+900,uk,opencorporates,technology
+901,france,be cloud,support services
+902,poland,drukarnia piga.pl,ecommerce
+903,france,groupe mister menuiserie,ecommerce
+904,germany,insetto,retail
+905,portugal,technophage,pharmaceuticals
+906,france,skalis portage salarial,support services
+907,germany,peoplegrapher,advertising
+908,italy,reveg fruit,food & beverage
+909,bulgaria,sciant,technology
+910,germany,boender & beutel,industrial goods
+911,france,ekinops,telecoms
+912,portugal,sano-tÃ©cnica,health
+913,germany,mÃ¶belando,retail
+914,italy,democom,telecoms
+915,italy,erbagil,pharmaceuticals
+916,finland,axopar boats,travel & leisure
+917,italy,advanced composites solutions,automobiles
+918,italy,spartivento yachts & charter,travel & leisure
+919,poland,seargin,technology
+920,germany,ttp holding,support services
+921,sweden,sweef furniture,retail
+922,hungary,sonic tanÃ¡csadÃ³ Ã©s szolgÃ¡ltatÃ³ kft,technology
+923,belgium,spotit,cyber security
+924,france,label experience,financial services
+925,italy,lmm logistics,transport
+926,spain,medicalfit,health
+927,italy,nuova mg,industrial goods
+928,france,innov and co handicap,technology
+929,france,alma entreprise,construction
+930,italy,radit,support services
+931,france,regional express,transport
+932,france,aravati,support services
+933,germany,pÃ¶hner hamburg,retail
+934,germany,schreinerei huber,construction
+935,france,isr,technology
+936,germany,kinga mathe,retail
+937,lithuania,rivile,technology
+938,france,magarantie5ans,retail
+939,france,bebeboutik,retail
+940,austria,radar cyber security,technology
+941,france,clair group,aerospace & defence
+942,germany,appsfactory,technology
+943,uk,stiltz homelifts,interiors
+944,romania,star stone,construction
+945,uk,coptrz,aerospace & defence
+946,uk,nurole,technology
+947,germany,abao energy,construction
+948,italy,welol next,technology
+949,uk,intent hq,technology
+950,france,cafÃ© du cycliste,ecommerce
+951,germany,langer lÃ¼ftungs- und klimaanlagen,construction
+952,france,formind,cyber security
+953,france,oasis smart sim europe**,telecoms
+954,italy,aferetica,health
+955,italy,zero,energy
+956,france,skills,support services
+957,italy,3e studio,support services
+958,slovakia,pannonia steel,construction
+959,italy,kronos,fashion
+960,italy,lasaponaria,beauty
+961,germany,die wuhlewanderer,health
+962,sweden,imint vidhance,technology
+963,italy,arte e passione,restaurants
+964,france,paul marius,retail
+965,bulgaria,scalefocus,technology
+966,germany,whiskyzone,retail
+967,italy,targa telematics,technology
+968,uk,sian wholesale ltd,transport
+969,sweden,visage technologies,technology
+970,lithuania,riotloc,games industry
+971,uk,bullionvault,precious metals
+972,spain,3a antioxidants,chemicals & pharmaceuticals
+973,germany,on metall,industrial goods
+974,the netherlands,scribbr,education
+975,france,selectra,energy
+976,italy,energetic,energy
+977,france,faveod,support services
+978,spain,cye energia,energy
+979,finland,integrata oy,financial services
+980,germany,regular trade,retail
+981,hungary,expleo,energy
+982,italy,confezioni velvet,fashion
+983,germany,activ bilanz,property
+984,italy,family nation,ecommerce
+985,greece,majar â matzaridis bros,technology
+986,spain,izertis,technology
+987,italy,fashion commerce,ecommerce
+988,uk,bulk tainer logistics limited,transport
+989,italy,wingeco,industrial goods
+990,poland,meblobranie.pl,ecommerce
+991,spain,queraltÃ³,ecommerce
+992,slovakia,phobos,automobiles
+993,italy,archita engineering,support services
+994,spain,celeritas,transport
+995,germany,peopleforecast,technology
+996,italy,digitalpa,management consulting
+997,germany,faktenkontor,advertising
+998,france,clareo,retail
+999,italy,laca trade,property

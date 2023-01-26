@@ -1,0 +1,1001 @@
+,company_ceo,company_country,company_name,company_industry
+0,Bernard Arnault,france,lvmh,fashion and luxury goods
+1,Ulf Mark Schneider,switzerland,nestle ag,consumer defensive
+2,Severin Schwan,switzerland,roche holding ag,healthcare
+3,Peter Wennink,netherlands,asml holding,technology
+4,Bob van Dijk,netherlands,prosus,communication services
+5,Jean Paul Agon,france,l'oreal,consumer defensive
+6,Julie Sweet,ireland,accenture,technology
+7,Lars Fruergaard Jorgensen,denmark,novo nordisk a/s,healthcare
+8,Vasant Narasimhan,switzerland,novartis ag,healthcare
+9,Ben van Beurden,netherlands,royal dutch shell,energy
+10,Pascal Soriot,uk,astrazeneca,healthcare
+11,Axel Dumas,france,hermes international,consumer cyclical
+12,Sanjiv Lamba,uk,linde ag,basic materials
+13,Christian Klein,germany,sap se,technology
+14,Pietro Beccari,france,christian dior,consumer cyclical
+15,Geoffrey S. Martha,ireland,medtronic,healthcare
+16,Roland Busch,germany,siemens,industries
+17,Patrick Pouyanne,france,totalenergies se,energy
+18,Alan Jope,netherlands,unilever group,consumer defensive
+19,Herbert Diess,germany,volkswagen,consumer cyclical
+20,Noel Quinn,uk,hsbc holdings,financial services
+21,Paul Hudson,france,sanofi,healthcare
+22,Ivan Menezes,uk,diageo,consumer defensive
+23,Jakob Stausholm,uk,rio tinto group,basic materials
+24,Dame Emma Walmsley,uk,glaxosmithkline,healthcare
+25,Michel Doukeris,belgium,anheuser-busch inbev,consumer defensive
+26,Alexey Miller,russia,gazprom,energy
+27,Jean-Pascal Tricoire,france,schneider electric,power equipment
+28,Guillaume Faury,netherlands,airbus,industries
+29,Oliver Bate,germany,allianz se,financial services
+30,Belen Garijo,germany,merck kgaa o.n.,healthcare
+31,Francois-Henri Pinault,france,kering,consumer cyclical
+32,Pablo Isla,spain,inditex (industria de diseno textil),consumer cyclical
+33,Bernard Looney,uk,bp p.l.c.,energy
+34,Timotheus Hottges,germany,deutsche telekom ag,communication services
+35,Jean-Laurent Bonnafe,france,bnp paribas,financial services
+36,Anders Opedal,norway,equinor asa,energy
+37,Jack Bowles,uk,british american tobacco,consumer defensive
+38,Ola Kallenius,germany,mercedec benz group ag,consumer cyclical
+39,Francesco Milleri,france,essilor luxottica,healthcare
+40,Evan G. Greenberg,switzerland,chubb,financial services
+41,Nick Hayek Jr.,switzerland,swatch group ag,consumer cyclical
+42,Jerome Lambert,switzerland,compagnie financiere richemont sa,consumer cyclical
+43,Francois Jackow,france,air liquide,basic materials
+44,Herman Gref,russia,sberbank of russia,financial services
+45,Bernd Montag,germany,siemens healthineers ag,healthcare
+46,Francesco Starace,italy,enel,utilities
+47,Frank Appel,germany,deutsche post ag,industries
+48,Mats Rahmstrom,sweden,atlas copco ab,industries
+49,Johan Forssell,sweden,investor ab (publ),financial services
+50,Bjorn Rosengren,switzerland,abb,industries
+51,Igor Sechin,russia,rosneft oil company,energy
+52,Pieter van der,netherlands,adyen,technology
+53,Thomas Buberl,france,axa,financial services
+54,Jose Ignacio Sanchez Galan,spain,iberdrola,utilities
+55,Bernard Charles,france,dassault systemes,technology
+56,Gary Nagle,switzerland,glencore,basic materials
+57,,germany,bayerische motoren werke (bmw),consumer cyclical
+58,Leonid Viktorovich Mikhelson,russia,novatek,energy
+59,,germany,basf se,basic materials
+60,Soren Skou,denmark,a.p. moller - maersk a/s,industries
+61,Mario Greco,switzerland,zurich insurance group ag,financial services
+62,Craig Arnold,ireland,eaton corporation,industries
+63,Ralph Hamers,switzerland,ubs group ag,financial services
+64,Carlos Tavares,netherlands,stellantis n.v,automobile
+65,BENEDETTO VIGNA,italy,ferrari,consumer cyclical
+66,Laxman Narasimhan,uk,reckitt benckiser group,consumer defensive
+67,Jose Antonio Alvarez,spain,banco santander,financial services
+68,Martin Lundstedt,sweden,ab volvo,industries
+69,Xavier Huillard,france,vinci,industries
+70,Alexandre Ricard,france,pernod ricard,consumer defensive
+71,DUNCAN WANBLAD,uk,anglo american,basic materials
+72,Reinhard Ploss,germany,infineon technologies ag,technology
+73,Vagit Alekperov,russia,pjsc lukoil,energy
+74,Kurt Sievers,netherlands,nxp semiconductors,technology
+75,Erik Engstrom,uk,relx,communication services
+76,Pierre-Alain Ruffieux,switzerland,lonza group,healthcare
+77,Steven van Rijswijk,netherlands,ing group,financial services
+78,Rolf Habben Jansen,germany,hapag-lloyd,industries
+79,Michael Strugl,austria,verbund ag,utilities
+80,Paul Schuler,switzerland,sika ag,basic materials
+81,,russia,open joint stock company omz,industries
+82,Kasper Rorsted,germany,adidas,consumer cyclical
+83,Werner Baumann,germany,bayer,healthcare
+84,Olivier Andries,france,safran,industries
+85,Carlo Messina,italy,intesa sanpaolo,financial services
+86,David Schwimmer,uk,london stock exchange group,financial services
+87,Jens Bjorn Andersen,denmark,dsv panalpina,industries
+88,John Pettigrew,uk,national grid transco,utilities
+89,Terrence Curtin,switzerland,te connectivity,technology
+90,Claudio Descalzi,italy,eni s.p.a.,energy
+91,,germany,biontech se,healthcare
+92,Charlie Nunn,uk,lloyds banking group,financial services
+93,Lance Uggla,uk,ihs markit,industries
+94,Frank Vang-Jensen,finland,nordea bank abp,financial services
+95,Charles F. Lowrey,uk,prudential,financial services
+96,Christian Sinding,sweden,eqt ab (publ),financial services
+97,,uk,f&c investment trust,investments
+98,C. S. Venkatakrishnan,uk,barclays plc,financial services
+99,Simon A Borrows,uk,3i group,financial services
+100,Vladimir Potanin,russia,mmc norilsk nickel,basic materials
+101,Mads Nipper,denmark,orsted a/s,utilities
+102,Philippe Brassac,france,credit agricole,financial services
+103,Gilles Andrier,switzerland,givaudan sa,basic materials
+104,Kevin P. Clark,ireland,aptiv,consumer cyclical
+105,Jean-Marc Chery,switzerland,stmicroelectronics,technology
+106,,ireland,trane technologies plc,industry machinery
+107,Joachim Wenning,germany,munchener ruckversicherungs-gesellschaft,financial services
+108,Nick Read,uk,vodafone group,communication services
+109,Daniel Ek,sweden,spotify technology,communication services
+110,Brian Cassin,ireland,experian,industries
+111,Rolf Eberhard Buch,germany,vonovia se,real estate
+112,Onur Genc,spain,banco bilbao vizcaya argentaria,financial services
+113,Dominic Blakemore,uk,compass group,consumer cyclical
+114,Albert Manifold,ireland,crh plc,basic materials
+115,Veronique Penchienati Bosetta,switzerland,danone,consumer defensive
+116,Ola Rollen,sweden,hexagon ab (publ),technology
+117,David Layton,switzerland,partners group holding ag,financial services
+118,David J. Endicott,switzerland,alcon,healthcare
+119,Peter Vanacker,finland,neste oyj,energy
+120,Aiman Ezzat,france,capgemini se,technology
+121,Joachim Kreuzburg,germany,sartorius stedim biotech,healthcare
+122,Benoit Bazin,france,compagnie de saint-gobain,ceramic products
+123,Kevin Murphy,uk,ferguson,industries
+124,Dr. Detlef Trefzger,switzerland,kuehne + nagel international ag,industries
+125,Johan Thijs,belgium,kbc group nv,financial services
+126,Alison Rose,uk,natwest group,banking services
+127,Borje Ekholm,sweden,ericsson,technology
+128,Dimitri de Vreeze,netherlands,dsm,basic materials
+129,Jean-Bernard Levy,france,edf (electricite de france),utilities
+130,Henrik Ehrnrooth,finland,kone oyj,industries
+131,Brendan Horgan,uk,ashtead group,industries
+132,Kjerstin Braathen,norway,dnb asa,financial services
+133,Catherine MacGregor,france,engie,utilities
+134,Carsten Knobel,germany,henkel ag,consumer defensive
+135,Andrea Orcel,italy,unicredit,financial services
+136,Pekka Lundmark,finland,nokia corporation,technology
+137,Stefan Widing,sweden,sandvik ab,industries
+138,Frans Muller,netherlands,ahold delhaize,consumer defensive
+139,Leonhard Birnbaum,germany,e.on se,utilities
+140,Kristian Villumsen,denmark,coloplast a/s,healthcare
+141,Tobias Martinez Gimeno,spain,cellnex telecom,communication services
+142,Nico Delvaux,sweden,assa abloy ab (publ),industries
+143,Frans van Houten,netherlands,philips,healthcare
+144,Philippe Donnet,italy,assicurazioni generali,financial services
+145,Bhavesh V. Patel,netherlands,lyondellbasell industries,basic materials
+146,,germany,software aktiengesellschaft,technology
+147,Jan Jenisch,switzerland,holcim ltd,basic materials
+148,Helena Helmersson,sweden,h & m hennes & mauritz ab,consumer cyclical
+149,Luis Maroto,spain,amadeus it group,technology
+150,Lakshmi Mittal,luxembourg,arcelormittal,basic materials
+151,Guillaume Daniellot,switzerland,straumann holding ag,healthcare
+152,Hans Dieter Potsch,germany,porsche automobil holding se,consumer cyclical
+153,,france,societe generale,financial services
+154,Francisco Miguel Reynes Massanet,spain,naturgy energy group,utilities
+155,Florent Menegaux,france,michelin,consumer cyclical
+156,Benoit Coquart,france,legrand sa,industries
+157,Dieter Weisskopf,switzerland,chocoladefabriken lindt & sprungli ag,consumer defensive
+158,Johan Torgeby,sweden,skandinaviska enskilda banken ab (publ.),financial services
+159,Theodor Weimer,germany,deutsche borse,financial services
+160,Ken Murphy,uk,tesco,consumer defensive
+161,Gerteric Lindquist,sweden,nibe industrier ab (publ),industries
+162,Christian Mumenthaler,switzerland,swiss re,financial services
+163,Christian Sewing,germany,deutsche bank,financial services
+164,Helena Hedblom,sweden,epiroc ab (publ),industries
+165,Urs Schaeppi,switzerland,swisscom ag,communication services
+166,Carl Hess,uk,willis towers watson public company,financial services
+167,Christian Buhl,switzerland,geberit ag,industries
+168,Nancy McKinstry,netherlands,wolters kluwer,communication services
+169,Stephane Richard,france,orange s.a,communication services
+170,Henrik Andersen,denmark,vestas wind systems a/s,industries
+171,Thomas Oetterli,switzerland,schindler holding ag,industries
+172,Martin Carlesund,sweden,evolution gaming group ab (publ),consumer cyclical
+173,Torbjorn Magnusson,finland,sampo oyj,financial services
+174,Edmond Scanlon,ireland,kerry group,consumer defensive
+175,Stephan Sturm,germany,fresenius se,healthcare
+176,Peter Jackson,ireland,flutter entertainment,consumer cyclical
+177,Dolf van den Brink,netherlands,heineken holding,consumer defensive
+178,Markus Krebber,germany,rwe,utilities
+179,Damian Paul Gammell,uk,coca-cola europacific partners plc,consumer defensive
+180,Michael O'Leary,ireland,ryanair holdings,industries
+181,Markus Rauramo,finland,fortum oyj,utilities
+182,Daniel Julien,france,teleperformance se,industries
+183,Magdalena Martullo-Blocher,switzerland,ems-chemie holding ag,basic materials
+184,Antoine Frerot,france,veolia environnement,industries
+185,Jose Maria Alvarez-Pallete Lopez,spain,telefonica sa,communication services
+186,,ireland,kingspan group,industries
+187,Nigel Wilson,uk,legal & general group,financial services
+188,Maurici Lucena Betriu,spain,aena s.m.e,industries
+189,Cees 't Hart,denmark,carlsberg a/s,consumer defensive
+190,Thomas Gottstein,switzerland,credit suisse group,financial services
+191,Niklas Oestberg,germany,delivery hero se,online food delivery
+192,Frankie Ng,switzerland,sgs sa,industries
+193,Vicente Reynal,ireland,ingersoll-rand (ireland),industries
+194,Johan Hjertonsson,sweden,investment ab latour (publ),financial services
+195,Gonzalo Gortazar Rotaeche,spain,caixabank,financial services
+196,,uk,bae systems,industries
+197,Philip Jansen,uk,bt group,communication services
+198,Jan G. J. van de Winkel,denmark,genmab a/s,healthcare
+199,,germany,hannover ruck se,financial services
+200,Alistair Phillips-Davies,uk,sse plc,utilities
+201,,uk,scottish mortgage investment trust,financial services
+202,Dan Carestio,ireland,steris,healthcare
+203,Jose D. Bogas Galvez,spain,endesa,utilities
+204,Frank Mastiaux,germany,enbw energie baden-wurttemberg ag,utilities
+205,Vincent Warnery,germany,beiersdorf,consumer defensive
+206,Arnd Kaldowski,switzerland,sonova holding ag,healthcare
+207,Jens Henriksson,sweden,swedbank ab (publ),financial services
+208,Magnus Groth,sweden,essity ab (publ),consumer defensive
+209,Steve Cutler,ireland,icon public company,healthcare
+210,Timothy P Walbert,ireland,horizon therapeutics public company,healthcare
+211,Amanda Blanc,uk,aviva,financial services
+212,Carina Akerstrom,sweden,svenska handelsbanken ab (publ),financial services
+213,George G. Weston,uk,associated british foods,consumer defensive
+214,,germany,continental ag,consumer cyclical
+215,Pavel Sergeevich Grachev,russia,pjsc polyus,basic materials
+216,Sigve Brekke,norway,telenor asa,communication services
+217,,uk,segro,real estate
+218,Ignacio Madridejos Fernandez,spain,ferrovial,industries
+219,Ester Baiget,denmark,novozymes a/s,healthcare
+220,Scott W. Wine,uk,cnh industrial,industries
+221,Gilles G. Martin,luxembourg,eurofins scientific se,healthcare
+222,,spain,edp renovaveis,utilities
+223,Stefan Bomhard,uk,imperial brands,consumer defensive
+224,Jussi Pesonen,finland,upm-kymmene oyj,basic materials
+225,Paolo Bertoluzzo,italy,nexi,technology
+226,Thierry Vanlancker,netherlands,akzo nobel,basic materials
+227,Jean-Christophe Tellier,belgium,ucb sa,healthcare
+228,Oliver Hughes,russia,tcs group holding,financial services
+229,Joao Manuel Brito Martins,portugal,edp - energias de portugal,utilities
+230,Bill Winters,uk,standard chartered,financial services
+231,John Elkann,netherlands,exor,financial services
+232,Alfred Stern,austria,omv group,energy
+233,Daniel Benes,czech republic,cez a. s,utilities
+234,Bernhard Spalt,austria,erste group bank ag,financial services
+235,Patrick Frost,switzerland,swiss life holding ag,financial services
+236,Heinz-Juergen Bertram,germany,symrise ag,basic materials
+237,Benjamin Loh,netherlands,asm international nv,technology
+238,Arkady Volozh,russia,yandex,communication services
+239,Marco Alvera,italy,snam,utilities
+240,David Schneider,germany,zalando se,consumer cyclical
+241,Rice Powell,germany,fresenius medical care ag & co. kgaa,healthcare
+242,Remo Ruffini,italy,moncler,consumer cyclical
+243,Patrice Caine,france,thales,industries
+244,Fabien Simon,netherlands,jde peet's n.v.,consumer defensive
+245,Steve Foots,uk,croda international,basic materials
+246,Christian Bruch,germany,siemens energy,engineering products
+247,Vladimir Bogdanov,russia,surgutneftegas,energy
+248,Mark Read,uk,wpp plc,communication services
+249,Vivek Badrinath,germany,vantage towers ag,industries
+250,Josu Jon Imaz,spain,repsol,energy
+251,Ivan Arriagada,uk,antofagasta,basic materials
+252,Aleksandr Shevelev,russia,pao severstal,basic materials
+253,Bjorn Gulden,germany,puma se,consumer cyclical
+254,Markus Weber,germany,carl zeiss meditec ag,healthcare
+255,Arthur Sadoun,france,publicis groupe,communication services
+256,David Knibbe,netherlands,nn group,financial services
+257,Matteo Del Fante,italy,poste italiane spa,industries
+258,Stephane Dedeyan,france,cnp assurances sa,financial services
+259,Grigory Vitalevich Fedorishin,russia,novolipetsk steel,basic materials
+260,Klaus-Dieter Maubach,germany,uniper se,utilities
+261,Rolv Erik Ryssdal,norway,adevinta asa,communication services
+262,Ian Gallienne,belgium,groupe bruxelles lambert sa,financial services
+263,Aengus Kelly,ireland,aercap holdings,industries
+264,Valerie Baudson,france,amundi,financial services
+265,Jack Truong,ireland,james hardie industries,basic materials
+266,Tom Erixon,sweden,alfa laval ab (publ),industries
+267,Hilde Merete Aasheim,norway,norsk hydro asa,basic materials
+268,Morten Hubbe,denmark,tryg a/s,financial services
+269,Gilles Grapinet,france,worldline,technology
+270,Tim Hauwermeiren,netherlands,argenx se,healthcare
+271,Dr. Jan Michael Mrosik,germany,knorr-bremse,consumer cyclical
+272,,france,carrefour sa,consumer defensive
+273,,france,bollore,communication services
+274,Harold Boel,belgium,sofina societe anonyme,financial services
+275,Tim Steiner,uk,ocado group,consumer defensive
+276,Allison Kirkby,sweden,telia company ab (publ),communication services
+277,Roland Diggelmann,uk,smith & nephew,healthcare
+278,Jerre Stead,uk,clarivate plc,technology
+279,Stefano Antonio Donnarumma,italy,terna s.p.a. ,utilities
+280,Carlo Bertazzo,italy,atlantia,industries
+281,Andrew Williams,uk,halma,industries
+282,Andreas Nauen,spain,siemens gamesa renewable energy,industries
+283,Robert Kunze-Concewitz,italy,davide campari-milano,consumer defensive
+284,Christian Kullmann,germany,evonik industries ag,basic materials
+285,Carsten Rasch Egeriis,denmark,danske bank a/s,financial services
+286,,russia,transneft,energy
+287,Alexandre Merieux,france,biomerieux,healthcare
+288,Michael Zahn,germany,deutsche wohnen se,real estate
+289,Nicholas J. Anderson,uk,spirax-sarco engineering,industries
+290,Miuccia Prada,italy,prada,consumer cyclical
+291,Annica Bresky,finland,stora enso oyj,basic materials
+292,Robert Swaak,netherlands,abn amro bank,financial services
+293,Mike Fries,uk,liberty global,communication services
+294,Peter Cowgill,uk,jd sports fashion,consumer cyclical
+295,Evgenii Nikitin,russia,united company rusal,basic materials
+296,Sasndor Csanyi,hungary,otp bank nyrt,financial services
+297,Philipp Rickenbacher,switzerland,julius bar gruppe ag,financial services
+298,,russia,pjsc tatneft,energy
+299,Pedro Manuel de Castro Soares dos Santos,portugal,jeronimo martins sgps,consumer defensive
+300,Anthony Smurfit,ireland,smurfit kappa group,consumer cyclical
+301,Iwona Duda,poland,pko bank polski en,financial services
+302,Warren East,uk,rolls-royce holdings,industries
+303,Didier Michaud-Daniel,france,bureau veritas sa,industries
+304,Bertrand Camus,france,suez sa,utilities
+305,,monaco,hal trust,financial services
+306,Arnaud de Puyfontaine,france,vivendi,communication services
+307,Rob Smith,germany,kion group ag,industries
+308,Simon Wolfson,uk,next plc,consumer cyclical
+309,Dominik von Achten,germany,heidelberg cement ag,basic materials
+310,Christian Kohlpaintner,germany,brenntag ag,basic materials
+311,Martin Bouygues,france,bouygues sa,industries
+312,Henri Poupart-Lafarge,france,alstom sa,industries
+313,Bracken P. Darrell,switzerland,logitech international,technology
+314,Michael Allison,switzerland,vat group ag,industries
+315,Andy Ransom,uk,rentokil initial,industries
+316,Helena Stjernholm,sweden,ab industrivarden (publ),financial services
+317,Augustin de Romanet,france,aeroports de paris sa,industries
+318,Fredrik Lundberg,sweden,l e lundbergforetagen ab (publ),financial services
+319,Denis Machuel,france,sodexo,industries
+320,Paolo Rocca,luxembourg,tenaris,energy
+321,Jette Nygaard-Andersen,uk,entain plc,casinos
+322,Axel Wachtmeister,sweden,lifco ab (publ),industries
+323,,uk,wise plc,digital payment solution services
+324,,norway,yara international asa,basic materials
+325,,switzerland,barry callebaut ag,consumer defensive
+326,,netherlands,kpn,communication services
+327,,switzerland,coca-cola hbc ag,consumer defensive
+328,,germany,traton se,industries
+329,,sweden,svenska cellulosa aktiebolaget sca (publ),basic materials
+330,,netherlands,randstad,industries
+331,,sweden,swedish match ab (publ),consumer defensive
+332,,sweden,fastighets ab balder (publ),real estate
+333,,italy,recordati industria chimica e farmaceutica,healthcare
+334,,uk,bunzl,consumer defensive
+335,,germany,covestro ag,basic materials
+336,,uk,schroders,financial services
+337,,finland,kesko oyj,consumer defensive
+338,,uk,intercontinental hotels group,consumer cyclical
+339,,uk,aveva group,technology
+340,,uk,admiral group,financial services
+341,,uk,mondi,basic materials
+342,,belgium,solvay sa,basic materials
+343,,belgium,umicore sa,industries
+344,,germany,talanx ag,financial services
+345,,uk,intertek group,industries
+346,,germany,nemetschek se,technology
+347,,uk,st. james's place,financial services
+348,,norway,mowi asa,consumer defensive
+349,,uk,evraz,basic materials
+350,,uk,persimmon,consumer cyclical
+351,,france,edenred sa,financial services
+352,,norway,gjensidige forsikring asa,financial services
+353,,denmark,demant a/s,healthcare
+354,,sweden,ica gruppen ab (publ),consumer defensive
+355,,denmark,pandora a/s,consumer cyclical
+356,,germany,hellofresh se,consumer cyclical
+357,,norway,aker bp asa,energy
+358,,sweden,ab skf (publ),industries
+359,,germany,mtu aero engines ag,industries
+360,,switzerland,vifor pharma ag,healthcare
+361,,germany,qiagen,healthcare
+362,,uk,sage group,technology
+363,,uk,allfunds group plc,financial services
+364,,russia,alrosa,basic materials
+365,,ireland,allegion,industries
+366,,netherlands,imcd,basic materials
+367,,netherlands,eurocommercial properties,real estate
+368,,france,renault sa,consumer cyclical
+369,,france,remy cointreau sa,consumer defensive
+370,,germany,commerzbank ag,financial services
+371,,netherlands,aegon,financial services
+372,,italy,amplifon spa,healthcare
+373,,uk,informa plc,communication services
+374,,germany,rational ag,industries
+375,,spain,grifols,healthcare
+376,,sweden,samhallsbyggnadsbolaget i norden ab (publ),real estate
+377,,spain,red electrica corporacion,utilities
+378,,sweden,indutrade ab (publ),industries
+379,,italy,infrastrutture wireless italiane,communication services
+380,,france,arkema,basic materials
+381,,uk,farfetch,consumer cyclical
+382,,uk,international consolidated airlines group,industries
+383,,sweden,getinge ab,healthcare
+384,,italy,telecom italia,communication services
+385,,sweden,embracer group ab (publ),communication services
+386,,italy,finecobank banca fineco,financial services
+387,,netherlands,just eat takeaway.com,retail
+388,,germany,kabel deutschland holding ag,communication services
+389,,sweden,skanska ab (publ),industries
+390,,belgium,ageas sa/nv,financial services
+391,,sweden,lundin energy ab (publ),energy
+392,,russia,magnitogorsk iron & steel works (mmk),basic materials
+393,,denmark,chr. hansen holding a/s,basic materials
+394,,sweden,ab sagax (publ),real estate
+395,,france,unibail-rodamco-westfield,real estate
+396,,netherlands,euronext,financial services
+397,,uk,barratt developments,consumer cyclical
+398,,spain,acciona,industries
+399,,switzerland,on holding ag,
+400,,france,gecina sa,real estate
+401,,italy,mediobanca banca di credito finanziario,financial services
+402,,belgium,d'ieteren sa,consumer cyclical
+403,,germany,leg immobilien ag,real estate
+404,,sweden,tele2 ab (publ),communication services
+405,,austria,raiffeisen bank international ag,financial services
+406,,uk,melrose industries,industries
+407,,norway,tomra systems asa,industries
+408,,uk,sensata technologies holding,technology
+409,,uk,united utilities group,utilities
+410,,uk,severn trent,utilities
+411,,italy,prysmian,industries
+412,,france,eiffage sa,industries
+413,,russia,pjsc phosagro,basic materials
+414,,uk,kingfisher,consumer cyclical
+415,,sweden,ssab ab (publ),basic materials
+416,,finland,elisa oyj,communication services
+417,,russia,pik group,real estate
+418,,france,dassault aviation sa,industries
+419,,luxembourg,allegro.eu sa,consumer cyclical
+420,,uk,burberry group,consumer cyclical
+421,,norway,orkla asa,consumer defensive
+422,,finland,metso outotec oyj,industries
+423,,switzerland,temenos ag,technology
+424,,italy,diasorin,healthcare
+425,,germany,deutsche lufthansa ag,industries
+426,,luxembourg,ternium,basic materials
+427,,germany,gea group,industries
+428,,sweden,kinnevik ab,financial services
+429,,sweden,autoliv,consumer cyclical
+430,,poland,santander bank polska,financial services
+431,,uk,auto trader group,ecommerce
+432,,france,accor sa,consumer cyclical
+433,,uk,phoenix group holdings,financial services
+434,,switzerland,bachem holding ag,basic materials
+435,,poland,polskie gornictwo naftowe i gazownictwo,energy
+436,,sweden,castellum ab (publ),real estate
+437,,switzerland,sig combibloc group ag,consumer cyclical
+438,,uk,hargreaves lansdown,financial services
+439,,sweden,husqvarna ab (publ),industries
+440,,poland,dino polska s.a.,consumer defensive
+441,,portugal,galp energia sgps,energy
+442,,uk,rightmove,communication services
+443,,france,getlink se,industries
+444,,sweden,sinch ab (publ),communication services
+445,,uk,j sainsbury,consumer defensive
+446,,belgium,elia system operator sa,utilities
+447,,uk,whitbread,consumer cyclical
+448,,france,seb sa,consumer cyclical
+449,,greece,hellenic telecommunications organization,communication services
+450,,luxembourg,rtl group sa,communication services
+451,,finland,wartsila oyj abp,industries
+452,,czech republic,avast,technology
+453,,uk,taylor wimpey,consumer cyclical
+454,,italy,edison s.p.a,utilities
+455,,germany,bechtle ag,technology
+456,,belgium,warehouses de pauw,real estate
+457,,germany,dws group gmbh & co. kgaa,financial services
+458,,switzerland,adecco group ag,industries
+459,,france,la francaise des jeux societe anonyme,consumer cyclical
+460,,russia,vtb bank,financial services
+461,,germany,telefonica deutschland holding ag,communication services
+462,,ireland,jazz pharmaceuticals,healthcare
+463,,luxembourg,b&m european value retail,consumer defensive
+464,,uk,intermediate capital group,financial services
+465,,netherlands,ctp n.v.,real estate
+466,,uk,fresnillo,basic materials
+467,,ireland,dcc,energy
+468,,poland,lpp sa,consumer cyclical
+469,,czech republic,komercni banka,financial services
+470,,netherlands,grandvision,consumer cyclical
+471,,hong kong,swire pacific,industries
+472,,denmark,rockwool international a/s,industries
+473,,norway,schibsted asa,communication services
+474,,ireland,bank of ireland group,financial services
+475,,italy,unipolsai assicurazioni,financial services
+476,,sweden,holmen aktiebolag (publ.),basic materials
+477,,norway,salmar asa,consumer defensive
+478,,uk,endava,technology
+479,,uk,meggitt,industries
+480,,france,covivio,real estate
+481,,uk,oxford nanopore technologies plc,healthcare
+482,,uk,land securities group,real estate
+483,,germany,hella gmbh & co. kgaa,consumer cyclical
+484,,switzerland,baloise holding ag,financial services
+485,,germany,wacker chemie ag,basic materials
+486,,france,ipsen,healthcare
+487,,switzerland,wizz air holdings,industries
+488,,denmark,gn store nord a/s,healthcare
+489,,sweden,beijer ref ab (publ),industries
+490,,uk,electrocomponents,industries
+491,,france,valeo sa,consumer cyclical
+492,,sweden,trelleborg ab (publ),industries
+493,,uk,m&g plc,financial services
+494,,uk,ds smith,consumer cyclical
+495,,switzerland,belimo holding ag,industries
+496,,italy,interpump group,industries
+497,,denmark,kobenhavns lufthavne a/s,industries
+498,,germany,sixt se,industries
+499,,russia,magnit,consumer defensive
+500,,germany,evotec se,healthcare
+501,,italy,banca mediolanum,financial services
+502,,germany,cts eventim ag & co. kgaa,communication services
+503,,switzerland,datwyler holding,industries
+504,,uk,howden joinery group,consumer cyclical
+505,,netherlands,aalberts nv,industries
+506,,france,klepierre sa,real estate
+507,,italy,pirelli & c. s.p.a.,consumer cyclical
+508,,italy,pirelli & c,consumer cyclical
+509,,germany,united internet ag,communication services
+510,,uk,janus henderson group,financial services
+511,,switzerland,swiss prime site ag,real estate
+512,,germany,gsw immobilien ag,real estate
+513,,uk,abrdn plc,financial services
+514,,uk,berkeley group holdings,consumer cyclical
+515,,germany,thyssenkrupp ag,industries
+516,,spain,acs actividades de construccion y servicios,industries
+517,,poland,kghm polska miedz,basic materials
+518,,spain,fluidra,industries
+519,,russia,x5 retail group,consumer defensive
+520,,ireland,aib group,financial services
+521,,uk,airtel africa,telecom
+522,,uk,british land company,real estate
+523,,luxembourg,aroundtown sa,real estate
+524,,russia,vsmpo-avisma corporation,basic materials
+525,,uk,royal mail,industries
+526,,norway,aker asa,energy
+527,,sweden,vitrolife ab (publ),healthcare
+528,,switzerland,clariant ag,basic materials
+529,,russia,mobile telesystems,communication services
+530,,uk,novocure,healthcare
+531,,austria,voestalpine ag,basic materials
+532,,uk,marks and spencer group,consumer cyclical
+533,,sweden,ab electrolux (publ),technology
+534,,italy,reply,technology
+535,,netherlands,hunter douglas,consumer cyclical
+536,,france,faurecia s.e,consumer cyclical
+537,,uk,hikma pharmaceuticals,healthcare
+538,,france,somfy sa,consumer cyclical
+539,,switzerland,bkw ag,utilities
+540,,switzerland,banque cantonale vaudoise,financial services
+541,,luxembourg,cpi property group,real estate
+542,,denmark,ascendis pharma a/s,healthcare
+543,,france,eurazeo se,financial services
+544,,uk,pepco group n.v.,consumer defensive
+545,,uk,dechra pharmaceuticals,healthcare
+546,,switzerland,tecan group,healthcare
+547,,france,ald sa,industries
+548,,switzerland,helvetia holding ag,financial services
+549,,france,rexel,industries
+550,,germany,fraport ag,industries
+551,,uk,f&c investment trust,investments
+552,,netherlands,asr nederland,financial services
+553,,belgium,ackermans & van haaren nv,industries
+554,,netherlands,signify,industries
+555,,uk,easyjet,industries
+556,,france,orpea sa,healthcare
+557,,finland,valmet oyj,industries
+558,,sweden,sweco ab (publ),industries
+559,,france,financiere de l'odet sa,industries
+560,,uk,nvent electric,industries
+561,,belgium,proximus,communication services
+562,,uk,itv,communication services
+563,,switzerland,emmi ag,consumer defensive
+564,,netherlands,be semiconductor industries,technology
+565,,uk,weir group,industries
+566,,uk,pearson plc,education
+567,,switzerland,goodyear tire & rubber company,consumer cyclical
+568,,denmark,ambu a/s,healthcare
+569,,uk,imi,industries
+570,,belgium,vgp nv,real estate
+571,,sweden,thule group ab (publ),consumer cyclical
+572,,uk,tritax big box reit,real estate
+573,,luxembourg,l'occitane international,consumer defensive
+574,,norway,nordic semiconductor asa,technology
+575,,italy,hera,utilities
+576,,spain,enagas,utilities
+577,,norway,kongsberg gruppen asa,industries
+578,,france,alten sa,technology
+579,,uk,centrica,utilities
+580,,uk,unite group,real estate
+581,,finland,kojamo oyj,real estate
+582,,sweden,axfood ab (publ),consumer defensive
+583,,germany,scout24 ag,communication services
+584,,austria,telekom austria ag,communication services
+585,,uk,future,communication services
+586,,germany,schaeffler ag,consumer cyclical
+587,,france,scor se,financial services
+588,,uk,rit capital partners,investments
+589,,italy,a2a,utilities
+590,,sweden,addtech ab (publ.),industries
+591,,germany,tui ag,consumer cyclical
+592,,germany,lanxess,basic materials
+593,,germany,curevac,healthcare
+594,,france,ubisoft entertainment sa,communication services
+595,,netherlands,oci,basic materials
+596,,germany,lechwerke ag,utilities
+597,,switzerland,flughafen zurich ag,industries
+598,,sweden,wallenstam ab (publ),real estate
+599,,russia,acron,basic materials
+600,,france,jcdecaux sa,communication services
+601,,finland,orion oyj,healthcare
+602,,belgium,etn. fr. colruyt nv,consumer defensive
+603,,luxembourg,shurgard self storage,real estate
+604,,denmark,royal unibrew a/s,consumer defensive
+605,,sweden,medicover ab (publ),healthcare
+606,,france,icade,real estate
+607,,switzerland,psp swiss property ag,real estate
+608,,luxembourg,ardagh metal packaging s.a.,consumer cyclical
+609,,germany,fuchs petrolub se,basic materials
+610,,germany,hochtief,industries
+611,,austria,bawag group ag,financial services
+612,,germany,synlab ag,healthcare
+613,,uk,spectris,technology
+614,,sweden,aak ab (publ.),consumer defensive
+615,,germany,gelsenwasser ag,utilities
+616,,ireland,perrigo company,healthcare
+617,,uk,diploma plc,industries
+618,,finland,nokian renkaat oyj,automobile parts
+619,,uk,bellway,real estate
+620,,uk,johnson matthey,basic materials
+621,,germany,fielmann,consumer cyclical
+622,,belgium,lotus bakeries nv,consumer defensive
+623,,switzerland,sfs group ag,industries
+624,,poland,cyfrowy polsat,communication services
+625,,uk,frasers group,consumer cyclical
+626,,denmark,alk-abello a/s,healthcare
+627,,italy,italgas,utilities
+628,,austria,evn ag,utilities
+629,,italy,de'longhi,consumer cyclical
+630,,switzerland,dksh holding,industries
+631,,uk,mimecast,technology
+632,,sweden,avanza bank holding ab (publ),financial services
+633,,uk,direct line insurance group,financial services
+634,,france,wendel,financial services
+635,,uk,convatec group,healthcare
+636,,greece,greek organization of football prognostics,consumer cyclical
+637,,spain,fomento de construcciones y contratas,industries
+638,,sweden,fabege ab (publ),real estate
+639,,austria,andritz ag,industries
+640,,switzerland,crispr therapeutics ag,healthcare
+641,,poland,powszechny zaklad ubezpieczen sa,financial services
+642,,uk,derwent london,real estate
+643,,denmark,topdanmark a/s,financial services
+644,,germany,varta ag,industries
+645,,poland,cd projekt,communication services
+646,,poland,mbank,financial services
+647,,switzerland,bucher industries ag,industry machinery
+648,,germany,jungheinrich,industries
+649,,spain,merlin properties socimi,real estate
+650,,iceland,marel,industries
+651,,luxembourg,inpost s.a.,industries
+652,,belgium,cofinimmo sa,real estate
+653,,uk,dr. martens plc,footwear
+654,,hungary,richter gedeon vegyeszeti gyar nyilvanosan mukodo,healthcare
+655,,spain,inmobiliaria colonial socimi,real estate
+656,,switzerland,vontobel holding ag,financial services
+657,,uk,deliveroo plc,online food delivery
+658,,sweden,securitas ab,industries
+659,,spain,bankinter,financial services
+660,,norway,storebrand asa,financial services
+661,,ireland,glanbia,consumer defensive
+662,,denmark,h. lundbeck a/s,healthcare
+663,,italy,banca generali,financial services
+664,,switzerland,bb biotech ag,healthcare
+665,,uk,atotech ltd,electronics
+666,,france,atos se,technology
+667,,switzerland,sportradar,media
+668,,italy,banco bpm societa per azioni,financial services
+669,,uk,ig group holdings,financial services
+670,,uk,travis perkins,industries
+671,,switzerland,dufry ag,consumer cyclical
+672,,germany,1&1 ag,communication services
+673,,germany,dermapharm holding se,healthcare
+674,,italy,brembo,consumer cyclical
+675,,uk,harbour energy plc,energy
+676,,italy,stevanato group s.p.a.,medical equipment
+677,,uk,abcam,healthcare
+678,,denmark,netcompany group a/s,technology
+679,,norway,leroy seafood group asa,consumer defensive
+680,,france,colas sa,industries
+681,,uk,inchcape,consumer cyclical
+682,,uk,polar capital technology trust,investments
+683,,sweden,hexpol ab (publ),basic materials
+684,,sweden,oatly group ab,non-alcoholic beverages
+685,,belgium,melexis nv,technology
+686,,italy,brunello cucinelli,consumer cyclical
+687,,sweden,elekta ab (publ),healthcare
+688,,uk,watches of switzerland group,consumer cyclical
+689,,uk,sophos group,technology
+690,,italy,erg spa,utilities
+691,,france,tikehau capital,financial services
+692,,austria,ams ag,technology
+693,,belgium,aedifica sa,real estate
+694,,uk,hicl infrastructure,investments
+695,,germany,siltronic ag,technology
+696,,uk,arrival,electric vehicles
+697,,luxembourg,ses,communication services
+698,,france,interparfums sa,consumer defensive
+699,,ireland,adient,consumer cyclical
+700,,finland,huhtamaki oyj,consumer cyclical
+701,,france,compagnie du cambodge,industries
+702,,germany,aurubis ag,basic materials
+703,,belgium,financiere de tubize sa,healthcare
+704,,uk,greencoat uk wind,asset management
+705,,germany,stroer se & co. kgaa,communication services
+706,,switzerland,stadler rail ag,industries
+707,,italy,salvatore ferragamo,consumer cyclical
+708,,france,nexans s.a.,industries
+709,,uk,softcat,technology
+710,,sweden,nordnet ab (publ),financial services
+711,,uk,smithson investment trust,asset management
+712,,russia,moscow exchange micex-rts,financial services
+713,,uk,games workshop group,consumer cyclical
+714,,sweden,corem property group ab (publ),real estate
+715,,sweden,dometic group ab (publ),technology
+716,,luxembourg,aperam,basic materials
+717,,uk,livanova,healthcare
+718,,netherlands,vopak,energy
+719,,uk,petershill partners plc,financial services
+720,,austria,strabag se,industries
+721,,russia,federal hydro-generating company - rushydro,utilities
+722,,uk,tate & lyle,consumer defensive
+723,,uk,3i infrastructure,investments
+724,,france,nexans,industries
+725,,italy,acea spa,utilities
+726,,france,spie sa,industries
+727,,uk,"diversey holdings, ltd.",fmcg
+728,,uk,pennon group,utilities
+729,,sweden,addlife ab (publ),healthcare
+730,,uk,computacenter,technology
+731,,luxembourg,brederode sa,financial services
+732,,germany,rheinmetall ag,industries
+733,,uk,alliance trust,financial services
+734,,uk,greggs,consumer defensive
+735,,belgium,telenet group holding nv,communication services
+736,,austria,mayr-melnhof karton ag,consumer cyclical
+737,,uk,ihs holding ltd,telecom
+738,,russia,raspadskaya,basic materials
+739,,spain,laboratorios farmaceuticos rovi,healthcare
+740,,italy,buzzi unicem,basic materials
+741,,denmark,simcorp a/s,technology
+742,,uk,rotork,industries
+743,,russia,united aircraft corporation,industries
+744,,austria,wienerberger ag,basic materials
+745,,spain,banco de sabadell,financial services
+746,,france,neoen,utilities
+747,,uk,monks investment trust,investments
+748,,uk,man group,financial services
+749,,italy,leonardo,industries
+750,,switzerland,vz holding ag,financial services
+751,,uk,s4 capital,advertising
+752,,uk,the renewables infrastructure group limited,renewable energy
+753,,switzerland,polypeptide group ag,healthcare
+754,,norway,entra asa,real estate
+755,,russia,inter rao ues,utilities
+756,,uk,genus,healthcare
+757,,uk,big yellow group,real estate
+758,,spain,grupo catalana occidente,financial services
+759,,isle of man,nepi rockcastle,real estate
+760,,luxembourg,iwg,industries
+761,,uk,fevertree drinks,consumer defensive
+762,,germany,verbio vereinigte bioenergie ag,utilities
+763,,netherlands,arcadis nv,industries
+764,,germany,hugo boss ag,consumer cyclical
+765,,sweden,veoneer,consumer cyclical
+766,,uk,beazley,financial services
+767,,france,trigano,consumer cyclical
+768,,uk,investec group,financial services
+769,,france,elis sa,industries
+770,,germany,metro ag,consumer defensive
+771,,uk,safestore holdings,property investments
+772,,belgium,kbc ancora sca,financial services
+773,,greece,public power corporation s.a.,utilities
+774,,norway,sparebank 1 sr-bank asa,financial services
+775,,italy,unipol gruppo,financial services
+776,,uk,international public partnerships ld,investments
+777,,germany,alstria office reit-ag,real estate
+778,,italy,azimut holding,financial services
+779,,sweden,sectra ab (publ),healthcare
+780,,sweden,billerudkorsnas ab (publ),basic materials
+781,,denmark,ringkjobing landbobank a/s,financial services
+782,,germany,tag immobilien ag,real estate
+783,,spain,cie automotive,consumer cyclical
+784,,france,compagnie plastic omnium sa,consumer cyclical
+785,,ireland,grafton group plc,construction materials
+786,,switzerland,siegfried holding ag,healthcare
+787,,switzerland,also holding ag,technology
+788,,germany,zooplus ag,consumer cyclical
+789,,uk,homeserve,industries
+790,,ireland,alkermes,healthcare
+791,,france,lagardere sca,consumer cyclical
+792,,greece,eurobank ergasias,financial services
+793,,france,societe fonciere lyonnaise sa,real estate
+794,,austria,lenzing,basic materials
+795,,switzerland,luzerner kantonalbank ag,financial services
+796,,netherlands,royal boskalis westminster,industries
+797,,italy,iren spa,utilities
+798,,luxembourg,grand city properties,real estate
+799,,austria,vienna insurance group ag,financial services
+800,,switzerland,dottikon es holding ag,basic materials
+801,,sweden,nordic entertainment group ab (publ),communication services
+802,,uk,atlantica yield,utilities
+803,,france,virbac sa,healthcare
+804,,france,altarea,real estate
+805,,france,altarea sca,real estate
+806,,austria,ca immobilien anlagen ag,real estate
+807,,poland,pge polska grupa energetyczna,utilities
+808,,germany,dmg mori aktiengesellschaft,industries
+809,,spain,"zardoya otis, s.a.",industries
+810,,denmark,jyske bank a/s,financial services
+811,,uk,dunelm group,consumer cyclical
+812,,germany,compugroup medical societas europaea,healthcare
+813,,czech republic,o2 czech republic,communication services
+814,,faroe islands,p/f bakkafrost,consumer defensive
+815,,uk,darktrace plc,artificial intelligence
+816,,germany,prosiebensat.1 media se,communication services
+817,,spain,acerinox,basic materials
+818,,sweden,peab ab (publ),industries
+819,,finland,metsa board oyj,basic materials
+820,,switzerland,galenica ag,healthcare
+821,,uk,virgin money uk,financial services
+822,,austria,oberbank ag,financial services
+823,,uk,londonmetric property,real estate
+824,,uk,bovis homes group,consumer cyclical
+825,,finland,tietoevry corporation,technology
+826,,uk,thg plc,ecommerce
+827,,belgium,compagnie d'entreprises cfe sa,industries
+828,,germany,mainova ag,utilities
+829,,sweden,fortnox ab (publ),technology
+830,,uk,jet2 plc,industries
+831,,finland,tietoevry oyj,technology
+832,,uk,vistry group,real estate
+833,,france,imerys,basic materials
+834,,france,sopra steria group sa,technology
+835,,switzerland,interroll holding ag,industries
+836,,russia,rostelecom,communication services
+837,,denmark,iss a/s,industries
+838,,luxembourg,reinet investments,financial services
+839,,germany,k+s,basic materials
+840,,switzerland,idorsia ltd,healthcare
+841,,poland,bnp paribas bank polska s.a.,financial services
+842,,sweden,saab ab (publ),industries
+843,,spain,corporacion financiera alba,financial services
+844,,switzerland,allreal holding ag,real estate
+845,,finland,qt group oyj,technology
+846,,germany,tradegate ag wertpapierhandelsbank,financial services
+847,,austria,pierer mobility ag,consumer cyclical
+848,,france,rothschild & co sca,financial services
+849,,uk,quilter,financial services
+850,,germany,hypoport ag,financial services
+851,,germany,freenet ag,communication services
+852,,uk,britvic,consumer defensive
+853,,switzerland,oc oerlikon corporation ag,industries
+854,,sweden,q-linea ab (publ),healthcare
+855,,belgium,galapagos nv,healthcare
+856,,switzerland,inficon holding ag,technology
+857,,finland,cargotec corporation,industries
+858,,germany,krones ag,industries
+859,,uk,onesavings bank,financial services
+860,,france,gaztransport & technigaz sa,energy
+861,,uk,hays,industries
+862,,france,korian,healthcare
+863,,netherlands,basic-fit,consumer cyclical
+864,,sweden,cint group ab (publ),technology
+865,,germany,kuka,industries
+866,,sweden,wihlborgs fastigheter ab (publ),real estate
+867,,uk,redrow,real estate
+868,,finland,konecranes,industries
+869,,switzerland,sulzer ltd,industries
+870,,germany,durr,industries
+871,,sweden,bure equity ab (publ),financial services
+872,,france,rubis,utilities
+873,,france,fromageries bel sa,consumer defensive
+874,,switzerland,forbo holding ag,industries
+875,,uk,ninety one,asset management
+876,,uk,drax group,utilities
+877,,switzerland,softwareone holding ag,technology
+878,,uk,shaftesbury,real estate
+879,,germany,sudzucker ag,consumer defensive
+880,,romania,sngn romgaz sa,energy
+881,,sweden,intrum ab (publ),financial services
+882,,uk,harbourvest global private equity limited,asset management
+883,,isle of man,playtech,consumer cyclical
+884,,austria,immofinanz ag,real estate
+885,,uk,rws holdings,industries
+886,,greece,national bank of greece,financial services
+887,,uk,grainger,real estate
+888,,sweden,vimian group ab (publ),consumer cyclical
+889,,france,air france-klm sa,industries
+890,,uk,countryside properties,consumer cyclical
+891,,sweden,jm ab (publ),consumer cyclical
+892,,uk,pets at home group,consumer cyclical
+893,,uk,technipfmc,energy
+894,,sweden,mips ab (publ),consumer cyclical
+895,,uk,itm power,technology
+896,,sweden,arjo ab (publ),healthcare
+897,,uk,ultra electronics holdings,industries
+898,,uk,the schiehallion fund limited,financial services
+899,,italy,bper banca,financial services
+900,,russia,sistema public joint stock financial corporation,conglomerate
+901,,sweden,nyfosa ab (publ),real estate
+902,,russia,credit bank of moscow (public joint-stock company),financial services
+903,,uk,worldwide healthcare trust,investments
+904,,russia,rosseti,utilities
+905,,greece,alpha bank,financial services
+906,,switzerland,swissquote group holding ltd,financial services
+907,,sweden,nolato ab (publ),industries
+908,,luxembourg,befesa,industries
+909,,switzerland,lem holding sa,technology
+910,,france,argan sa,real estate
+911,,denmark,dfds a/s,industries
+912,,finland,outokumpu oyj,basic materials
+913,,sweden,af poyry ab (publ),industries
+914,,netherlands,veon,communication services
+915,,austria,osterreichische post ag,industries
+916,,uk,valaris,energy
+917,,russia,public joint stock oil company bashneft,energy
+918,,uk,asos,consumer cyclical
+919,,france,covivio hotels societe anonyme,real estate
+920,,spain,gestamp automocion,consumer cyclical
+921,,italy,sesa,technology
+922,,uk,caledonia investments,investments
+923,,switzerland,bystronic ag,industries
+924,,uk,close brothers group,financial services
+925,,spain,viscofan,consumer cyclical
+926,,spain,ebro foods,consumer defensive
+927,,sweden,hufvudstaden ab (publ),real estate
+928,,france,casino guichard-perrachon societe anonyme,consumer defensive
+929,,romania,fondul proprietatea sa,financial services
+930,,switzerland,medacta group sa,healthcare
+931,,sweden,pandox ab (publ),consumer cyclical
+932,,spain,vidrala,consumer cyclical
+933,,sweden,troax group ab (publ),industries
+934,,france,europcar mobility group,industries
+935,,austria,uniqa insurance group ag,financial services
+936,,france,ramsay generale de sante sa,healthcare
+937,,italy,carel industries,technology
+938,,switzerland,st. galler kantonalbank ag,financial services
+939,,uk,mercantile investment trust (the),asset management
+940,,netherlands,sbm offshore,energy
+941,,denmark,alm. brand a/s,financial services
+942,,spain,unicaja banco,financial services
+943,,uk,victrex,basic materials
+944,,ireland,keywords studios,communication services
+945,,uk,kainos group,technology
+946,,germany,software ag,technology
+947,,italy,falck renewables,utilities
+948,,luxembourg,millicom international cellular,communication services
+949,,germany,gerresheimer ag,healthcare
+950,,uk,ashmore group,financial services
+951,,uk,paysafe limited,technology
+952,,uk,templeton emerging markets investment trust plc,financial services
+953,,sweden,bravida holding ab (publ),industries
+954,,uk,wh smith,retail
+955,,poland,orange polska,communication services
+956,,germany,mvv energie ag,utilities
+957,,germany,nagarro se,technology
+958,,belgium,solvac,basic materials
+959,,germany,kws saat se & co. kgaa,consumer defensive
+960,,iceland,ossur,healthcare
+961,,france,eutelsat communications,technology
+962,,uk,ssp group,consumer cyclical
+963,,russia,federal grid company of unified energy system,utilities
+964,,germany,h&k ag,industries
+965,,netherlands,corbion,basic materials
+966,,portugal,banco comercial portugues,financial services
+967,,uk,assura,real estate
+968,,uk,pagegroup,industries
+969,,luxembourg,samsonite international,consumer cyclical
+970,,uk,finsbury growth & income trust,asset management
+971,,portugal,"the navigator company, s.a.",paper and pulp
+972,,belgium,nv bekaert sa,industries
+973,,russia,nizhnekamskneftekhim,basic materials
+974,,netherlands,cnova,consumer cyclical
+975,,sweden,atrium ljungberg ab (publ),real estate
+976,,uk,cranswick,consumer defensive
+977,,norway,arendals fossekompani asa,utilities
+978,,malta,kindred group,consumer cyclical
+979,,sweden,hms networks ab (publ),technology
+980,,uk,primary health properties,real estate
+981,,sweden,lagercrantz group ab (publ),technology
+982,,uk,hg capital trust,asset management
+983,,france,robertet sa,basic materials
+984,,germany,secunet security networks,technology
+985,,malta,unibet group plc,consumer cyclical
+986,,switzerland,dormakaba holding ag,industries
+987,,norway,wallenius wilhelmsen asa,industries
+988,,uk,savills,real estate
+989,,france,technip energies n.v.,energy
+990,,spain,compania de distribucion integral logista holdings,industries
+991,,france,constellium se,basic materials
+992,,switzerland,comet holding ag,technology
+993,,denmark,bavarian nordic a/s,healthcare
+994,,germany,encavis ag,utilities
+995,,uk,domino's pizza group,consumer cyclical
+996,,germany,teamviewer ag,technology
+997,,germany,gag immobilien ag,real estate
+998,,france,nexity sa,real estate
+999,,sweden,fastpartner ab (publ),real estate

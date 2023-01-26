@@ -1,0 +1,13 @@
+id,match_weight,match_probability,unique_id_l,unique_id_r,company_name_l,company_name_r,gamma_company_name,company_industry_l,company_industry_r,gamma_company_industry
+0,2.3021854376940825,0.8314240194218951,1,97928,Accenture,Accenture,2,IT Services & Consulting,,-1
+1,-18.600635680162828,2.515646590097415e-06,2,98409,Cognizant,Cognizant Technology Solutions,0,IT Services & Consulting,,-1
+2,-18.600635680162828,2.515646590097415e-06,3,99670,ICICI Bank,ICICI Lombard,0,Banking,,-1
+3,2.3021854376940825,0.8314240194218951,4,97978,HDFC Bank,HDFC Bank,2,Banking,,-1
+4,2.3021854376940825,0.8314240194218951,5,98544,Wipro,Wipro,2,IT Services & Consulting,,-1
+5,2.3021854376940825,0.8314240194218951,6,98052,Infosys,Infosys,2,IT Services & Consulting,,-1
+6,2.3021854376940825,0.8314240194218951,7,98429,Capgemini,Capgemini,2,IT Services & Consulting,,-1
+7,2.3021854376940825,0.8314240194218951,8,99145,Tech Mahindra,Tech Mahindra,2,IT Services & Consulting,,-1
+8,2.3021854376940825,0.8314240194218951,9,99504,Genpact,Genpact,2,IT Services & Consulting,,-1
+9,2.3021854376940825,0.8314240194218951,11,97876,Amazon,Amazon,2,Internet,,-1
+10,2.3021854376940825,0.8314240194218951,12,98386,Axis Bank,Axis Bank,2,Banking,,-1
+11,2.3021854376940825,0.8314240194218951,13,97970,IBM,IBM,2,Software Product,,-1

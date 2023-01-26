@@ -1,0 +1,7201 @@
+,company_country,company_name
+0,USA,Apple
+1,S. Arabia,Saudi Aramco
+2,USA,Microsoft
+3,USA,Alphabet (Google)
+4,USA,Amazon
+5,USA,Berkshire Hathaway
+6,USA,Visa
+7,USA,Exxon Mobil
+8,China,Tencent
+9,USA,UnitedHealth
+10,USA,Johnson & Johnson
+11,Taiwan,TSMC
+12,France,LVMH
+13,USA,NVIDIA
+14,USA,JPMorgan Chase
+15,USA,Walmart
+16,USA,Tesla
+17,USA,Mastercard
+18,USA,Meta Platforms (Facebook)
+19,China,Kweichow Moutai
+20,USA,Procter & Gamble
+21,USA,Eli Lilly
+22,USA,Chevron
+23,Switzerland,NestlÃ©
+24,USA,Home Depot
+25,S. Korea,Samsung
+26,China,Alibaba
+27,Denmark,Novo Nordisk
+28,USA,Merck
+29,USA,Bank of America
+30,USA,AbbVie
+31,USA,Pfizer
+32,Netherlands,ASML
+33,USA,Coca-Cola
+34,Switzerland,Roche
+35,UAE,International Holding Company
+36,USA,Broadcom
+37,USA,Pepsico
+38,USA,Oracle
+39,USA,Thermo Fisher Scientific
+40,UK,AstraZeneca
+41,China,ICBC
+42,France,L'OrÃ©al
+43,USA,Costco
+44,UK,Shell
+45,India,Reliance Industries
+46,USA,Cisco
+47,USA,Nike
+48,USA,Danaher
+49,USA,Abbott Laboratories
+50,USA,McDonald
+51,Switzerland,Novartis
+52,Japan,Toyota
+53,USA,T-Mobile US
+54,France,HermÃ¨s
+55,USA,Walt Disney
+56,Ireland,Accenture
+57,USA,Verizon
+58,Australia,BHP Group
+59,USA,Wells Fargo
+60,USA,Comcast
+61,USA,Nextera Energy
+62,UK,Linde
+63,China,China Construction Bank
+64,Netherlands,Prosus
+65,China,CATL
+66,USA,Texas Instruments
+67,USA,Adobe
+68,France,TotalEnergies
+69,USA,Philip Morris
+70,USA,United Parcel Service
+71,USA,Morgan Stanley
+72,USA,Charles Schwab
+73,China,China Mobile
+74,USA,Bristol-Myers Squibb
+75,China,CM Bank
+76,USA,ConocoPhillips
+77,France,Dior
+78,India,Tata Consultancy Services
+79,China,Agricultural Bank of China
+80,USA,Salesforce
+81,USA,Netflix
+82,USA,Honeywell
+83,USA,Raytheon Technologies
+84,USA,Amgen
+85,UK,HSBC
+86,China,Ping An Insurance
+87,USA,AT&T
+88,Canada,Royal Bank Of Canada
+89,Germany,SAP
+90,USA,QUALCOMM
+91,USA,Caterpillar
+92,China,PetroChina
+93,China,Bank of China
+94,Hong Kong,AIA
+95,China,Meituan
+96,USA,Union Pacific Corporation
+97,China,China Life Insurance
+98,USA,IBM
+99,USA,Deere & Company
+100,UK,Unilever
+101,USA,Lowe's Companies
+102,USA,Boeing
+103,USA,Goldman Sachs
+104,Australia,Commonwealth Bank
+105,UK,Rio Tinto
+106,India,HDFC Bank
+107,Belgium,Anheuser-Busch Inbev
+108,USA,Intel
+109,France,Sanofi
+110,USA,Starbucks
+111,Germany,Siemens
+112,China,Pinduoduo
+113,Canada,Toronto Dominion Bank
+114,USA,S&P Global
+115,China,Wuliangye Yibin
+116,USA,CVS Health
+117,USA,Lockheed Martin
+118,USA,American Express
+119,USA,Elevance Health
+120,USA,AMD
+121,China,Jingdong Mall
+122,USA,BlackRock
+123,USA,Prologis
+124,Germany,Deutsche Telekom
+125,USA,Intuit
+126,USA,American Tower
+127,USA,Gilead Sciences
+128,UAE,TAQA
+129,UK,BP
+130,Ireland,Medtronic
+131,China,BYD
+132,Japan,Sony
+133,UK,Diageo
+134,Japan,Keyence
+135,USA,Automatic Data Processing
+136,Germany,Porsche
+137,Japan,NTT (Nippon Telegraph & Telephone)
+138,Japan,Mitsubishi UFJ Financial
+139,Netherlands,Airbus
+140,USA,Stryker Corporation
+141,Norway,Equinor
+142,USA,Citigroup
+143,Australia,CSL
+144,USA,Cigna
+145,Germany,Allianz
+146,USA,Estee Lauder
+147,Switzerland,Chubb
+148,USA,TJX Companies
+149,Germany,Merck KGaA
+150,Spain,Inditex
+151,USA,Applied Materials
+152,USA,Mondelez
+153,USA,Intuitive Surgical
+154,S. Korea,LG Energy Solution
+155,USA,PayPal
+156,France,Schneider Electric
+157,USA,Booking Holdings (Booking.com)
+158,USA,General Electric
+159,Switzerland,Glencore
+160,USA,Marsh & McLennan Companies
+161,USA,Analog Devices
+162,UK,British American Tobacco
+163,Brazil,Vale
+164,France,EssilorLuxottica
+165,Canada,Enbridge
+166,Switzerland,Compagnie FinanciÃ¨re Richemont
+167,Canada,Canadian National Railway
+168,USA,ServiceNow
+169,S. Arabia,Al Rajhi Bank
+170,USA,Schlumberger
+171,France,Air Liquide
+172,USA,Altria Group
+173,China,China Shenhua Energy
+174,USA,Duke Energy
+175,France,BNP Paribas
+176,Germany,Volkswagen
+177,USA,Regeneron Pharmaceuticals
+178,USA,Progressive
+179,Germany,Mercedes-Benz
+180,India,Infosys
+181,USA,Vertex Pharmaceuticals
+182,China,Sinopec
+183,USA,Southern Company
+184,USA,EOG Resources
+185,S. Arabia,SABIC
+186,USA,Target
+187,India,ICICI Bank
+188,India,Hindustan Unilever
+189,USA,Zoetis
+190,France,Kering
+191,USA,Moderna
+192,Canada,Canadian Pacific Railway
+193,USA,HCA Healthcare
+194,USA,Becton Dickinson
+195,UK,GlaxoSmithKline
+196,USA,U.S. Bancorp
+197,Spain,Iberdrola
+198,USA,Illinois Tool Works
+199,USA,3M
+200,China,China Tourism Group Duty Free
+201,China,China Yangtze Power
+202,USA,Northrop Grumman
+203,France,AXA
+204,Switzerland,Zurich Insurance Group
+205,Brazil,Petrobras
+206,UAE,Alpha Dhabi
+207,Australia,National Australia Bank
+208,Mexico,Walmex
+209,USA,Air Products and Chemicals
+210,Canada,Bank of Montreal
+211,USA,CSX Corporation
+212,Singapore,DBS Group
+213,China,CNOOC
+214,USA,Equinix
+215,USA,Boston Scientific
+216,Indonesia,Bank Central Asia
+217,India,State Bank of India
+218,Japan,SoftBank
+219,USA,PNC Financial Services
+220,Switzerland,UBS
+221,USA,General Dynamics
+222,China,Postal Savings Bank of China
+223,Germany,BMW
+224,UK,Aon
+225,Ireland,Eaton
+226,USA,Crown Castle
+227,USA,Fiserv
+228,USA,Colgate-Palmolive
+229,Mexico,America Movil
+230,China,Nongfu Spring
+231,USA,Lam Research
+232,Japan,KDDI
+233,USA,Freeport-McMoRan
+234,USA,Sherwin-Williams
+235,Italy,Enel
+236,Canada,Canadian Natural Resources
+237,USA,Airbnb
+238,USA,Waste Management
+239,USA,CME Group
+240,USA,Truist Financial
+241,Switzerland,ABB
+242,USA,Humana
+243,USA,Micron Technology
+244,France,Vinci
+245,China,Mindray
+246,Sweden,Investor AB
+247,Canada,Scotiabank
+248,Japan,Sumitomo Mitsui Financial Group
+249,USA,Blackstone Group
+250,Germany,Bayer
+251,Germany,Siemens Healthineers
+252,Japan,Daiichi SankyÅ
+253,USA,KKR & Co.
+254,USA,Charter Communications
+255,China,Midea
+256,UAE,Emirates Telecom (Etisalat Group)
+257,USA,Intercontinental Exchange
+258,USA,Activision Blizzard
+259,USA,Southern Copper
+260,USA,KLA
+261,USA,Occidental Petroleum
+262,S. Arabia,The Saudi National Bank
+263,USA,Norfolk Southern
+264,Hong Kong,Hong Kong Exchanges & Clearing
+265,Sweden,Atlas Copco
+266,China,Foshan Haitian Flavouring and Food
+267,USA,Uber
+268,France,Safran
+269,India,Housing Development Finance Corporation
+270,Australia,Westpac Banking
+271,UK,Anglo American
+272,China,China Telecom
+273,China,NetEase
+274,USA,Moody's
+275,Austria,Verbund AG
+276,Netherlands,Heineken
+277,USA,Marathon Petroleum
+278,USA,Emerson
+279,Japan,Fast Retailing
+280,USA,Pioneer Natural Resources
+281,Spain,Santander
+282,China,Industrial Bank
+283,Canada,Thomson Reuters
+284,USA,MetLife
+285,USA,Enterprise Products
+286,UK,RELX
+287,India,Bharti Airtel
+288,Italy,ENI
+289,India,Life Insurance Corporation of India (LIC)
+290,Argentina,MercadoLibre
+291,France,Pernod Ricard
+292,USA,McKesson
+293,Russia,United Heavy Machinery
+294,USA,Vmware
+295,USA,Monster Beverage
+296,Japan,Tokyo Electron
+297,Germany,BASF
+298,UK,Reckitt Benckiser
+299,USA,Valero Energy
+300,USA,Dominion Energy
+301,USA,Dollar General
+302,Australia,ANZ Bank
+303,USA,Kraft Heinz
+304,USA,General Motors
+305,Germany,Deutsche Post
+306,France,Dassault SystÃ¨mes
+307,Japan,Shin-Etsu Chemical
+308,USA,Public Storage
+309,USA,Marriott International
+310,USA,Ford
+311,USA,O'Reilly Automotive
+312,India,Adani Enterprises
+313,USA,Synopsys
+314,Japan,Recruit
+315,France,EDF (ElectricitÃ© de France)
+316,USA,Sempra Energy
+317,USA,Keurig Dr Pepper
+318,India,Adani Total Gas
+319,S. Arabia,Saudi Telecom Company
+320,India,ITC
+321,Japan,Takeda Pharmaceutical
+322,China,Bank of Communications
+323,China,LONGi Green Energy Technology
+324,Netherlands,ING
+325,Netherlands,Stellantis
+326,Canada,Shopify
+327,Australia,Woodside Energy
+328,UK,London Stock Exchange
+329,Japan,Nintendo
+330,China,Hikvision
+331,Germany,Munich RE (MÃ¼nchener RÃ¼ck)
+332,USA,American Electric Power
+333,Brazil,ItaÃº Unibanco
+334,USA,Phillips 66
+335,USA,General Mills
+336,USA,Archer Daniels Midland (ADM)
+337,Australia,Macquarie
+338,USA,Edwards Lifesciences
+339,Japan,Mitsubishi Corporation
+340,UAE,First Abu Dhabi Bank
+341,Japan,Oriental Land
+342,S. Arabia,Maaden
+343,Japan,Daikin
+344,China,Baidu
+345,Australia,Fortescue
+346,USA,American International Group
+347,USA,Amphenol
+348,USA,Roper Technologies
+349,S. Korea,SK Hynix
+350,USA,FedEx
+351,Italy,Intesa Sanpaolo
+352,Ireland,Johnson Controls
+353,USA,Simon Property Group
+354,USA,Hess
+355,Canada,Alimentation Couche-Tard
+356,Netherlands,Universal Music Group
+357,USA,The Hershey Company
+358,USA,Agilent Technologies
+359,UK,National Grid
+360,USA,Cadence Design Systems
+361,S. Korea,Samsung Biologics
+362,Japan,Hitachi
+363,USA,Kimberly-Clark
+364,Japan,ItÅchÅ« ShÅji
+365,USA,Cintas
+366,USA,The Travelers Companies
+367,Japan,Mitsui Bussan
+368,Netherlands,Adyen
+369,Indonesia,Bank Rakyat Indonesia
+370,USA,Snowflake
+371,USA,Aflac
+372,China,CITIC Securities
+373,Germany,Infineon
+374,Taiwan,Foxconn (Hon Hai Precision Industry)
+375,USA,Corteva
+376,India,Bajaj Finance
+377,China,Wanhua Chemical
+378,China,Zijin Mining
+379,China,S.F. Express
+380,Netherlands,NXP Semiconductors
+381,USA,Motorola Solutions
+382,USA,AutoZone
+383,China,East Money Information
+384,Indonesia,Bayan Resources
+385,USA,Ecolab
+386,Canada,Suncor Energy
+387,USA,Realty Income
+388,China,Ping An Bank
+389,UK,Prudential
+390,India,Kotak Mahindra Bank
+391,USA,Centene
+392,Hong Kong,Budweiser APAC
+393,Brazil,Banco Santander Brasil
+394,USA,Paychex
+395,USA,Autodesk
+396,China,WuXi AppTec
+397,USA,Newmont
+398,USA,Exelon Corporation
+399,Italy,Ferrari
+400,Singapore,OCBC Bank
+401,USA,Workday
+402,USA,Block
+403,Canada,TC Energy
+404,Brazil,Ambev
+405,Canada,BCE
+406,USA,DexCom
+407,Finland,Nordea Bank
+408,USA,Kinder Morgan
+409,USA,Chipotle Mexican Grill
+410,Japan,Tokio Marine
+411,Ireland,Trane Technologies
+412,South Africa,Naspers
+413,USA,Las Vegas Sands
+414,USA,Palo Alto Networks
+415,China,YANGHE
+416,USA,Apollo Global Management
+417,Switzerland,Sika
+418,Japan,Mizuho Financial Group
+419,USA,Devon Energy
+420,Spain,Banco Bilbao Vizcaya Argentaria
+421,USA,Constellation Brands
+422,USA,Biogen
+423,USA,Arthur J. Gallagher & Co.
+424,USA,Fidelity National Information Services
+425,Denmark,Ãrsted
+426,USA,Ross Stores
+427,USA,Dow
+428,USA,IQVIA
+429,USA,Microchip Technology
+430,Japan,Chugai Pharmaceutical
+431,China,Jiangsu Hengrui Medicine
+432,UK,Compass Group
+433,Japan,7-Eleven
+434,China,Muyuan Foods
+435,USA,Parker-Hannifin
+436,India,Adani Green Energy
+437,USA,Sysco
+438,UK,Lloyds Banking Group
+439,USA,Nucor
+440,USA,MSCI
+441,Hong Kong,Sun Hung Kai Properties
+442,Canada,lululemon athletica
+443,China,Anta Sports
+444,USA,Williams Companies
+445,Switzerland,Lonza
+446,Japan,Honda
+447,USA,IDEXX Laboratories
+448,USA,Bank of New York Mellon
+449,China,Kuaishou Technology
+450,Canada,CIBC
+451,China,WuXi Biologics
+452,USA,Republic Services
+453,Switzerland,TE Connectivity
+454,USA,Capital One
+455,Sweden,Volvo Group
+456,USA,Energy Transfer Partners
+457,Canada,Nutrien
+458,USA,Xcel Energy
+459,USA,Cheniere Energy
+460,USA,Halliburton
+461,Australia,Wesfarmers
+462,USA,Carrier
+463,Denmark,Maersk
+464,USA,Fortinet
+465,S. Korea,LG Chem
+466,Japan,Denso
+467,Finland,Neste
+468,Australia,Atlassian
+469,Germany,Hapag-Lloyd
+470,China,Xiaomi
+471,Singapore,UOB
+472,USA,L3Harris Technologies
+473,Hong Kong,Bank of China (Hong Kong)
+474,USA,Dupont De Nemours
+475,USA,TransDigm
+476,Switzerland,STMicroelectronics
+477,India,Adani Transmission
+478,USA,Prudential Financial
+479,Canada,Cenovus Energy
+480,China,Haier Smart Home
+481,USA,Hilton Worldwide
+482,Taiwan,MediaTek
+483,India,Larsen & Toubro
+484,UK,Haleon
+485,USA,Allstate
+486,USA,Yum! Brands
+487,India,HCL Technologies
+488,Hong Kong,Jardine Matheson
+489,Switzerland,Alcon
+490,Mexico,Grupo MÃ©xico
+491,Japan,Hoya
+492,China,AIER Eye Hospital
+493,Canada,Constellation Software
+494,USA,Paccar
+495,USA,Cummins
+496,UK,Barclays
+497,UK,NatWest Group
+498,Canada,Manulife Financial
+499,USA,Ameriprise Financial
+500,USA,Arista Networks
+501,Germany,BioNTech
+502,France,Danone
+503,Japan,Japan Tobacco
+504,France,CrÃ©dit Agricole
+505,USA,Old Dominion Freight Line
+506,France,ENGIE
+507,USA,Mettler-Toledo
+508,USA,Marvell Technology Group
+509,USA,Otis Worldwide
+510,USA,Electronic Arts
+511,Canada,Barrick Gold
+512,Japan,Murata Manufacturing (Murata Seisakusho)
+513,India,Asian Paints
+514,India,Axis Bank
+515,China,China Pacific Insurance
+516,USA,Consolidated Edison
+517,Denmark,DSV
+518,USA,MPLX
+519,China,China State Construction Engineering
+520,Ireland,Cement Roadstone Holding
+521,Japan,Japan Post Bank
+522,Singapore,Sea (Garena)
+523,USA,Pacific Gas and Electric
+524,S. Korea,Samsung SDI
+525,China,Bank of Ningbo
+526,Switzerland,Holcim Group
+527,USA,Welltower
+528,USA,Waste Connections
+529,USA,Ametek
+530,Hong Kong,MTR Corporation
+531,USA,Enphase Energy
+532,China,CITIC limited
+533,USA,AmerisourceBergen
+534,USA,SBA Communications
+535,USA,CoStar Group
+536,USA,D. R. Horton
+537,USA,Cognizant Technology Solutions
+538,USA,Rockwell Automation
+539,China,CITIC Bank
+540,Germany,Deutsche BÃ¶rse
+541,USA,Dollar Tree
+542,USA,Kroger
+543,Australia,Telstra
+544,USA,Keysight
+545,USA,GlobalFoundries
+546,Ireland,Experian
+547,USA,Interactive Brokers
+548,USA,Brown Forman
+549,Brazil,WEG ON
+550,China,Shanghai Pudong Development Bank
+551,Japan,Nidec
+552,USA,ResMed
+553,USA,VICI Properties
+554,Thailand,Airports of Thailand
+555,China,Yili Group
+556,USA,Baker Hughes
+557,France,Capgemini
+558,USA,Walgreens Boots Alliance
+559,Spain,CaixaBank
+560,USA,Oneok
+561,USA,Illumina
+562,USA,Warner Bros. Discovery
+563,China,Luxshare Precision
+564,Denmark,Vestas Wind Systems
+565,UK,BAE Systems
+566,China,Vanke
+567,Hong Kong,Hang Seng Bank
+568,USA,PSEG
+569,S. Korea,Hyundai
+570,India,Maruti Suzuki India
+571,USA,Digital Realty
+572,Italy,UniCredit
+573,Brazil,Banco Bradesco
+574,USA,Nasdaq
+575,USA,PPG Industries
+576,China,The People's Insurance Company (PICC)
+577,Singapore,Singtel
+578,Sweden,Hexagon
+579,China,Peopleâs Insurance Company of China
+580,Japan,Fanuc
+581,China,Great Wall Motors
+582,Germany,RWE
+583,Japan,SMC corp
+584,UK,Vodafone
+585,India,Sun Pharmaceutical
+586,USA,LyondellBasell
+587,USA,Corning
+588,USA,State Street Corporation
+589,Mexico,Fomento EconÃ³mico Mexicano
+590,Belgium,KBC
+591,Hong Kong,Galaxy Entertainment
+592,USA,WEC Energy Group
+593,Switzerland,Swisscom
+594,Japan,Japan Post Holdings
+595,Canada,Telus
+596,Hong Kong,China Overseas Land & Investment
+597,Germany,Henkel
+598,Netherlands,Ahold Delhaize
+599,S. Korea,Coupang
+600,USA,Copart
+601,France,Compagnie de Saint-Gobain
+602,Switzerland,Givaudan
+603,China,Gree Electric Appliances
+604,Italy,Generali
+605,Thailand,PTT PCL
+606,Finland,KONE
+607,Germany,Adidas
+608,Canada,Restaurant Brands International
+609,USA,International Flavors & Fragrances
+610,Sweden,EQT
+611,Norway,DNB
+612,India,DMart
+613,USA,Discover Financial Services
+614,Australia,Transurban
+615,USA,Eversource Energy
+616,Taiwan,Chunghwa Telecom
+617,USA,Global Payments
+618,USA,W. W. Grainger
+619,USA,Alnylam Pharmaceuticals
+620,USA,American Water Works
+621,UK,Ferguson
+622,USA,Dell
+623,USA,Verisk Analytics
+624,Australia,Woolworths Group
+625,Switzerland,KÃ¼hne + Nagel
+626,Canada,Imperial Oil
+627,France,Orange
+628,Switzerland,Swiss Re
+629,Germany,Sartorius
+630,USA,Albemarle
+631,Canada,Sun Life Financial
+632,USA,ON Semiconductor
+633,China,Foxconn Industrial Internet
+634,USA,Lennar
+635,Finland,Nokia
+636,China,BeiGene
+637,Canada,Franco-Nevada
+638,Germany,E.ON
+639,Canada,Loblaw Companies
+640,USA,Fastenal
+641,USA,Constellation Energy
+642,Indonesia,Bank Mandiri
+643,Spain,Amadeus IT Group
+644,USA,Cheniere Energy
+645,UK,Willis Towers Watson
+646,UK,Ashtead
+647,Ireland,Aptiv
+648,China,JD Health
+649,USA,HP
+650,Germany,Beiersdorf
+651,USA,CBRE Group
+652,USA,United Rentals
+653,Ireland,Flutter Entertainment
+654,India,Bajaj Finserv
+655,Spain,Naturgy
+656,Japan,Fujitsu
+657,Japan,Astellas Pharma
+658,China,Shenzhen Inovance
+659,Finland,Sampo
+660,France,Thales
+661,USA,Equifax
+662,USA,Gartner
+663,Netherlands,Wolters Kluwer
+664,Denmark,Genmab
+665,USA,T. Rowe Price
+666,Israel,Mobileye
+667,USA,Diamondback Energy
+668,USA,CDW Corporation
+669,Taiwan,Formosa Petrochemical
+670,India,Titan Company
+671,Sweden,Assa Abloy
+672,India,Wipro
+673,Germany,Daimler Truck
+674,Canada,Intact Financial
+675,USA,Edison International
+676,Sweden,Skandinaviska Enskilda Banken
+677,Germany,Deutsche Bank
+678,Denmark,Coloplast
+679,USA,Zimmer Biomet
+680,China,SMIC
+681,India,UltraTech Cement
+682,USA,M&T Bank
+683,China,China Securities
+684,UK,Coca-Cola European Partners
+685,Ireland,Horizon Therapeutics
+686,China,SAIC Motor
+687,USA,Veeva Systems
+688,USA,Alexandria Real Estate Equities
+689,Canada,Agnico Eagle Mines
+690,S. Arabia,Saudi Electricity
+691,Luxembourg,ArcelorMittal
+692,Germany,EnBW Energie
+693,S. Arabia,Riyad Bank
+694,Sweden,Sandvik
+695,China,Yum China
+696,USA,Hormel Foods
+697,Hong Kong,China Resources Beer
+698,USA,eBay
+699,USA,ULTA Beauty
+700,Switzerland,Partners Group
+701,USA,Raymond James
+702,Australia,Goodman Group
+703,Japan,Bridgestone
+704,UK,Standard Chartered
+705,Switzerland,Lindt
+706,Hong Kong,CK Hutchison Holdings
+707,Indonesia,Telkom Indonesia
+708,Canada,National Bank of Canada
+709,Spain,Cellnex Telecom
+710,China,KE Holdings
+711,USA,Seagen
+712,USA,Delta Air Lines
+713,Malaysia,Maybank
+714,USA,FirstEnergy
+715,Hong Kong,Techtronic Industries
+716,USA,Tractor Supply
+717,USA,The Hartford
+718,USA,Vulcan Materials
+719,S. Korea,Naver
+720,Taiwan,Fubon Financial
+721,Canada,Rogers Communication
+722,Mexico,Banorte
+723,Taiwan,Delta Electronics
+724,China,Trip.com
+725,Germany,Vonovia
+726,USA,Genuine Parts Company
+727,Chile,Sociedad QuÃ­mica y Minera
+728,USA,Kellogg's
+729,Colombia,Ecopetrol
+730,USA,Fortive
+731,Japan,Dai-ichi Life Holdings
+732,USA,Equity Residential
+733,Canada,Great-West Lifeco
+734,USA,Fifth Third Bank
+735,France,Legrand
+736,Bermuda,Arch Capital
+737,Germany,Hannover RÃ¼ck
+738,USA,First Republic Bank
+739,Japan,Central Japan Railway
+740,UK,CNH Industrial
+741,USA,AvalonBay Communities
+742,India,NestlÃ© India
+743,USA,Weyerhaeuser
+744,China,Shanghai Airport
+745,UK,Imperial Brands
+746,Brazil,BTG Pactual
+747,USA,CrowdStrike
+748,USA,Ameren
+749,Ireland,Ingersoll Rand
+750,USA,Tyson Foods
+751,China,ZTO Express
+752,Netherlands,Koninklijke DSM
+753,USA,Sirius XM
+754,USA,The Trade Desk
+755,China,China Everbright Bank
+756,Sweden,Epiroc
+757,Sweden,Evolution Gaming
+758,Hong Kong,CK Asset Holdings
+759,Spain,TelefÃ³nica
+760,France,Michelin
+761,USA,Ares Management
+762,India,Oil & Natural Gas
+763,China,COSCO Shipping
+764,USA,DTE Energy
+765,Japan,Olympus
+766,S. Korea,Kakao
+767,USA,VeriSign
+768,USA,Baxter
+769,USA,PPL
+770,India,JSW Steel
+771,Spain,EDP RenovÃ¡veis
+772,China,Trina Solar
+773,Spain,Repsol
+774,USA,Entergy
+775,Japan,Canon
+776,UAE,Borouge
+777,China,Yankuang Energy (Yanzhou Coal Mining)
+778,USA,Datadog
+779,China,DiDi
+780,Switzerland,Schindler Group
+781,USA,LabCorp
+782,Netherlands,Argenx
+783,USA,Ansys
+784,UK,SSE
+785,USA,Martin Marietta
+786,China,Anhui Conch Cement
+787,Japan,Unicharm
+788,UK,Tesco
+789,China,BOE Technology
+790,Spain,Aena
+791,USA,Southwest Airlines
+792,China,Li Auto
+793,USA,UDR Apartments
+794,USA,Principal
+795,Hong Kong,Chow Tai Fook
+796,USA,McCormick & Company
+797,China,Sany Heavy Industry
+798,Mexico,Grupo Bimbo
+799,Spain,Endesa
+800,South Africa,FirstRand
+801,China,China Minsheng Bank
+802,Canada,Teck Resources
+803,France,SociÃ©tÃ© GÃ©nÃ©rale
+804,Japan,Komatsu
+805,Hong Kong,China Unicom
+806,USA,Extra Space Storage
+807,USA,Insulet
+808,USA,Quanta Services
+809,China,Ganfeng Lithium
+810,Japan,Sumitomo
+811,USA,Hewlett Packard Enterprise
+812,Ireland,Ryanair
+813,USA,Xylem
+814,USA,Huntington Bancshares
+815,Japan,East Japan Railway
+816,UK,Antofagasta
+817,Japan,Mitsubishi Electric
+818,USA,Regions Financial
+819,USA,BioMarin Pharmaceutical
+820,S. Korea,Kia
+821,India,Adani Ports & SEZ
+822,Switzerland,Straumann
+823,Sweden,NIBE Industrier
+824,Sweden,Svenska Handelsbanken
+825,Portugal,EDP Group
+826,Spain,Ferrovial
+827,France,Veolia
+828,Luxembourg,Tenaris
+829,Thailand,PTT Exploration and Production
+830,China,CRRC
+831,Canada,CGI
+832,USA,Citizens Financial Group
+833,Japan,NTT Data
+834,USA,Northern Trust
+835,Italy,Atlantia
+836,Japan,Terumo
+837,Sweden,Swedbank
+838,USA,DoorDash
+839,USA,Zoom
+840,Brazil,Banco do Brasil
+841,Sweden,H&M
+842,USA,Dover
+843,S. Arabia,The Saudi British Bank
+844,Taiwan,Cathay Financial Holding
+845,Japan,Fujifilm
+846,Sweden,Ericsson
+847,Japan,Z Holdings
+848,Ireland,Steris
+849,USA,Cardinal Health
+850,USA,Waters Corporation
+851,Canada,Wheaton Precious Metals
+852,Brazil,Copel
+853,China,Air China
+854,Canada,Fortis
+855,Japan,Panasonic
+856,USA,Church & Dwight
+857,USA,Roblox
+858,Japan,Nippon Paint
+859,USA,EPAM Systems
+860,Canada,Pembina Pipeline
+861,Japan,Marubeni
+862,China,China Tower
+863,India,NTPC Limited
+864,USA,Coterra Energy
+865,Sweden,Essity
+866,Denmark,Carlsberg
+867,China,NIO
+868,USA,CenterPoint Energy
+869,USA,Hologic
+870,India,Mahindra & Mahindra
+871,USA,HEICO
+872,USA,Ventas
+873,USA,Steel Dynamics
+874,Czech Republic,ÄEZ Group
+875,Taiwan,Nan Ya Plastics
+876,China,Longfor Group
+877,Singapore,Wilmar International
+878,Japan,ORIX
+879,USA,Teledyne
+880,USA,W. R. Berkley
+881,S. Korea,Celltrion
+882,Norway,Aker BP
+883,USA,Markel
+884,Finland,UPM-Kymmene
+885,China,China Railway Group
+886,USA,First Solar
+887,Japan,Shiseido
+888,China,Mengniu Dairy
+889,USA,Invitation Homes
+890,India,Tata Motors
+891,China,China Southern Airlines
+892,USA,Conagra Brands
+893,USA,Best Buy
+894,USA,Mid-America Apartment Communities
+895,USA,Wabtec
+896,China,Kanzhun
+897,Japan,"M3, Inc"
+898,Switzerland,Garmin
+899,USA,Sun Communities
+900,Brazil,Centrais Electricas Brasileiras
+901,UK,Legal & General
+902,Japan,Nexon
+903,Switzerland,SGS
+904,China,Tsingtao
+905,USA,Align Technology
+906,Taiwan,United Microelectronics
+907,USA,Monolithic Power Systems
+908,S. Korea,POSCO
+909,USA,AES
+910,USA,Rollins
+911,USA,J. B. Hunt
+912,Canada,George Weston
+913,Hong Kong,CLP Group
+914,Thailand,CP All
+915,Taiwan,Formosa Plastics
+916,USA,West Pharmaceutical
+917,USA,CMS Energy
+918,USA,Chewy
+919,India,Powergrid Corporation of India
+920,Germany,Porsche SE
+921,Japan,Eisai
+922,Switzerland,Geberit
+923,USA,LPL Financial
+924,Ireland,ICON plc
+925,Canada,Magna International
+926,Thailand,Advanced Info Service (AIS)
+927,Hong Kong,Hong Kong and China Gas
+928,USA,Paycom
+929,Hong Kong,Wharf REIC
+930,USA,Darden Restaurants
+931,Bermuda,Brookfield Renewable Partners
+932,Japan,KaÅ
+933,USA,Pinterest
+934,Netherlands,Exor
+935,Switzerland,Amcor
+936,India,Tata Steel
+937,USA,Clorox
+938,USA,IDEX
+939,USA,Incyte
+940,USA,Ball Corporation
+941,USA,Icahn Enterprises
+942,India,Hindustan Zinc
+943,Japan,Nippon Steel
+944,Hong Kong,Henderson Land Development
+945,S. Korea,KB Financial Group
+946,Italy,Snam
+947,Japan,Lasertec
+948,China,ZTE
+949,S. Arabia,Alinma Bank
+950,Denmark,Danske Bank
+951,Japan,Toyota Industries
+952,Sweden,Spotify
+953,Japan,Kyocera
+954,China,Guotai Junan Securities
+955,USA,Ubiquiti
+956,Germany,Vantage Towers
+957,USA,Take 2 Interactive
+958,UK,Associated British Foods
+959,Israel,SolarEdge
+960,S. Arabia,Saudi Arabian Fertilizer Company
+961,Canada,Dollarama
+962,China,Huatai Securities
+963,USA,Molina Healthcare
+964,Canada,Power Corporation of Canada
+965,Germany,Fresenius
+966,Japan,Renesas Electronics
+967,UK,Royalty Pharma
+968,USA,Brown & Brown
+969,USA,Expeditors
+970,Japan,MS&AD Insurance
+971,USA,W. P. Carey
+972,USA,Cooper Companies
+973,China,China Merchants Securities
+974,Belgium,UCB
+975,USA,Blue Owl Capital
+976,Brazil,Nu Holdings
+977,USA,Live Nation
+978,France,Publicis Groupe
+979,Hong Kong,Link REIT
+980,USA,Abiomed
+981,UK,3i Group
+982,USA,Marathon Oil
+983,UAE,Abu Dhabi Commercial Bank (ADCB)
+984,USA,Omnicom
+985,South Africa,Standard Bank Group
+986,USA,Cincinnati Financial
+987,S. Korea,Shinhan Financial Group
+988,USA,Targa Resources
+989,USA,Fox Corporation
+990,China,Chongqing Changan
+991,USA,CF Industries
+992,Switzerland,Swiss Life
+993,Poland,PKN Orlen
+994,Japan,Otsuka Holdings
+995,USA,KeyCorp (KeyBank)
+996,USA,Broadridge Financial Solutions
+997,Australia,Santos
+998,USA,Etsy
+999,Japan,Ajinomoto
+1000,France,BollorÃ©
+1001,Japan,Kubota
+1002,USA,PerkinElmer
+1003,USA,United Airlines Holdings
+1004,Switzerland,Ems-Chemie
+1005,USA,Howmet Aerospace
+1006,USA,Quest Diagnostics
+1007,China,China Communications Construction
+1008,Austria,OMV
+1009,USA,Avangrid
+1010,USA,Warner Music Group
+1011,Brazil,ItaÃºsa
+1012,Canada,Tourmaline Oil
+1013,Canada,Hydro One
+1014,USA,Texas Pacific Land Trust
+1015,Japan,Aeon
+1016,China,China Merchants Shekou Industrial Zone
+1017,Sweden,Swedish Match
+1018,USA,Expedia Group
+1019,China,Bank of Jiangsu
+1020,USA,Tradeweb
+1021,USA,J.M. Smucker Company
+1022,USA,Campbell Soup
+1023,Japan,Mitsui Fudosan
+1024,Japan,Mitsubishi Estate
+1025,USA,Rocket Companies
+1026,USA,FMC
+1027,China,Bank of Nanjing
+1028,USA,Skyworks Solutions
+1029,India,Coal India
+1030,USA,Royal Caribbean
+1031,USA,Atmos Energy
+1032,Israel,Check Point Software
+1033,Italy,Moncler
+1034,Canada,First Quantum Minerals
+1035,S. Korea,Hyundai Mobis
+1036,UK,Rentokil Initial
+1037,USA,FactSet
+1038,Hong Kong,Swire Properties
+1039,Norway,Norsk Hydro
+1040,India,SBI Life Insurance
+1041,Switzerland,Swatch
+1042,India,HDFC Life
+1043,Italy,Terna
+1044,USA,NVR
+1045,USA,Jacobs Engineering
+1046,Taiwan,China Steel
+1047,Germany,Symrise
+1048,Japan,Asahi Group
+1049,Bermuda,Brookfield Infrastructure Partners
+1050,USA,Avery Dennison
+1051,USA,Snap
+1052,Canada,WSP Global
+1053,France,Teleperformance
+1054,USA,The Mosaic Company
+1055,Malaysia,PChem (Petronas Chemicals Group)
+1056,Australia,Coles Group
+1057,Japan,Suzuki Motor
+1058,USA,LKQ Corporation
+1059,Switzerland,Sonova
+1060,UK,BT Group
+1061,Ireland,AerCap
+1062,China,Hai Di Lao Hot Pot
+1063,USA,Zscaler
+1064,USA,Formula One Group
+1065,Canada,Fairfax Financial
+1066,USA,FICO
+1067,Netherlands,ASM International
+1068,UK,Aviva
+1069,USA,HubSpot
+1070,India,Pidilite
+1071,USA,PTC
+1072,Netherlands,Philips
+1073,UAE,Abu Dhabi National Oil Company (ADNOC)
+1074,USA,Iron Mountain
+1075,Australia,Aristocrat
+1076,China,Tencent Music
+1077,Italy,Prada
+1078,USA,MGM Resorts
+1079,USA,Teradyne
+1080,USA,Zebra Technologies
+1081,Taiwan,ASE Group
+1082,China,Huazhu Hotels
+1083,Mexico,Coca-Cola FEMSA
+1084,China,Geely
+1085,USA,Synchrony
+1086,Japan,Toshiba
+1087,USA,Bunge
+1088,USA,Franklin Resources
+1089,Netherlands,JDE Peet's
+1090,Japan,Shimano
+1091,Indonesia,Astra International
+1092,Australia,South32
+1093,Brazil,B3
+1094,USA,SVB Financial Group
+1095,Taiwan,CTBC Financial Holding
+1096,Japan,Daiwa House
+1097,USA,Lucid Motors
+1098,USA,Avantor
+1099,Mexico,Arca Continental
+1100,China,GAC (Guangzhou Automobile Group)
+1101,Denmark,Tryg
+1102,Germany,Siemens Energy
+1103,China,Zhongsheng Group
+1104,Taiwan,MFHC
+1105,USA,Burlington Stores
+1106,Japan,Sompo Holdings
+1107,USA,Textron
+1108,China,China Railway Construction
+1109,USA,Essex Property Trust
+1110,UAE,Multiply Group
+1111,Norway,Telenor
+1112,USA,Westlake Chemical
+1113,USA,Apache Corporation
+1114,USA,Gen Digital
+1115,Germany,Continental
+1116,Thailand,Bangkok Dusit Medical Services (BDMS)
+1117,USA,Healthpeak Properties
+1118,S. Arabia,Almarai
+1119,USA,Splunk
+1120,USA,Rivian
+1121,India,Vedanta
+1122,Japan,Nitori Holdings
+1123,France,AÃ©roports de Paris
+1124,USA,Palantir
+1125,USA,Cloudflare
+1126,USA,Evergy
+1127,Austria,Erste Group Bank
+1128,Australia,Newcrest Mining
+1129,Denmark,Novozymes
+1130,Japan,Nomura Research Institute
+1131,Japan,Inpex
+1132,USA,Fleetcor
+1133,Chile,Enel AmÃ©ricas
+1134,Canada,Shaw Communications
+1135,Turkey,Sasa Polyester
+1136,USA,Loews Corporation
+1137,India,Indian Oil
+1138,Sweden,Volvo Car
+1139,Japan,Shinkin Central Bank
+1140,Netherlands,ABN AMRO
+1141,France,Sodexo
+1142,Japan,Shionogi
+1143,USA,Lamb Weston
+1144,Taiwan,Formosa Chemicals & Fibre
+1145,UAE,ADNOC Drilling Company
+1146,South Africa,MTN Group
+1147,Hong Kong,CK Infrastructure
+1148,Portugal,JerÃ³nimo Martins
+1149,Germany,Delivery Hero
+1150,USA,SS&C Technologies
+1151,USA,Viatris
+1152,Finland,Fortum
+1153,USA,Interpublic Group
+1154,China,Sunny Optical
+1155,USA,Akamai
+1156,USA,NetApp
+1157,USA,Nordson
+1158,USA,Alliant Energy
+1159,China,Weichai Power
+1160,China,Huaneng Power
+1161,BM,Everest Re
+1162,France,Carrefour
+1163,Italy,Poste Italiane
+1164,Singapore,Grab Holdings
+1165,Philippines,BDO Unibank
+1166,USA,MongoDB
+1167,USA,Gaming and Leisure Properties
+1168,France,Dassault Aviation
+1169,USA,Carnival
+1170,USA,POOLCORP
+1171,Switzerland,Credit Suisse
+1172,Luxembourg,Eurofins Scientific
+1173,USA,International Paper
+1174,Canada,Power Financial
+1175,Spain,Acciona EnergÃ­as Renovables
+1176,Thailand,Thai Beverage
+1177,South Africa,Capitec Bank
+1178,China,New China Life Insurance
+1179,USA,Corebridge Financial
+1180,Japan,OBIC
+1181,Australia,QBE Insurance
+1182,USA,Liberty Media
+1183,Japan,Bandai Namco
+1184,USA,Trimble
+1185,USA,Leidos
+1186,France,Edenred
+1187,France,Amundi
+1188,China,Bank of Beijing
+1189,USA,Axon Enterprise
+1190,Indonesia,Chandra Asri Petrochemical
+1191,India,Grasim Industries
+1192,Spain,Siemens Gamesa
+1193,USA,Bio-Rad Laboratories
+1194,Japan,Sysmex
+1195,Japan,Toyota Tsusho
+1196,India,Hindalco Industries
+1197,USA,Jack Henry & Associates
+1198,Japan,Resona Holdings
+1199,USA,First Horizon National
+1200,USA,TransUnion
+1201,USA,Snap-on
+1202,USA,Cboe
+1203,USA,Kimco Realty
+1204,Japan,Sumitomo Mitsui Trust Holdings
+1205,USA,Tyler Technologies
+1206,Netherlands,KPN
+1207,China,China Eastern Airlines
+1208,USA,Equity LifeStyle Properties
+1209,USA,Paramount Global
+1210,USA,Stanley Black & Decker
+1211,USA,Celanese
+1212,Canada,Brookfield Asset Management
+1213,USA,American Homes 4 Rent
+1214,Israel,Bank Leumi
+1215,USA,Erie Indemnity
+1216,Singapore,Singapore Airlines
+1217,USA,Coinbase
+1218,USA,Liberty Broadband
+1219,France,Bureau Veritas
+1220,Germany,Commerzbank
+1221,France,bioMÃ©rieux
+1222,Switzerland,Julius BÃ¤r
+1223,Canada,Metro
+1224,South Africa,Vodacom
+1225,S. Korea,LG Electronics
+1226,Thailand,Siam Cement
+1227,India,Adani Power
+1228,USA,AspenTech
+1229,Brazil,Suzano
+1230,Sweden,Alfa Laval
+1231,China,Hansoh Pharma
+1232,India,Siemens India
+1233,Mexico,Grupo Elektra
+1234,USA,Match Group
+1235,S. Arabia,Banque Saudi Fransi
+1236,Israel,Bank Hapoalim
+1237,Malaysia,Tenaga Nasional
+1238,Germany,MTU Aero Engines
+1239,USA,Essential Utilities
+1240,Netherlands,AkzoNobel
+1241,USA,EQT Corporation
+1242,Japan,Advantest
+1243,India,Britannia Industries
+1244,Taiwan,Uni-President Enterprises
+1245,China,Bank of Shanghai
+1246,Germany,Carl Zeiss Meditec
+1247,USA,Reliance Steel & Aluminum
+1248,USA,Unity Software
+1249,USA,Hubbell
+1250,USA,Bio-Techne
+1251,USA,Amerco
+1252,Israel,NICE
+1253,India,Ambuja Cements
+1254,UK,SEGRO
+1255,Japan,Secom
+1256,France,Worldline
+1257,UK,Smith & Nephew
+1258,USA,Camden Property Trust
+1259,USA,Booz Allen Hamilton
+1260,Sweden,Polestar
+1261,Belgium,GBL
+1262,Japan,Mitsubishi Heavy Industries
+1263,USA,Packaging Corporation of America
+1264,Belgium,Solvay
+1265,Japan,Nissan
+1266,Germany,HeidelbergCement
+1267,Israel,Teva Pharmaceutical Industries
+1268,USA,Ovintiv
+1269,India,Bajaj Auto
+1270,Japan,TDK
+1271,China,Shandong Gold Mining
+1272,Taiwan,Taiwan Cooperative Financial
+1273,India,Tech Mahindra
+1274,S. Korea,Hana Financial Group
+1275,USA,MarketAxess
+1276,USA,Carlisle Companies
+1277,Brazil,Telefonica Brasil
+1278,Germany,Talanx
+1279,China,Hua Xia Bank
+1280,USA,Host Hotels & Resorts
+1281,S. Korea,POSCO Chemical
+1282,Australia,WiseTech Global
+1283,Japan,Sekisui House
+1284,Germany,Zalando
+1285,USA,Exact Sciences
+1286,UK,Bunzl
+1287,China,Yonyou
+1288,France,Bouygues
+1289,USA,Chesapeake Energy
+1290,Netherlands,NN Group
+1291,Italy,Campari
+1292,USA,Carlyle Group
+1293,USA,American Financial Group
+1294,Finland,Stora Enso
+1295,Bermuda,Brookfield Property Partners
+1296,UK,WPP
+1297,Taiwan,Chailease Holding
+1298,USA,VF Corporation
+1299,Japan,Kirin Holdings
+1300,USA,The Toro Company
+1301,India,Dabur
+1302,Malaysia,IHH Healthcare
+1303,Indonesia,Unilever Indonesia
+1304,USA,AECOM
+1305,UK,Croda International
+1306,S. Arabia,Bank Albilad
+1307,Hong Kong,Power Assets
+1308,USA,Domino's Pizza
+1309,USA,First Citizens BancShares
+1310,Japan,Nomura Holdings
+1311,USA,Graco
+1312,USA,United Therapeutics
+1313,S. Arabia,Arab National Bank
+1314,UK,AVEVA
+1315,USA,Entegris
+1316,Italy,Nexi
+1317,Brazil,Rede D'Or Sao Luiz
+1318,UK,InterContinental Hotels Group
+1319,USA,Charles River Laboratories
+1320,India,Bank of Baroda
+1321,India,IndusInd Bank
+1322,Bermuda,Credicorp
+1323,USA,Western Digital
+1324,Ireland,Seagate Technology
+1325,USA,GoDaddy
+1326,Japan,kyowa Kirin
+1327,China,Hainan Airlines
+1328,USA,Globe Life
+1329,Japan,Nippon YÅ«sen
+1330,Hong Kong,Swire Pacific
+1331,Norway,Yara International
+1332,Sweden,Boliden
+1333,USA,DocuSign
+1334,USA,Masco
+1335,China,Aluminum Corporation of China
+1336,Hong Kong,Orient Overseas Container Line
+1337,USA,CNA Financial
+1338,USA,Aramark
+1339,France,Renault
+1340,Australia,Mineral Resources
+1341,Netherlands,Randstad
+1342,China,Sino Biopharmaceutical
+1343,Taiwan,First Financial Holding
+1344,India,Godrej
+1345,Switzerland,Vifor Pharma
+1346,Malaysia,CIMB Group
+1347,USA,PulteGroup
+1348,Japan,Subaru
+1349,Taiwan,E.SUN Bank
+1350,Netherlands,Qiagen
+1351,Thailand,SCB (Siam Commercial Bank)
+1352,USA,ZoomInfo
+1353,Canada,Saputo
+1354,USA,Albertsons
+1355,Germany,Lufthansa
+1356,USA,Ryan Specialty Group
+1357,India,DLF
+1358,Australia,REA Group
+1359,USA,Wynn Resorts
+1360,UK,Informa plc
+1361,S. Korea,KakaoBank
+1362,South Africa,Impala Platinum
+1363,Australia,Brambles
+1364,USA,Regency Centers
+1365,South Africa,Gold Fields
+1366,Taiwan,Hotai Motor
+1367,USA,Teleflex
+1368,USA,Equitable Holdings
+1369,USA,News Corp
+1370,USA,NiSource
+1371,Germany,Brenntag
+1372,USA,Hyatt Hotels
+1373,USA,Fidelity National Financial
+1374,USA,RPM International
+1375,Sweden,LundbergfÃ¶retagen
+1376,Thailand,Kasikornbank
+1377,USA,Okta
+1378,Sweden,Industrivarden
+1379,USA,Rexford Industrial
+1380,USA,Boston Properties
+1381,USA,Deckers Brands
+1382,Spain,Acciona
+1383,USA,Sarepta Therapeutics
+1384,South Africa,Sasol
+1385,UK,Rolls-Royce Holdings
+1386,China,Full Truck Alliance
+1387,USA,American Airlines
+1388,USA,Molson Coors
+1389,Canada,Cameco
+1390,USA,C. H. Robinson
+1391,Switzerland,Barry Callebaut
+1392,Italy,FinecoBank
+1393,USA,Eastman Chemical
+1394,USA,Bentley Systems
+1395,USA,Service Corporation International
+1396,Netherlands,AEGON
+1397,S. Korea,SK Innovation
+1398,Australia,Scentre Group
+1399,USA,Bill.com
+1400,Brazil,Gerdau
+1401,Hong Kong,Hongkong Land
+1402,USA,Western Midstream
+1403,USA,Henry Schein
+1404,India,Divis Laboratories
+1405,India,Larsen & Toubro Infotech
+1406,Japan,Ono Pharmaceutical
+1407,Singapore,Flex
+1408,France,Vivendi
+1409,Canada,Ivanhoe Mines
+1410,USA,Magellan Midstream Partners
+1411,USA,Amdocs
+1412,Canada,Emera
+1413,USA,Paylocity
+1414,Indonesia,Bank Negara Indonesia
+1415,Japan,Sumitomo Realty & Development
+1416,USA,Cleveland-Cliffs
+1417,USA,Darling Ingredients
+1418,Japan,Disco Corp.
+1419,Japan,ENEOS Holdings
+1420,USA,Dick's Sporting Goods
+1421,China,Bilibili
+1422,Australia,Ramsay Health Care
+1423,India,Shree Cement
+1424,USA,Bath & Body Works
+1425,USA,Dynatrace
+1426,Japan,Sumitomo Metal Mining
+1427,USA,Watsco
+1428,USA,Annaly Capital Management
+1429,Japan,Pan Pacific
+1430,USA,TPG Capital
+1431,Taiwan,Evergreen Marine
+1432,USA,Builders FirstSource
+1433,Turkey,Turkish Airlines
+1434,Japan,Yakult
+1435,USA,Five Below
+1436,India,Eicher Motors
+1437,USA,Universal Health Services
+1438,France,Alstom
+1439,USA,AGCO
+1440,USA,Synnex
+1441,India,Cipla
+1442,Sweden,Telia Company
+1443,USA,Crown Holdings
+1444,S. Korea,Korea Electric Power
+1445,UK,Burberry
+1446,Australia,Sonic Healthcare
+1447,USA,Neurocrine Biosciences
+1448,Hong Kong,Sino Land
+1449,UK,Next plc
+1450,Germany,Fresenius Medical Care
+1451,USA,Tapestry
+1452,Taiwan,Hua Nan Financial Holdings
+1453,USA,HF Sinclair
+1454,Isle of Man,Entain
+1455,UK,Spirax-Sarco Engineering
+1456,USA,BorgWarner
+1457,Canada,GFL Environmental
+1458,Chile,Banco de Chile
+1459,USA,Ceridian
+1460,Italy,INWIT
+1461,USA,Lamar Advertising
+1462,USA,Caesars Entertainment
+1463,S. Korea,Samsung Life Insurance
+1464,USA,Toast
+1465,Australia,Suncorp
+1466,USA,Juniper Networks
+1467,S. Korea,LG Corp
+1468,USA,Jabil
+1469,Germany,Knorr-Bremse
+1470,Brazil,Localiza
+1471,USA,Freddie Mac
+1472,Portugal,Galp Energia
+1473,USA,CarMax
+1474,USA,Zillow
+1475,Singapore,CapitaLand Mall Trust
+1476,Germany,PUMA
+1477,USA,Morningstar
+1478,Germany,Deutsche Wohnen
+1479,India,Hindustan Aeronautics
+1480,Japan,Suntory
+1481,Poland,PKO Bank Polski
+1482,USA,Qorvo
+1483,China,Country Garden
+1484,USA,Vail Resorts
+1485,Germany,Rheinmetall
+1486,UK,JD Sports Fashion
+1487,Japan,Omron
+1488,Norway,Adevinta
+1489,Italy,Prysmian Group
+1490,Japan,West Japan Railway
+1491,USA,Bruker
+1492,Japan,ANA Holdings
+1493,Germany,Evonik Industries
+1494,UK,Halma
+1495,Turkey,ENKA
+1496,Ireland,Allegion
+1497,UK,Liberty Global
+1498,Turkey,KoÃ§ Holding
+1499,Malaysia,(HLBank) Hong Leong Bank
+1500,India,InterGlobe Aviation
+1501,Australia,Northern Star
+1502,USA,Twilio
+1503,USA,Lattice Semiconductor
+1504,France,Eiffage
+1505,Japan,Asahi Kasei
+1506,Australia,Computershare
+1507,USA,Wolfspeed
+1508,USA,Repligen
+1509,Jersey,Novocure
+1510,Ireland,Jazz Pharmaceuticals
+1511,Japan,Kikkoman
+1512,Israel,Israel Chemicals
+1513,Denmark,Chr. Hansen
+1514,USA,Ares Capital
+1515,USA,Reinsurance Group of America
+1516,USA,East West Bancorp
+1517,China,Tingyi (master kang)
+1518,Norway,Gjensidige Forsikring
+1519,USA,AutoNation
+1520,Spain,Red ElÃ©ctrica
+1521,South Africa,AngloGold Ashanti
+1522,Belgium,Umicore
+1523,Hong Kong,Hong Kong Telecom
+1524,USA,Alcoa
+1525,India,Varun Beverages
+1526,China,China Oilfield Services
+1527,UK,Sage Group
+1528,USA,WillScot
+1529,Hong Kong,ESR
+1530,USA,Zendesk
+1531,China,AMEC
+1532,France,RÃ©my Cointreau
+1533,Australia,Cochlear
+1534,USA,Plug Power
+1535,USA,Legend Biotech
+1536,USA,Westrock
+1537,China,Vipshop
+1538,Sweden,Svenska Cellulosa Aktiebolaget (SCA)
+1539,Finland,Kesko
+1540,France,Ipsen
+1541,Germany,HELLA
+1542,Australia,Ampol
+1543,USA,A. O. Smith
+1544,UAE,Al Dar Properties
+1545,Singapore,Keppel
+1546,Taiwan,Quanta Computer
+1547,USA,CubeSmart
+1548,Hong Kong,Lenovo
+1549,Thailand,Central Pattana
+1550,Taiwan,President Chain Store (PSCS)
+1551,Taiwan,Yuanta Financial Holding
+1552,Canada,TFI International
+1553,USA,Black Knight
+1554,Brazil,JBS
+1555,USA,Performance Food Group
+1556,Brazil,XP Inc.
+1557,India,Bharat Petroleum
+1558,Spain,International Consolidated Airlines
+1559,Ireland,James Hardie Industries
+1560,USA,BJ's Wholesale Club
+1561,Japan,NEC Corp
+1562,UK,Schroders
+1563,Australia,ASX
+1564,USA,Cognex
+1565,UAE,Abu Dhabi Islamic Bank (ADIB)
+1566,India,Bharat Electronics
+1567,Australia,Origin Energy
+1568,Finland,Metso Outotec (Mo Group)
+1569,Japan,Toray Industries
+1570,USA,Lincoln Electric
+1571,USA,Jefferies Financial Group
+1572,USA,NOV
+1573,Thailand,Bangkok Bank
+1574,UAE,Fertiglobe
+1575,Singapore,Genting Singapore
+1576,Belgium,Sofina
+1577,Switzerland,VAT Group
+1578,USA,Hasbro
+1579,Turkey,Ford Otosan
+1580,Switzerland,SIG Combibloc
+1581,India,Adani Wilmar
+1582,India,Havells India
+1583,USA,Regal Rexnord
+1584,USA,STORE Capital
+1585,Japan,Yaskawa
+1586,Netherlands,IMCD
+1587,Taiwan,Largan Precision
+1588,China,Spring Airlines
+1589,USA,Penumbra
+1590,Finland,Elisa
+1591,Norway,Mowi
+1592,India,SBI Card
+1593,USA,Floor & Decor
+1594,UK,Mondi
+1595,USA,Comerica
+1596,USA,Lennox
+1597,Netherlands,Yandex
+1598,Italy,Recordati
+1599,USA,Advance Auto Parts
+1600,New Zealand,Fisher & Paykel Healthcare
+1601,Israel,Mizrahi-Tefahot
+1602,USA,ADT
+1603,USA,Federal Realty Investment Trust
+1604,Taiwan,Taiwan Mobile
+1605,USA,Antero Resources
+1606,USA,Vistra
+1607,Japan,SG Holdings
+1608,S. Korea,LG Household & Health Care
+1609,USA,Huntington Ingalls Industries
+1610,Taiwan,Advantech
+1611,India,Dr. Reddy's
+1612,Japan,Mitsui O.S.K. Lines
+1613,USA,Knight-Swift
+1614,Switzerland,Logitech
+1615,USA,F5 Networks
+1616,Switzerland,Coca-Cola HBC
+1617,Sweden,Sagax
+1618,China,China Zheshang Bank
+1619,USA,Catalent
+1620,China,New Hope Liuhe
+1621,USA,Invesco
+1622,USA,Cullen/Frost Bankers
+1623,Canada,OpenText
+1624,S. Korea,Samsung Electro-Mechanics
+1625,Japan,Sumitomo Denki KÅgyÅ
+1626,Italy,Mediobanca
+1627,France,Getlink
+1628,USA,Commerce Bancshares
+1629,Singapore,Ascendas Reit
+1630,Japan,Isuzu
+1631,USA,DCP Midstream
+1632,Bermuda,Genpact
+1633,USA,Life Storage
+1634,Japan,Japan Airlines
+1635,France,Gecina
+1636,UAE,Abu Dhabi Ports
+1637,Mexico,Grupo Aeroportuario del PacÃ­fico
+1638,S. Korea,SK Group
+1639,South Africa,Sibanye-Stillwater
+1640,Mexico,Fresnillo
+1641,Bermuda,RenaissanceRe
+1642,USA,Owens Corning
+1643,Japan,Nitto Denko
+1644,Netherlands,Euronext
+1645,S. Korea,KT&G (Korea Tobacco)
+1646,Germany,Covestro
+1647,Taiwan,Taiwan Cement
+1648,UK,United Utilities
+1649,Japan,T&D Holdings
+1650,New Zealand,Meridian Energy
+1651,Kazakhstan,Kazatomprom
+1652,Mexico,Becle
+1653,France,Unibail-Rodamco-Westfield
+1654,China,XPeng
+1655,UK,Intertek
+1656,USA,Williams-Sonoma
+1657,India,Tata Consumer Products
+1658,USA,UGI Corporation
+1659,Sweden,Lifco
+1660,USA,Pinnacle West Capital
+1661,Germany,Traton
+1662,Mexico,Banco Santander MÃ©xico
+1663,S. Korea,Doosan Enerbility
+1664,USA,National Retail Properties
+1665,Hong Kong,Hang Lung Properties
+1666,USA,Penske Automotive
+1667,S. Korea,HMM
+1668,India,ICICI Prulife
+1669,USA,Signify Health
+1670,USA,Royal Gold
+1671,S. Korea,Korea Zinc
+1672,USA,Plains All American Pipeline
+1673,USA,Robert Half
+1674,USA,Jones Lang LaSalle
+1675,USA,Americold
+1676,USA,Whirlpool
+1677,Germany,TelefÃ³nica Deutschland (O2)
+1678,Japan,KEPCO
+1679,USA,Celsius Holdings
+1680,Canada,Choice Properties REIT
+1681,USA,Churchill Downs
+1682,Israel,Azrieli Group
+1683,USA,US Foods
+1684,Turkey,QNB Finansbank
+1685,USA,Casey's General Stores
+1686,Hong Kong,Want Want China
+1687,USA,SEI Investments
+1688,USA,Dropbox
+1689,Hungary,OTP Bank
+1690,Hong Kong,Wharf Holdings
+1691,USA,Webster Financial
+1692,Japan,Oracle Corp Japan
+1693,Japan,Dentsu
+1694,Japan,TÅkyÅ Gas
+1695,Japan,Shimadzu
+1696,UK,St. James's Place
+1697,UK,Pentair
+1698,Australia,Qantas Airways
+1699,Singapore,Jardine Cycle & Carriage
+1700,Sweden,Indutrade
+1701,Australia,Insurance Australia Group
+1702,China,China Gas
+1703,USA,Switch
+1704,UK,Capri Holdings
+1705,UK,Admiral Group
+1706,USA,Masimo
+1707,USA,Unum
+1708,Poland,Dino Polska
+1709,France,FranÃ§aise des Jeux
+1710,Spain,Grupo ACS
+1711,USA,Agilon Health
+1712,UK,Pearson
+1713,USA,Organon
+1714,USA,Lear Corporation
+1715,India,Tata Power
+1716,USA,Middleby
+1717,Mexico,Grupo Aeroportuario del Sureste
+1718,Singapore,ST Engineering
+1719,USA,New Fortress Energy
+1720,S. Korea,SK Telecom
+1721,USA,Coty
+1722,USA,Ally
+1723,Switzerland,Banque Cantonale Vaudoise
+1724,Hong Kong,WH Group
+1725,UAE,Ooredoo
+1726,China,Sinopharm
+1727,Indonesia,Indofood CBP
+1728,USA,Pure Storage
+1729,USA,OGE Energy
+1730,India,Punjab National Bank
+1731,Canada,CCL Industries
+1732,India,Bajaj Holdings & Investment
+1733,Mexico,Megacable Holdings
+1734,France,Accor
+1735,India,SRF Limited
+1736,S. Korea,S-OIL
+1737,India,Marico
+1738,USA,Fortune Brands Home & Security
+1739,USA,Avis Budget Group
+1740,Japan,Hamamatsu
+1741,Sweden,SKF (Svenska Kullagerfabriken)
+1742,USA,Sealed Air
+1743,UK,Ocado
+1744,Japan,Nissin Foods
+1745,USA,Tetra Tech
+1746,USA,Healthcare Realty
+1747,South Africa,Shoprite
+1748,USA,Dentsply Sirona
+1749,USA,Pershing Square Holdings
+1750,Turkey,TÃ¼rkiye Petrol Rafinerileri
+1751,New Zealand,Xero
+1752,New Zealand,Auckland Airport
+1753,India,GAIL
+1754,USA,Ralph Lauren
+1755,USA,Acadia Healthcare
+1756,S. Korea,NCsoft
+1757,Malaysia,PetGas (Petronas Gas)
+1758,USA,Robinhood
+1759,Spain,Grifols
+1760,Germany,GEA Group
+1761,USA,Crocs
+1762,Brazil,RaiaDrogasil
+1763,Japan,Yamaha Motor
+1764,Italy,DiaSorin
+1765,USA,Olin
+1766,USA,Iridium Communications
+1767,Italy,Edison
+1768,Canada,ARC Resources
+1769,Argentina,YPF (Yacimientos PetrolÃ­feros Fiscales)
+1770,UAE,Americana Restaurants International
+1771,USA,WEX
+1772,Taiwan,Sinopac Financial Holdings
+1773,Japan,Rakuten
+1774,USA,Dish Network
+1775,USA,Zions Bancorporation
+1776,USA,Medical Properties Trust
+1777,USA,MasTec
+1778,Germany,Rational AG
+1779,Poland,Allegro.eu
+1780,Finland,Orion Corporation
+1781,UK,Phoenix Group
+1782,Japan,AGC
+1783,USA,Manhattan Associates
+1784,USA,UiPath
+1785,Israel,Elbit Systems
+1786,Canada,Canadian Utilities
+1787,Japan,Japan Exchange Group
+1788,S. Arabia,Kingdom Holding
+1789,UK,Melrose Industries
+1790,S. Korea,Kakao Pay
+1791,USA,Amkor Technology
+1792,India,Apollo Hospitals
+1793,S. Arabia,Arabian Internet and Communications Services
+1794,S. Korea,Woori Financial Group
+1795,USA,Ciena
+1796,Chile,Banco Santander-Chile
+1797,USA,Hess Midstream
+1798,India,ICICI Lombard
+1799,Japan,Chubu Electric Power
+1800,USA,Mohawk Industries
+1801,China,Genscript Biotech
+1802,France,Arkema
+1803,China,Fosun
+1804,USA,Donaldson
+1805,USA,Concentrix
+1806,Malaysia,MISC Berhad
+1807,USA,Berry Global
+1808,Taiwan,Shanghai Commercial and Savings Bank
+1809,USA,Planet Fitness
+1810,India,ABB India
+1811,India,Indian Overseas Bank
+1812,USA,Symbotic
+1813,UK,Whitbread
+1814,Japan,Tokyu
+1815,Luxembourg,RTL Group
+1816,USA,Signature Bank
+1817,USA,AptarGroup
+1818,USA,Globus Medical
+1819,USA,Old Republic International
+1820,Japan,Monotaro
+1821,USA,Inspire Medical Systems
+1822,Japan,Rohm
+1823,India,Jindal Steel & Power
+1824,Japan,Mitsubishi Chemical Holdings
+1825,USA,Chemed
+1826,Hong Kong,New World Development Company
+1827,Japan,Nippon Building Fund
+1828,Norway,Orkla
+1829,Switzerland,BKW AG
+1830,Turkey,Erdemir
+1831,India,United Spirits
+1832,USA,Advanced Drainage Systems
+1833,India,IDBI Bank
+1834,Indonesia,Alfamart
+1835,Singapore,Singapore Exchange
+1836,USA,NRG Energy
+1837,China,Zoomlion
+1838,Switzerland,BÃ¢loise
+1839,Hong Kong,Futu Holdings
+1840,Denmark,Pandora
+1841,Malaysia,Nestle Malaysia
+1842,Italy,UnipolSai
+1843,Brazil,Sabesp
+1844,Indonesia,Merdeka Copper Gold
+1845,Mexico,Cemex
+1846,USA,Oak Street Health
+1847,USA,ShockWave Medical
+1848,Japan,Aisin Seiki
+1849,USA,ITT
+1850,S. Arabia,Etihad Etisalat (Mobily)
+1851,USA,Emcor
+1852,Indonesia,GoTo
+1853,S. Korea,Hanwha Solutions
+1854,Brazil,CPFL Energia
+1855,China,New Oriental
+1856,Canada,IGM Financial
+1857,Poland,Santander Polska
+1858,Taiwan,China Development Financial
+1859,USA,Skechers
+1860,USA,Dolby
+1861,India,Canara Bank
+1862,USA,Valmont Industries
+1863,Netherlands,OCI
+1864,USA,Generac Power Systems
+1865,Thailand,Indorama Ventures
+1866,S. Korea,KT Corporation
+1867,Sweden,Skanska
+1868,Australia,Washington H. Soul Pattinson and Company (WHSP)
+1869,USA,Mattel
+1870,Taiwan,Far EasTone
+1871,Japan,Daito Trust Construction
+1872,UK,Roivant Sciences
+1873,Germany,Wacker Chemie
+1874,USA,Restoration Hardware
+1875,Japan,Idemitsu Kosan
+1876,South Africa,Bid Corp
+1877,Australia,Treasury Wine Estates
+1878,S. Korea,Amorepacific
+1879,Colombia,Bancolombia
+1880,India,Yes Bank
+1881,Australia,Reece Group
+1882,Germany,DWS Group
+1883,S. Korea,Korean Air Lines
+1884,USA,DaVita
+1885,USA,Procore
+1886,USA,Medpace
+1887,Japan,Meiji Holdings
+1888,S. Arabia,Elm Company
+1889,Taiwan,GlobalWafers
+1890,UAE,Q Holding
+1891,USA,Matador Resources
+1892,Canada,Canadian Tire
+1893,USA,Roku
+1894,Poland,KGHM Polska MiedÅº
+1895,Japan,JFE Holdings
+1896,UK,Sainsbury's
+1897,Japan,ZOZO
+1898,South Africa,Sanlam
+1899,Hong Kong,Cathay Pacific
+1900,Taiwan,Yang Ming
+1901,France,KlÃ©pierre
+1902,Turkey,Aselsan
+1903,USA,Western Alliance Bancorporation
+1904,Luxembourg,Globant
+1905,USA,KBR
+1906,Luxembourg,Ternium
+1907,USA,EastGroup Properties
+1908,S. Arabia,Saudi International Petrochemical Company (Sipchem)
+1909,USA,Arrow Electronics
+1910,Australia,Atlas Arteria
+1911,Japan,Hankyu Hanshin Holdings
+1912,India,Cholamandalam Investment and Finance
+1913,India,Mindtree
+1914,Switzerland,Swiss Prime Site
+1915,India,Union Bank of India
+1916,Sweden,Autoliv
+1917,Canada,Northland Power
+1918,USA,WESCO International
+1919,Norway,Kongsberg Gruppen
+1920,USA,Nexstar Media Group
+1921,USA,CACI
+1922,Taiwan,Novatek Microelectronics
+1923,Singapore,Mapletree Commercial Trust
+1924,USA,Sensata Technologies
+1925,UK,Centrica
+1926,Denmark,Copenhagen Airport
+1927,Denmark,Demant
+1928,USA,First Industrial Realty Trust
+1929,Canada,Empire Company
+1930,Germany,Nemetschek
+1931,USA,Karuna Therapeutics
+1932,USA,Graphic Packaging
+1933,USA,BOK Financial
+1934,Switzerland,Bachem
+1935,UK,Clarivate
+1936,Japan,Makita
+1937,Italy,Banca Mediolanum
+1938,USA,Frontier Communications
+1939,USA,Prosperity Bancshares
+1940,Netherlands,ASR Nederland
+1941,Italy,Amplifon
+1942,Greece,OTE Group
+1943,Taiwan,Wan Hai Lines
+1944,France,Rexel
+1945,USA,Halozyme Therapeutics
+1946,USA,Assurant
+1947,S. Korea,Industrial Bank of Korea (IBK)
+1948,USA,Clearway Energy
+1949,India,Hero MotoCorp
+1950,USA,Tempur Sealy
+1951,USA,Omega Healthcare
+1952,USA,Texas Roadhouse
+1953,USA,Gentex
+1954,Japan,Daiwa Securities Group
+1955,Poland,PGNiG
+1956,UAE,National Marine Dredging
+1957,USA,GitLab
+1958,USA,Houlihan Lokey
+1959,USA,Kinsale Capital Group
+1960,Canada,CAE
+1961,USA,MKS Instruments
+1962,India,Berger Paints
+1963,Indonesia,Charoen Pokphand Indonesia
+1964,Sweden,Tele2
+1965,Brazil,Rumo
+1966,USA,Brixmor Property Group
+1967,USA,Voya Financial
+1968,USA,Stifel
+1969,S. Korea,Krafton
+1970,USA,Agree Realty
+1971,Netherlands,Hunter Douglas
+1972,USA,Harley-Davidson
+1973,USA,World Wrestling Entertainment
+1974,Japan,Japan Post Insurance
+1975,USA,U.S. Steel
+1976,Germany,CTS Eventim
+1977,USA,DXC Technology
+1978,Japan,Capcom
+1979,Turkey,ÅiÅecam
+1980,UK,nVent Electric
+1981,Japan,GMO Payment Gateway
+1982,Taiwan,ASUS
+1983,Sweden,Swedish Orphan Biovitrum
+1984,India,UPL
+1985,Canada,Ritchie Bros. Auctioneers
+1986,USA,Southwestern Energy
+1987,USA,New York Community Bank
+1988,USA,Norwegian Cruise Line
+1989,Japan,Nippon Sanso
+1990,USA,NextEra Energy Partners
+1991,Sweden,Holmen
+1992,USA,Murphy Oil
+1993,Israel,Israel Discount Bank
+1994,USA,Levi Strauss
+1995,USA,Commercial Metals Company
+1996,USA,Ingredion
+1997,Canada,Toromont
+1998,China,37 Interactive Entertainment
+1999,USA,Clean Harbors
+2000,Denmark,Ascendis Pharma
+2001,Singapore,Great Eastern
+2002,Switzerland,On Holding
+2003,India,Torrent Pharmaceuticals
+2004,Japan,TIS
+2005,Japan,Trend Micro
+2006,China,Silergy
+2007,Australia,OZ Minerals
+2008,Switzerland,Helvetia Holding
+2009,USA,Wyndham Hotels & Resorts
+2010,Brazil,Petro Rio
+2011,Japan,Osaka Gas
+2012,USA,RBC Bearings
+2013,Sweden,Fastighets AB Balder
+2014,Taiwan,AirTAC International
+2015,Japan,TOTO
+2016,Macau,Wynn Macau
+2017,Spain,Bankinter
+2018,USA,Magnolia Oil & Gas
+2019,USA,AGNC Investment
+2020,USA,Allegro MicroSystems
+2021,USA,Starwood Property Trust
+2022,USA,Woodward
+2023,USA,STAG Industrial
+2024,USA,Saia
+2025,USA,Dillard's
+2026,Japan,Kobe Bussan
+2027,USA,Choice Hotels International
+2028,Japan,Daifuku
+2029,Indonesia,Adaro Energy
+2030,Canada,Turquoise Hill Resources
+2031,USA,Reynolds Consumer
+2032,USA,Alaska Airlines
+2033,USA,ChampionX
+2034,USA,Newell Brands
+2035,Australia,Stockland
+2036,S. Arabia,Yanbu National Petrochemical
+2037,France,Covivio
+2038,Switzerland,BELIMO Holding
+2039,USA,Curtiss-Wright
+2040,Japan,MinebeaMitsumi
+2041,Australia,TPG Telecom
+2042,USA,Lithia Motors
+2043,USA,Affiliated Managers Group
+2044,UK,Land Securities Group
+2045,USA,EnLink Midstream
+2046,USA,RLI Corp.
+2047,USA,DraftKings
+2048,India,Shriram Transport Finance
+2049,USA,GXO Logistics
+2050,China,Hualan Biological Engineering
+2051,India,Indian Railway Catering & Tourism
+2052,India,Samvardhana Motherson
+2053,New Zealand,Spark New Zealand
+2054,USA,Doximity
+2055,USA,Corporate Office Properties Trust
+2056,UK,Kingfisher
+2057,Brazil,Cosan
+2058,Canada,iA Financial
+2059,USA,MDU Resources
+2060,South Africa,Nedbank
+2061,USA,UWM Holdings
+2062,Indonesia,Sampoerna
+2063,Canada,Bombardier Recreational Products
+2064,China,Lufax
+2065,USA,Qualtrics
+2066,Japan,Nissan Chemical
+2067,Taiwan,Unimicron
+2068,UK,Convatec Group
+2069,Taiwan,Taishin Financial Holdings
+2070,USA,GameStop
+2071,USA,Macy's
+2072,USA,Samsara
+2073,India,Tube Investments of India
+2074,USA,Toll Brothers
+2075,Japan,Hikari Tsushin
+2076,Poland,Bank Pekao (Bank Polska Kasa Opieki)
+2077,India,BOSCH India
+2078,USA,South State Corp
+2079,USA,Elanco
+2080,USA,Oshkosh Corporation
+2081,USA,Endeavor Group
+2082,Spain,Mapfre
+2083,Australia,Mirvac Group
+2084,Italy,Banco BPM
+2085,Canada,FirstService
+2086,USA,Polaris
+2087,Taiwan,Chang Hwa Commercial Bank
+2088,Japan,Yamaha
+2089,Sweden,SSAB
+2090,USA,Nutanix
+2091,Canada,Canadian Apartment Properties REIT
+2092,USA,PDC Energy
+2093,Japan,Sekisui Chemical
+2094,USA,Valvoline
+2095,USA,National Instruments
+2096,Japan,Nippon Prologis REIT
+2097,USA,Littelfuse
+2098,Turkey,TÃ¼rkiye Is Bankasi
+2099,Japan,Toho Co.
+2100,USA,Murphy USA
+2101,USA,Pilgrim's Pride
+2102,USA,First American
+2103,USA,Lumen
+2104,India,Lodha Group
+2105,USA,Landstar System
+2106,Canada,West Fraser Timber
+2107,USA,Boyd Gaming
+2108,Czech Republic,KomerÄnÃ­ banka
+2109,Canada,Kinross Gold
+2110,Brazil,AtacadÃ£o
+2111,USA,Ashland
+2112,USA,HealthSouth
+2113,Germany,LEG Immobilien
+2114,USA,Range Resources
+2115,USA,Universal Display Corporation
+2116,Netherlands,CTP N.V.
+2117,Japan,Kintetsu GHD
+2118,Hong Kong,Melco Resorts & Entertainment
+2119,Brazil,ENGIE Brasil
+2120,Switzerland,Adecco Group
+2121,USA,Coupa
+2122,USA,Crane Co.
+2123,Canada,Descartes Systems
+2124,India,Indus Towers
+2125,India,PI Industries
+2126,Sweden,Beijer Ref
+2127,USA,Axalta
+2128,Austria,Raiffeisen Bank International
+2129,Thailand,Asset World Corp
+2130,Indonesia,United Tractors
+2131,Singapore,BOC Aviation
+2132,Japan,Otsuka
+2133,India,Info Edge
+2134,USA,Huntsman Corporation
+2135,Australia,BlueScope Steel
+2136,Japan,Hulic
+2137,USA,Sonoco
+2138,S. Korea,HYBE
+2139,Spain,Banco Sabadell
+2140,USA,TopBuild
+2141,USA,SiteOne Landscape Supply
+2142,Australia,Seek Limited
+2143,Sweden,Getinge
+2144,Brazil,Hapvida
+2145,USA,Sunrun
+2146,UK,Endeavour Mining
+2147,UK,DS Smith
+2148,USA,Flowers Foods
+2149,Australia,Dexus
+2150,Japan,Sumitomo Chemical
+2151,Japan,Japan Real Estate Investment
+2152,Austria,Andritz
+2153,Australia,IDP Education
+2154,Hungary,MOL Group
+2155,Sweden,Axfood
+2156,USA,Spirit Realty Capital
+2157,Philippines,Emperador Brandy
+2158,USA,H&R Block
+2159,Taiwan,Nanya Technology
+2160,Canada,Yamana Gold
+2161,Australia,GPT Group
+2162,UK,Investec
+2163,Hong Kong,HK Electric Investments
+2164,Singapore,Mapletree Logistics Trust
+2165,Thailand,Charoen Pokphand Foods
+2166,Brazil,Equatorial Energia
+2167,UK,M&G plc
+2168,USA,Confluent
+2169,Canada,Air Canada
+2170,Denmark,Rockwool
+2171,Canada,Telus International
+2172,USA,Dutch Bros
+2173,USA,Light & Wonder
+2174,USA,Apellis Pharmaceuticals
+2175,Japan,Konami Holdings
+2176,USA,Envista
+2177,Mexico,Grupo Simec
+2178,Canada,Bausch + Lomb
+2179,USA,Marriott Vacations Worldwide
+2180,USA,Silgan Holdings
+2181,USA,SAIC
+2182,France,Soitec
+2183,India,TVS Motor
+2184,USA,Columbia Sportswear
+2185,Australia,Yancoal
+2186,India,Abbott India
+2187,China,iQIYI
+2188,USA,Synovus
+2189,USA,EXL Service
+2190,USA,Selective Insurance
+2191,UK,TechnipFMC
+2192,USA,Brunswick Corporation
+2193,Italy,Telecom Italia
+2194,USA,Pinnacle Financial Partners
+2195,Taiwan,Far Eastern New Century
+2196,Switzerland,PSP Swiss Property
+2197,Canada,Stantec
+2198,USA,Coherent
+2199,USA,Valley Bank
+2200,UK,The Weir Group
+2201,USA,Dun & Bradstreet
+2202,Netherlands,BE Semiconductor
+2203,Australia,Seven Group Holdings (SGH)
+2204,USA,Timken Company
+2205,Taiwan,Pegatron
+2206,Taiwan,Yageo
+2207,India,CG Power and Industrial Solutions
+2208,Canada,Element Fleet Management
+2209,Australia,Worley
+2210,USA,Ionis Pharmaceuticals
+2211,USA,Chart Industries
+2212,Brazil,Cemig
+2213,USA,National Fuel Gas
+2214,Japan,Nomura Real Estate Master Fund
+2215,USA,Vertiv Holdings
+2216,Canada,TMX Group
+2217,Finland,WÃ¤rtsilÃ¤
+2218,USA,New York Times
+2219,USA,Hertz
+2220,USA,Prometheus Biosciences
+2221,Japan,Koei Tecmo
+2222,Switzerland,Tecan
+2223,USA,Guidewire Software
+2224,Sweden,Embracer Group
+2225,Philippines,PLDT
+2226,Austria,Voestalpine
+2227,UK,Rightmove
+2228,China,TAL Education Group
+2229,UK,Barratt Developments
+2230,France,Groupe SEB
+2231,Japan,KosÃ©
+2232,New Zealand,Ebos Group
+2233,Finland,Valmet
+2234,Norway,Tomra
+2235,USA,Tenet Healthcare
+2236,UK,Persimmon
+2237,USA,FTI Consulting
+2238,USA,Permian Resources
+2239,USA,Chord Energy
+2240,USA,QuidelOrtho
+2241,Canada,Gildan
+2242,S. Arabia,Jabal Omar Development
+2243,Turkey,GarantiBank
+2244,USA,Acuity Brands
+2245,USA,Trex
+2246,USA,Primerica
+2247,China,Chongqing Rural Commercial Bank
+2248,USA,Smartsheet
+2249,Brazil,TIM S.A.
+2250,Australia,Carsales
+2251,Japan,Yamato Holdings
+2252,India,Procter & Gamble India
+2253,USA,PBF Energy
+2254,India,Zomato
+2255,Japan,Square Enix
+2256,Australia,Medibank
+2257,USA,KnowBe4
+2258,Netherlands,Just Eat Takeaway
+2259,Chile,Falabella
+2260,USA,Post Holdings
+2261,USA,Western Union
+2262,China,FAW Car
+2263,Japan,Kajima
+2264,USA,Glacier Bancorp
+2265,Switzerland,Clariant
+2266,India,Page Industries
+2267,USA,United Bankshares
+2268,USA,HashiCorp
+2269,USA,Viper Energy Partners
+2270,Canada,Quebecor
+2271,France,ALD Automotive
+2272,India,Zydus Lifesciences
+2273,USA,Lancaster Colony Corporation
+2274,USA,The Ensign Group
+2275,USA,Clearwater Analytics
+2276,USA,Phillips-Van Heusen
+2277,India,ACC
+2278,Japan,Itochu Techno-Solutions
+2279,USA,Hagerty
+2280,S. Arabia,Saudi Kayan Petrochemical Company
+2281,USA,Antero Midstream
+2282,USA,Old National Bank
+2283,USA,Univar Solutions
+2284,Taiwan,Realtek
+2285,USA,Idacorp
+2286,USA,Apartment Income REIT
+2287,Chile,QuiÃ±enco
+2288,Malaysia,Lynas
+2289,India,JSW Energy
+2290,Switzerland,Georg Fischer
+2291,Singapore,City Developments
+2292,UK,Hargreaves Lansdown
+2293,UK,Airtel Africa
+2294,UK,Valaris
+2295,USA,CCC Intelligent Solutions
+2296,Taiwan,Taiwan High Speed Rail
+2297,USA,Novanta
+2298,Canada,Keyera
+2299,USA,Madrigal Pharmaceuticals
+2300,Japan,âKâ Line
+2301,USA,Universal Forest Products
+2302,France,Somfy
+2303,USA,National Storage
+2304,Switzerland,Zurich Airport
+2305,India,Indian Railway Finance
+2306,India,Indian Hotels Company
+2307,USA,Helmerich & Payne
+2308,USA,Lincoln National Corporation
+2309,USA,FS KKR Capital
+2310,USA,IAA-Insurance Auto Auctions
+2311,USA,Wintrust Financial
+2312,Canada,Lundin Mining
+2313,Japan,Ibiden
+2314,UK,Beazley
+2315,India,Container Corporation of India
+2316,France,Eurazeo
+2317,USA,Eagle Materials
+2318,USA,Credit Acceptance
+2319,India,Ashok Leyland
+2320,USA,Hexcel
+2321,USA,Exelixis
+2322,Japan,Mitsubishi Motors
+2323,India,Balkrishna Industries
+2324,New Zealand,Mercury NZ
+2325,USA,MSA Safety
+2326,USA,DT Midstream
+2327,Mexico,Gruma (Maseca)
+2328,USA,Brookfield Renewable
+2329,South Africa,Discovery Limited
+2330,UK,Noble Corporation
+2331,India,United Breweries
+2332,USA,Watts Water Technologies
+2333,USA,Option Care Health
+2334,Brazil,AssaÃ­ Atacadista
+2335,S. Korea,Hyundai Glovis
+2336,USA,Core & Main
+2337,India,Muthoot Finance
+2338,USA,BWX Technologies
+2339,USA,MP Materials
+2340,India,Trent Limited
+2341,USA,Rayonier
+2342,USA,Lyft
+2343,France,Valeo
+2344,Japan,McDonald's Japan
+2345,S. Korea,LOTTE Chemical
+2346,India,Schaeffler India
+2347,Japan,Obayashi
+2348,USA,Evoqua Water Technologies
+2349,USA,Euronet Worldwide
+2350,India,Patanjali Foods
+2351,China,Dongfeng Motor
+2352,Germany,Bechtle
+2353,USA,IPG Photonics
+2354,Japan,Dai Nippon Printing
+2355,USA,R1 RCM
+2356,USA,Fluor Corporation
+2357,Italy,Leonardo
+2358,USA,Shift4 Payments
+2359,Italy,Stevanato
+2360,Japan,GLP J-REIT
+2361,USA,Civitas Resources
+2362,USA,Sotera Health
+2363,Switzerland,DKSH Holding
+2364,USA,Exponent
+2365,Brazil,GOL Airlines
+2366,USA,Cerevel Therapeutics
+2367,USA,Hilton Grand Vacations
+2368,India,AU Small Finance Bank
+2369,Turkey,Ä°sdemir
+2370,USA,Five9
+2371,Canada,RioCan REIT
+2372,USA,Penn National Gaming
+2373,China,ZhongAn Insurance
+2374,Netherlands,Aalberts
+2375,USA,Owl Rock Capital
+2376,Israel,monday.com
+2377,USA,Chemours
+2378,USA,HealthEquity
+2379,Indonesia,Barito Pacific
+2380,USA,Ormat Technologies
+2381,USA,LHC Group
+2382,Germany,KION Group
+2383,Cayman Islands,Fabrinet
+2384,Taiwan,EVA Air
+2385,Turkey,HektaÅ
+2386,Japan,Koito Manufacturing
+2387,USA,Atkore
+2388,Italy,Pirelli
+2389,Chile,Banco de CrÃ©dito e Inversiones
+2390,Japan,KOBAYASHI Pharmaceutical
+2391,USA,Alight
+2392,India,Colgate-Palmolive India
+2393,USA,First Financial Bankshares
+2394,USA,Silicon Labs
+2395,Canada,AltaGas
+2396,Taiwan,Asia Cement
+2397,USA,PowerSchool
+2398,USA,Banco Popular
+2399,Philippines,Jollibee
+2400,Taiwan,Nan Ya PCB
+2401,Ireland,Perrigo
+2402,India,Cummins India
+2403,UK,HomeServe
+2404,USA,10x Genomics
+2405,India,Bank of India
+2406,UK,Johnson Matthey
+2407,India,Bharat Forge
+2408,Japan,Sharp Corporation
+2409,Brazil,CSN MineraÃ§Ã£o
+2410,Germany,Fuchs Petrolub
+2411,USA,New Jersey Resources
+2412,India,Polycab India
+2413,UK,International Game Technology
+2414,USA,Evercore
+2415,China,Kingsoft
+2416,UK,British Land
+2417,India,Nykaa
+2418,Italy,Reply
+2419,USA,Wendyâs Company
+2420,USA,Thor Industries
+2421,India,Astral Poly Technik
+2422,S. Arabia,Petro Rabigh
+2423,USA,Bank OZK
+2424,USA,Elastic NV
+2425,China,Weibo
+2426,UK,Unite Group (Unite Students)
+2427,India,Power Finance Corp
+2428,Indonesia,Vale Indonesia
+2429,Japan,Japan Airport Terminal
+2430,Israel,Wix.com
+2431,Israel,CyberArk
+2432,Japan,Nippon Express
+2433,Netherlands,X5 Retail Group
+2434,Turkey,GÃBRETAÅ
+2435,USA,Under Armour
+2436,USA,Stericycle
+2437,China,Offcn Education
+2438,USA,Portland General Electric
+2439,USA,Applied Industrial Technologies
+2440,India,NHPC Limited
+2441,Canada,Whitecap Resources
+2442,France,ALTEN
+2443,USA,Hanover Insurance Group
+2444,USA,APi Group
+2445,France,JCDecaux
+2446,Japan,SCSK Corporation
+2447,Taiwan,Vanguard International Semiconductor
+2448,USA,F.N.B. Corporation
+2449,USA,Air Lease Corporation
+2450,S. Arabia,Jarir
+2451,Uruguay,dLocal
+2452,Bermuda,AXIS Capital
+2453,Israel,Tower Semiconductor
+2454,USA,Vornado Realty Trust
+2455,USA,Integra LifeSciences
+2456,India,Tata Elxsi
+2457,USA,SPS Commerce
+2458,USA,Kilroy Realty
+2459,Germany,Fraport
+2460,Australia,Argo Investments
+2461,USA,Home BancShares
+2462,Germany,HelloFresh
+2463,India,Bandhan Bank
+2464,USA,Terreno Realty
+2465,Australia,Orica
+2466,Japan,Tobu Railway
+2467,Italy,Italgas
+2468,Germany,Hochtief
+2469,Israel,Bezeq
+2470,S. Arabia,Saudi Investment Bank
+2471,China,Zai Lab
+2472,Austria,BAWAG Group
+2473,Turkey,Koza Gold
+2474,Japan,Hitachi Construction Machinery
+2475,Spain,Merlin Properties
+2476,USA,Black Hills
+2477,Poland,Powszechny ZakÅad UbezpieczeÅ
+2478,USA,Driven Brands
+2479,UAE,Ghitha
+2480,India,Mphasis
+2481,USA,Element Solutions
+2482,France,Tikehau Capital
+2483,China,GDS Holdings
+2484,Germany,Thyssenkrupp
+2485,USA,Ryman Hospitality Properties
+2486,Switzerland,Emmi AG
+2487,USA,Gap Inc.
+2488,USA,Cadence Bancorp
+2489,Japan,Toppan
+2490,USA,Workiva
+2491,USA,OneMain Financial
+2492,Turkey,Akbank
+2493,Switzerland,Temenos
+2494,USA,Power Integrations
+2495,Spain,EnagÃ¡s
+2496,USA,Leggett & Platt
+2497,Philippines,Metropolitan Bank (Metrobank)
+2498,UK,IMI plc
+2499,USA,Cirrus Logic
+2500,Germany,Schaeffler
+2501,Bermuda,Hiscox
+2502,UK,Inchcape
+2503,South Africa,Remgro Limited
+2504,India,Madras Rubber Factory
+2505,USA,Informatica
+2506,Sweden,Castellum
+2507,India,IDFC FIRST Bank
+2508,USA,Hawaiian Electric Industries
+2509,Singapore,Mapletree Industrial Trust
+2510,Japan,Welcia Holdings
+2511,USA,Parsons
+2512,Canada,Nuvei
+2513,USA,Coca-Cola Consolidated
+2514,Brazil,Companhia SiderÃºrgica Nacional
+2515,Japan,CyberAgent
+2516,USA,Wayfair
+2517,USA,IAC/InterActiveCorp
+2518,USA,Fox Factory Holding
+2519,USA,Kite Realty
+2520,UK,Intermediate Capital Group (ICG)
+2521,Sweden,AAK
+2522,UK,Howden Joinery
+2523,India,National Mineral Development Corporation
+2524,Italy,ERG
+2525,Singapore,Sembcorp
+2526,Japan,Mazda
+2527,UK,Hikma Pharmaceuticals
+2528,USA,Ryder
+2529,Luxembourg,Aroundtown
+2530,USA,Allegheny Technologies
+2531,South Africa,Mediclinic International
+2532,Denmark,Jyske Bank
+2533,Japan,Odakyu Electric Railway
+2534,USA,Seaboard
+2535,Japan,Asahi Intecc
+2536,Italy,Technoprobe
+2537,Chile,LATAM Airlines
+2538,South Africa,The Bidvest Group
+2539,USA,Louisiana-Pacific
+2540,Canada,Algonquin Power & Utilities
+2541,China,MINISO Group
+2542,Netherlands,Royal Boskalis Westminster
+2543,USA,Natera
+2544,Denmark,Topdanmarks
+2545,Taiwan,Shin Kong Financial Holding
+2546,Singapore,Olam
+2547,France,Wendel
+2548,Egypt,Commercial International Bank
+2549,Sweden,Husqvarna
+2550,USA,Intra-Cellular Therapies
+2551,Norway,Schibsted
+2552,USA,TriNet
+2553,Germany,Lechwerke
+2554,USA,CLEAR Secure
+2555,Sweden,Kinnevik
+2556,Taiwan,Wiwynn
+2557,Germany,HUGO BOSS
+2558,USA,MACOM
+2559,USA,Tegna
+2560,USA,Bloom Energy
+2561,USA,Synaptics
+2562,China,Autohome
+2563,USA,Aerojet Rocketdyne
+2564,Japan,Iida Group
+2565,France,Nexans
+2566,USA,AMN Healthcare Services
+2567,USA,MSC Industrial Direct
+2568,Brazil,Magazine LuÃ­za
+2569,Canada,B2Gold
+2570,Switzerland,Bucher Industries
+2571,Ireland,Alkermes
+2572,Netherlands,Signify
+2573,India,Alkem Laboratories
+2574,France,Neoen
+2575,UK,Frasers Group
+2576,India,Steel Authority of India
+2577,South Africa,Pepkor
+2578,UK,Endava
+2579,USA,Maximus
+2580,Chile,Cencosud
+2581,USA,Denbury
+2582,Germany,Sixt
+2583,USA,Comfort Systems
+2584,USA,Southwest Gas
+2585,USA,Flowserve
+2586,USA,ManpowerGroup
+2587,USA,Phillips Edison & Company
+2588,UK,Diploma plc
+2589,India,Indian Bank
+2590,USA,Cable One
+2591,Germany,United Internet
+2592,Austria,Strabag
+2593,France,Scor
+2594,Thailand,Bangkok Expressway and Metro (BEM)
+2595,USA,Boston Beer Company
+2596,Chile,Empresas CMPC
+2597,India,Aditya Birla Capital
+2598,India,Paytm
+2599,France,SPIE
+2600,Austria,A1 Telekom Austria
+2601,USA,South Jersey Industries
+2602,USA,Schneider
+2603,UK,Janus Henderson
+2604,USA,MSG Sports
+2605,USA,Wingstop Restaurants
+2606,USA,Hancock Whitney
+2607,USA,ONE Gas
+2608,USA,Teladoc Health
+2609,USA,Box
+2610,Hong Kong,SJM Holdings
+2611,USA,Insperity
+2612,Germany,Aurubis
+2613,USA,Academy Sports
+2614,USA,SoFi
+2615,New Zealand,Mainfreight
+2616,Australia,Charter Hall Group
+2617,Italy,Hera Group
+2618,France,Air France-KLM
+2619,USA,Haemonetics
+2620,Turkey,SabancÄ± Holding
+2621,USA,ASGN
+2622,Canada,MEG Energy
+2623,Canada,Alamos Gold
+2624,USA,Herc Holdings
+2625,USA,Sallie Mae
+2626,India,Hindustan Petroleum
+2627,Germany,K+S
+2628,Bermuda,Essent Group
+2629,USA,XPO Logistics
+2630,Canada,Topicus
+2631,Singapore,UOL Group
+2632,Australia,ALS Global
+2633,USA,Simpson Manufacturing Company
+2634,Canada,Atlas Corp
+2635,Argentina,Galicia Financial Group
+2636,China,Zhejiang Century Huatong
+2637,India,Honeywell Automation India
+2638,Turkey,YapÄ± Kredi
+2639,USA,Livent
+2640,USA,Paycor
+2641,USA,Supermicro
+2642,Canada,Colliers International
+2643,USA,Bumble
+2644,Australia,Evolution Mining
+2645,China,RLX Technology
+2646,Israel,First International Bank of Israel
+2647,USA,Bright Horizons
+2648,USA,ICU Medical
+2649,Taiwan,Powerchip Semiconductor Manufacturing
+2650,India,Lupin Limited
+2651,Germany,Scout24
+2652,Bermuda,Enstar Group
+2653,India,Godrej Properties
+2654,Germany,Lanxess
+2655,USA,Rambus
+2656,USA,BlackLine
+2657,USA,PNM Resources
+2658,Spain,Fomento de Construcciones y Contratas
+2659,Mexico,Banco del BajÃ­o
+2660,USA,TFS Financial
+2661,Hungary,Richter Gedeon
+2662,USA,Calix
+2663,USA,AppFolio
+2664,Bermuda,Triton International
+2665,Sweden,Sinch
+2666,USA,UMB Financial
+2667,USA,Sitio Royalties
+2668,USA,Rithm Capital
+2669,USA,National Beverage
+2670,Thailand,TMBThanachart Bank (ttb)
+2671,Canada,Finning
+2672,USA,Balchem
+2673,USA,Arrowhead Pharmaceuticals
+2674,Australia,Cleanaway Waste Management
+2675,USA,Asbury Automotive Group
+2676,Hong Kong,Dairy Farm
+2677,UK,Spectris
+2678,USA,Tenable
+2679,USA,Topgolf Callaway Brands
+2680,Indonesia,Bank Mega
+2681,France,Colas
+2682,USA,FirstCash
+2683,China,COSCO SHIPPING Development
+2684,USA,Aaon
+2685,S. Arabia,Bank AlJazira
+2686,Canada,Parkland Corp
+2687,USA,Azenta
+2688,Finland,Kojamo
+2689,Switzerland,Dufry
+2690,UK,ITV plc
+2691,USA,First Interstate BancSystem
+2692,South Africa,Clicks Group
+2693,China,Leapmotor
+2694,USA,Howard Hughes Corporation
+2695,UK,Dechra Pharmaceuticals
+2696,USA,Olaplex
+2697,USA,Peabody Energy
+2698,USA,Independence Realty Trust
+2699,Switzerland,Transocean
+2700,USA,Cabot Corporation
+2701,Canada,Onex
+2702,India,WNS
+2703,UK,IG Group
+2704,USA,SM Energy
+2705,Canada,PrairieSky Royalty
+2706,Canada,Bombardier
+2707,USA,ChargePoint
+2708,USA,Freshworks
+2709,Japan,Tokyo Century
+2710,UK,easyJet
+2711,USA,SentinelOne
+2712,India,Petronet LNG
+2713,Norway,Storebrand
+2714,India,Jubilant FoodWorks
+2715,S. Korea,F&F Co
+2716,USA,Avnet
+2717,Japan,Chiba Bank
+2718,USA,United Community Bank
+2719,Turkey,BÄ°M BirleÅik MaÄazalar
+2720,Indonesia,Elang Mahkota Teknologi
+2721,Turkey,TofaÅ TÃ¼rk Otomobil FabrikasÄ±
+2722,USA,Casella Waste Systems
+2723,USA,Visteon
+2724,USA,Cytokinetics
+2725,USA,AppLovin
+2726,Switzerland,Galenica
+2727,USA,Qualys
+2728,USA,Allison Transmission
+2729,S. Arabia,Savola Group
+2730,USA,Franklin Electric
+2731,USA,Merit Medical
+2732,Canada,Capital Power
+2733,India,Rural Electrification Corp
+2734,New Zealand,Infratil
+2735,USA,American Equity Investment Life Holding
+2736,Japan,COSMOS Pharmaceutical
+2737,Germany,Verbio
+2738,USA,Premier
+2739,Australia,Lendlease
+2740,USA,Blackstone Mortgage Trust
+2741,USA,Altair Engineering
+2742,USA,Zurn Water Solutions
+2743,Turkey,TÃ¼rk Telekom
+2744,Australia,Bendigo and Adelaide Bank
+2745,USA,GATX
+2746,Ireland,Adient
+2747,China,Perfect World Entertainment
+2748,USA,Diodes Incorporated
+2749,USA,Ziff Davis
+2750,Canada,Pan American Silver
+2751,USA,Enact Holdings
+2752,USA,H.B. Fuller
+2753,Canada,Crescent Point Energy
+2754,USA,Peloton
+2755,Denmark,Ambu
+2756,New Zealand,Contact Energy
+2757,USA,New Relic
+2758,Sweden,Electrolux
+2759,USA,Denali Therapeutics
+2760,USA,Hamilton Lane
+2761,USA,Surgery Partners
+2762,Switzerland,SFS Group
+2763,Switzerland,Stadler Rail
+2764,Turkey,Turkcell
+2765,USA,MGIC Investment
+2766,USA,Cousins Properties
+2767,Italy,Buzzi Unicem
+2768,India,General Insurance Corporation of India
+2769,Finland,HuhtamÃ¤ki
+2770,Austria,Oberbank
+2771,USA,Lumentum
+2772,S. Korea,Netmarble
+2773,Japan,Lawson
+2774,USA,AllianceBernstein
+2775,USA,ServisFirst Bancshares
+2776,USA,Altra Industrial Motion
+2777,Singapore,Venture Corporation
+2778,Switzerland,CRISPR Therapeutics
+2779,USA,Insight Enterprises
+2780,Canada,Enerplus
+2781,USA,DoubleVerify
+2782,Indonesia,Indofood
+2783,Kazakhstan,Freedom Holding
+2784,Netherlands,Vopak
+2785,USA,YETI Holdings
+2786,Netherlands,Arcadis
+2787,Australia,Steadfast Group
+2788,Switzerland,DÃ¤twyler
+2789,Spain,Inmobiliaria Colonial
+2790,China,G-bits Network Technology
+2791,France,Elis
+2792,USA,Neogen
+2793,Switzerland,Vontobel
+2794,USA,Fluence Energy
+2795,Malaysia,PBBank (Public Bank Bhd)
+2796,Chile,AntarChile
+2797,S. Korea,Kangwon Land
+2798,USA,Weatherford International
+2799,USA,Spire Energy
+2800,USA,Onto Innovation
+2801,Japan,Toyo Suisan
+2802,Thailand,Thai Oil
+2803,India,APL Apollo
+2804,India,Gujarat Fluorochemicals
+2805,South Africa,Aspen Pharmacare
+2806,Sweden,Sweco
+2807,Denmark,Lundbeck
+2808,S. Korea,LG Display
+2809,USA,Mueller Industries
+2810,USA,Maxar Technologies
+2811,Turkey,VakÄ±fBank
+2812,France,Faurecia
+2813,Australia,Harvey Norman
+2814,UK,Games Workshop Group
+2815,Switzerland,Luzerner Kantonalbank
+2816,USA,Sunoco
+2817,Germany,TUI
+2818,Israel,Global-e
+2819,USA,Kirby Corporation
+2820,India,Gujarat Gas
+2821,Germany,Metro AG
+2822,India,Supreme Industries
+2823,USA,Summit Materials
+2824,Indonesia,Sarana Menara Nusantara
+2825,Taiwan,China Airlines
+2826,Canada,SNC-Lavalin Group
+2827,USA,Hecla Mining
+2828,France,SociÃ©tÃ© FonciÃ¨re Lyonnaise
+2829,Canada,Aritzia
+2830,USA,Apple Hospitality REIT
+2831,USA,Patterson-UTI Energy
+2832,UK,Tate & Lyle
+2833,India,Oberoi Realty
+2834,USA,Umpqua Holdings
+2835,S. Korea,Korea Aerospace Industries
+2836,India,Minda Industries
+2837,Indonesia,Indoritel
+2838,Hong Kong,PCCW
+2839,UK,Manchester United
+2840,Bermuda,Assured Guaranty
+2841,USA,Allete
+2842,India,Persistent Systems
+2843,Italy,De' Longhi
+2844,USA,Affirm
+2845,Spain,Grupo Catalana Occidente
+2846,USA,Brighthouse Financial
+2847,USA,Independent Bank
+2848,USA,SeaWorld Entertainment
+2849,Taiwan,eMemory Technology
+2850,USA,UniFirst
+2851,India,Biocon
+2852,Bermuda,White Mountains Insurance Group
+2853,USA,Meritage Homes
+2854,Canada,ATCO
+2855,Japan,Nisshin Seifun Group
+2856,France,Icade
+2857,Brazil,Braskem
+2858,Panama,Copa Holdings
+2859,USA,Envestnet
+2860,China,Beijing Airport
+2861,Japan,Acom
+2862,USA,Virtu Financial
+2863,China,China Lesso Group
+2864,China,360 DigiTech
+2865,USA,Foot Locker
+2866,USA,Lantheus Holdings
+2867,India,Federal Bank
+2868,Germany,Krones
+2869,Finland,TietoEVRY
+2870,Taiwan,Innolux
+2871,USA,Physicians Realty Trust
+2872,Denmark,Royal Unibrew
+2873,USA,Select Medical Holdings
+2874,USA,BellRing Brands
+2875,Australia,AGL Energy
+2876,Indonesia,SIG (Semen Indonesia)
+2877,Jersey,Wizz Air
+2878,USA,Spirit AeroSystems
+2879,USA,QuantumScape
+2880,USA,Instructure Holdings
+2881,S. Arabia,National Shipping Company of Saudi Arabia (Bahri)
+2882,USA,Ginkgo Bioworks
+2883,Canada,SmartCentres REIT
+2884,Canada,Granite Real Estate
+2885,Australia,Qube Holdings
+2886,USA,Amicus Therapeutics
+2887,Germany,DMG Mori
+2888,USA,Cohen & Steers
+2889,USA,Simply Good Foods
+2890,USA,Inari Medical
+2891,USA,Gates Industrial Corp
+2892,Canada,SSR Mining
+2893,UK,Derwent London
+2894,USA,Syneos Health
+2895,USA,Marqeta
+2896,USA,Taylor Morrison
+2897,Australia,JB Hi-Fi
+2898,Hong Kong,NWS holdings
+2899,USA,PotlatchDeltic
+2900,USA,Beacon Roofing Supply
+2901,China,Dada Nexus
+2902,USA,CVB Financial
+2903,Japan,Tsuruha Holdings
+2904,India,Indraprastha Gas
+2905,Denmark,Bakkafrost
+2906,UK,Marks & Spencer
+2907,USA,Greif
+2908,Taiwan,Taiwan Business Bank
+2909,USA,Kemper
+2910,UK,Abcam
+2911,Germany,Jungheinrich
+2912,Switzerland,BB Biotech
+2913,USA,AmTrust Financial Services
+2914,USA,Interparfums
+2915,UK,Direct Line Group
+2916,Austria,EVN Group
+2917,Japan,Mercari
+2918,South Africa,African Rainbow Minerals
+2919,USA,Thoughtworks
+2920,USA,Vir Biotechnology
+2921,Thailand,Land and Houses
+2922,USA,Array Technologies
+2923,Poland,PGE Polska
+2924,USA,Maravai LifeSciences
+2925,USA,American States Water
+2926,USA,Vaxcyte
+2927,Japan,Nippon Shinyaku
+2928,USA,NCR Corporation
+2929,UK,Renishaw
+2930,Israel,Melisron
+2931,USA,Black Stone Minerals
+2932,USA,Avient
+2933,Spain,Unicaja Banco
+2934,USA,Alteryx
+2935,New Zealand,The a2 Milk Company
+2936,USA,NorthWestern Corporation
+2937,USA,Sanmina
+2938,USA,Associated Banc-Corp
+2939,USA,STAAR Surgical
+2940,Thailand,BTS Group
+2941,USA,Essential Properties Realty Trust
+2942,USA,Federated Hermes
+2943,Luxembourg,Subsea 7
+2944,USA,PTC Therapeutics
+2945,UK,Rotork
+2946,USA,Nelnet
+2947,France,Imerys
+2948,USA,RingCentral
+2949,USA,Grand Canyon Education
+2950,Israel,Playtika
+2951,USA,Advanced Energy
+2952,Mexico,Grupo Aeroportuario Centro Norte
+2953,Malaysia,Sime Darby
+2954,USA,Kosmos Energy
+2955,Germany,Gelsenwasser
+2956,USA,Quaker Houghton
+2957,USA,Belden
+2958,Spain,Fluidra
+2959,USA,First Hawaiian Bank
+2960,USA,Vontier
+2961,USA,Community Bank System
+2962,Hong Kong,Bank of East Asia
+2963,Germany,Aixtron
+2964,Indonesia,Mayora
+2965,USA,Broadstone Net Lease
+2966,India,Max Financial Services
+2967,Japan,Taisho Pharmaceutical
+2968,Romania,Romgaz
+2969,USA,Armstrong World Industries
+2970,UK,Harbour Energy
+2971,USA,Enviva
+2972,UAE,Bayanat AI
+2973,USA,The AZEK Company
+2974,USA,California Water Service
+2975,USA,Ameris Bancorp
+2976,Hong Kong,Kerry Properties
+2977,Australia,Alumina Limited
+2978,Spain,CIE Automotive
+2979,Germany,Evotec
+2980,Denmark,GN Store Nord
+2981,Canada,Boyd Group
+2982,India,Escorts Limited
+2983,USA,NewMarket Corp
+2984,Hong Kong,Hysan Development
+2985,USA,Albany International
+2986,Norway,Leroy Seafood
+2987,USA,Badger Meter
+2988,USA,Sprouts Farmers Market
+2989,USA,Ambarella
+2990,USA,Cactus Wellhead
+2991,Germany,SÃ¼dzucker
+2992,USA,Stagwell
+2993,Hong Kong,ASM Pacific Technology
+2994,Spain,Logista (CompaÃ±Ã­a de DistribuciÃ³n Integral Logista)
+2995,USA,Teradata
+2996,USA,Life Time Group
+2997,Singapore,Frasers Logistics & Industrial Trust
+2998,Canada,Paramount Resources
+2999,Japan,Nikon
+3000,Austria,Mayr-Melnhof
+3001,USA,Skyline Champion
+3002,USA,One Medical (1Life Healthcare)
+3003,USA,Ollie's Bargain Outlet
+3004,USA,California Resources Corporation
+3005,UK,Virgin Money UK
+3006,Germany,Nordex
+3007,USA,Acushnet Holdings
+3008,Brazil,Natura&Co
+3009,USA,ScottsMiracle-Gro
+3010,USA,EnerSys
+3011,Japan,Workman
+3012,Finland,MetsÃ¤ Board
+3013,Poland,mBank
+3014,USA,Travel + Leisure
+3015,Bermuda,Lazard
+3016,UK,Bellway
+3017,Austria,Vienna Insurance Group
+3018,Germany,Fielmann
+3019,Italy,ACEA
+3020,USA,Axcelis Technologies
+3021,Turkey,ArÃ§elik
+3022,Argentina,Transportadora de Gas del Sur
+3023,USA,Prestige Consumer Healthcare
+3024,USA,SPX Corporation
+3025,Denmark,ALK-AbellÃ³
+3026,Canada,Capstone Infrastructure
+3027,USA,Highwoods Properties
+3028,Germany,Encavis
+3029,France,Ubisoft
+3030,India,Voltas
+3031,USA,Sensient Technologies
+3032,Bermuda,Signet Jewelers
+3033,China,DAQO New Energy
+3034,USA,Shoals Technologies
+3035,USA,Blackbaud
+3036,Argentina,Telecom Argentina
+3037,Brazil,ComgÃ¡s
+3038,USA,Goodyear
+3039,USA,Douglas Emmett
+3040,USA,Vishay Intertechnology
+3041,USA,SunPower
+3042,USA,Intellia Therapeutics
+3043,India,Deepak Nitrite
+3044,USA,Terex
+3045,USA,John Bean Technologies
+3046,USA,Tootsie Roll Industries
+3047,Switzerland,Sportradar
+3048,Japan,Sega Sammy Holdings
+3049,Singapore,Sembcorp Marine
+3050,Canada,Summit Industrial Income REIT
+3051,USA,Bank of Hawaii
+3052,Indonesia,Indosat
+3053,USA,ESAB
+3054,India,Aurobindo Pharma
+3055,S. Korea,Coway
+3056,South Africa,Old Mutual
+3057,USA,Cathay General Bancorp
+3058,Finland,Cargotec
+3059,Austria,CA Immo
+3060,USA,Axonics Modulation Tech
+3061,Hong Kong,HUTCHMED
+3062,USA,Hillenbrand
+3063,USA,CVR Energy
+3064,S. Korea,Hankook Tire
+3065,UK,Greggs
+3066,USA,Evolent Health
+3067,UAE,Burjeel Holdings
+3068,Norway,Nordic Semiconductor
+3069,India,Phoenix Mills
+3070,USA,Enovis
+3071,USA,National Vision Holdings
+3072,USA,Carter's
+3073,USA,Impinj
+3074,Belgium,Proximus
+3075,Japan,Meitetsu
+3076,USA,Duolingo
+3077,USA,Kohl's
+3078,France,Groupe LagardÃ¨re
+3079,UK,Vistry Group
+3080,USA,Mister Car Wash
+3081,Mexico,Televisa
+3082,India,Coromandel
+3083,Luxembourg,Ardagh Metal Packaging
+3084,USA,Sprout Social
+3085,USA,Eastern Bankshares
+3086,USA,Avista
+3087,USA,PennyMac
+3088,S. Korea,Samsung Heavy Industries
+3089,USA,Cushman & Wakefield
+3090,USA,Mr. Cooper Group
+3091,Bermuda,Frontline
+3092,USA,PJT Partners
+3093,Canada,Capstone Copper
+3094,USA,Outfront Media
+3095,USA,Plexus
+3096,Iceland,Alvotech
+3097,USA,Innovative Industrial
+3098,USA,Cogent Communications
+3099,USA,Equitrans Midstream
+3100,Canada,Methanex
+3101,Japan,Lion Corp
+3102,Canada,Sigma Lithium
+3103,USA,LXP Industrial Trust
+3104,India,3M India
+3105,Chile,Enel Chile
+3106,USA,Guardant Health
+3107,Indonesia,Indah Kiat Pulp & Paper
+3108,USA,Texas Capital Bancshares
+3109,Brazil,PagSeguro
+3110,S. Korea,Kumho Petrochemical
+3111,USA,Moelis & Company
+3112,USA,Hannon Armstrong
+3113,USA,Plains GP
+3114,Switzerland,St. Galler Kantonalbank
+3115,USA,Victoria's Secret & Co
+3116,Sweden,BillerudKorsnÃ¤s
+3117,France,OVH Groupe
+3118,USA,Ameresco
+3119,Israel,Strauss Group
+3120,Switzerland,VZ Holding
+3121,South Africa,Exxaro Resources
+3122,Indonesia,Tower Bersama Infrastructure
+3123,Australia,Iluka Resources
+3124,USA,Radian Group
+3125,USA,Progyny
+3126,USA,Chegg
+3127,South Africa,MultiChoice Group
+3128,USA,Federal Signal
+3129,UK,LivaNova
+3130,Canada,Boralex
+3131,S. Korea,Yuhan
+3132,USA,Walker & Dunlop
+3133,UK,Atlantica
+3134,USA,EngageSmart
+3135,Belgium,Galapagos NV
+3136,Australia,AMP Limited
+3137,USA,Hostess Brands
+3138,Australia,NEXTDC
+3139,China,Chindata
+3140,USA,iRhythm
+3141,Monaco,Scorpio Tankers
+3142,Switzerland,Idorsia
+3143,USA,Ultragenyx
+3144,Austria,Vienna Airport
+3145,USA,Ingevity
+3146,USA,Asana
+3147,USA,Graham Holdings
+3148,USA,Beam Therapeutics
+3149,USA,nCino
+3150,Germany,StrÃ¶er
+3151,USA,Squarespace
+3152,Hong Kong,Shangri-La
+3153,UK,Immunocore
+3154,India,Tata Chemicals
+3155,Canada,Linamar
+3156,USA,ABM Industries
+3157,China,Hisense Visual Technology
+3158,Austria,Wienerberger
+3159,USA,Comstock Resources
+3160,USA,Sabra Health Care REIT
+3161,Belgium,Euronav
+3162,Turkey,Halkbank
+3163,Brazil,StoneCo
+3164,USA,O-I Glass
+3165,Iceland,Marel
+3166,USA,Liberty Energy
+3167,USA,Pacific Premier Bancorp
+3168,USA,ACI Worldwide
+3169,Japan,Santen Pharmaceutical
+3170,USA,CNX Resources
+3171,Switzerland,Siegfried Holding
+3172,USA,Archaea Energy
+3173,France,BIC
+3174,India,Sumitomo Chemical India
+3175,Israel,Amot Investment
+3176,UK,Pennon Group
+3177,India,Oil India
+3178,USA,KB Home
+3179,USA,TripAdvisor
+3180,Poland,CD Projekt
+3181,USA,WSFS Financial
+3182,India,GMR Group
+3183,India,Syngene International
+3184,Canada,ATS Automation
+3185,South Africa,Growthpoint Properties
+3186,USA,EPR Properties
+3187,Japan,Kansai Paint
+3188,Canada,Premium Brands
+3189,Germany,Mainova
+3190,Austria,PIERER Mobility
+3191,USA,Jackson Financial
+3192,USA,EVO Payments
+3193,USA,ACADIA Pharmaceuticals
+3194,UK,Nomad Foods
+3195,USA,Main Street Capital
+3196,Peru,Intercorp Financial Services
+3197,Spain,Viscofan
+3198,USA,J&J Snack Foods
+3199,Canada,AbCellera
+3200,Australia,Viva Energy
+3201,UK,Softcat
+3202,USA,Installed Building Products
+3203,USA,Dycom Industries
+3204,China,Jinko Solar
+3205,USA,BancFirst
+3206,Hong Kong,Guoco
+3207,Singapore,Suntec REIT
+3208,Canada,Kinaxis
+3209,USA,Braze
+3210,India,Rajesh Exports
+3211,USA,Freshpet
+3212,Ireland,Prothena
+3213,Cyprus,Polymetal
+3214,India,Coforge
+3215,India,Gland Pharma
+3216,USA,Privia Health Group
+3217,Malaysia,Westports
+3218,USA,Prospect Capital
+3219,USA,AdaptHealth
+3220,USA,CONMED
+3221,USA,Axsome Therapeutics
+3222,India,MakeMyTrip
+3223,France,Rubis
+3224,Singapore,Kulicke and Soffa Industries
+3225,Colombia,Grupo Aval
+3226,USA,StepStone Group
+3227,USA,Pegasystems
+3228,USA,Brink's
+3229,Japan,Harmonic Drive Systems
+3230,USA,Simmons First National
+3231,USA,MaxLinear
+3232,USA,Papa John's Pizza
+3233,India,Thermax
+3234,UK,Computacenter
+3235,USA,Grocery Outlet
+3236,Germany,SMA Solar Technology
+3237,USA,American Eagle Outfitters
+3238,USA,Atlas Air Worldwide Holdings
+3239,Canada,CT REIT
+3240,India,Timken India
+3241,USA,PacWest Bancorp
+3242,USA,Flywire
+3243,India,Delhivery
+3244,Spain,CorporaciÃ³n Financiera Alba
+3245,S. Korea,Doosan Bobcat
+3246,Canada,First Capital REIT
+3247,Canada,Canadian Solar
+3248,France,Altarea
+3249,Sweden,Olink Holding
+3250,USA,Curaleaf
+3251,USA,Blueprint Medicines
+3252,Israel,Shapir Civil and Marine Engineering
+3253,Spain,Acerinox
+3254,Switzerland,Allreal Holding
+3255,USA,Rush Enterprises
+3256,USA,Kyndryl
+3257,Spain,Vidrala
+3258,India,Vodafone Idea
+3259,Switzerland,EFG International
+3260,USA,nternational Bancshares Corp
+3261,USA,Nordstrom
+3262,India,SKF India
+3263,Switzerland,Sulzer
+3264,USA,Arcosa
+3265,USA,Macerich
+3266,India,Torrent Power
+3267,USA,Hanesbrands
+3268,USA,Focus Financial Partners
+3269,USA,Dorman Products
+3270,Indonesia,Bank Jago
+3271,USA,Park Hotels & Resorts
+3272,USA,GoHealth
+3273,USA,Fulton Financial
+3274,India,Atul
+3275,Israel,IronSource
+3276,USA,Harmony Biosciences
+3277,USA,SITE Centers
+3278,New Zealand,Vector Limited
+3279,USA,Group 1 Automotive
+3280,USA,Cvent
+3281,USA,LCI Industries
+3282,Canada,Lithium Americas
+3283,UK,Jet2
+3284,USA,Equity Commonwealth
+3285,New Zealand,Port of Tauranga
+3286,USA,Easterly Government Properties
+3287,USA,Korn Ferry
+3288,USA,e.l.f. Cosmetics
+3289,Denmark,SimCorp
+3290,China,Evergrande
+3291,USA,Crestwood Equity Partners
+3292,USA,Boise Cascade
+3293,S. Arabia,Makkah Construction & Development
+3294,Canada,Allied Properties REIT
+3295,USA,TreeHouse Foods
+3296,USA,Patterson Companies
+3297,USA,Certara
+3298,USA,ViaSat
+3299,China,JOYY
+3300,USA,Amedisys
+3301,India,Punjab & Sind Bank
+3302,USA,Petco
+3303,India,JK Cement
+3304,Japan,Sumitomo Dainippon Pharma
+3305,USA,Mercury Systems
+3306,Italy,Ermenegildo Zegna
+3307,USA,Atlantic Union Bankshares
+3308,UK,Big Yellow Group
+3309,USA,Encore Wire
+3310,India,Bank of Maharashtra
+3311,Germany,Vitesco Technologies Group
+3312,Germany,Freenet
+3313,USA,Worthington Industries
+3314,Brazil,Ultrapar Participacoes
+3315,India,Nerolac Paints
+3316,USA,Northern Oil and Gas
+3317,India,CRISIL
+3318,New Zealand,Fonterra
+3319,S. Korea,BGF Retail
+3320,USA,Werner Enterprises
+3321,Canada,H&R REIT
+3322,USA,BankUnited
+3323,USA,Hub Group
+3324,USA,Innospec
+3325,Israel,InMode
+3326,USA,HighPeak Energy
+3327,USA,Excelerate Energy
+3328,India,Relaxo Footwear
+3329,India,Zee Entertainment
+3330,Canada,Bausch Health
+3331,China,Giant Network Group
+3332,USA,Varonis
+3333,USA,Sage Therapeutics
+3334,India,Grindwell Norton
+3335,Australia,Metcash
+3336,India,Ipca Laboratories
+3337,USA,Forward Air
+3338,USA,CorVel Corporation
+3339,Canada,Lundin Gold
+3340,Portugal,The Navigator Company
+3341,Finland,Konecranes
+3342,Germany,Siltronic
+3343,Indonesia,Mitra Keluarga
+3344,USA,Helen of Troy
+3345,Denmark,Alm. Brand
+3346,India,LIC Housing Finance
+3347,Indonesia,XL Axiata
+3348,UK,International Distributions Services (Royal Mail)
+3349,USA,Revolution Medicines
+3350,Canada,Gibson Energy
+3351,UK,Travis Perkins
+3352,USA,Jetblue Airways
+3353,USA,DigitalOcean
+3354,UK,Safestore
+3355,USA,Globalstar
+3356,USA,Frontier Airlines
+3357,USA,IVERIC bio
+3358,Japan,ALSOK
+3359,Germany,SYNLAB
+3360,Turkey,Pegasus Airlines
+3361,Germany,DÃ¼rr
+3362,USA,Vicor
+3363,USA,Resideo Technologies
+3364,USA,Tandem Diabetes Care
+3365,USA,Genworth Financial
+3366,USA,CNO Financial Group
+3367,USA,Energizer Holdings
+3368,USA,Cal-Maine Foods
+3369,USA,Itron
+3370,USA,Insmed
+3371,South Africa,Rand Merchant Investment
+3372,Turkey,Aksa Energy
+3373,USA,Spectrum Brands
+3374,Germany,Hensoldt
+3375,India,Fortis Healthcare
+3376,Canada,Spin Master
+3377,USA,Otter Tail
+3378,USA,Alarm.com
+3379,USA,Joby Aviation
+3380,India,Bayer Crop Science
+3381,USA,Alliance Resource Partners
+3382,USA,Steve Madden
+3383,South Africa,Pick n Pay Stores
+3384,USA,Urban Outfitters
+3385,Germany,TeamViewer
+3386,Spain,Solaria EnergÃ­a
+3387,USA,MGE Energy
+3388,Denmark,Bavarian Nordic
+3389,India,New India Assurance
+3390,USA,Hayward
+3391,USA,Rumble
+3392,UK,Myovant Sciences
+3393,USA,Xerox
+3394,India,Dixon Technologies
+3395,USA,Perficient
+3396,Israel,Nova Measuring Instruments
+3397,Mexico,Bachoco
+3398,Chile,Mallplaza
+3399,USA,AMC Entertainment
+3400,Sweden,Elekta AB
+3401,USA,Leslie's
+3402,Australia,Ansell
+3403,France,Voltalia
+3404,UK,Dunelm Group
+3405,Hong Kong,Champion REIT
+3406,Spain,Ebro Foods
+3407,South Africa,Mr Price Group
+3408,Australia,Boral
+3409,China,Kunlun Tech
+3410,UK,WH Smith
+3411,USA,Appian
+3412,France,Trigano
+3413,Switzerland,ALSO Holding
+3414,China,Tianjin FAW
+3415,USA,Brady
+3416,New Zealand,Fletcher Building
+3417,Australia,Beach Energy
+3418,USA,Vivint Smart Home
+3419,Japan,Tohoku Electric Power
+3420,USA,Omnicell
+3421,UK,Genus
+3422,India,Aarti Industries
+3423,USA,Piper Sandler
+3424,USA,VIAVI Solutions
+3425,USA,Kontoor Brands
+3426,UK,Balfour Beatty
+3427,USA,Independent Bank Group
+3428,Canada,Vermilion Energy
+3429,S. Arabia,Zain Saudi Arabia
+3430,Chile,CompaÃ±Ã­a CervecerÃ­as Unidas
+3431,USA,MDC Holdings
+3432,USA,Tronox
+3433,USA,Duck Creek Technologies
+3434,Canada,TransAlta
+3435,Italy,Iveco Group
+3436,Switzerland,Swissquote
+3437,S. Korea,Pan Ocean
+3438,UK,IHS Towers
+3439,USA,Red Rock Resorts
+3440,USA,Stepan Company
+3441,USA,Extreme Networks
+3442,Singapore,Keppel REIT
+3443,Turkey,Coca-Cola Ä°Ã§ecek
+3444,Brazil,Multiplan Empreendimentos ImobiliÃ¡rios
+3445,Japan,Kadokawa
+3446,USA,First Merchants Corporation
+3447,Switzerland,Cembra Money Bank
+3448,South Africa,Harmony Gold
+3449,Ireland,Keywords Studios
+3450,USA,Arch Resources
+3451,USA,Relay Therapeutics
+3452,USA,Dana
+3453,Taiwan,WIN Semiconductors
+3454,USA,MicroStrategy
+3455,Canada,Innergex Renewable Energy
+3456,Austria,Uniqa Insurance Group
+3457,S. Korea,SD BioSensor
+3458,Austria,ams AG
+3459,USA,Alpha Metallurgical Resources
+3460,India,PB Fintech
+3461,USA,LGI Homes
+3462,USA,PagerDuty
+3463,Canada,Dream Industrial REIT
+3464,USA,Primo Water
+3465,USA,Axos Financial
+3466,USA,Amylyx Pharmaceuticals
+3467,India,Apollo Tyres
+3468,USA,Mirati Therapeutics
+3469,USA,Pacific Biosciences
+3470,India,Bata India
+3471,Hong Kong,Hang Lung Group
+3472,Israel,OPC Energy
+3473,Singapore,SATS
+3474,USA,Callon Petroleum
+3475,UK,Britvic
+3476,USA,NexTier Oilfield
+3477,UK,QinetiQ
+3478,Singapore,NetLink Trust
+3479,USA,United Natural Foods
+3480,USA,SL Green Realty
+3481,USA,Commvault
+3482,USA,Verint Systems
+3483,France,Compagnie Plastic Omnium
+3484,USA,McGrath RentCorp
+3485,Luxembourg,Millicom
+3486,UK,SSP Group
+3487,Switzerland,SoftwareONE
+3488,USA,Arbor Realty Trust
+3489,Bermuda,Golar LNG
+3490,USA,CBIZ
+3491,USA,St. Joe Company
+3492,USA,John Wiley & Sons
+3493,Greece,Jumbo S.A.
+3494,USA,EnPro Industries
+3495,USA,Rogers Corporation
+3496,France,Covivio Hotels
+3497,Finland,Kemira
+3498,USA,Sunnova
+3499,USA,ESCO Technologies
+3500,India,Piramal Enterprises
+3501,USA,Integer Holdings
+3502,Canada,Cogeco
+3503,Canada,Osisko Gold Royalties
+3504,China,Kingnet Network
+3505,USA,SJW Group
+3506,Spain,Gestamp AutomociÃ³n
+3507,India,Hatsun Agro Products
+3508,USA,Holly Energy Partners
+3509,USA,Kimbell Royalty Partners
+3510,Hong Kong,Mandarin Oriental
+3511,Indonesia,Permata Bank
+3512,Finland,Outokumpu
+3513,Canada,Maple Leaf Foods
+3514,Canada,Baytex Energy
+3515,USA,Corcept Therapeutics
+3516,Switzerland,INFICON
+3517,Germany,Gerresheimer
+3518,Japan,CASIO
+3519,Italy,Iren
+3520,Austria,Ãsterreichische Post
+3521,USA,Immunovant
+3522,USA,Arconic
+3523,Canada,Lightspeed POS
+3524,USA,Matson
+3525,Singapore,United Industrial Corporation
+3526,Taiwan,Acer
+3527,USA,National Health Investors
+3528,USA,Jamf
+3529,Canada,E-L Financial
+3530,Canada,First Majestic Silver
+3531,USA,Gentherm
+3532,USA,Navient
+3533,India,Endurance Technologies
+3534,UK,Kainos Group
+3535,USA,Weis Markets
+3536,UK,Grainger plc
+3537,USA,WaFd Bank
+3538,Poland,Cyfrowy Polsat
+3539,USA,Shake Shack
+3540,USA,WD-40 Company
+3541,Germany,Dermapharm
+3542,USA,Four Corners Property Trust
+3543,UK,Ashmore Group
+3544,Japan,AEON REIT Investment
+3545,Germany,KWS
+3546,New Zealand,Chorus
+3547,USA,Artisan Partners
+3548,USA,Bowlero
+3549,India,Laurus Labs
+3550,USA,Rocket Lab
+3551,USA,Alignment Healthcare
+3552,Germany,1&1
+3553,USA,Akero Therapeutics
+3554,USA,Glaukos
+3555,USA,Kadant
+3556,USA,Golub Capital
+3557,India,Emami
+3558,S. Korea,Doosan Fuel Cell
+3559,India,Devyani International
+3560,India,Sun TV Network
+3561,India,KPIT Technologies
+3562,Germany,CompuGroup Medical
+3563,USA,First Financial Bank
+3564,USA,Office Depot
+3565,Netherlands,Corbion
+3566,USA,Cavco Industries
+3567,Australia,Netwealth
+3568,Canada,Canada Goose
+3569,USA,Cracker Barrel
+3570,UK,Hays plc
+3571,USA,Weber
+3572,Canada,Topaz Energy
+3573,UK,LondonMetric Property
+3574,USA,NuVasive
+3575,USA,Progress Software
+3576,Luxembourg,Befesa
+3577,India,Whirlpool India
+3578,Germany,MVV Energie
+3579,USA,Park National Corp
+3580,USA,MGP Ingredients
+3581,South Africa,Distell Group
+3582,India,ReNew Power
+3583,USA,Revance Therapeutics
+3584,Australia,Liontown Resources
+3585,USA,Columbia Bank
+3586,Taiwan,VisEra Technologies
+3587,USA,Sonos
+3588,USA,NexPoint Residential
+3589,USA,NETSCOUT
+3590,USA,TowneBank
+3591,USA,Trinity Industries
+3592,Canada,Tricon Residential
+3593,USA,TTEC
+3594,USA,SiTime
+3595,Denmark,FLSmidth
+3596,Argentina,Banco Macro
+3597,Switzerland,Berner Kantonalbank
+3598,Switzerland,OC Oerlikon
+3599,USA,Cedar Fair
+3600,UK,Darktrace
+3601,S. Korea,Korea Gas
+3602,UK,Future plc
+3603,Norway,Elkem
+3604,USA,Fisker
+3605,Canada,NovaGold Resources
+3606,Brazil,Embraer
+3607,Canada,Xenon Pharmaceuticals
+3608,Norway,Entra
+3609,Denmark,Netcompany Group
+3610,USA,Buckle
+3611,USA,Griffon Corporation
+3612,USA,Boot Barn Holdings
+3613,USA,Evertec
+3614,USA,Spirit Airlines
+3615,USA,Kennedy Wilson
+3616,Germany,ProSiebenSat.1 Media
+3617,Canada,NexGen Energy
+3618,USA,Claros Mortgage Trust
+3619,USA,JBG SMITH
+3620,USA,Trupanion
+3621,USA,Jfrog
+3622,USA,Sabre
+3623,Canada,Crombie Real Estate Investment Trust
+3624,UK,TORM
+3625,USA,AeroVironment
+3626,Switzerland,Landis+Gyr
+3627,USA,WesBanco
+3628,USA,Barnes Group
+3629,Cayman Islands,Patria Investments
+3630,USA,GMS
+3631,USA,Agiliti
+3632,Portugal,NOS
+3633,Canada,BlackBerry
+3634,India,IIFL Finance
+3635,South Africa,Tiger Brands
+3636,USA,Altice USA
+3637,USA,Banner Bank
+3638,USA,Silk Road Medical
+3639,USA,Chesapeake Utilities
+3640,USA,Kennametal
+3641,Canada,Filo Mining
+3642,USA,FTAI Aviation
+3643,USA,Six Flags
+3644,Taiwan,International Games System
+3645,USA,Sprinklr
+3646,India,Dr Lal PathLabs
+3647,Israel,Enlight Renewable Energy
+3648,USA,Strategic Education
+3649,Switzerland,Interroll
+3650,Indonesia,Gudang Garam
+3651,USA,Catalyst Pharmaceuticals
+3652,UK,Micro Focus
+3653,USA,Shutterstock
+3654,Germany,AUTO1
+3655,Chile,ItaÃº CorpBanca
+3656,South Africa,Ninety One Group
+3657,UK,Farfetch
+3658,USA,Luminar Technologies
+3659,USA,Verra Mobility
+3660,USA,Minerals Technologies
+3661,India,Prestige Group
+3662,USA,NV5 Global
+3663,USA,PriceSmart
+3664,USA,Celldex Therapeutics
+3665,Denmark,Jeudan
+3666,Israel,Plus500
+3667,USA,Credo Technology
+3668,India,Kajaria Ceramics
+3669,USA,Carpenter Technology
+3670,Hong Kong,Silicon Motion
+3671,USA,Supernus Pharmaceuticals
+3672,Germany,Aareal Bank
+3673,Hong Kong,Shimao Property
+3674,USA,Trustmark
+3675,UK,Cranswick
+3676,Greece,Star Bulk Carriers
+3677,USA,Krystal Biotech
+3678,India,Carborundum Universal
+3679,Canada,Triple Flag Precious Metals
+3680,Canada,Stella-Jones
+3681,USA,Empire State Realty Trust
+3682,USA,Renasant Corp
+3683,Peru,Buenaventura Mining Company
+3684,UK,Redrow
+3685,USA,American Assets Trust
+3686,USA,RPC
+3687,USA,Sylvamo
+3688,USA,Edgewell Personal Care
+3689,USA,Fannie Mae
+3690,China,Momo
+3691,USA,Cricut
+3692,Israel,Delek Group
+3693,UK,Assura Plc
+3694,USA,Sunstone Hotel Investors
+3695,USA,Agilysys
+3696,USA,Bloomin' Brands
+3697,USA,AvidXchange
+3698,India,Blue Dart Express
+3699,USA,Allscripts
+3700,USA,Central Garden & Pet
+3701,India,Fine Organics
+3702,UK,Spirent
+3703,South Africa,The Foschini Group
+3704,Canada,CI Financial
+3705,USA,Eve Air Mobility
+3706,USA,TRI Pointe Group
+3707,India,Bharat Dynamics
+3708,Spain,Indra Sistemas
+3709,USA,GoodRx
+3710,Poland,Orange Polska
+3711,Czech Republic,Philip Morris ÄR
+3712,USA,CONSOL Energy
+3713,Australia,Breville Group
+3714,USA,Dave & Buster's
+3715,India,Ramco Cements
+3716,Hong Kong,AMTD Digital
+3717,UK,Close Brothers Group
+3718,USA,Nu Skin
+3719,Israel,Electra
+3720,USA,Gogo Inflight Internet
+3721,Germany,Software AG
+3722,Brazil,Aliansce Sonae Shopping Centers
+3723,USA,USA Compression Partners
+3724,USA,Remitly
+3725,USA,eXp World Holdings
+3726,USA,Delek Logistics Partners
+3727,France,Coface
+3728,Israel,ZIM Integrated Shipping Services
+3729,USA,Hilltop Holdings
+3730,Hong Kong,Melco International Development
+3731,Japan,PeptiDream
+3732,Austria,Lenzing
+3733,USA,First Advantage
+3734,Germany,BayWa
+3735,USA,Safehold
+3736,India,Tata Teleservices
+3737,Spain,Laboratorios Farmaceuticos Rovi
+3738,Israel,Alony Hetz
+3739,USA,CSW Industrials
+3740,UK,ContourGlobal
+3741,Israel,Harel Group
+3742,USA,Yelp
+3743,USA,Payoneer
+3744,Canada,Winpak
+3745,Malta,Kindred Group
+3746,Isle of Man,Playtech
+3747,USA,XPEL
+3748,Canada,Stelco
+3749,Canada,NuVista Energy
+3750,USA,Seacoast Banking
+3751,USA,Rapid7
+3752,Netherlands,Basic-Fit
+3753,USA,Victory Capital
+3754,USA,AtriCure
+3755,India,IIFL Wealth Management
+3756,USA,LifeStance Health Group
+3757,Turkey,Enerjisa Enerji
+3758,USA,Flagstar Bank
+3759,USA,Newmark
+3760,Guernsey,Burford Capital
+3761,USA,Heartland Financial USA
+3762,Canada,Canfor
+3763,USA,Air Transport Services Group
+3764,USA,Semtech
+3765,USA,RXO
+3766,USA,Grayscale Bitcoin Trust
+3767,USA,Mercury General
+3768,USA,Materion
+3769,USA,TG Therapeutics
+3770,USA,The Cheesecake Factory
+3771,USA,Expro Group
+3772,USA,Tidewater
+3773,USA,Ventyx Biosciences
+3774,UK,GlobalData
+3775,USA,Liberty Latin America
+3776,USA,Brigham Minerals
+3777,USA,ProKidney
+3778,UK,Pets at Home
+3779,Germany,Salzgitter
+3780,USA,Krispy Kreme
+3781,USA,Helios Technologies
+3782,USA,Green Thumb Industries
+3783,France,Constellium
+3784,Canada,Tilray
+3785,USA,Coursera
+3786,USA,Pactiv Evergreen
+3787,Germany,Curevac
+3788,USA,Frontdoor
+3789,Argentina,Pampa EnergÃ­a
+3790,USA,ZipRecruiter
+3791,USA,BRP Group
+3792,USA,TransMedics Group
+3793,USA,Lakeland Financial Corp
+3794,USA,ICF International
+3795,USA,Warby Parker
+3796,USA,FormFactor
+3797,Canada,Boardwalk Real Estate Investment Trust
+3798,France,Eutelsat
+3799,USA,CarGurus
+3800,USA,Earthstone Energy
+3801,Germany,Hornbach Baumarkt
+3802,USA,Green Plains
+3803,USA,Vector Group
+3804,USA,Compass Minerals
+3805,USA,Tanger Factory Outlet Centers
+3806,USA,Retail Opportunity Investments
+3807,USA,FibroGen
+3808,USA,DigitalBridge Group
+3809,France,Exclusive Networks
+3810,Israel,Energix Renewable Energies
+3811,USA,Mueller Water Products
+3812,UK,RWS Holdings
+3813,India,Exide Industries
+3814,Germany,SIGNA Sports United
+3815,USA,ImmunityBio
+3816,USA,Oceaneering International
+3817,USA,Bread Financial
+3818,USA,Veracyte
+3819,USA,StoneX Group
+3820,Taiwan,Formosa Sumco Technology
+3821,USA,ArcBest
+3822,Brazil,Usiminas
+3823,UK,PageGroup
+3824,USA,Masonite
+3825,USA,Enterprise Financial Services Corp
+3826,USA,CommScope
+3827,Chile,ColbÃºn
+3828,USA,U.S. Cellular
+3829,Canada,Canadian Western Bank
+3830,USA,Urban Edge Properties
+3831,USA,Kymera Therapeutics
+3832,Japan,Toho Gas
+3833,Germany,Nagarro
+3834,USA,BioCryst Pharmaceuticals
+3835,India,National Aluminum & Alloy
+3836,USA,NuStar Energy
+3837,USA,NBT Bancorp
+3838,S. Korea,Shinsegae
+3839,UK,AJ Bell
+3840,Belgium,Telenet
+3841,Switzerland,Zug Estates Holding
+3842,Canada,Altus Group
+3843,USA,CareTrust REIT
+3844,USA,Winnebago Industries
+3845,Singapore,ComfortDelGro
+3846,USA,Phreesia
+3847,S. Korea,LOTTE Corporation
+3848,UK,Primary Health Properties
+3849,Czech Republic,MONETA Money Bank
+3850,USA,International Seaways
+3851,Austria,Immofinanz
+3852,USA,Alamo Group
+3853,India,WABCO India
+3854,Canada,Labrador Iron Ore Royalty Corp.
+3855,USA,Vertex
+3856,USA,Braves Group
+3857,USA,Ingles Markets
+3858,UK,Victrex
+3859,New Zealand,Goodman Property Trust
+3860,Spain,Sacyr
+3861,Sweden,Paradox Interactive
+3862,USA,Century Communities
+3863,USA,Pebblebrook Hotel Trust
+3864,USA,CSG International
+3865,Canada,Fairfax India Holdings
+3866,Uruguay,Arcos Dorados Holdings
+3867,Canada,Tamarack Valley Energy
+3868,USA,Cannae Holdings
+3869,USA,RLJ Lodging Trust
+3870,USA,Zeta Global
+3871,UK,Babcock International Group
+3872,USA,AssetMark
+3873,Canada,Birchcliff Energy
+3874,USA,Nuvalent
+3875,Sweden,Peab
+3876,France,Robertet
+3877,USA,Stock Yards Bancorp
+3878,S. Korea,CJ Group
+3879,USA,Northwest Bank
+3880,USA,Diamondrock Hospitality Company
+3881,Netherlands,Alfen
+3882,India,Aavas Financiers
+3883,Turkey,TÃ¼rkiye KalkÄ±nma
+3884,Spain,Almirall
+3885,Switzerland,Forbo Holding
+3886,Bermuda,Golden Ocean Group
+3887,Germany,Pfeiffer Vacuum
+3888,Germany,Jenoptik
+3889,USA,SpringWorks Therapeutics
+3890,UK,Verona Pharma
+3891,Japan,Pigeon
+3892,USA,N-Able
+3893,USA,E2open
+3894,UK,Shaftesbury
+3895,Singapore,TDCX
+3896,USA,Sonic Automotive
+3897,Canada,Ballard Power Systems
+3898,USA,NMI Holdings
+3899,Norway,Olav Thon
+3900,Hong Kong,Hongkong and Shanghai Hotels
+3901,USA,Syndax Pharmaceuticals
+3902,New Zealand,Genesis Energy
+3903,Netherlands,TKH Group
+3904,Canada,NorthWest Healthcare Properties REIT
+3905,Indonesia,Bukalapak.com
+3906,USA,Arvinas
+3907,Canada,Secure Energy Services
+3908,UK,Great Portland Estates
+3909,USA,Warrior Met Coal
+3910,USA,Ironwood Pharmaceuticals
+3911,USA,Hercules Capital
+3912,New Zealand,Ryman Healthcare
+3913,Singapore,Kenon Holdings
+3914,India,Mahindra CIE
+3915,USA,FB Financial
+3916,USA,TTM Technologies
+3917,USA,Q2
+3918,USA,Custom Truck One Source
+3919,USA,Arhaus
+3920,Australia,Tabcorp
+3921,Brazil,3R Petroleum
+3922,Canada,StorageVault Canada
+3923,USA,Rocket Pharmaceuticals
+3924,USA,Rhythm Pharmaceuticals
+3925,India,Radico Khaitan
+3926,Turkey,Efes Beverage Group
+3927,USA,InterDigital
+3928,Canada,Sandstorm Gold
+3929,USA,Revolve
+3930,Canada,Freehold Royalties
+3931,Denmark,Aktieselskabet Schouw & Co.
+3932,Finland,Sanoma
+3933,UK,Trainline
+3934,USA,Lindsay Corporation
+3935,USA,Target Hospitality
+3936,Canada,Parex Resources
+3937,USA,Delek US
+3938,USA,World Fuel Services
+3939,USA,Getty Images
+3940,USA,NW Natural
+3941,India,Hexaware Technologies
+3942,Japan,Toyo Tire
+3943,S. Korea,Fila
+3944,Hong Kong,Great Eagle
+3945,S. Korea,Hanmi Pharmaceutical
+3946,India,IDFC
+3947,UK,Quilter
+3948,India,Redington India
+3949,USA,Talos Energy
+3950,Germany,WÃ¼stenrot & WÃ¼rttembergische
+3951,Canada,Peyto Exploration & Development
+3952,USA,ForgeRock
+3953,Brazil,BRF
+3954,USA,TaskUs
+3955,Hong Kong,Vtech
+3956,Poland,Budimex
+3957,Bermuda,Seadrill
+3958,USA,MillerKnoll
+3959,USA,Pacira Biosciences
+3960,USA,First Bancorp
+3961,India,IndiaMART
+3962,USA,H&E Equipment Services
+3963,USA,Cohu
+3964,Argentina,Loma Negra
+3965,India,Piramal Pharma
+3966,USA,Granite Construction
+3967,USA,Hillman Solutions
+3968,Singapore,HPH Trust (Hutchison Port)
+3969,S. Korea,JYP Entertainment
+3970,Canada,First National Financial
+3971,France,Criteo
+3972,Japan,Tokai Carbon
+3973,Bermuda,Flex Lng
+3974,India,DCM Shriram
+3975,Canada,Exchange Income Corporation
+3976,USA,Hain Celestial
+3977,S. Korea,DSME (Daewoo Shipbuilding)
+3978,USA,Veritiv
+3979,USA,SchrÃ¶dinger
+3980,USA,AAR
+3981,USA,Intapp
+3982,USA,Xencor
+3983,USA,Methode Electronics
+3984,USA,The Bancorp
+3985,USA,Adtalem Global Education
+3986,Canada,Superior Plus
+3987,South Africa,Santam
+3988,Austria,Bank fÃ¼r Tirol und Vorarlberg
+3989,USA,Oxford Industries
+3990,USA,EverCommerce
+3991,Costa Rica,Establishment Labs
+3992,UK,Diversey
+3993,Switzerland,dormakaba
+3994,USA,Provident Financial Services
+3995,USA,Addus HomeCare
+3996,Israel,Shufersal
+3997,Chile,Minera ValparaÃ­so
+3998,USA,Day One Biopharmaceuticals
+3999,South Africa,Redefine Properties
+4000,USA,InvenTrust Properties
+4001,USA,Veris Residential
+4002,USA,MYR Group
+4003,USA,TriCo Bancshares
+4004,USA,Tenneco
+4005,USA,Digital Turbine
+4006,Canada,Eldorado Gold
+4007,Sweden,Viaplay Group
+4008,India,Ratnamani Metals & Tubes
+4009,France,TF1
+4010,USA,Chinook Therapeutics
+4011,USA,National Bank Holdings
+4012,Hong Kong,Fortune REIT
+4013,USA,Montauk Renewables
+4014,USA,Vivid Seats
+4015,USA,Upwork
+4016,USA,Brinker International
+4017,Indonesia,Bank Danamon
+4018,USA,Apollo Commercial Real Estate
+4019,Germany,Biotest
+4020,USA,Recursion Pharmaceuticals
+4021,New Zealand,Air New Zealand
+4022,Switzerland,Bystronic AG
+4023,S. Korea,Nongshim
+4024,Finland,Nokian Tyres
+4025,Australia,Paladin Energy
+4026,India,SJVN
+4027,Malaysia,Top Glove
+4028,USA,Agios Pharmaceuticals
+4029,USA,VIZIO
+4030,USA,Apollo Medical Holdings
+4031,Canada,EQB (Equitable Bank)
+4032,India,KIOCL
+4033,South Africa,Sappi
+4034,Canada,Resolute Forest Products
+4035,USA,Marten Transport
+4036,India,Bajaj Electricals
+4037,USA,PROCEPT BioRobotics
+4038,USA,Getty Realty
+4039,Switzerland,HBM Healthcare Investments
+4040,China,Zhejiang Jinke Tom Culture Industry
+4041,Canada,Enghouse Systems
+4042,Japan,TODA corp
+4043,USA,Madison Square Garden
+4044,Turkey,TAV Airports Holding
+4045,USA,Aurora Innovation
+4046,UK,Savills
+4047,Canada,Hudbay Minerals
+4048,USA,Harmonic
+4049,USA,Galaxy Digital Holdings
+4050,USA,Elme Communities
+4051,USA,Herbalife
+4052,UK,Bodycote
+4053,Canada,MAG Silver
+4054,Canada,Chartwell Retirement Residences
+4055,USA,LiveRamp
+4056,India,Sanofi India Limited
+4057,South Africa,Momentum Metropolitan
+4058,Germany,TAG Immobilien
+4059,USA,Xenia Hotels & Resorts
+4060,Russia,Evraz
+4061,India,Elgi Equipments
+4062,India,Happiest Minds Technologies
+4063,USA,Gibraltar Industries
+4064,USA,CSI
+4065,USA,LegalZoom
+4066,USA,billtrust (BTRS)
+4067,USA,Knowles
+4068,Luxembourg,CorporaciÃ³n AmÃ©rica Airports
+4069,Bermuda,Nabors Industries
+4070,USA,Sandy Spring Bank
+4071,Finland,Vaisala
+4072,USA,Chimera Investment Corporation
+4073,USA,Model N
+4074,USA,Stellar Bancorp
+4075,Germany,Deutsche EuroShop
+4076,Guernsey,Super Group
+4077,Canada,Celestica
+4078,USA,Jack in the Box
+4079,India,Jindal Stainless
+4080,USA,Sally Beauty Holdings
+4081,USA,Laureate Education
+4082,Spain,NH Hotel Group
+4083,Brazil,Getnet
+4084,USA,Infinera
+4085,France,Atos
+4086,USA,Westamerica Bancorporation
+4087,USA,Hims & Hers Health
+4088,USA,Veritex Holdings
+4089,USA,Compass
+4090,South Africa,Life Healthcare Group
+4091,Bermuda,Bank of N. T. Butterfield & Son
+4092,Malaysia,PMetal (Press Metal Aluminium)
+4093,Israel,Shikun & Binui
+4094,USA,Montrose Environmental
+4095,India,Indian Energy Exchange
+4096,USA,Udemy
+4097,Canada,Richelieu Hardware
+4098,China,XD Inc.
+4099,USA,Virtus Investment Partners
+4100,USA,Hope Bancorp
+4101,USA,Vista Outdoor
+4102,USA,Prime Medicine
+4103,USA,Horace Mann Educators
+4104,USA,ADTRAN
+4105,USA,Gulfport Energy
+4106,India,Asahi India Glass
+4107,USA,BGC Partners
+4108,Canada,Trisura Group
+4109,USA,Owens & Minor
+4110,China,YOOZOO Interactive
+4111,USA,Mirion Technologies
+4112,South Africa,Dis-Chem Pharmacies
+4113,South Africa,Transaction Capital
+4114,India,Chambal Fertilisers
+4115,USA,Paragon 28
+4116,Colombia,Tecnoglass
+4117,Canada,Killam Apartment REIT
+4118,UK,Helios Towers
+4119,South Africa,AVI Limited
+4120,USA,Grosvenor Capital Management
+4121,India,KEC International
+4122,USA,Monarch Casino & Resort
+4123,Norway,Borregaard
+4124,Japan,DeNA
+4125,Poland,Jastrzebska SpÃ³lka Weglowa
+4126,USA,Sterling Check
+4127,USA,EVgo
+4128,India,Hindustan Copper
+4129,USA,stem
+4130,USA,Monro
+4131,USA,Compass Diversified Holdings
+4132,Indonesia,Jasa Marga
+4133,USA,Sixth Street Specialty Lending
+4134,USA,First National of Nebraska
+4135,UK,Fever-Tree Drinks
+4136,USA,Myriad Genetics
+4137,Canada,K92 Mining
+4138,Canada,Cargojet
+4139,USA,Acadia Realty Trust
+4140,USA,Hudson Pacific Properties
+4141,USA,LTC Properties
+4142,India,City Union Bank
+4143,USA,Two Harbors Investment
+4144,USA,Eagle Bancorp
+4145,USA,ACV Auctions
+4146,USA,Goosehead Insurance
+4147,Germany,Hornbach Holding
+4148,USA,Middlesex Water Company
+4149,USA,Avidity Biosciences
+4150,Cambodia,Sihanoukville Autonomous Port
+4151,Singapore,Yanlord
+4152,USA,EchoStar
+4153,USA,Patrick Industries
+4154,Canada,InterRent Real Estate Investment Trust
+4155,USA,Kinetik
+4156,Luxembourg,FREYR Battery
+4157,USA,Corsair Gaming
+4158,USA,Janus International Group
+4159,USA,UCT (Ultra Clean Holdings)
+4160,USA,SolarWinds
+4161,Taiwan,Formosa Taffeta
+4162,Sweden,Oatly
+4163,Austria,AT&S Austria Technologie & Systemtechnik
+4164,Finland,Fiskars
+4165,Malaysia,YTL Corporation Berhad
+4166,Canada,Russel Metals
+4167,Thailand,Siam City Cement (INSEE)
+4168,USA,Alexander & Baldwin
+4169,USA,Treace Medical Concepts
+4170,USA,Everi Holdings
+4171,S. Korea,HiteJinro
+4172,UK,Aston Martin
+4173,Nigeria,Guaranty Trust Bank
+4174,USA,Geo Group
+4175,USA,WeWork
+4176,USA,Virgin Galactic
+4177,USA,Zentalis Pharmaceuticals
+4178,Poland,KRUK SpÃ³lka Akcyjna
+4179,USA,K12
+4180,India,CenturyPly
+4181,USA,Par Pacific Holdings
+4182,USA,Adaptive Biotechnologies
+4183,USA,Live Oak Bank
+4184,USA,Triumph Bancorp
+4185,Canada,Andlauer Healthcare Group
+4186,India,Sheela Foam
+4187,Bermuda,Textainer Group
+4188,Norway,Arendals Fossekompani
+4189,USA,Archrock
+4190,USA,OSI Systems
+4191,USA,Cytek Biosciences
+4192,Austria,RHI Magnesita
+4193,USA,Marcus & Millichap
+4194,USA,M/I Homes
+4195,Mexico,Vista Oil & Gas
+4196,USA,CTS Corporation
+4197,USA,Arcus Biosciences
+4198,USA,Meridian Bioscience
+4199,USA,Integral Ad Science
+4200,USA,Perimeter Solutions
+4201,USA,The Beauty Health Company
+4202,USA,Geron
+4203,USA,Cassava Sciences
+4204,USA,Amplitude
+4205,Canada,Ero Copper
+4206,Bermuda,DHT Holdings
+4207,Sweden,Truecaller
+4208,USA,Poshmark
+4209,USA,Verve Therapeutics
+4210,USA,ModivCare
+4211,USA,Kaiser Aluminum
+4212,USA,The Chefs' Warehouse
+4213,Malaysia,Bank Islam Malaysia
+4214,S. Korea,SM Entertainment
+4215,Canada,goeasy
+4216,USA,DICE Therapeutics
+4217,USA,Twist Bioscience
+4218,USA,KAR Auction Services
+4219,India,Blue Star
+4220,USA,Sovos Brands
+4221,Denmark,Scandinavian Tobacco Group
+4222,India,BASF India
+4223,USA,Global Net Lease
+4224,USA,Arcellx
+4225,USA,NOW Inc.
+4226,India,Glenmark Pharmaceuticals
+4227,USA,GrafTech
+4228,USA,Allegiant Air
+4229,USA,Viridian Therapeutics
+4230,USA,Uranium Energy
+4231,USA,Construction Partners
+4232,Poland,Inter Cars
+4233,USA,Scholastic
+4234,India,Suzlon
+4235,USA,Paramount Group
+4236,Germany,Wacker Neuson
+4237,Poland,Asseco
+4238,USA,Amphastar Pharmaceuticals
+4239,USA,Reata Pharmaceuticals
+4240,USA,Ladder Capital
+4241,USA,Replimune
+4242,USA,Rent-A-Center
+4243,USA,C3 AI
+4244,USA,City Holding Company
+4245,USA,TechTarget
+4246,USA,Upstart
+4247,Canada,International Petroleum
+4248,USA,Deciphera Pharmaceuticals
+4249,USA,Dynavax Technologies
+4250,USA,Enerpac Tool Group
+4251,USA,Huron Consulting
+4252,USA,UNITI
+4253,USA,Planet Labs
+4254,USA,Mativ Holdings
+4255,USA,NeoGenomics
+4256,France,Casino Guichard-Perrachon
+4257,USA,Berkshire Hills Bancorp
+4258,Norway,Veidekke
+4259,USA,PRA Group
+4260,India,NLC India
+4261,S. Korea,Ottogi
+4262,Israel,Maytronics
+4263,USA,Medifast
+4264,China,tuya
+4265,Israel,Partner Communications
+4266,USA,First Busey
+4267,India,CDSL
+4268,Norway,SpareBank 1
+4269,USA,ANGI Homeservices
+4270,Germany,secunet
+4271,USA,Ready Capital
+4272,Brazil,Diagnosticos da America
+4273,USA,Abercrombie & Fitch
+4274,Germany,Atoss
+4275,Germany,GAG Immobilien
+4276,Canada,China Gold International Resources
+4277,USA,Avanos Medical
+4278,USA,Kratos Defense & Security Solutions
+4279,USA,Alkami Technology
+4280,USA,P10
+4281,Japan,Pilot Corporation
+4282,Japan,Mixi
+4283,Canada,Centerra Gold
+4284,India,V-Guard Industries
+4285,India,Aether Industries
+4286,Finland,Qt Group
+4287,Canada,Ivanhoe Electric
+4288,USA,Aris Water Solutions
+4289,UK,Gamma Communications
+4290,USA,Keros Therapeutics
+4291,USA,OFG Bancorp
+4292,India,EIH Limited
+4293,USA,Saul Centers
+4294,China,Ourpalm
+4295,Spain,MeliÃ¡ Hotels International
+4296,USA,First Commonwealth Financial Corp
+4297,USA,FIGS
+4298,New Zealand,Summerset Holdings
+4299,USA,Altus Power
+4300,USA,Xometry
+4301,USA,Pediatrix Medical Group
+4302,USA,Trulieve Cannabis
+4303,USA,Service Properties Trust
+4304,USA,Genesis Energy L.P.
+4305,India,Jindal Stainless (Hisar)
+4306,India,Alembic Pharmaceuticals
+4307,Cayman Islands,Fresh Del Monte Produce
+4308,India,Finolex Industries
+4309,Israel,Perion Network
+4310,USA,Calumet Specialty Products Partners
+4311,S. Korea,KCC Corp
+4312,Bermuda,SFL Corp
+4313,USA,Utz Brands
+4314,Israel,Kornit Digital
+4315,UK,John Wood Group
+4316,UK,RSA Insurance Group
+4317,USA,EQRx
+4318,USA,Vericel
+4319,Canada,Iamgold
+4320,USA,Meta Financial Group
+4321,USA,Universal Corporation
+4322,Greece,GasLog
+4323,Poland,Polenergia
+4324,USA,S&T Bancorp
+4325,UK,Hipgnosis Songs Fund
+4326,USA,Magnite
+4327,USA,1st Source
+4328,USA,CoreCivic
+4329,Germany,Bilfinger
+4330,Chile,CompaÃ±Ã­a de Acero del PacÃ­fico
+4331,Bermuda,Borr Drilling
+4332,USA,Embecta
+4333,Netherlands,Eurocommercial Properties
+4334,USA,Primoris Services Corporation
+4335,USA,Federal Agricultural Mortgage
+4336,Austria,AMAG Austria Metall
+4337,USA,Digi International
+4338,USA,V2X
+4339,USA,Standex
+4340,USA,FuelCell Energy
+4341,USA,iRobot
+4342,USA,Palomar Holdings
+4343,USA,PC Connection
+4344,USA,BridgeBio Pharma
+4345,UK,IntegraFin
+4346,Brazil,Afya
+4347,USA,Nikola
+4348,USA,OceanFirst Financial
+4349,Germany,Cancom
+4350,USA,Travere Therapeutics
+4351,USA,Definitive Healthcare
+4352,USA,Cinemark Theatres
+4353,USA,Heartland Express
+4354,USA,Outset Medical
+4355,USA,Telephone and Data Systems
+4356,USA,Blucora
+4357,USA,Enovix
+4358,USA,Ecovyst
+4359,India,RBL Bank
+4360,USA,Enova International
+4361,Canada,Aurinia Pharmaceuticals
+4362,Canada,Orla Mining
+4363,USA,Clean Energy Fuels
+4364,Norway,Atea ASA
+4365,Canada,The North West Company
+4366,USA,ePlus
+4367,China,Huya
+4368,France,BÃ©nÃ©teau
+4369,USA,Paya
+4370,USA,Dime Community Bancshares
+4371,USA,PennyMac Mortgage Investment Trust
+4372,USA,Nevro
+4373,Finland,Uponor
+4374,USA,Green Brick Partners
+4375,USA,Biohaven Pharmaceutical
+4376,USA,TriMas
+4377,USA,MannKind Corp
+4378,USA,Kronos Worldwide
+4379,Canada,Equinox Gold
+4380,USA,HNI Corporation
+4381,Canada,Canopy Growth
+4382,USA,CinCor Pharma
+4383,India,PVR Cinemas
+4384,Germany,Deutsche Pfandbriefbank
+4385,New Zealand,Precinct Properties
+4386,Lithuania,Telia Lietuva
+4387,USA,Avid Technology
+4388,USA,Safety Insurance
+4389,Canada,dentalcorp
+4390,India,Hudco
+4391,USA,Stewart Information Services
+4392,Canada,Uni-Select
+4393,USA,Sinclair Broadcast
+4394,USA,Tennant Company
+4395,Taiwan,Himax
+4396,China,Waterdrop Inc.
+4397,China,NetDragon Websoft
+4398,New Zealand,Skycity Entertainment Group
+4399,USA,PureCycle Technologies
+4400,USA,ProPetro
+4401,USA,PBF Logistics
+4402,USA,Carvana
+4403,Germany,Grenke
+4404,USA,Clearfield
+4405,India,Indian Telephone Industries
+4406,USA,Energy Recovery
+4407,USA,MeridianLink
+4408,USA,SES AI
+4409,Netherlands,Shop Apotheke Europe
+4410,USA,Radius Global Infrastructure
+4411,Finland,Citycon
+4412,Turkey,OYAK Ãimento
+4413,India,Natco Pharma
+4414,Israel,Fiverr
+4415,Switzerland,Schweiter Technologies
+4416,USA,Piedmont Office Realty Trust
+4417,USA,Guess
+4418,India,Allcargo Logistics
+4419,USA,Donnelley Financial Solutions
+4420,USA,Kayne Anderson Capital Advisors
+4421,USA,Encore Capital Group
+4422,India,VIP Industries
+4423,Spain,Mediaset EspaÃ±a ComunicaciÃ³n
+4424,USA,Brookline Bancorp
+4425,USA,Ryerson
+4426,Mexico,Volaris
+4427,USA,Morphic Therapeutic
+4428,Spain,Pharma Mar
+4429,Australia,Magellan Financial Group
+4430,Israel,Sapiens
+4431,USA,NextGen Healthcare
+4432,USA,Imago BioSciences
+4433,USA,Wabash National
+4434,USA,Xponential Fitness
+4435,USA,OPKO Health
+4436,Japan,Citizen Watch
+4437,India,Cyient
+4438,Canada,Sierra Wireless
+4439,USA,Modine Manufacturing
+4440,USA,Kforce
+4441,USA,The Andersons
+4442,USA,Diversified Energy
+4443,Russia,Mechel PAO
+4444,Germany,Varta
+4445,USA,Ligand Pharmaceuticals
+4446,USA,Helix Energy Solutions
+4447,India,EaseMyTrip
+4448,USA,Orion Engineered Carbons
+4449,USA,PGT Innovations
+4450,Germany,CropEnergies
+4451,India,TANLA
+4452,USA,3D Systems
+4453,Brazil,Banco de BrasÃ­lia
+4454,USA,Aclaris Therapeutics
+4455,USA,Lakeland Bancorp
+4456,Israel,Formula Systems
+4457,USA,Malibu Boats
+4458,USA,ProFrac
+4459,India,Amara Raja Batteries
+4460,USA,Capitol Federal Savings Bank
+4461,Monaco,Costamare
+4462,France,Korian
+4463,USA,AdvanSix
+4464,India,East India Distilleries Parry
+4465,UK,Bytes Technology
+4466,USA,Fastly
+4467,UK,Ascential
+4468,Finland,Caverion
+4469,China,Dingdong Maicai
+4470,USA,Nicolet Bankshares
+4471,China,NaaS Technology
+4472,India,Zydus Wellness
+4473,Germany,Eckert & Ziegler
+4474,USA,Semrush
+4475,USA,Employers Holdings
+4476,USA,Southside Bancshares
+4477,China,Hollysys Automation Technologie
+4478,USA,Franklin BSP Realty Trust
+4479,Spain,Faes Farma
+4480,USA,OPAL Fuels
+4481,USA,U.S. Physical Therapy
+4482,USA,Dorchester Minerals
+4483,USA,A10 Networks
+4484,USA,E. W. Scripps Company
+4485,Canada,Docebo
+4486,Switzerland,Fenix Outdoor
+4487,USA,Origin Bancorp
+4488,USA,Netstreit
+4489,USA,Diamond Offshore Drilling
+4490,China,Kingsoft Cloud
+4491,Israel,Taro Pharmaceutical
+4492,Spain,Prosegur
+4493,USA,La-Z-Boy
+4494,USA,RadNet
+4495,Canada,Advantage Energy
+4496,USA,Aimco
+4497,USA,Everbridge
+4498,Cambodia,ACLEDA Bank
+4499,USA,PDF Solutions
+4500,USA,Pliant Therapeutics
+4501,Brazil,CI&T
+4502,USA,B. Riley Financial
+4503,Poland,Grupa Zywiec
+4504,USA,Global Partners LP
+4505,UK,GB Group (GBG)
+4506,USA,MFA Financial
+4507,Germany,Uniper
+4508,S. Korea,Doosan
+4509,USA,Tellurian
+4510,USA,Photronics
+4511,USA,Lemonade
+4512,Brazil,Grendene
+4513,Canada,Seabridge Gold
+4514,Canada,Laurentian Bank of Canada
+4515,Canada,Westshore Terminals Investment
+4516,USA,Consensus Cloud Solutions
+4517,China,Zhihu
+4518,Germany,STRATEC
+4519,Belgium,Bpost
+4520,USA,Olo
+4521,USA,Brandywine Realty Trust
+4522,USA,Matthews International Corporation
+4523,USA,Coeur Mining
+4524,USA,Playa Hotels & Resorts
+4525,USA,Atrion
+4526,USA,German American Bancorp
+4527,USA,Tompkins Financial
+4528,Canada,Jamieson Wellness
+4529,USA,Proterra
+4530,Norway,Bonheur ASA
+4531,Greece,Danaos
+4532,UK,THG (The Hut Group)
+4533,Canada,Denison Mines
+4534,Finland,Revenio
+4535,USA,Nutex Health
+4536,USA,Paysafe
+4537,China,Hangzhou Shunwang Technology
+4538,Hong Kong,Dah Sing Banking Group
+4539,USA,USANA
+4540,Netherlands,VEON
+4541,Ireland,Cosmo Pharmaceuticals
+4542,Canada,Precision Drilling Corporation
+4543,USA,CVR Partners
+4544,USA,Golden Entertainment
+4545,USA,23andMe
+4546,USA,Energy Fuels
+4547,Canada,MTY Food Group
+4548,Israel,Camtek
+4549,Spain,Prosegur Cash
+4550,New Zealand,Freightways
+4551,USA,Franchise Group
+4552,USA,Camping World
+4553,USA,Merchants Bancorp
+4554,Hong Kong,Miramar Hotel and Investment
+4555,USA,Sweetgreen
+4556,Australia,Piedmont Lithium
+4557,USA,AZZ
+4558,USA,Sun Country Airlines
+4559,USA,UserTesting
+4560,USA,New York Mortgage Trust
+4561,USA,Cowen
+4562,USA,SpartanNash
+4563,Spain,Metrovacesa
+4564,USA,IGM Biosciences
+4565,Netherlands,Core Laboratories
+4566,USA,NAPCO Security Technologies
+4567,Canada,Mullen Group
+4568,Brazil,OdontoPrev
+4569,USA,Armada Hoffler Properties
+4570,Netherlands,uniQure
+4571,USA,American Well
+4572,USA,PROS
+4573,Canada,Dundee Precious Metals
+4574,USA,Momentive Global
+4575,USA,Titan International
+4576,Austria,S&T AG
+4577,China,EHang Holdings
+4578,Luxembourg,Nexa Resources
+4579,Argentina,Central Puerto
+4580,UK,Summit Therapeutics
+4581,Spain,AmRest
+4582,USA,Scilex Holding
+4583,France,Fnac Darty
+4584,USA,Wolverine World Wide
+4585,USA,Gray Television
+4586,Austria,Agrana
+4587,Germany,Hamburger Hafen
+4588,Italy,Cementir
+4589,USA,KKR Real Estate Finance Trust
+4590,USA,Enanta Pharmaceuticals
+4591,Germany,RhÃ¶n-Klinikum
+4592,Canada,Fortuna Silver Mines
+4593,Bermuda,SiriusPoint
+4594,USA,The Shyft Group
+4595,USA,Preferred Bank
+4596,USA,REGENXBIO
+4597,UK,National Express Group
+4598,Poland,Grupa Kety
+4599,India,Tejas Networks
+4600,China,Youdao
+4601,USA,Collegium Pharmaceutical
+4602,USA,Barings BDC
+4603,South Africa,Italtile
+4604,USA,Central Securities
+4605,Canada,Cronos Group
+4606,USA,Customers Bancorp
+4607,USA,Portillo's
+4608,USA,The Greenbrier Companies
+4609,Canada,SunOpta
+4610,USA,Jeld-Wen
+4611,USA,HireRight
+4612,Canada,Morguard
+4613,South Africa,Barloworld
+4614,USA,Waldencast
+4615,UK,ASOS
+4616,Italy,Juventus Turin
+4617,Germany,New Work
+4618,USA,LSB Industries
+4619,USA,Heritage Financial
+4620,USA,Opendoor
+4621,USA,MoneyGram
+4622,Switzerland,Global Blue Group
+4623,USA,First Watch Restaurant
+4624,Argentina,BBVA Argentina
+4625,Germany,NÃ¼rnberger Versicherung
+4626,Sweden,Modern Times Group (MTG)
+4627,Germany,flatexDEGIRO AG
+4628,USA,The First Bancshares
+4629,Bermuda,Argo Group
+4630,Spain,Applus Services
+4631,USA,Amerant Bancorp
+4632,New Zealand,Pushpay Holdings
+4633,China,Yatsen Holding
+4634,USA,U.S. Silica
+4635,Netherlands,TomTom
+4636,Thailand,Sri Trang Gloves
+4637,USA,Dream Finders Homes
+4638,USA,Steel Partners
+4639,USA,Schnitzer Steel
+4640,Austria,Sparkassen Immobilien
+4641,USA,BrightSpire Capital
+4642,Brazil,Inter & Co
+4643,UK,Amryt Pharma
+4644,New Zealand,Kiwi Property
+4645,USA,Overstock.com
+4646,S. Arabia,Alamar Foods Company
+4647,USA,WideOpenWest
+4648,USA,Sumo Logic
+4649,S. Korea,Jeju Air
+4650,Poland,Tauron Polska
+4651,USA,Innoviva
+4652,USA,Trinseo
+4653,India,Knr Constructions
+4654,France,Savencia Fromage & Dairy
+4655,Finland,Terveystalo
+4656,USA,Hibbett Sports
+4657,Germany,MYT Netherlands Parent (Mytheresa)
+4658,USA,Universal Logistics Holdings
+4659,USA,Green Dot
+4660,Canada,Osisko Mining
+4661,Netherlands,PostNL
+4662,Canada,Headwater Exploration
+4663,India,Karur Vysya Bank
+4664,UK,Membership Collective
+4665,USA,Select Energy Services
+4666,India,Finolex Cables
+4667,USA,i3 Verticals
+4668,USA,iHeartMedia
+4669,Canada,Imax Corp
+4670,Luxembourg,Adecoagro
+4671,Germany,Hypoport
+4672,Hong Kong,CGN Mining Company
+4673,USA,Century Aluminum
+4674,USA,Perella Weinberg Partners
+4675,India,Graphite India
+4676,Japan,Gree
+4677,USA,Cogent Biosciences
+4678,USA,Albireo Pharma
+4679,USA,A-Mark Precious Metals
+4680,USA,Veeco
+4681,USA,NRC Health
+4682,Germany,Patrizia Immobilien
+4683,USA,Novavax
+4684,USA,Cross Country Healthcare
+4685,USA,Banc of California
+4686,India,Galaxy Surfactants
+4687,USA,Columbus McKinnon
+4688,India,Jindal Worldwide
+4689,Taiwan,Gogoro
+4690,USA,AST SpaceMobile
+4691,Spain,Construcciones y Auxiliar de Ferrocarriles
+4692,Canada,Sprott Inc
+4693,India,Mahanagar Gas
+4694,USA,OrthoPediatrics
+4695,USA,SkyWest
+4696,USA,Inhibrx
+4697,Netherlands,Van Lanschot Kempen
+4698,Canada,Enerflex
+4699,USA,Matterport
+4700,USA,UFP Technologies
+4701,USA,RAPT Therapeutics
+4702,Brazil,Arco Platform
+4703,USA,National Healthcare
+4704,USA,AerSale
+4705,India,BSE
+4706,UK,Synthomer
+4707,USA,The Necessity Retail REIT
+4708,USA,Shentel
+4709,UK,Ferroglobe
+4710,Israel,Stratasys
+4711,Cambodia,Phnom Penh Water Supply Authority
+4712,Netherlands,Pharming Group
+4713,USA,Plymouth Industrial REIT
+4714,Argentina,IRSA Inversiones y Representaciones
+4715,USA,Rush Street Interactive
+4716,UK,Genius Sports
+4717,UK,Ceres Power
+4718,USA,Myers Industries
+4719,USA,Sana Biotechnology
+4720,Singapore,Singapore Post
+4721,Jersey,Yellow Cake plc
+4722,Canada,Recipe Unlimited
+4723,USA,IDEAYA Biosciences
+4724,USA,Apogee Enterprises
+4725,Netherlands,Allego
+4726,USA,Community Healthcare Trust
+4727,USA,Sterling Construction
+4728,USA,InnovAge
+4729,USA,Westrock Coffee
+4730,USA,ProAssurance
+4731,USA,CryoPort
+4732,USA,Arko
+4733,USA,Healthcare Services Group
+4734,USA,Open Lending
+4735,USA,MRC Global
+4736,Sweden,NCC
+4737,USA,Allogene Therapeutics
+4738,Austria,Palfinger
+4739,Indonesia,Astra Agro Lestari
+4740,USA,Mesa Laboratories
+4741,USA,Avid Bioservices
+4742,Canada,Li-Cycle
+4743,USA,Ichor Systems
+4744,USA,Douglas Dynamics
+4745,USA,BrightSphere Investment Group
+4746,USA,Winmark
+4747,USA,indie Semiconductor
+4748,USA,Westlake Chemical Partners
+4749,Chile,Geopark
+4750,Spain,(DIA) Distribuidora Internacional de AlimentaciÃ³n
+4751,USA,IonQ
+4752,USA,Astec Industries
+4753,USA,Chase Corporation
+4754,Norway,Norway Royal Salmon
+4755,USA,RCI Hospitality Holdings
+4756,USA,CRA International
+4757,Israel,Radware
+4758,India,NBCC India
+4759,USA,GoPro
+4760,USA,RPT Realty
+4761,USA,International Money Express
+4762,USA,Steelcase
+4763,S. Korea,Asiana Airlines
+4764,USA,Agenus
+4765,USA,Zuora
+4766,USA,Anywhere Real Estate
+4767,Israel,Riskified
+4768,USA,Provention Bio
+4769,USA,American Woodmark
+4770,Australia,ioneer
+4771,USA,Marathon Digital Holdings
+4772,USA,Beyond Meat
+4773,USA,LeMaitre Vascular
+4774,USA,Conduent
+4775,Bermuda,Kiniksa Pharmaceuticals
+4776,USA,American Axle & Manufacturing
+4777,China,Tianyu Digital Technology (Dalian)
+4778,USA,Benchmark Electronics
+4779,USA,TimkenSteel
+4780,Canada,Cardinal Energy
+4781,USA,Grid Dynamics
+4782,UK,Exscientia
+4783,S. Korea,Shinpoong Pharm
+4784,USA,PureTech Health
+4785,USA,Cerence
+4786,USA,Redwood Trust
+4787,USA,ViewRay
+4788,USA,PAR Technology
+4789,USA,W&T Offshore
+4790,USA,Alpha & Omega Semiconductor
+4791,USA,Arcutis Biotherapeutics
+4792,China,7Road
+4793,India,Cera Sanitaryware
+4794,USA,Bain Capital
+4795,Thailand,Bangkok Airways
+4796,USA,Janux Therapeutics
+4797,USA,Perdoceo Education
+4798,USA,AMERISAFE
+4799,USA,Cars.com
+4800,Canada,BELLUS Health
+4801,USA,Suburban Propane Partners
+4802,USA,ConnectOne Bancorp
+4803,USA,Forma Therapeutics
+4804,Singapore,Maxeon Solar Technologies
+4805,USA,Riot Blockchain
+4806,USA,LendingClub
+4807,USA,Biolife Solutions
+4808,France,Valneva SE
+4809,India,Multi Commodity Exchange
+4810,USA,Iovance Biotherapeutics
+4811,USA,Centerspace
+4812,USA,ImmunoGen
+4813,USA,Paymentus
+4814,India,Edelweiss Financial Services
+4815,USA,First Foundation
+4816,Germany,Mensch und Maschine
+4817,USA,Mission Produce
+4818,USA,Unitil Corporation
+4819,Canada,Africa Oil
+4820,India,Hinduja Global Solutions
+4821,Taiwan,Perfect Corp.
+4822,USA,Associated Capital Group
+4823,Netherlands,Sligro Food
+4824,USA,QCR Holdings
+4825,USA,Republic Bank
+4826,USA,Caleres
+4827,USA,DocGo
+4828,USA,Heska Corporation
+4829,India,Chalet Hotels
+4830,USA,Heritage-Crystal Clean
+4831,Australia,BrainChip
+4832,Bahamas,OneSpaWorld
+4833,USA,UMH Properties
+4834,USA,PROG Holdings
+4835,South Africa,Telkom SA
+4836,USA,B&G Foods
+4837,India,RITES
+4838,Canada,Transcontinental
+4839,USA,ARMOUR Residential REIT
+4840,USA,Premier Financial
+4841,USA,National Western Life
+4842,Switzerland,PolyPeptide Group
+4843,South Africa,Fortress REIT
+4844,China,Gaotu Techedu
+4845,USA,Fulgent Genetics
+4846,Japan,GungHo Online Entertainment
+4847,USA,Bally's Corporation
+4848,Canada,Teekay Tankers
+4849,Canada,SilverCrest Metals
+4850,China,Shen Zhen Shengxunda Technology (gamexun)
+4851,Hong Kong,Dah Sing Financial
+4852,USA,Forestar Group
+4853,Canada,Wesdome Gold Mines
+4854,Ireland,Amarin Corporation
+4855,USA,CBL Properties
+4856,India,Network18
+4857,India,BLS International
+4858,USA,Community Trust Bancorp
+4859,Finland,Aktia Bank
+4860,USA,QuinStreet
+4861,USA,LivePerson
+4862,Germany,DIC Asset
+4863,USA,Deluxe
+4864,India,Sterlite Technologies
+4865,Canada,Artis REIT
+4866,Argentina,edenor
+4867,India,Rashtriya Chemicals and Fertilizers
+4868,USA,Movado
+4869,India,SPARC
+4870,USA,SMART Global Holdings
+4871,USA,ScanSource
+4872,USA,Cadre
+4873,USA,Peoples Bancorp
+4874,Canada,Clairvest Group
+4875,USA,Global Industrial Company
+4876,UK,Jupiter Fund Management
+4877,Canada,Cymbria
+4878,Ireland,Dole PLC
+4879,USA,Grindr
+4880,USA,Kura Oncology
+4881,USA,Omega Flex
+4882,USA,"Sturm, Ruger & Co"
+4883,USA,Titan Machinery
+4884,USA,Verano Holdings
+4885,USA,Dril-Quip
+4886,USA,Crinetics Pharmaceuticals
+4887,India,Kalpataru Power Transmission
+4888,Brazil,GPA
+4889,UK,Marshalls plc
+4890,USA,Boston Omaha
+4891,USA,Hawkins
+4892,India,Indiabulls Housing Finance
+4893,Canada,Mercer International
+4894,USA,Simulations Plus
+4895,India,CEAT
+4896,Denmark,Zealand Pharma
+4897,Canada,Softchoice
+4898,USA,Coherus BioSciences
+4899,USA,Repay Holdings
+4900,Canada,Converge Technology Solutions
+4901,USA,AvePoint
+4902,USA,Yext
+4903,Finland,Ponsse
+4904,USA,Mirum Pharmaceuticals
+4905,USA,Ranger Oil
+4906,USA,BioXcel Therapeutics
+4907,Singapore,Pacific Century Regional Developments
+4908,USA,Bristow Group
+4909,Israel,Cellebrite
+4910,Finland,Tokmanni
+4911,USA,Allegiance Bancshares
+4912,USA,Varex Imaging
+4913,USA,Washington Trust Bancorp
+4914,USA,SLR Investment
+4915,UK,VTEX
+4916,China,Hangzhou Electronic Soul Network Technology
+4917,USA,Quanex Building Products
+4918,UK,Bicycle Therapeutics
+4919,USA,Office Properties Income Trust
+4920,USA,Taboola.com
+4921,India,Symphony Limited
+4922,USA,POINT Biopharma
+4923,USA,Anavex Life Sciences
+4924,USA,Ellington Financial
+4925,USA,REV Group
+4926,USA,Laredo Petroleum
+4927,USA,Standard Motor Products (SMP)
+4928,Canada,Interfor
+4929,Bermuda,James River Group
+4930,USA,Lyell Immunopharma
+4931,USA,Summit Hotel Properties
+4932,USA,Heritage Commerce
+4933,USA,Aehr Test Systems
+4934,USA,Altimmune
+4935,India,Prince Pipes And Fittings
+4936,USA,NextDecade Corp
+4937,India,JBM Auto
+4938,Ireland,Cimpress
+4939,India,Praj Industries
+4940,USA,IES Holdings
+4941,USA,Pitney Bowes
+4942,USA,CrossAmerica Partners
+4943,Taiwan,ChipMOS Technologies
+4944,Israel,Cellcom Israel
+4945,Argentina,Bioceres Crop Solutions
+4946,USA,Sharecare
+4947,Brazil,Azul
+4948,India,Borosil
+4949,India,Bombay Burmah
+4950,USA,Bank First
+4951,USA,Aspen Aerogels
+4952,Germany,Zeal Network
+4953,USA,Origin Materials
+4954,USA,Nextdoor
+4955,India,Ingersoll Rand India
+4956,Sweden,Stillfront Group
+4957,Norway,Kahoot!
+4958,Germany,DrÃ¤gerwerk
+4959,Monaco,Navios Maritime Partners
+4960,India,BEML
+4961,USA,Newegg
+4962,Finland,Olvi plc
+4963,USA,Accel Entertainment
+4964,USA,WisdomTree Investments
+4965,India,KSB ltd
+4966,Israel,WalkMe
+4967,India,Amber Enterprises India
+4968,USA,Hanmi Financial
+4969,Canada,Badger Infrastructure Solutions
+4970,Germany,Adler Real Estate
+4971,USA,Ambac
+4972,China,Shenzhen Zqgame
+4973,USA,TCG BDC
+4974,USA,Vacasa
+4975,Israel,Magic Software
+4976,USA,Qurate Retail Group
+4977,South Africa,DRDGOLD
+4978,Panama,Banco Latinoamericano de Comercio Exterior
+4979,USA,ANI Pharmaceuticals
+4980,USA,Univest
+4981,USA,MultiPlan
+4982,USA,NerdWallet
+4983,USA,Alabama Power
+4984,Brazil,Vitru
+4985,USA,CareDx
+4986,Cayman Islands,Theravance Biopharma
+4987,USA,Northfield Bancorp
+4988,UK,Team17
+4989,USA,Enfusion
+4990,USA,SunCoke Energy
+4991,Norway,Norwegian Air Shuttle
+4992,USA,United Fire Group
+4993,USA,The Vita Coco Company
+4994,USA,Advantage Solutions
+4995,USA,AMC Networks
+4996,S. Arabia,Al Moammar Information Systems
+4997,USA,Aerie Pharmaceuticals
+4998,USA,MarineMax
+4999,USA,BigCommerce
+5000,USA,ADMA Biologics
+5001,USA,Sleep Number
+5002,Canada,New Gold
+5003,USA,ATN International
+5004,USA,AnaptysBio
+5005,Brazil,Locaweb
+5006,Israel,Pagaya Technologies
+5007,USA,Ethan Allen
+5008,USA,Eventbrite
+5009,USA,loanDepot
+5010,Germany,CEWE
+5011,India,ESAB India
+5012,USA,iStar
+5013,USA,Protolabs
+5014,USA,SP Plus Corporation
+5015,USA,PubMatic
+5016,USA,HealthStream
+5017,USA,Expensify
+5018,Spain,Wallbox
+5019,India,Rain Industries
+5020,Singapore,Karooooo
+5021,China,iDreamSky
+5022,Hong Kong,Sunlight REIT
+5023,USA,Farmland Partners
+5024,USA,G-III Apparel Group
+5025,New Zealand,Property For Industry
+5026,USA,UB Properties
+5027,Poland,LiveChat Software
+5028,USA,Cano Health
+5029,USA,TrustCo Bank
+5030,USA,CTI BioPharma
+5031,Finland,Finnair
+5032,Germany,Indus Holding
+5033,Brazil,Via S.A.
+5034,USA,Old Second Bancorp
+5035,USA,BJ's Restaurants
+5036,USA,Hanger
+5037,USA,MBIA
+5038,USA,Slam Corp
+5039,S. Korea,Samyang Foods
+5040,Singapore,PropertyGuru
+5041,USA,Gorman-Rupp
+5042,India,Quess
+5043,USA,Bluelinx
+5044,Spain,Aedas Homes
+5045,USA,Alector
+5046,USA,Dorian LPG
+5047,USA,Skyward Specialty Insurance Group
+5048,Canada,Maverix Metals
+5049,USA,BrightView
+5050,USA,Global Medical REIT
+5051,USA,Universal Health Realty Income Trust
+5052,China,CMGE Technology Group
+5053,Netherlands,Merus
+5054,S. Korea,Jin Air
+5055,USA,Belite Bio
+5056,USA,4D Molecular Therapeutics
+5057,USA,Amalgamated Financial
+5058,Australia,G8 Education
+5059,S. Korea,YG Entertainment
+5060,USA,Tango Therapeutics
+5061,USA,IDT Corporation
+5062,India,Delta Corp
+5063,USA,TravelCenters of America
+5064,USA,CEVA
+5065,USA,Riley Permian
+5066,USA,Johnson Outdoors
+5067,USA,Forrester Research
+5068,Ireland,Navitas Semiconductor
+5069,UAE,Brooge Energy
+5070,USA,Eagle Bulk Shipping
+5071,India,MapmyIndia
+5072,India,Godawari Power & Ispat
+5073,USA,Seritage Growth Properties
+5074,USA,Shoe Carnival
+5075,USA,Kearny Financial
+5076,India,Orient Electric
+5077,USA,National Energy Services Reunited
+5078,India,Jubilant Pharmova
+5079,USA,HarborOne Bancorp
+5080,USA,Valhi
+5081,S. Korea,NHN Corp
+5082,Germany,VIB VermÃ¶gen
+5083,USA,Gladstone Land
+5084,Canada,Endeavour Silver
+5085,Singapore,Riverstone Holdings
+5086,UK,Boohoo Group
+5087,USA,Ducommun
+5088,USA,Denny's
+5089,USA,Anterix
+5090,USA,Lightwave Logic
+5091,USA,Orthofix Medical
+5092,Israel,Innoviz
+5093,USA,Rover
+5094,USA,Blink Charging
+5095,USA,Horizon Bancorp
+5096,China,Kaiser (China) Culture
+5097,USA,Thryv
+5098,India,Religare
+5099,USA,Viking Therapeutics
+5100,USA,American Vanguard
+5101,UK,ITM Power
+5102,USA,Seres Therapeutics
+5103,USA,Genco Shipping & Trading
+5104,USA,Hawaiian Airlines
+5105,Germany,Gateway Real Estate
+5106,USA,Barrett Business Services
+5107,USA,Haynes International
+5108,USA,Guild Mortgage
+5109,USA,iTeos Therapeutics
+5110,USA,Accolade
+5111,USA,OTC Markets Group
+5112,India,Mahindra Lifespaces
+5113,USA,MediaAlpha
+5114,USA,The Hackett Group
+5115,USA,Intercept Pharmaceuticals
+5116,USA,First Mid-Illinois Bancshares
+5117,USA,Allakos
+5118,USA,1-800-Flowers
+5119,USA,Amneal Pharmaceuticals
+5120,USA,i-80 Gold
+5121,Poland,Wirtualna Polska (WP Holding)
+5122,USA,Clear Channel Outdoor
+5123,USA,Digital World Acquisition
+5124,USA,Enhabit
+5125,Germany,Immatics
+5126,USA,TrueBlue
+5127,USA,Emergent BioSolutions
+5128,USA,Koppers
+5129,USA,Gladstone Commercial
+5130,USA,Redfin
+5131,USA,ChannelAdvisor
+5132,S. Korea,Neowiz Games
+5133,Turkey,QNB Finansleasing
+5134,USA,Cass Information Systems
+5135,USA,Berry Corporation
+5136,USA,Dynex Capital
+5137,USA,Metropolitan Bank Holding
+5138,USA,Health Catalyst
+5139,USA,Vital Farms
+5140,Canada,Algoma Steel
+5141,Canada,New Found Gold
+5142,S. Korea,DoubleUGames
+5143,UAE,Yalla Group
+5144,India,Gujarat Alkalies and Chemicals
+5145,USA,Triumph Group
+5146,USA,Snap One
+5147,USA,Kelly Services
+5148,USA,Kaman
+5149,Malaysia,Sunway
+5150,India,Sunteck Realty
+5151,Bermuda,Nordic American Tankers
+5152,India,MMTC
+5153,S. Korea,Com2uS
+5154,USA,bluebird bio
+5155,USA,Peapack-Gladstone Financial
+5156,USA,VSE Corporation
+5157,USA,INDUS Realty Trust
+5158,USA,RE/MAX Holdings
+5159,USA,Nano Dimension
+5160,USA,Faro Technologies
+5161,Germany,Norma Group
+5162,USA,York Water
+5163,USA,Zynex
+5164,Hong Kong,AMTD IDEA Group
+5165,Finland,YIT
+5166,USA,Oscar Health
+5167,USA,ACM Research
+5168,USA,Franklin Covey
+5169,USA,Interface
+5170,India,Mastek
+5171,USA,Allied Motion Technologies
+5172,Sweden,OrrÃ¶n Energy
+5173,USA,Vimeo
+5174,China,UP Fintech (Tiger Brokers)
+5175,France,Orpea
+5176,India,Reliance Power
+5177,USA,Cutera
+5178,Germany,Aurelius Group
+5179,USA,SandRidge Energy
+5180,USA,Hingham Institution for Savings
+5181,UK,Eurowag
+5182,New Zealand,Delegat
+5183,USA,Archer Aviation
+5184,Canada,Zymeworks
+5185,Australia,Novonix
+5186,Japan,COLOPL
+5187,USA,Ares Commercial Real Estate
+5188,USA,Stoneridge
+5189,Spain,TÃ©cnicas Reunidas
+5190,Romania,Electrica
+5191,India,Zensar
+5192,Germany,Morphosys
+5193,USA,Erasca
+5194,Poland,NEUCA
+5195,USA,Scholar Rock Holding
+5196,China,Shenzhen Bingchuan Network
+5197,India,sterling & wilson solar
+5198,USA,Chatham Lodging Trust
+5199,USA,Community Health Systems
+5200,USA,Transcat
+5201,USA,Camden National Bank
+5202,India,Gujarat Mineral Development
+5203,USA,Luther Burbank
+5204,USA,Aerovate Therapeutics
+5205,Norway,Opera
+5206,Canada,Standard Lithium
+5207,USA,Insteel Industries
+5208,China,LexinFintech Holdings
+5209,USA,Couchbase
+5210,USA,SIGA Technologies
+5211,Taiwan,Cathay Real Estate Development
+5212,USA,TPG Real Estate Finance Trust
+5213,China,I-Mab Biopharma
+5214,Brazil,Iguatemi
+5215,USA,Clearwater Paper
+5216,USA,Designer Brands
+5217,USA,SilverBow Resources
+5218,India,Hikal
+5219,India,Vaibhav Global
+5220,Canada,Silvercorp Metals
+5221,USA,Invitae
+5222,Germany,trivago
+5223,USA,Cambium Networks
+5224,Sweden,Cloetta
+5225,Malaysia,Hartalega
+5226,USA,Poseida Therapeutics
+5227,USA,Mersana Therapeutics
+5228,USA,Genesco
+5229,India,VRL Logistics
+5230,USA,Secureworks
+5231,USA,Clover Health Investments
+5232,USA,Ruth's Hospitality Group
+5233,USA,Kimball Electronics
+5234,Finland,Enento Group
+5235,India,Kirloskar Ferrous Industries
+5236,USA,Lindblad Expeditions
+5237,USA,Protagonist Therapeutics
+5238,USA,Bandwidth
+5239,USA,Sight Sciences
+5240,USA,Flushing Financial Corp
+5241,USA,TPI Composites
+5242,USA,Sangamo Therapeutics
+5243,USA,Cresco Labs
+5244,USA,Rackspace Technology
+5245,USA,Phibro Animal Health
+5246,USA,RGP
+5247,USA,Mullen Automotive
+5248,Finland,Anora Group
+5249,UK,Vertical Aerospace
+5250,USA,REX American Resources
+5251,USA,Virgin Orbit
+5252,USA,System1
+5253,USA,Babcock & Wilcox
+5254,Brazil,Americanas
+5255,USA,CION Investment
+5256,India,Polyplex
+5257,India,Schneider Electric Infrastructure
+5258,USA,Ardelyx
+5259,USA,NETGEAR
+5260,Israel,AudioCodes
+5261,USA,ZeroFox
+5262,India,PDS Multinational
+5263,Taiwan,Gorilla Technology
+5264,USA,Ebix
+5265,USA,Harsco
+5266,India,Infibeam Avenues
+5267,Australia,Boss Energy
+5268,India,Syrma SGS Technology
+5269,USA,Chuy's
+5270,USA,Cardiovascular Systems
+5271,India,Transport Corporation of India
+5272,USA,Arrow Financial
+5273,USA,Cerus
+5274,USA,Broadmark Realty Capital
+5275,USA,Mercantile Bank
+5276,USA,Capital City Bank Group
+5277,USA,SI-BONE
+5278,China,Agora.io
+5279,USA,Tiptree
+5280,USA,Bluegreen Vacations
+5281,Brazil,Vinci Partners
+5282,USA,First Financial
+5283,USA,Energy Vault
+5284,Denmark,Trustpilot Group
+5285,USA,CymaBay Therapeutics
+5286,USA,Playstudios
+5287,USA,Ranpak
+5288,USA,Hyliion
+5289,USA,Nurix Therapeutics
+5290,USA,Acco Brands
+5291,India,JSW Holdings
+5292,USA,Cara Therapeutics
+5293,India,Engineers India
+5294,India,Karnataka Bank
+5295,USA,Heidrick & Struggles
+5296,USA,Amyris
+5297,Canada,Absolute Software
+5298,USA,HBT Financial
+5299,USA,2U
+5300,USA,Bright Health
+5301,USA,Central Pacific Financial
+5302,USA,Editas Medicine
+5303,USA,Chico's
+5304,USA,Desktop Metal
+5305,Israel,Satixfy Communications
+5306,Indonesia,Tunas Ridean
+5307,Bermuda,Ardmore Shipping
+5308,USA,PennantPark Floating Rate
+5309,USA,SmartRent
+5310,USA,Havertys
+5311,India,FDC India
+5312,India,Varroc
+5313,USA,AlloVir
+5314,Canada,Lion Electric
+5315,Germany,Lilium
+5316,USA,Microvast
+5317,Germany,Simona
+5318,Brazil,Brasil Agro
+5319,USA,Nine Energy Service
+5320,USA,nLIGHT
+5321,Germany,ElringKlinger
+5322,USA,Senseonics Holdings
+5323,USA,AngioDynamics
+5324,Canada,Repare Therapeutics
+5325,USA,MetroCity Bankshares
+5326,USA,Bionano Genomics
+5327,USA,Vishay Precision Group
+5328,USA,Funko
+5329,India,Suprajit Engineering
+5330,USA,Artesian Resources
+5331,USA,DXP Enterprises
+5332,USA,Calavo Growers
+5333,Australia,Energy Resources of Australia
+5334,China,DouYu
+5335,USA,NuScale Power
+5336,India,Phillips Carbon Black
+5337,Poland,PlayWay
+5338,USA,Kura Sushi USA
+5339,USA,Diamond Hill Investment Group
+5340,Luxembourg,Procaps Group
+5341,Belgium,Materialise NV
+5342,Israel,B Communications
+5343,USA,MaxCyte
+5344,USA,Centrus Energy
+5345,Austria,PORR
+5346,USA,CIRCOR International
+5347,Canada,Sundial Growers
+5348,India,CSB Bank
+5349,USA,EverQuote
+5350,USA,Tejon Ranch
+5351,USA,Esperion Therapeutics
+5352,China,Sohu.com
+5353,USA,Inogen
+5354,USA,Sorrento Therapeutics
+5355,India,Safari Industries India
+5356,USA,HomeStreet Bank
+5357,Sweden,Calliditas Therapeutics
+5358,USA,Nuvation Bio
+5359,USA,Liquidity Services
+5360,USA,Oil States International
+5361,Canada,Obsidian Energy
+5362,Israel,Tremor International
+5363,USA,Viad
+5364,USA,Arcturus Therapeutics
+5365,USA,Equity BancShares
+5366,India,Ramkrishna Forgings
+5367,USA,FRP Holdings
+5368,USA,Bank of Marin Bancorp
+5369,Canada,Taseko Mines
+5370,USA,Big Lots
+5371,USA,Purple Innovation
+5372,USA,Sprague Resources LP
+5373,USA,Argan
+5374,USA,Fate Therapeutics
+5375,USA,Vertex Energy
+5376,India,HEG
+5377,USA,Hyster-Yale Materials Handling
+5378,USA,AVEO Oncology
+5379,India,Mishra Dhatu Nigam
+5380,USA,MidWestOne Financial Group
+5381,USA,Amprius Technologies
+5382,India,Heidelbergcement India
+5383,USA,Consolidated Communications
+5384,Canada,Patriot Battery Metals
+5385,USA,Whitestone REIT
+5386,Switzerland,Zur Rose Group
+5387,USA,Ribbon Communications
+5388,USA,8x8
+5389,USA,Artivion
+5390,USA,Stitch Fix
+5391,Switzerland,Garrett Motion
+5392,USA,5E Advanced Materials
+5393,USA,Runway Growth Finance
+5394,Israel,Valens Semiconductor
+5395,USA,SurModics
+5396,USA,Alta Equipment Group
+5397,USA,MasterCraft Boat
+5398,UK,Silence Therapeutics
+5399,Australia,Mesoblast
+5400,India,Aarti Drugs
+5401,USA,Brookdale Senior Living
+5402,Netherlands,Azerion Group
+5403,USA,HilleVax
+5404,Greece,Tsakos Energy Navigation
+5405,USA,OneSpan
+5406,USA,National Presto Industries
+5407,USA,CNB Financial Corp
+5408,China,Canaan
+5409,USA,Tetra Technologies
+5410,USA,Value Line
+5411,USA,Veru
+5412,USA,Design Therapeutics
+5413,USA,Vaalco Energy
+5414,USA,One Liberty Properties
+5415,China,TH International (Tims China)
+5416,USA,American Software
+5417,USA,Entravision Communications
+5418,USA,Orion Office REIT
+5419,USA,CareMax
+5420,USA,Benson Hill
+5421,Ireland,GH Research
+5422,USA,America's Car-Mart
+5423,Taiwan,Bafang Yunji
+5424,USA,Oppenheimer Holdings
+5425,Canada,ECN Capital
+5426,USA,Eagle Point Credit Company
+5427,UK,AO World
+5428,Canada,Skeena Resources
+5429,Indonesia,Ace Hardware Indonesia
+5430,USA,Donegal Group
+5431,India,Spandana Sphoorty Financial
+5432,S. Korea,Wemade
+5433,India,Olectra Greentech
+5434,New Zealand,Synlait Milk
+5435,India,Tata Coffee
+5436,USA,Hudson Technologies
+5437,USA,World Acceptance Corporation
+5438,USA,TuSimple
+5439,USA,Gevo
+5440,India,South Indian Bank
+5441,Canada,TerrAscend
+5442,India,Greenpanel Industries
+5443,India,Reliance Infrastructure
+5444,USA,Covenant Logistics
+5445,USA,EZCorp
+5446,USA,DoubleDown Interactive
+5447,USA,CECO Environmental
+5448,USA,Hyzon Motors
+5449,USA,Akouos
+5450,USA,Domo
+5451,Israel,RADA Electronic Industries
+5452,USA,The RMR Group
+5453,India,Greenlam Industries
+5454,Cyprus,Mail.ru Group
+5455,USA,Bridgewater Bancshares
+5456,USA,Quanterix
+5457,USA,89bio
+5458,USA,Blue Bird Corporation
+5459,USA,Marcus Corporation
+5460,India,Nazara Technologies
+5461,USA,Butterfly Network
+5462,China,Qingci Games
+5463,USA,Evolus
+5464,Germany,Borussia Dortmund
+5465,USA,Seneca Foods
+5466,Singapore,IGG Inc
+5467,USA,Bar Harbor Bankshares
+5468,Switzerland,VectivBio
+5469,USA,Solid Power
+5470,Finland,Rovio Entertainment
+5471,Argentina,Grupo Supervielle
+5472,USA,ContextLogic (wish.com)
+5473,Canada,Telesat
+5474,China,Baozun
+5475,Luxembourg,Magnachip
+5476,USA,The Children's Place
+5477,USA,Zumiez
+5478,USA,OneWater Marine
+5479,USA,IBEX
+5480,Singapore,Wave Life Sciences
+5481,USA,Inovio Pharmaceuticals
+5482,USA,Nektar Therapeutics
+5483,USA,NanoString Technologies
+5484,USA,Five Star Bancorp
+5485,USA,Alerus Financial
+5486,China,GuangZhou Wahlap Technology
+5487,USA,Smith & Wesson
+5488,USA,Apollo Endosurgery
+5489,S. Korea,Pearl Abyss
+5490,India,Gateway Distriparks
+5491,USA,Kezar Life Sciences
+5492,USA,Marine Products Corporation
+5493,USA,SmartFinancial (SmartBank)
+5494,India,Action Construction Equipment
+5495,USA,Canoo
+5496,USA,Powell Industries
+5497,USA,Olympic Steel
+5498,Switzerland,MoonLake Immunotherapeutics
+5499,USA,Greene County Bancorp
+5500,USA,Beazer Homes USA
+5501,Canada,Teekay
+5502,India,Anant Raj
+5503,USA,Newpark Resources
+5504,USA,Gladstone Investment
+5505,Iceland,Icelandair
+5506,USA,Civeo
+5507,USA,Biglari
+5508,USA,Anika Therapeutics
+5509,India,The Tinplate Company Of India
+5510,Israel,Ituran
+5511,India,IFB Industries
+5512,USA,Sutro Biopharma
+5513,Canada,Fission Uranium
+5514,Israel,Nano-X Imaging
+5515,India,Indoco Remedies
+5516,USA,Axogen
+5517,USA,Arbutus Biopharma
+5518,Israel,Similarweb
+5519,USA,Mitek Systems
+5520,S. Korea,Webzen
+5521,New Zealand,Restaurant Brands New Zealand
+5522,USA,Carriage Services
+5523,USA,Lexicon Pharmaceuticals
+5524,USA,Newtek
+5525,USA,Latham Group
+5526,USA,Southern Missouri Bancorp
+5527,UK,Avacta Group
+5528,USA,Aaron's
+5529,India,Barbeque Nation Hospitality
+5530,USA,Tutor Perini
+5531,Malaysia,Dutch Lady Milk Industries
+5532,USA,Enterprise Bancorp
+5533,USA,Orchid Island Capital
+5534,USA,Destination XL
+5535,Japan,OPTiM
+5536,Estonia,Tallink Grupp
+5537,India,West Coast Paper Mills
+5538,USA,Bel Fuse
+5539,USA,GAMCO Investors
+5540,USA,Vanda Pharmaceuticals
+5541,USA,NGM Biopharmaceuticals
+5542,USA,Kodiak Sciences
+5543,USA,Intrepid Potash
+5544,India,Paisalo Digital
+5545,USA,Atlanticus
+5546,USA,Entrada Therapeutics
+5547,USA,Trinity Capital
+5548,USA,Microvision
+5549,USA,Preformed Line Products
+5550,USA,Bed Bath & Beyond
+5551,USA,Rayonier Advanced Materials
+5552,USA,Huuuge
+5553,USA,ShotSpotter
+5554,UK,Luxfer
+5555,China,Archosaur Games
+5556,USA,fuboTV
+5557,Canada,New Pacific Metals
+5558,USA,Reservoir Media
+5559,India,National Fertilizers
+5560,India,JTEKT India
+5561,India,Mahindra Logistics
+5562,USA,Harrow Health
+5563,USA,Dynamic Materials Corporation
+5564,USA,Vigil Neuroscience
+5565,Ireland,Avadel Pharmaceuticals
+5566,USA,Guaranty Bancshares
+5567,India,MOIL
+5568,USA,ON24
+5569,USA,Great Lakes Dredge & Dock Corp.
+5570,USA,Eagle Pharmaceuticals
+5571,USA,Cyxtera Technologies
+5572,USA,Ring Energy
+5573,Australia,Deep Yellow
+5574,USA,Computer Programs and Systems
+5575,USA,FutureFuel
+5576,USA,Argonaut Gold
+5577,Taiwan,Gamania Digital
+5578,USA,Precigen
+5579,USA,C4 Therapeutics
+5580,USA,Silvergate Capital
+5581,China,NIU
+5582,USA,Digimarc
+5583,USA,Xperi
+5584,USA,Voyager Therapeutics
+5585,USA,Liquidia Technologies
+5586,Canada,Largo
+5587,USA,Omega Therapeutics
+5588,India,Chennai Petroleum
+5589,USA,Ramaco Resources
+5590,Finland,Marimekko
+5591,USA,Codexis
+5592,Hong Kong,Giordano
+5593,USA,The Manitowoc Company
+5594,USA,Aura Biosciences
+5595,USA,Atea Pharmaceuticals
+5596,India,Sify
+5597,USA,Akoya Biosciences
+5598,USA,SkyWater Technology
+5599,Monaco,Eneti
+5600,USA,ALX Oncology
+5601,France,McPhy Energy
+5602,UK,COMPASS Pathways
+5603,USA,El Pollo Loco
+5604,USA,2seventy bio
+5605,USA,Transcontinental Realty Investors
+5606,USA,Daily Journal
+5607,UK,Arrival
+5608,India,Jindal Poly Films
+5609,USA,LoveSac
+5610,Jordan,International General Insurance
+5611,USA,RBB Bancorp
+5612,USA,1-800-PetMeds
+5613,USA,Professional Holding
+5614,China,GreenTree Hospitality
+5615,Indonesia,Bank Mayapada Internasional
+5616,India,Vesuvius India
+5617,India,Dish TV
+5618,USA,DZS Inc
+5619,USA,Alpine Immune Sciences
+5620,Germany,Jumia
+5621,USA,Tredegar
+5622,India,AGC Networks
+5623,Hong Kong,Global Cord Blood
+5624,USA,PennantPark Investment
+5625,Cambodia,Phnom Penh Autonomous Port
+5626,Cayman Islands,Global Indemnity
+5627,USA,CPI Card Group
+5628,India,Surya Roshni
+5629,USA,CapStar Financial
+5630,India,Power Mech Projects
+5631,UK,Avon Protection
+5632,India,Tata Steel Long Products
+5633,Argentina,Despegar
+5634,USA,American National Bank & Trust Company
+5635,USA,NexPoint Real Estate Finance
+5636,USA,Velo3D
+5637,Germany,Hawesko
+5638,USA,iRadimed
+5639,USA,CS Disco
+5640,USA,Blend Labs
+5641,India,India Tourism Development Corp
+5642,India,Kewal Kiran Clothing
+5643,Germany,PREOS Real Estate
+5644,India,Astec Lifesciences
+5645,Austria,Ottakringer GetrÃ¤nke
+5646,Hong Kong,Regencell Bioscience
+5647,Switzerland,ADC Therapeutics
+5648,USA,Tarsus Pharmaceuticals
+5649,Japan,Bushiroad
+5650,USA,Turning Point Brands
+5651,USA,Vor Biopharma
+5652,USA,Stoke Therapeutics
+5653,India,Automotive Axles
+5654,USA,BRT Apartments
+5655,USA,374Water
+5656,USA,CarParts.com
+5657,USA,HomeTrust Bancshares
+5658,USA,Mammoth Energy Services
+5659,USA,Braemar Hotels & Resorts
+5660,Sweden,Bahnhof AB
+5661,USA,Foghorn Therapeutics
+5662,USA,Wheels Up
+5663,Hong Kong,Hong Kong Ferry
+5664,UK,Selina Hospitality
+5665,UK,Autolus Therapeutics
+5666,USA,SciPlay
+5667,India,Hathway
+5668,USA,RxSight
+5669,USA,NVE Corporation
+5670,China,Sichuan Xunyou Network Technology
+5671,USA,Aviat Networks
+5672,USA,Gladstone Capital
+5673,USA,SeaSpine
+5674,S. Korea,Tâway Air
+5675,Monaco,Safe Bulkers
+5676,USA,Build-A-Bear
+5677,USA,Traeger
+5678,USA,Macatawa Bank
+5679,USA,LendingTree
+5680,USA,Sportsman's Warehouse
+5681,USA,Rimini Street
+5682,USA,ESS Tech
+5683,USA,Hippo
+5684,USA,HCI Group
+5685,USA,Rain Therapeutics
+5686,USA,PepGen
+5687,USA,Financial Institutions
+5688,USA,Monte Rosa Therapeutics
+5689,USA,Aldeyra Therapeutics
+5690,Japan,Sun Corp
+5691,India,TCNS Clothing
+5692,USA,Heron Therapeutics
+5693,USA,PMV Pharmaceuticals
+5694,Canada,Gold Royalty Corp
+5695,Greece,GasLog Partners
+5696,USA,Red River Bancshares
+5697,USA,Hersha Hospitality Trust
+5698,China,Burning Rock Biotech
+5699,USA,Citizens & Northern Corp
+5700,USA,Gatos Silver
+5701,USA,Civista Bancshares
+5702,USA,Unisys
+5703,Italy,Digital Bros
+5704,India,Hindustan Construction Company
+5705,India,Shriram Pistons & Rings
+5706,India,Kaveri Seed
+5707,UK,The Restaurant Group plc
+5708,USA,Clarus
+5709,USA,Northwest Pipe Company
+5710,USA,Postal Realty Trust
+5711,USA,Shore Bancshares
+5712,USA,ReneSola
+5713,USA,Astronics Corporation
+5714,USA,Allbirds
+5715,USA,OraSure Technologies
+5716,USA,LSI Industries
+5717,USA,Sanara MedTech
+5718,USA,Comtech Telecommunications
+5719,Canada,North American Construction Group
+5720,USA,Farmers & Merchants Bancorp
+5721,USA,Karyopharm Therapeutics
+5722,Canada,Meta Materials
+5723,Canada,City Office REIT
+5724,USA,Adicet Bio
+5725,Canada,Tucows
+5726,India,Strides Pharma
+5727,India,JCI Hitachi India
+5728,USA,Southern First Bancshares
+5729,Canada,Arizona Metals
+5730,India,Mirza International
+5731,USA,Satellogic
+5732,USA,Ooma
+5733,India,Nilkamal
+5734,UK,Centessa Pharmaceuticals
+5735,USA,Inspired Entertainment
+5736,USA,Weave Communications
+5737,USA,Belpointe OZ
+5738,Israel,Gilat Telecom
+5739,USA,Arlo Technologies
+5740,Canada,Corby Spirit and Wine
+5741,USA,Quotient Technology
+5742,USA,Phathom Pharmaceuticals
+5743,USA,Telos
+5744,USA,Vicarious Surgical
+5745,USA,Torrid
+5746,USA,Priority Technology Holdings
+5747,USA,Penseco Financial Services
+5748,USA,Atara Biotherapeutics
+5749,USA,Aeva Technologies
+5750,China,Hailiang Education
+5751,Hong Kong,Regal Hotels International
+5752,USA,Black Rifle Coffee (BRC)
+5753,USA,NL Industries
+5754,India,Inox Wind
+5755,Poland,Arctic Paper
+5756,USA,Outlook Therapeutics
+5757,USA,Gannett
+5758,USA,Village Super Market
+5759,USA,Forge Global
+5760,Canada,Marathon Gold
+5761,Brazil,Vasta Platform
+5762,India,HBL Power Systems
+5763,India,Orient Cement
+5764,USA,The Original BARK Company
+5765,USA,Amplify Energy
+5766,USA,Organogenesis
+5767,USA,AFC Gamma
+5768,USA,MeiraGTx
+5769,UK,Arqit Quantum
+5770,USA,Loop Media
+5771,USA,Concert Pharmaceuticals
+5772,Canada,McEwen Mining
+5773,USA,Skillsoft
+5774,Japan,Happinet
+5775,Canada,Aurora Cannabis
+5776,USA,Home Bancorp
+5777,Canada,Gran Tierra Energy
+5778,Bermuda,Maiden Holdings
+5779,USA,Pulmonx
+5780,Canada,Pizza Pizza
+5781,USA,Workhorse Group
+5782,India,PTC India
+5783,USA,PetIQ
+5784,USA,Rani Therapeutics
+5785,USA,Miller Industries
+5786,USA,American Battery Technology Company
+5787,USA,The Pennant Group
+5788,USA,American Realty Investors
+5789,USA,First Bancorp
+5790,India,Cosmo Films
+5791,Finland,Remedy Entertainment
+5792,USA,Utah Medical Products
+5793,USA,CVRx
+5794,USA,Red Violet
+5795,India,Marksans Pharma
+5796,USA,Annexon
+5797,USA,Seer
+5798,USA,Summit Financial Group
+5799,USA,ACNB Corporation
+5800,USA,Velocity Financial
+5801,India,Gabriel India
+5802,USA,Granite Point Mortgage Trust
+5803,USA,Sierra Bancorp
+5804,India,Sudarshan Chemical
+5805,USA,Northeast Bank
+5806,USA,Saratoga Investment
+5807,USA,Franklin Street Properties
+5808,USA,Hallador Energy Company
+5809,USA,Columbia Care
+5810,Taiwan,Soft-World International
+5811,Israel,Silicom
+5812,USA,Vuzix
+5813,USA,G1 Therapeutics
+5814,USA,Cue Health
+5815,Israel,Alpha Tau Medical
+5816,Cayman Islands,Greenlight Reinsurance
+5817,USA,NextNav
+5818,France,Focus Entertainment
+5819,USA,WhiteHorse Finance
+5820,USA,Richardson Electronics
+5821,USA,OptimizeRx
+5822,India,Voltamp Transformers
+5823,USA,Aadi Bioscience
+5824,USA,ASA Gold and Precious Metals
+5825,Poland,11 bit studios
+5826,Japan,Marvelous
+5827,USA,eGain
+5828,USA,Casa Systems
+5829,Greece,Diana Shipping
+5830,India,Siyaram Silk Mills
+5831,Israel,NeoGames
+5832,S. Korea,Gravity Co.
+5833,USA,Weight Watchers
+5834,USA,Sterling Bancorp
+5835,Malaysia,MBM Resources
+5836,Canada,OrganiGram Holdings
+5837,USA,Skillz
+5838,Canada,Hut 8 Mining
+5839,Italy,Aeroporto G. Marconi Bologna
+5840,USA,Green Plains Partners
+5841,USA,Northrim BanCorp
+5842,USA,Regional Management
+5843,Japan,Kyokuyo
+5844,USA,BCB Bancorp
+5845,USA,Quantum-Si
+5846,Cyprus,Qiwi
+5847,USA,Ocular Therapeutix
+5848,USA,Trean Insurance Group
+5849,France,DBV Technologies
+5850,Canada,enCore Energy
+5851,UK,Adaptimmune Therapeutics
+5852,USA,Rigel Pharmaceuticals
+5853,Malta,Media and Games Invest
+5854,Netherlands,Pharvaris
+5855,USA,Rubicon Technologies
+5856,China,Zengame Technology
+5857,India,Astra Microwave
+5858,USA,Full House Resorts
+5859,USA,Karat Packaging
+5860,USA,BigBear.ai
+5861,USA,Investors Title Company
+5862,USA,Generation Bio
+5863,USA,Holley
+5864,India,Ashoka Buildcon
+5865,USA,Luna Innovations
+5866,France,Innate Pharma
+5867,USA,Bakhu Holdings
+5868,USA,Overseas Shipholding Group
+5869,USA,First Business Financial Services
+5870,USA,PDS Biotechnology
+5871,USA,Oyster Point Pharma
+5872,USA,Faraday Future
+5873,USA,Viemed Healthcare
+5874,Germany,Atai Life Sciences
+5875,USA,Hovnanian Enterprises
+5876,USA,Clipper Realty
+5877,Canada,Western Copper and Gold
+5878,USA,Forum Energy Technologies
+5879,Mexico,Betterware de Mexico
+5880,S. Korea,Air Busan
+5881,USA,F45 Training
+5882,Canada,Tidewater Renewables
+5883,India,Jaypee Group
+5884,USA,Cerberus Cyber Sentinel
+5885,India,eMudhra
+5886,USA,Cabaletta Bio
+5887,USA,PCSB Financial
+5888,USA,Devolver Digital
+5889,USA,Zevia
+5890,Canada,Nouveau Monde Graphite
+5891,China,FriendTimes
+5892,USA,Prelude Therapeutics
+5893,China,OneConnect
+5894,USA,Noodles & Company
+5895,Israel,Arbe Robotics
+5896,USA,Eastman Kodak Company
+5897,India,Ethos Watches
+5898,USA,Park Aerospace
+5899,USA,Ocugen
+5900,UK,LumiraDx
+5901,USA,GrowGeneration
+5902,USA,Sonder Holdings
+5903,USA,Ranger Energy Services
+5904,USA,Unity Bancorp
+5905,Singapore,Grindrod Shipping
+5906,China,Qudian
+5907,USA,Genie Energy
+5908,USA,Kinnate Biopharma
+5909,USA,NI Holdings
+5910,India,India Glycols
+5911,Japan,SRA Holdings
+5912,USA,Gritstone bio
+5913,USA,The Honest Company
+5914,India,Arvind
+5915,USA,MVB Financial
+5916,USA,Ur Energy
+5917,India,Honda Siel Power Products
+5918,USA,Lands' End
+5919,USA,908 Devices
+5920,USA,AirSculpt Technologies
+5921,USA,NACCO Industries
+5922,USA,Chicago Atlantic Real Estate Finance
+5923,India,Accelya
+5924,USA,AMMO
+5925,USA,Timberland Bancorp
+5926,USA,HireQuest
+5927,Canada,PolyMet
+5928,USA,Focus Universal
+5929,USA,Kaltura
+5930,China,Fire Rock
+5931,USA,Transphorm
+5932,USA,Cipher Mining
+5933,India,SpiceJet
+5934,Poland,People Can Fly
+5935,India,Rupa Company
+5936,USA,SmileDirectClub
+5937,India,Prime Focus
+5938,India,Electrosteel Castings
+5939,USA,Upland Software
+5940,India,Confidence Petroleum
+5941,USA,Nkarta
+5942,USA,Daseke
+5943,USA,Semler Scientific
+5944,USA,TrueCar
+5945,USA,Stellus Capital
+5946,India,Sequent Scientific
+5947,USA,Motorcar Parts of America
+5948,UK,Babylon Holdings
+5949,USA,Markforged
+5950,USA,Performant Financial
+5951,India,Somany Ceramics
+5952,USA,The Joint Corp.
+5953,Jersey,Caledonia Mining
+5954,USA,Tactile Medical
+5955,USA,Orange County Bancorp
+5956,USA,Dakota Gold
+5957,USA,Absci
+5958,USA,Kimball International
+5959,USA,The Container Store
+5960,India,MSTC Limited
+5961,USA,Blade Air Mobility
+5962,India,Hyderabad Industries Limited
+5963,Austria,Addiko Bank
+5964,USA,Lordstown Motors
+5965,India,RattanIndia Power
+5966,India,Cantabil Retail India
+5967,USA,Terran Orbital
+5968,UK,Frontier Developments
+5969,USA,LiveVox
+5970,India,Neuland Laboratories
+5971,USA,Solo Brands
+5972,USA,DHI Group
+5973,USA,Groupon
+5974,USA,Pangaea Logistics Solutions
+5975,USA,Innovid
+5976,USA,Landsea Homes
+5977,Canada,HIVE Blockchain Technologies
+5978,Thailand,Asiasoft
+5979,USA,Alpine Income Property Trust
+5980,India,Puravankara
+5981,USA,Acrivon Therapeutics
+5982,USA,Tillys
+5983,USA,Landec
+5984,USA,Orrstown Financial Services
+5985,USA,SEACOR Marine
+5986,USA,Actinium Pharmaceuticals
+5987,USA,Selecta Biosciences
+5988,India,NACL Industries
+5989,USA,Lineage Cell Therapeutics
+5990,China,Homeland Interactive Technology
+5991,Israel,Cognyte Software
+5992,USA,Humacyte
+5993,USA,Central Valley Community Bancorp
+5994,USA,First Western Financial
+5995,USA,Rent the Runway
+5996,USA,XOMA
+5997,USA,Ocwen
+5998,USA,Nautilus Biotechnology
+5999,USA,Willdan Group
+6000,India,Azure Power
+6001,China,GigaCloud Technology
+6002,Sweden,Enad Global 7
+6003,USA,Acumen Pharmaceuticals
+6004,USA,Backblaze
+6005,South Africa,Lesaka Technologies
+6006,USA,BayCom (United Business Bank)
+6007,USA,Vaxxinity
+6008,Canada,Uranium Royalty
+6009,France,Nacon
+6010,USA,Third Coast Bancshares
+6011,USA,Radiant Logistics
+6012,India,VA Tech Wabag
+6013,India,Subros
+6014,USA,Nerdy
+6015,USA,First Guaranty Bancshares
+6016,India,MM Forgings
+6017,Peru,Aenza
+6018,USA,Fathom Digital Manufacturing
+6019,USA,J.Jill
+6020,USA,Oil-Dri Corporation Of America
+6021,India,Force Motors
+6022,India,Jain Irrigation Systems
+6023,Australia,Opthea
+6024,India,Gulf Oil Lubricants
+6025,USA,LianBio
+6026,India,Filatex India
+6027,Austria,Fabasoft
+6028,USA,Weyco Group
+6029,USA,Information Services Group
+6030,USA,Parke Bancorp
+6031,Canada,TransGlobe Energy
+6032,India,Sundaram Finance
+6033,India,Jagran Prakashan
+6034,India,Time Technoplast
+6035,China,Yiren Digital
+6036,USA,Brightcove
+6037,USA,Commercial Vehicle Group (CVG)
+6038,USA,Veritone
+6039,Poland,Ten Square Games
+6040,Canada,IsoEnergy
+6041,USA,Ponce Financial Group
+6042,USA,Urban One
+6043,USA,Bank7
+6044,USA,SKYX Platforms
+6045,USA,Immersion Corporation
+6046,USA,Southern States Bancshares
+6047,Switzerland,Molecular Partners
+6048,USA,Marinus Pharmaceuticals
+6049,India,Apollo Pipes
+6050,Netherlands,ProQR
+6051,USA,Zomedica Pharmaceuticals
+6052,India,Hindustan Sanitaryware & Industries
+6053,USA,tinyBuild
+6054,Hong Kong,Troops
+6055,India,Gati
+6056,USA,Emerald Holding
+6057,USA,Voxx International
+6058,USA,Alto Ingredients
+6059,USA,Conn's
+6060,USA,Atlas Technical Consultants
+6061,USA,KalVista Pharmaceuticals
+6062,USA,Invivyd
+6063,India,Vst Tillers Tractors
+6064,USA,American Public Education
+6065,USA,Porch Group
+6066,USA,SWK Holdings
+6067,Australia,Appen
+6068,Sweden,Nordic Paper
+6069,USA,Velodyne Lidar
+6070,USA,SoundHound AI
+6071,Canada,Vizsla Silver
+6072,USA,The ONE Group Hospitality
+6073,USA,Homepoint
+6074,USA,Century Casinos
+6075,Russia,Cian
+6076,USA,ZimVie
+6077,France,Eurobio Scientific
+6078,USA,Pure Cycle (water)
+6079,India,Vadilal Industries
+6080,India,CARE's Ratings
+6081,USA,First Internet Bancorp
+6082,India,Sanghi Industries
+6083,India,Texmaco Rail & Engineering
+6084,USA,ORIC Pharmaceuticals
+6085,USA,Limoneira
+6086,Canada,EMX Royalty
+6087,Canada,Bitfarms
+6088,USA,Bankwell Financial Group
+6089,South Africa,Absa Bank
+6090,USA,22nd Century Group
+6091,USA,Aveanna Healthcare
+6092,USA,Hooker Furniture
+6093,Italy,GEOX
+6094,USA,1stdibs.Com
+6095,USA,RGC Resources
+6096,USA,Eargo
+6097,Cayman Islands,Consolidated Water
+6098,USA,AXT Inc
+6099,Japan,Akatsuki Inc
+6100,USA,Quad
+6101,USA,Rallybio
+6102,USA,Greenhill
+6103,Israel,Kamada
+6104,USA,Rocky Brands
+6105,India,Vidhi Specialty Food
+6106,USA,Territorial Bancorp
+6107,USA,Codorus Valley Bancorp
+6108,USA,Community Financial Corporation
+6109,USA,CompX International
+6110,USA,Big 5 Sporting Goods
+6111,Japan,Maruzen
+6112,USA,BlackSky Technology
+6113,Canada,TMC the metals company
+6114,Israel,Caesarstone
+6115,USA,Ouster
+6116,Japan,Bank of Innovation
+6117,USA,Accuray
+6118,India,Alembic Limited
+6119,India,Greenply
+6120,USA,HF Foods Group
+6121,India,Gallantt Ispat
+6122,USA,Gossamer Bio
+6123,USA,Matrix Service
+6124,USA,Planet13
+6125,USA,Genius Brands
+6126,USA,Limestone Bancorp
+6127,USA,Ames National Corp.
+6128,USA,Portman Ridge
+6129,USA,Plumas Bancorp
+6130,USA,Danimer Scientific
+6131,India,Hindustan Oil Exploration Company
+6132,USA,TELA Bio
+6133,USA,Evans Bancorp
+6134,UK,Cazoo
+6135,USA,Middlefield Banc
+6136,USA,Western New England Bancorp
+6137,USA,scPharmaceuticals
+6138,Japan,"PLAID,Inc."
+6139,China,Kandi Technologies Group
+6140,Austria,UBM Development
+6141,USA,Akoustis Technologies
+6142,USA,Cato Fashion
+6143,USA,The Beachbody Company
+6144,USA,ESSA Bancorp
+6145,USA,Duluth Holdings
+6146,India,Tide Water Oil
+6147,USA,Investar Holding
+6148,USA,Perpetua Resources
+6149,Japan,FuRyu
+6150,USA,Ashford Hospitality Trust
+6151,Israel,Ellomay Capital
+6152,USA,Cooper Standard
+6153,Hong Kong,Prenetics
+6154,USA,Fiesta Restaurant Group
+6155,USA,Savara Pharmaceuticals
+6156,USA,Y-mAbs Therapeutics
+6157,USA,MainStreet Bancshares
+6158,USA,LCNB
+6159,USA,Inotiv
+6160,India,Federal-Mogul Goetze
+6161,Australia,Incannex Healthcare
+6162,Canada,VersaBank
+6163,India,Shalby
+6164,USA,AN2 Therapeutics
+6165,USA,Potbelly Corporation
+6166,Japan,gumi
+6167,USA,Beyond Air
+6168,Switzerland,AC Immune
+6169,USA,INNOVATE Corp.
+6170,India,Tamil Nadu Newsprint and Papers Limited
+6171,India,Lumax Industries
+6172,Australia,Bannerman Energy
+6173,USA,Tupperware Brands
+6174,USA,AgileThought
+6175,USA,NGL Energy Partners
+6176,USA,Assertio Therapeutics
+6177,USA,Vintage Wine Estates
+6178,USA,Applied Blockchain
+6179,USA,KVH Industries
+6180,USA,AppHarvest
+6181,USA,C&F Financial Corporation
+6182,USA,Jakks Pacific
+6183,Switzerland,SOPHiA GENETICS
+6184,USA,Quipt Home Medical
+6185,USA,OptiNose
+6186,China,China Automotive Systems
+6187,USA,InfuSystem
+6188,Sweden,Rottneros
+6189,Sweden,Tethys Oil
+6190,USA,WM Technology
+6191,USA,Verrica Pharmaceuticals
+6192,USA,Oportun Financial
+6193,USA,Asure Software
+6194,Canada,Kingsway Financial Services
+6195,USA,Alpine Summit Energy Partners
+6196,USA,UroGen Pharma
+6197,USA,KLX Energy Services
+6198,USA,Thorne HealthTech
+6199,India,MPS Limited
+6200,Finland,Kamux
+6201,India,Mahanagar Telephone Nigam
+6202,USA,Great Ajax
+6203,USA,Rite Aid
+6204,USA,California BanCorp
+6205,USA,ThredUp
+6206,India,I.g. Petrochemicals
+6207,USA,PlayAGS
+6208,India,Kingfa Science & Technology
+6209,USA,Hill International
+6210,USA,Penns Woods Bancorp
+6211,Canada,ReconAfrica
+6212,USA,Cepton
+6213,USA,Virginia National Bankshares
+6214,USA,Alaunos Therapeutics
+6215,USA,Nature's Sunshine Products
+6216,USA,Identiv
+6217,USA,Biodesix
+6218,USA,Angel Oak REIT
+6219,India,Dhampur Sugar Mills
+6220,USA,Alico
+6221,USA,KemPharm
+6222,Brazil,MÃ©liuz
+6223,USA,Cadiz
+6224,China,So-Young International
+6225,USA,CSI Compressco
+6226,USA,CytomX Therapeutics
+6227,USA,Acacia Research
+6228,USA,Avita Medical
+6229,India,Indian Metals & Ferro Alloys
+6230,India,Ashiana Housing
+6231,Canada,D-Wave Quantum
+6232,USA,Battalion Oil
+6233,USA,Vera Therapeutics
+6234,USA,a.k.a. Brands
+6235,USA,FingerMotion
+6236,USA,Summit Midstream
+6237,India,GTPL Hathway
+6238,India,Nelco
+6239,USA,CalAmp
+6240,India,Wendt India
+6241,UK,AFC Energy
+6242,USA,CleanSpark
+6243,USA,Whole Earth Brands
+6244,China,BAIOO Family Interactive
+6245,USA,Salisbury Bancorp
+6246,India,GTL Infrastructure
+6247,India,Southern Petrochemical Industries Corp
+6248,USA,Peoples Bancorp of North Carolina
+6249,India,Aptech
+6250,India,Cigniti Technologies
+6251,USA,LL Flooring
+6252,USA,CURO Group
+6253,India,Hester Biosciences
+6254,France,Olympique Lyonnais Groupe
+6255,USA,Cormedix
+6256,India,Sandhar
+6257,India,Huhtamaki India
+6258,India,Indorama Synthetics
+6259,USA,Park-Ohio Holdings
+6260,Japan,UNITED
+6261,USA,Hurco Companies
+6262,Australia,Immutep
+6263,India,Shankara Building
+6264,Japan,Drecom
+6265,Hong Kong,Digital Domain
+6266,USA,Silvercrest Asset Management Group
+6267,India,INEOS Styrolution
+6268,Israel,Ceragon Networks
+6269,USA,Remark Holdings
+6270,USA,Doma
+6271,USA,eHealth
+6272,USA,Third Harmonic Bio
+6273,India,Repco Home Finance
+6274,USA,Stratus Properties
+6275,USA,Spire Global
+6276,USA,Offerpad
+6277,India,RPG Life Sciences
+6278,France,Cellectis
+6279,India,KCP Limited
+6280,Canada,Andrew Peller
+6281,India,Excel Industries
+6282,USA,Oxford Square Capital
+6283,USA,GreenLight Biosciences
+6284,USA,Intevac
+6285,USA,Liberty TripAdvisor Holdings
+6286,Japan,AlphaPolis
+6287,USA,Xeris Pharmaceuticals
+6288,Israel,InterCure
+6289,Canada,Westport Fuel Systems
+6290,USA,Sunlight Financial
+6291,USA,Pear Therapeutics
+6292,USA,Arteris
+6293,USA,Atomera
+6294,USA,Lifetime Brands
+6295,USA,EyePoint Pharmaceuticals
+6296,USA,Berkeley Lights
+6297,USA,William Penn Bancorp
+6298,India,Wheels India
+6299,Germany,Affimed
+6300,Australia,PlaySide Studios
+6301,India,Oriental Aromatics
+6302,USA,Bassett Furniture
+6303,USA,"View, Inc."
+6304,USA,Redwire
+6305,Canada,Platinum Group Metals
+6306,Sweden,G5 Entertainment
+6307,USA,StarTek
+6308,USA,Vera Bradley
+6309,USA,Riverview Bancorp
+6310,USA,Olema Pharmaceuticals
+6311,USA,Praxis Precision Medicines
+6312,USA,Ovid Therapeutics
+6313,India,Sasken Technologies
+6314,UK,Real Good Food plc
+6315,USA,Paysign
+6316,USA,XOS
+6317,USA,Cardlytics
+6318,USA,Unifi
+6319,USA,BG Staffing
+6320,Canada,Alithya Group
+6321,China,Nam Tai Property
+6322,Ireland,ADS-TEC Energy
+6323,Taiwan,Softstar Entertainment
+6324,Canada,E INC (E Automotive)
+6325,USA,XL Fleet
+6326,USA,Hawthorn Bancshares
+6327,USA,Quantum
+6328,Germany,Mister Spex
+6329,USA,Citius Pharmaceuticals
+6330,USA,BioAtla
+6331,USA,Spok Holdings
+6332,USA,Astra Space
+6333,USA,Merrimack Pharmaceuticals
+6334,USA,Smith Micro Software
+6335,USA,Kopin Corporation
+6336,USA,Bakkt Holdings
+6337,USA,Frequency Therapeutics
+6338,Israel,RADCOM
+6339,USA,Escalade Sports
+6340,Indonesia,Nusantara Pelabuhan Handal
+6341,USA,Gencor Industries
+6342,Turkey,Ä°Åbir Holding
+6343,USA,Partners Bancorp
+6344,USA,GlycoMimetics
+6345,USA,AdTheorent
+6346,USA,Lantronix
+6347,USA,JOANN
+6348,USA,RumbleON
+6349,India,Yatra
+6350,USA,Vinco Ventures
+6351,India,Omaxe
+6352,India,Igarashi Motors India
+6353,USA,AgroFresh
+6354,USA,Glatfelter
+6355,Poland,Pkp Cargo
+6356,USA,Republic First Bancorp
+6357,India,Foseco India
+6358,USA,Richmond Mutual Bancorporation
+6359,France,Sequans Communications
+6360,Malaysia,Kossan Rubber Industries
+6361,Japan,Serverworks
+6362,USA,Anixa Biosciences
+6363,India,Kuantum Papers
+6364,USA,Aemetis
+6365,India,Rane Holdings
+6366,USA,Vaxart
+6367,India,Kitex Garments
+6368,USA,Buzzfeed
+6369,USA,Sachem Capital
+6370,USA,The Arena Group
+6371,USA,ARC Document Solutions
+6372,USA,First Northwest Bancorp
+6373,USA,ProPhase Labs
+6374,USA,Precision BioSciences
+6375,USA,SelectQuote
+6376,USA,KULR Technology
+6377,China,Gracell Biotechnologies
+6378,USA,MISTRAS Group
+6379,USA,Singular Genomics Systems
+6380,Taiwan,X-Legend Entertainment
+6381,India,Skipper Limited
+6382,USA,Celularity
+6383,USA,Kronos Bio
+6384,India,Rico Auto Industries
+6385,USA,Iteris
+6386,China,Xunlei
+6387,USA,BBX Capital Corporation
+6388,USA,ECB Bancorp
+6389,USA,The RealReal
+6390,USA,Diebold Nixdorf
+6391,USA,X4 Pharmaceuticals
+6392,USA,Turtle Beach Corp
+6393,USA,Daktronics
+6394,USA,Athira Pharma
+6395,Canada,PyroGenesis Canada
+6396,India,Prakash Industries
+6397,USA,Vroom
+6398,USA,DermTech
+6399,Belgium,Nyxoah
+6400,USA,Pulse Biosciences
+6401,India,Geojit Financial Services
+6402,USA,ShiftPixy
+6403,India,SML Isuzu
+6404,Ireland,kneat.com
+6405,India,Parag Milk Foods
+6406,USA,Taysha Gene Therapies
+6407,USA,VBI Vaccines
+6408,USA,Benessere Capital Acquisition
+6409,Canada,Northern Dynasty Minerals
+6410,USA,MariMed
+6411,USA,Twin Disc
+6412,USA,Asensus Surgical
+6413,USA,Yellow Corporation
+6414,USA,XBiotech
+6415,India,Sterling Tools
+6416,USA,AG Mortgage Investment Trust
+6417,Canada,Zentek
+6418,USA,Red Robin
+6419,USA,Oconee Federal Financial
+6420,Australia,Peninsula Energy
+6421,Canada,Village Farms International
+6422,USA,Hanover Bancorp
+6423,USA,Cenntro Electric Group
+6424,USA,Lazydays Holdings
+6425,Greece,Euroseas
+6426,USA,MICT
+6427,USA,Hycroft Mining
+6428,USA,Eos Energy Enterprises
+6429,USA,Malvern Bancorp
+6430,USA,Superior Industries International
+6431,Japan,KLab
+6432,Taiwan,Chinese Gamer International
+6433,USA,Townsquare Media
+6434,Canada,Milestone Pharmaceuticals
+6435,USA,Latch
+6436,China,Jianzhi Education Technology Group
+6437,USA,BankFinancial
+6438,USA,Paratek Pharmaceuticals
+6439,Malaysia,Starbox Group
+6440,Canada,Americas Gold and Silver Corp
+6441,USA,Tabula Rasa HealthCare
+6442,UK,Knights Group
+6443,Norway,Pexip
+6444,USA,Heliogen
+6445,India,PTC Financial Services
+6446,USA,Solid Biosciences
+6447,USA,Provident Bancorp
+6448,Germany,KAP AG
+6449,Cayman Islands,O2Micro
+6450,Malaysia,Supermax Corporation Berhad
+6451,USA,PLBY Group (Playboy)
+6452,USA,Comscore
+6453,Israel,Allot
+6454,USA,Sesen Bio
+6455,USA,TeraWulf
+6456,India,Capacit'e Infraprojects
+6457,USA,Akebia Therapeutics
+6458,USA,Verastem Oncology
+6459,India,Nucleus Software Exports
+6460,USA,L.B. Foster
+6461,USA,The Oncology Institute
+6462,China,Yunji
+6463,USA,Martin Midstream Partners
+6464,Poland,Creepy Jar
+6465,UK,Naked Wines
+6466,USA,Cel-Sci
+6467,Canada,Electra Meccanica
+6468,Luxembourg,Altisource Portfolio
+6469,India,Mangalore Chemicals and Fertilizers
+6470,USA,Pardes Biosciences
+6471,USA,Fonar Corporation
+6472,USA,Ohio Valley Banc Corp
+6473,India,Srikalahasthi Pipes
+6474,USA,Relmada Therapeutics
+6475,USA,RVL Pharmaceuticals
+6476,USA,Citizens Inc
+6477,USA,Inseego
+6478,USA,Mind Medicine
+6479,India,Anup Engineering
+6480,Canada,Loop Industries
+6481,USA,Spectrum Pharmaceuticals
+6482,USA,MediciNova
+6483,USA,Tattooed Chef
+6484,India,Coffee Day Enterprises
+6485,USA,Matinas BioPharma
+6486,USA,Sonendo
+6487,USA,FaZe Clan
+6488,USA,Old Point Financial
+6489,USA,Sema4
+6490,USA,Sarcos Technology and Robotics
+6491,USA,Talkspace
+6492,USA,Local Bounti
+6493,Thailand,Nok Air
+6494,USA,KORE
+6495,USA,USD Partners
+6496,India,Bodal Chemicals
+6497,Canada,Tanzanian Gold Corporation
+6498,Japan,Aiming Inc
+6499,USA,Immuneering
+6500,USA,Graphite Bio
+6501,Belgium,MDxHealth
+6502,Taiwan,Userjoy Technology
+6503,Germany,InflaRx
+6504,USA,Ideanomics
+6505,USA,Volta
+6506,USA,Broadwind
+6507,USA,FinWise Bancorp
+6508,USA,Akili
+6509,USA,Pixelworks
+6510,India,Quick Heal
+6511,Australia,Aura Energy
+6512,India,GE Power India
+6513,India,Navkar Corp
+6514,India,Orient Paper Mills
+6515,Sweden,Bergs Timber
+6516,USA,Rigetti Computing
+6517,USA,U.S. Xpress Enterprises
+6518,USA,Westwood Holdings Group
+6519,Sweden,Starbreeze
+6520,USA,Pieris Pharmaceuticals
+6521,USA,Societal CDMO
+6522,Brazil,Allied Tecnologia
+6523,USA,Fluent
+6524,USA,Barnes & Noble Education
+6525,USA,Capricor Therapeutics
+6526,China,Infinities Tech (Jiu Zun Digital)
+6527,USA,Lee Enterprises
+6528,USA,Union Bankshares
+6529,Israel,REE Automotive
+6530,India,India Motor Parts and Accessories
+6531,USA,Lulu's Fashion Lounge
+6532,USA,Phunware
+6533,Canada,Sylogist
+6534,USA,Rekor Systems
+6535,USA,Carrols Restaurant Group
+6536,USA,American Resources Corp
+6537,USA,Nuvectis Pharma
+6538,Denmark,Parken Sport (F.C. Copenhagen)
+6539,Canada,Sangoma Technologies
+6540,USA,Atossa Therapeutics
+6541,Indonesia,Pollux Properti Indonesia
+6542,USA,Dave Inc.
+6543,Canada,High Tide
+6544,USA,Lakeland Industries
+6545,India,India Nippon Electricals
+6546,Poland,CI Games
+6547,Japan,Ateam
+6548,USA,Graham Corporation
+6549,USA,Lument Finance Trust
+6550,India,Mangalam Cement
+6551,USA,Wag! Group
+6552,USA,Provident Financial Holdings
+6553,Greece,Seanergy Maritime
+6554,China,Kaixin Auto
+6555,Canada,Titan Medical
+6556,USA,Spero Therapeutics
+6557,USA,Grove Collaborative
+6558,USA,Sonida Senior Living
+6559,UK,Mallinckrodt Pharmaceuticals
+6560,China,CBAK Energy
+6561,USA,Park City Group
+6562,USA,Ellington Residential Mortgage REIT
+6563,Germany,Sono
+6564,USA,Dare Bioscience
+6565,USA,Instil Bio
+6566,USA,AEye
+6567,Australia,Iris Energy
+6568,USA,Advent Technologies
+6569,USA,Momentus
+6570,Australia,Alligator Energy
+6571,USA,Harte Hanks
+6572,USA,Cytosorbents
+6573,USA,Reading International
+6574,India,Kokuyo Camlin
+6575,USA,Farmer Brothers
+6576,Portugal,Sport Lisboa e Benfica
+6577,USA,Embark Technology
+6578,USA,Seelos Therapeutics
+6579,Japan,Kayak Inc
+6580,Canada,Oncolytics Biotech
+6581,USA,Bit Digital
+6582,Germany,Mynaric
+6583,China,Viomi Technology
+6584,USA,Smart Sand
+6585,USA,Syros Pharmaceuticals
+6586,Japan,Nihon Falcom
+6587,USA,Flotek Industries
+6588,Germany,Mainz Biomed
+6589,India,Himatsingka Seide
+6590,USA,Fortress Biotech
+6591,China,Scienjoy
+6592,USA,PEDEVCO
+6593,USA,NRx Pharmaceuticals
+6594,USA,Hour Loop
+6595,USA,Clearside Biomedical
+6596,Japan,Gala Incorporated
+6597,India,Apex Frozen Foods
+6598,USA,PowerFleet
+6599,Canada,Avino Silver & Gold Mines
+6600,USA,Flexsteel Industries
+6601,Taiwan,MacroWell OMG Digital Entertainment
+6602,Sweden,Thunderful Group
+6603,USA,orion-group-holdings
+6604,USA,Lifeway Foods
+6605,USA,Wrap Technologies
+6606,France,Don't Nod Entertainment
+6607,USA,Vince Holding
+6608,USA,Stabilis Solutions
+6609,USA,Co-Diagnostics
+6610,Israel,Compugen
+6611,Poland,Bloober Team
+6612,India,Bliss GVS Pharma
+6613,Canada,Akumin
+6614,USA,"NN, Inc."
+6615,USA,Apyx Medical
+6616,USA,Delta Apparel
+6617,Malaysia,AirAsia
+6618,USA,ATI Physical Therapy
+6619,Canada,Velan
+6620,USA,Modiv
+6621,USA,Lyra Therapeutics
+6622,USA,Mesa Air
+6623,Japan,CAVE Interactive
+6624,Canada,Trilogy Metals
+6625,USA,NeoVolta
+6626,USA,Viracta Therapeutics
+6627,USA,Ayr Wellness
+6628,USA,Bird Global
+6629,Canada,Bragg Gaming Group
+6630,USA,ACRES Commercial Realty
+6631,Japan,CROOZ
+6632,India,Jay Bharat Maruti
+6633,Japan,Akatsuki Corp.
+6634,USA,BeyondSpring
+6635,India,3i Infotech
+6636,USA,Senti Biosciences
+6637,USA,Charlotte's Web
+6638,UK,GAN
+6639,Australia,Elevate Uranium
+6640,USA,Quicklogic
+6641,Israel,Protalix BioTherapeutics
+6642,USA,LMP Automotive Holdings
+6643,India,Ebixcash India
+6644,China,WeTrade Group
+6645,USA,Armata Pharmaceuticals
+6646,Australia,Superior Resources
+6647,USA,KINS Technology Group
+6648,USA,Gaia
+6649,USA,Gulf Island Fabrication
+6650,USA,Aterian
+6651,Sweden,BjÃ¶rn Borg
+6652,China,Nano Labs
+6653,Canada,Laramide Resources
+6654,USA,Longeveron
+6655,Japan,Yuke's
+6656,France,ATARI
+6657,USA,Vista Gold
+6658,UK,Orchard Therapeutics
+6659,USA,Sunworks
+6660,Canada,Achieve Life Sciences
+6661,USA,Hydrofarm
+6662,UK,NuCana
+6663,USA,Sotherly Hotels
+6664,India,Asian Granito India
+6665,India,Reliance Communications
+6666,USA,Tonix Pharmaceuticals
+6667,USA,Root Insurance
+6668,USA,Express
+6669,Canada,Forsys Metals
+6670,Italy,S.S. Lazio
+6671,USA,Enzo Biochem
+6672,USA,Synlogic
+6673,Canada,GreenPower Motor Company
+6674,USA,Xilio Therapeutics
+6675,China,Feiyu Technology International Company
+6676,India,Radio City
+6677,Japan,Broccoli
+6678,China,Cheetah Mobile
+6679,USA,Accelerate Diagnostics
+6680,India,Spencer's Retail
+6681,Japan,geechs
+6682,USA,Hepion Pharmaceuticals
+6683,USA,eMagin
+6684,USA,Curis
+6685,UK,Argo Blockchain
+6686,USA,Regis Corporation
+6687,USA,Synchronoss
+6688,USA,Energous
+6689,USA,Owlet
+6690,USA,Genprex
+6691,India,Rane Brake Lining
+6692,UK,Venator Materials
+6693,UK,Tiziana Life Sciences
+6694,UK,Wejo Group
+6695,USA,Immunic
+6696,USA,Adverum Biotechnologies
+6697,USA,AquaBounty
+6698,USA,Galectin Therapeutics
+6699,Japan,Imagineer
+6700,Denmark,IO Biotech
+6701,USA,aTyr Pharma
+6702,USA,Enochian Biosciences
+6703,USA,Culp
+6704,USA,Manhattan Bridge Capital
+6705,USA,vTv Therapeutics
+6706,USA,Retractable Technologies
+6707,Canada,Aptose Biosciences
+6708,USA,United Insurance Holdings
+6709,USA,Great Elm Capital
+6710,USA,Spruce Biosciences
+6711,Indonesia,Indonesia Energy
+6712,USA,Orion Energy Systems
+6713,USA,Lightning eMotors
+6714,Canada,Mogo
+6715,USA,Jounce Therapeutics
+6716,Sweden,MAG Interactive
+6717,China,Snail Inc
+6718,Canada,DIRTT Environmental Solutions
+6719,Japan,Aeria
+6720,USA,Red Cat Holdings
+6721,Canada,HEXO
+6722,Taiwan,Gamesparcs
+6723,USA,Know Labs
+6724,USA,the Marygold Companies
+6725,USA,Logan Ridge Finance
+6726,Canada,Mega Uranium
+6727,USA,SCYNEXIS
+6728,USA,MGO Global
+6729,China,Sino-Entertainment Technology
+6730,India,Nectar Lifesciences
+6731,USA,Unity Biotechnology
+6732,USA,Surface Oncology
+6733,USA,Geospace Technologies
+6734,USA,NCS Multistage
+6735,Portugal,Sporting Clube de Portugal
+6736,USA,Lantern Pharma
+6737,USA,BioLargo
+6738,Canada,Neovasc
+6739,USA,FreightCar America
+6740,Canada,Xebec Adsorption
+6741,USA,Heritage Insurance
+6742,USA,Sellas Life Sciences
+6743,Taiwan,Wayi International Digital Entertainment
+6744,USA,OncoCyte
+6745,USA,Leap Therapeutics
+6746,Cambodia,Pestech Cambodia
+6747,USA,Atlis Motor Vehicles
+6748,India,Unitech Group
+6749,USA,Polished.com
+6750,Canada,East Side Games
+6751,USA,Rapid Micro Biosystems
+6752,USA,Elevate Credit
+6753,Canada,PopReach
+6754,USA,ASP Isotopes
+6755,USA,Nautilus
+6756,UK,Petropavlovsk
+6757,USA,Augmedix
+6758,Australia,iCandy Interactive
+6759,USA,Adamas One
+6760,USA,PAVmed
+6761,USA,Koss
+6762,USA,VirTra
+6763,USA,Allied Esports
+6764,India,Hinduja Ventures
+6765,Israel,ReWalk Robotics
+6766,Japan,Mobile Factory
+6767,USA,Aquestive Therapeutics
+6768,India,Balaji Telefilms
+6769,USA,BrainStorm Cell Therapeutics
+6770,USA,TScan Therapeutics
+6771,USA,AeroClean Technologies
+6772,China,Renren
+6773,USA,Vapotherm
+6774,USA,Golden Minerals
+6775,USA,Rafael Holdings
+6776,Greece,Imperial Petroleum
+6777,USA,Talaris Therapeutics
+6778,USA,TherapeuticsMD
+6779,China,Addentax Group
+6780,USA,Lucid Diagnostics
+6781,USA,Westwater Resources
+6782,USA,Intellicheck
+6783,India,Hindustan Media Ventures
+6784,USA,Lipocine
+6785,USA,Advanced Emissions Solutions
+6786,India,N.B.I. Industrial Finance
+6787,USA,The Glimpse Group
+6788,USA,Horizon Global
+6789,Denmark,5th Planet Games
+6790,USA,Kaival Brands Innovations
+6791,USA,Greenidge Generation Holdings
+6792,USA,Natural Health Trends
+6793,USA,Ascent Solar Technologies
+6794,USA,UpHealth
+6795,USA,Comstock Mining
+6796,USA,TESSCO Technologies
+6797,Japan,coly
+6798,Japan,enish
+6799,USA,Coya Therapeutics
+6800,Poland,Big Cheese Studio
+6801,USA,AppTech Payments
+6802,USA,Abeona Therapeutics
+6803,USA,Ashford Inc
+6804,USA,Science 37
+6805,USA,Audacy
+6806,USA,Castellum
+6807,USA,EMCORE Corporation
+6808,Australia,Investigator Resources
+6809,USA,Journey Medical
+6810,USA,BitNile
+6811,USA,Kirkland's
+6812,Japan,Nippon Ichi Software
+6813,USA,Atlas Lithium
+6814,Monaco,Navios Maritime Holdings
+6815,Hong Kong,Graphex Group
+6816,USA,MAIA Biotechnology
+6817,USA,IronNet
+6818,China,Ourgame International
+6819,USA,Solitario Zinc
+6820,Canada,Cielo Waste Solutions
+6821,UK,Okyo Pharma
+6822,China,SOS Limited
+6823,Japan,Tose Software
+6824,USA,Inuvo
+6825,USA,U.S. Gold Corp
+6826,China,ATA Creativity Global
+6827,Turkey,Cimbeton
+6828,USA,Corvus Pharmaceuticals
+6829,Cambodia,Phnom Penh SEZ
+6830,Hong Kong,Magic Empire Global (Giraffe Capital)
+6831,Turkey,SÃ¶ktas Tekstil
+6832,USA,Ocean Power Technologies
+6833,USA,LightPath Technologies
+6834,USA,Isoray
+6835,USA,IZEA Worldwide
+6836,USA,Biomerica
+6837,Ireland,Trinity Biotech
+6838,USA,SPI Energy
+6839,USA,Blue Apron Holdings
+6840,India,MEP Infrastructure
+6841,Poland,BoomBit
+6842,USA,Party City
+6843,USA,Palatin Technologies
+6844,USA,Capstone Green Energy
+6845,USA,AVROBIO
+6846,Japan,CyberStep
+6847,USA,Cryo-Cell
+6848,Bahamas,Nymox Pharmaceutical
+6849,USA,BioSig Technologies
+6850,Canada,Silver One Resources
+6851,USA,Team Inc
+6852,USA,Zion Oil & Gas
+6853,China,Boyaa Interactive
+6854,USA,Biora Therapeutics
+6855,Israel,Foresight Autonomous Holdings
+6856,USA,Houston American Energy
+6857,USA,Shift Technologies
+6858,USA,AgEagle Aerial Systems
+6859,Sweden,Zordix
+6860,Japan,Appirits
+6861,Cambodia,Grand Twins International Cambodia
+6862,USA,Satsuma Pharmaceuticals
+6863,USA,Monopar Therapeutics
+6864,Canada,IMV
+6865,USA,HeartBeam
+6866,USA,Solar Integrated Roofing
+6867,USA,Rave Restaurant Group
+6868,USA,Salem Media Group
+6869,USA,Alkaline Water Company
+6870,USA,RealNetworks
+6871,USA,Aptinyx
+6872,USA,CorpHousing Group
+6873,USA,Lumos Pharma
+6874,Sweden,Fragbite Group
+6875,USA,CorEnergy Infrastructure Trust
+6876,USA,Camber Energy
+6877,Canada,Almaden Minerals
+6878,Poland,Forever Entertainment
+6879,Australia,Toro Energy
+6880,USA,Stryve Foods
+6881,USA,VistaGen Therapeutics
+6882,USA,Sio Gene Therapies
+6883,China,The9
+6884,Canada,Sierra Metals
+6885,China,BIT Mining (500.com)
+6886,UAE,Swvl Holdings
+6887,Australia,Bionomics
+6888,USA,Document Security Systems
+6889,Canada,Acasti Pharma
+6890,USA,Vaccinex
+6891,China,ZK International Group
+6892,USA,Kala Pharmaceuticals
+6893,Malaysia,Treasure Global
+6894,Portugal,Sporting Clube de Braga
+6895,USA,Avalon GloboCare
+6896,USA,AIM ImmunoTech
+6897,USA,PaxMedica
+6898,USA,Beasley Broadcast Group
+6899,China,Erayak Power Solution
+6900,USA,Revlon
+6901,USA,ToughBuilt Industries
+6902,Japan,TENDA
+6903,USA,Psychemedics
+6904,USA,Athenex
+6905,Finland,Nexstim
+6906,Canada,Sphere 3D
+6907,Ireland,Endo International
+6908,USA,Shapeways
+6909,USA,Microbot Medical
+6910,USA,Pioneer Power Solutions
+6911,USA,Quince Therapeutics
+6912,USA,AgeX Therapeutics
+6913,USA,Zynerba Pharmaceuticals
+6914,USA,Trinity Place Holdings
+6915,USA,Phoenix Motor
+6916,USA,Harpoon Therapeutics
+6917,UK,Rockley Photonics
+6918,Japan,Mobcast
+6919,USA,Boxlight
+6920,Japan,NJ Holdings
+6921,China,FingerTango
+6922,Singapore,Society Pass
+6923,Portugal,FC Porto
+6924,Japan,AltPlus
+6925,USA,Cyclerion Therapeutics
+6926,India,Zee Learn
+6927,USA,Laser Photonics
+6928,USA,Lannett Company
+6929,USA,Biofrontera
+6930,USA,Rubius Therapeutics
+6931,USA,Core Scientific
+6932,Taiwan,Fun Yours Technology
+6933,USA,NantHealth
+6934,Canada,DAVIDsTEA
+6935,USA,SigmaTron International
+6936,India,Future Retail
+6937,USA,Aprea Therapeutics
+6938,USA,Mobile Global Esports (Mogo)
+6939,USA,SeaChange
+6940,Japan,Axel Mark
+6941,USA,Vislink Technologies
+6942,USA,Regulus Therapeutics
+6943,China,Onion Global
+6944,Israel,Rail Vision
+6945,USA,Cyngn
+6946,USA,Hempacco
+6947,USA,Avaya Holdings
+6948,USA,Sientra
+6949,USA,Sidus Space
+6950,USA,Eterna Therapeutics
+6951,USA,Dolphin Entertainment
+6952,Japan,Mynet
+6953,USA,Conformis
+6954,Cayman Islands,Stealth BioTherapeutics
+6955,USA,FGI Industries
+6956,Japan,Edia
+6957,USA,Bellerophon Therapeutics
+6958,USA,Ekso Bionics
+6959,USA,American Virtual Cloud
+6960,Singapore,Triterras
+6961,USA,Vincerx Pharma
+6962,Japan,Silicon Studio
+6963,USA,Sonim Technologies
+6964,USA,Rockwell Medical
+6965,USA,Applied DNA Sciences
+6966,USA,Polar Power
+6967,USA,electroCore
+6968,USA,Athersys
+6969,USA,AcelRx Pharmaceuticals
+6970,Canada,Orosur Mining
+6971,USA,Humanigen
+6972,Germany,Spark Networks
+6973,Poland,All in! Games
+6974,USA,Verb Technology
+6975,USA,Stronghold Digital Mining
+6976,Taiwan,Astro Corporation
+6977,USA,cbdMD
+6978,USA,Astrotech
+6979,USA,Acorda Therapeutics
+6980,USA,India Globalization Capital
+6981,USA,Soligenix
+6982,Japan,WonderPlanet
+6983,Israel,Galmed Pharmaceuticals
+6984,USA,Carver Bancorp
+6985,India,Srei Infrastructure Finance
+6986,USA,Super League Gaming
+6987,Poland,Ultimate Games
+6988,Australia,Genetic Technologies
+6989,USA,Waitr Holdings
+6990,Hong Kong,Aptorum Group
+6991,Taiwan,Netmarble Joybomb
+6992,USA,SG Blocks
+6993,USA,Air Industries Group
+6994,USA,Aeterna Zentaris
+6995,USA,Onconova Therapeutics
+6996,USA,Kingstone Companies
+6997,USA,Lipella Pharmaceuticals
+6998,USA,Tempest Therapeutics
+6999,USA,Corbus Pharmaceuticals
+7000,UK,ADVFN
+7001,USA,Forza X1
+7002,Israel,Redhill Biopharma
+7003,USA,Marpai
+7004,USA,Marin Software
+7005,Poland,Artifex Mundi
+7006,Poland,Games Operators
+7007,USA,CarLotz
+7008,USA,Precipio
+7009,USA,Cocrystal Pharma
+7010,USA,HyreCar
+7011,USA,Socket Mobile
+7012,USA,Wheeler Real Estate Investment Trust
+7013,China,Missfresh
+7014,USA,Trust Stamp
+7015,Germany,Compleo Charging Solutions
+7016,USA,NanoViricides
+7017,China,Digital Hollywood Interactive
+7018,Finland,Nitro Games
+7019,USA,Organovo
+7020,USA,OLB Group
+7021,USA,Oragenics
+7022,Denmark,Trophy Games
+7023,Australia,Aurora Energy Metals
+7024,USA,Pulmatrix
+7025,USA,SOBR Safe
+7026,Japan,Voltage
+7027,USA,VYNE Therapeutics
+7028,USA,Drive Shack
+7029,Israel,Can Fite Biopharma
+7030,USA,Ontrak
+7031,USA,PREIT
+7032,USA,Yield10 Bioscience
+7033,USA,Digital Ally
+7034,Taiwan,InterServ International
+7035,USA,T2 Biosystems
+7036,Ireland,Iterum Therapeutics
+7037,USA,iSpecimen
+7038,Taiwan,GigaMedia
+7039,USA,Expion360
+7040,USA,Jaguar Health
+7041,Israel,Inspira Technologies
+7042,USA,Austin Gold
+7043,USA,Trevena
+7044,USA,Celsion Corporation
+7045,USA,bioAffinity Technologies
+7046,USA,180 Life Sciences
+7047,USA,Aileron Therapeutics
+7048,USA,Agrify
+7049,Greece,Top Ships
+7050,China,Forgame
+7051,USA,Titan Pharmaceuticals
+7052,USA,Chembio Diagnostics
+7053,USA,Fresh Vine Wine
+7054,Greece,Performance Shipping
+7055,Australia,IMTE
+7056,India,Future Supply Chain Solutions
+7057,Bermuda,Virtual Interactive Technologies
+7058,Sweden,Gaming Corps
+7059,USA,Reborn Coffee
+7060,Australia,Advanced Human Imaging
+7061,Australia,GTI Energy
+7062,USA,Diffusion Pharmaceuticals
+7063,Canada,Playgon Games
+7064,China,Farmmi
+7065,USA,Hallmark Financial Services
+7066,Singapore,Guardforce AI
+7067,USA,Direct Digital Holdings
+7068,USA,Arcimoto
+7069,Canada,Trillium Gold Mines
+7070,USA,Minerva Neurosciences
+7071,USA,Aytu BioScience
+7072,USA,Agile Therapeutics
+7073,USA,Clovis Oncology
+7074,Singapore,Genius Group
+7075,USA,Context Therapeutics
+7076,India,Jump Networks
+7077,Singapore,CMON
+7078,Taiwan,GAME HOURS
+7079,USA,Impac Mortgage Holdings
+7080,USA,Cingulate
+7081,USA,Helius Medical Technologies
+7082,Israel,Jeffs' Brands
+7083,USA,Aethlon Medical
+7084,USA,Evoke Pharma
+7085,USA,Onfolio Holdings
+7086,Australia,Sabre Resources
+7087,USA,Biocept
+7088,USA,Avinger
+7089,UK,Virax Biolabs
+7090,Canada,Skylight Health Group
+7091,USA,Cryptyde
+7092,USA,Innovative Eyewear
+7093,USA,Hoth Therapeutics
+7094,USA,Viveve Medical
+7095,USA,Wearable Health Solutions
+7096,USA,Calyxt
+7097,USA,iBio
+7098,USA,Arcadia Biosciences
+7099,Canada,Great Panther Mining
+7100,USA,Exela Technologies
+7101,USA,Tricida
+7102,USA,Adial Pharmaceuticals
+7103,USA,Actelis Networks
+7104,USA,Gaming Technologies (Gametech)
+7105,USA,Staffing 360 Solutions
+7106,USA,Ra Medical Systems
+7107,Sweden,Qiiwi Games
+7108,Israel,SaverOne 2014
+7109,USA,Quoin Pharmaceuticals
+7110,USA,Evofem Biosciences
+7111,Sweden,Sozap
+7112,Poland,Gaming Factory
+7113,USA,OpGen
+7114,China,Linekong Interactive
+7115,USA,Kidpik
+7116,Canada,Neptune Wellness Solutions
+7117,USA,Heart Test Laboratories
+7118,USA,Phio Pharmaceuticals
+7119,USA,Netcapital
+7120,USA,Greenlane
+7121,USA,Minerva Surgical
+7122,Poland,Vivid Games
+7123,USA,Akerna
+7124,Sweden,LL Lucky Games
+7125,USA,Starry Group
+7126,UK,VivoPower
+7127,USA,BIO-key International
+7128,USA,Tivic Health Systems
+7129,UK,Akanda
+7130,USA,NuZee
+7131,USA,Benitec Biopharma
+7132,Canada,Field Trip Health
+7133,USA,Petros Pharmaceuticals
+7134,Malta,Esports Entertainment
+7135,Canada,Wolverine Energy and Infrastructure
+7136,Bermuda,Altamira Therapeutics
+7137,USA,Blackboxstocks
+7138,Hong Kong,Gameone
+7139,USA,PolarityTE
+7140,Israel,PainReform
+7141,USA,Energy Focus
+7142,USA,Inpixon
+7143,Israel,BiondVax
+7144,Canada,Liquid Media Group
+7145,USA,JanOne
+7146,USA,Cemtrex
+7147,USA,HTG Molecular Diagnostics
+7148,USA,Ampio Pharmaceuticals
+7149,USA,Ensysce Biosciences
+7150,USA,Oblong
+7151,USA,Hillstream BioPharma
+7152,Poland,ManyDev Studio
+7153,USA,Motorsport Gaming
+7154,Ireland,Nabriva Therapeutics
+7155,Australia,Mighty Kingdom
+7156,Canada,Bruush Oral Care (BrÃ¼ush)
+7157,USA,Allied Healthcare Products
+7158,USA,ContraFect
+7159,USA,Eastside Distilling
+7160,China,Blue Hat
+7161,USA,SINTX Technologies
+7162,USA,Sonoma Pharmaceuticals
+7163,USA,Nuwellis
+7164,China,Pintec Technology
+7165,South Africa,Afristrat Investment
+7166,Israel,G Medical Innovations
+7167,USA,PhaseBio Pharmaceuticals
+7168,USA,Grom Social Enterprises
+7169,USA,Kaspien
+7170,USA,Zovio
+7171,USA,Connexa Sports Technologies
+7172,USA,Greene Concepts
+7173,USA,Biolase
+7174,USA,Advaxis
+7175,USA,iEntertainment Network
+7176,USA,Edible Garden
+7177,USA,Calithera Biosciences
+7178,Poland,T-Bull
+7179,USA,Tapinator
+7180,Malaysia,VIP Gloves
+7181,Canada,Kuuhubb
+7182,Poland,PunkPirates
+7183,USA,Baudax Bio
+7184,USA,Winc
+7185,USA,Allena Pharmaceuticals
+7186,USA,Freeze Tag
+7187,Australia,Mobilicom
+7188,Switzerland,Quotient
+7189,Canada,Versus Systems
+7190,USA,Quanergy Systems
+7191,USA,Youngevity International
+7192,USA,iFresh
+7193,Canada,Playground Ventures
+7194,USA,Trulite
+7195,USA,NewAge
+7196,USA,Pareteum Corporation
+7197,USA,Genocea Biosciences
+7198,USA,FedNat Holding Company
+7199,Japan,Hitachi Metals

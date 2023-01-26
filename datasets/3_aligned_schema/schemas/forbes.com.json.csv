@@ -1,0 +1,2001 @@
+,company_ceo,company_country,company_employees,company_founded,company_industry,company_name
+0,Warren Edward Buffett,United States,"372,000",1939,Diversified Financials,Berkshire Hathaway
+1,Shu Gu,China,"434,089",1984,Banking,ICBC
+2,Amin bin Hasan Al-Nasser,Saudi Arabia,"68,493",1933,Oil & Gas Operations,Saudi Arabian Oil Company (Saudi Aramco)
+3,Jamie Dimon,United States,"270,000",2000,Banking and Financial Services,JPMorgan Chase
+4,Wang Zuji,China,"349,671",2014,Banking,China Construction Bank
+5,Andy Jassy,United States,"1,608,000",1994,Retail and Wholesale,Amazon
+6,Tim Cook,United States,"154,000",1976,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Apple
+7,Not found,China,"455,174",1979,Banking,Agricultural Bank of China
+8,Brian Moynihan,United States,"166,400",1904,Banking and Financial Services,Bank of America
+9,Akio Toyoda,Japan,"366,283",1937,Consumer Durables,Toyota Motor
+10,Sundar Pichai,United States,"156,500",1998,"IT, Internet, Software & Services",Alphabet
+11,Satya Nadella,United States,"103,000",1975,"IT, Internet, Software & Services",Microsoft
+12,Wang Jiang,China,"306,322",1929,Banking,Bank of China
+13,Jay Y. Lee,South Korea,"266,673",1969,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Samsung Group
+14,Darren W. Woods,United States,"63,000",1999,Oil & Gas Operations,ExxonMobil
+15,Bernardus van Beurden,United Kingdom,"82,000",1907,"Construction, Oil & Gas Operations, Mining and Chemicals",Shell
+16,Yonglin Xie Sin Yin Tan,China,"355,982",1988,Insurance,Ping An Insurance Group
+17,Charles William Scharf,United States,"247,848",1852,Banking,Wells Fargo
+18,Hans Vestberg,United States,"118,400",1983,"Telecommunications Services, Cable Supplier",Verizon Communications
+19,John Stankey,United States,"203,000",1876,Telecommunications Services,AT&T
+20,Yi Lin Wang,China,"476,223",1999,Oil & Gas Operations,PetroChina
+21,Andrew Witty,United States,"360,000",1977,Insurance,UnitedHealth Group
+22,C. Douglas McMillon,United States,"2,300,000",1962,Retailing,Walmart
+23,Miao Jianmin,China,"103,669",1987,Banking,China Merchants Bank
+24,Herbert Diess,Germany,"672,789",1937,Consumer Durables,Volkswagen Group
+25,Michael K. Wirth,United States,"23,729",1879,"Construction, Oil & Gas Operations, Mining and Chemicals",Chevron
+26,Jane Fraser,United States,"223,400",1812,Banking and Financial Services,Citigroup
+27,Hua Teng Ma,China,"112,771",1998,IT Software & Services,Tencent Holdings
+28,Patrick PouyannÃ©,France,"101,309",1924,Oil & Gas Operations,Total
+29,Xue Wen Zhang,China,"193,946",1919,Banking,Postal Savings Bank Of China (PSBC)
+30,Xin Dong,Hong Kong,"449,934",1997,Telecommunications Services,China Mobile
+31,Brian L. Roberts,United States,"132,300",1963,Media & Advertising,Comcast
+32,Yong Zhang,China,"251,462",1999,Retailing,Alibaba Group
+33,Mark Elliot Zuckerberg,United States,"71,970",2004,"IT, Internet, Software & Services",Meta Platforms
+34,Oliver BÃ¤te,Germany,"155,411",1890,Insurance,Allianz
+35,James P. Gorman,United States,"74,814",1924,Diversified Financials,Morgan Stanley
+36,David Michael Solomon,United States,"43,900",1869,Diversified Financials,Goldman Sachs Group
+37,Noel Paul Quinn,United Kingdom,"220,000",1865,Banking,HSBC Holdings
+38,Jean-Laurent BonnafÃ©,France,"205,771",1953,Banking,BNP Paribas
+39,Joaquin Duato,United States,"130,000",1886,Drugs & Biotechnology,Johnson & Johnson
+40,Ola KÃ¤llenius,Germany,"172,425",1883,Consumer Durables,Mercedes-Benz Group
+41,Karen S. Lynch,United States,"300,000",1963,Retailing,CVS Health
+42,Albert Bourla,United States,"29,000",1849,Drugs & Biotechnology,Pfizer
+43,Masayoshi Son,Japan,"58,786",1981,Telecommunications Services,Softbank
+44,Fu Chengyu,China,"385,691",2000,Oil & Gas Operations,Sinopec
+45,David Ian McKay,Canada,"89,000",1864,Banking and Financial Services,RBC
+46,Ulf Mark Schneider,Switzerland,"276,000",1866,"Food, Drink & Tobacco",NestlÃ©
+47,Thomas Buberl,France,"110,477",1816,Insurance,AXA Group
+48,Alexei Borisovich Miller,Russia,"477,600",1989,Oil & Gas Operations,Gazprom
+49,Bernard Looney,United Kingdom,"65,900",1909,Oil & Gas Operations,BP
+50,Patrick Gelsinger,United States,"121,100",1968,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Intel
+51,Bharat B. Masrani,Canada,"90,000",1855,Banking and Financial Services,TD Bank Group
+52,Jun Sawada,Japan,"324,667",1952,Telecommunications Services,Nippon Telegraph & Tel
+53,Mukesh Dhirubhai Ambani,India,"236,334",1973,Oil & Gas Operations,Reliance Industries
+54,Yiping Tao,China,"62,537",1988,Banking,Industrial Bank 
+55,Kenichiro Yoshida,Japan,"109,700",1960,Consumer Durables,Sony
+56,JosÃ© Antonio Ãlvarez,Spain,"200,651",1857,Banking and Financial Services,Santander
+57,Hironori Kamezawa,Japan,"138,161",2005,Banking,Mitsubishi UFJ Financial
+58,Che Chia Wei,Taiwan,"65,152",1987,Semiconductors,Taiwan Semiconductor
+59,James D. Farley Jr.,Canada,"183,000",1903,Automotive (Automotive and Suppliers),Ford Motor
+60,Bernard Arnault,France,"175,000",1987,"Clothing, Shoes, Sports Equipment",LVMH MoÃ«t Hennessy Louis Vuitton
+61,Ren Deqi,China,"90,238",1908,Banking,Bank of Communications
+62,Jon R. Moeller,United States,"26,000",1837,Packaged Goods,Procter & Gamble
+63,Oliver Zipse,Germany,"118,909",1916,Consumer Durables,BMW Group
+64,JosÃ© Mauro Ferreira,Brazil,"45,532",1953,Oil & Gas Operations,Petrobras
+65,Timotheus HÃ¶ttges,Germany,"217,000",1995,"Telecommunications Services, Cable Supplier",Deutsche Telekom
+66,Richard A. Gonzalez,United States,"50,000",2013,Drugs & Biotechnology,AbbVie
+67,Vasant Narasimhan,Switzerland,"108,000",1996,Drugs & Biotechnology,Novartis
+68,Mary T. Barra,United States,"94,448",1908,Automotive (Automotive and Suppliers),General Motors
+69,Anders Opedal,Norway,"21,126",1972,Oil & Gas Operations,Equinor
+70,Heng Xuan Su,China,"103,262",2003,Insurance,China Life Insurance
+71,Severin Schwan,Switzerland,"100,920",1896,Drugs & Biotechnology,Roche Holding
+72,Yuan Xiang Li,Hong Kong,"23,000",1919,Insurance,AIA Group
+73,Michel A. Khalaf,United States,"43,000",1868,Insurance,MetLife
+74,Mike Henry,Australia,"80,000",1885,"Construction, Oil & Gas Operations, Mining and Chemicals",BHP Group
+75,Edward P. Decker,Canada,"490,600",1978,Retail and Wholesale,The Home Depot
+76,Stephen J. Squeri,United States,"22,000",1850,Banking and Financial Services,American Express
+77,Roland Emil Busch,Germany,"303,000",1847,"Engineering, Manufacturing",Siemens
+78,Carlos Tavares,Netherlands,"281,595",2021,Consumer Durables,Stellantis
+79,Mario Greco,Switzerland,"56,000",1872,Insurance,Zurich Insurance Group
+80,Igor Ivanovich Sechin,Russia,Not found,1993,Oil & Gas Operations,Rosneft
+81,Jakob Stausholm,United Kingdom,"49,000",1873,"Construction, Oil & Gas Operations, Mining and Chemicals",Rio Tinto
+82,James Bruce Flatt,Canada,"150,000",1899,Banking and Financial Services,Brookfield Asset Management
+83,David Cordani,United States,"73,700",1792,Insurance,Cigna
+84,Charles F. Lowrey,United States,"15,364",1875,Banking and Financial Services,Prudential Financial
+85,Ramon L. Laguarta,United States,"309,000",1965,"Food, Drink & Tobacco",PepsiCo
+86,Robert M. Davis,United States,"27,000",1891,Drugs & Biotechnology,Merck & Co.
+87,Gail K. Boudreaux,United States,"98,200",2004,Drugs & Biotechnology,Elevance Health
+88,Brian Johnston Porter,Canada,"89,488",1832,Banking,Bank of Nova Scotia
+89,Peter S. Zaffino,United States,"36,600",1919,Insurance,American International Group
+90,Gary Nagle,Switzerland,"135,000",1974,Materials,Glencore International
+91,Chuck Robbins,United States,"38,000",1984,"IT, Internet, Software & Services",Cisco Systems
+92,Michel Dimitrios Doukeris,Belgium,"169,000",2008,"Food, Soft Beverages, Alcohol & Tobacco",Anheuser-Busch InBev
+93,Robert A. Chapek,United States,"190,000",1923,Media & Advertising,Walt Disney
+94,Evan G. Greenberg,Switzerland,"31,000",1985,Insurance,Chubb
+95,Zhen Ming Chang,Hong Kong,"310,000",1979,Trading Companies,CITIC
+96,Charlie Nunn,United Kingdom,"57,955",2009,Banking,Lloyds Banking Group
+97,Arvind Krishna,United States,"282,100",1911,"IT, Internet, Software & Services",IBM
+98,Paul Hudson,France,"95,000",2004,Drugs & Biotechnology,Sanofi 
+99,Carol B. TomÃ©,United States,"534,000",1907,Transportation and Logistics,United Parcel Service
+100,Jack Bowles,United Kingdom,"55,981",1902,"Food, Drink & Tobacco",British American Tobacco
+101,Ralph Hamers,Switzerland,"71,385",1862,Banking,UBS
+102,Toshihiro Mibe,Japan,"211,374",1959,Automotive (Automotive and Suppliers),Honda Motor
+103,Takehiko Kakiuchi,Japan,"82,997",1870,Trading Companies,Mitsubishi
+104,Xiang Ming Wang,China,"335,038",1982,Construction,China State Construction Engineering
+105,Swaminathan Janakiraman,India,"245,652",1955,Banking,State Bank of India
+106,Matthew Comyn,Australia,"44,375",1911,Banking,Commonwealth Bank
+107,Guo Fu Gao,China,"61,686",1992,Banking,Shanghai Pudong Development
+108,Gregory J. Hayes,United States,"174,000",1922,Aerospace & Defense,Raytheon Technologies
+109,Francesco Starace,Italy,"66,279",1962,Utilities,Enel
+110,Claudio Descalzi,Italy,"30,775",1953,Oil & Gas Operations,Eni
+111,Richard D. FairbankÂ ,United States,"50,767",1994,Banking and Financial Services,Capital One
+112,Giovanni Caforio,United States,"32,200",1933,Drugs & Biotechnology,Bristol Myers Squibb
+113,James Quincey,United States,"79,000",1892,"Food, Soft Beverages, Alcohol & Tobacco",Coca-Cola
+114,Safara Catz,United States,"133,000",1977,"IT, Internet, Software & Services",Oracle
+115,Herman Oskarovich Gref,Russia,"287,866",1841,Banking,Sberbank
+116,Darryl White,Canada,"43,863",1817,Banking and Financial Services,Bank of Montreal
+117,Eduardo De Salles Bartolomeo,Brazil,"72,266",1942,Materials,Vale
+118,Jean-Bernard Levy,France,"165,790",1955,Utilities,EDF 
+119,Marc N. CasperÂ ,United States,"130,000",1983,Drugs & Biotechnology,Thermo Fisher Scientific
+120,Philippe Brassac,France,"147,000",1894,Banking and Financial Services,Credit Agricole
+121,Guillaume Faury,Netherlands,"126,495",1970,"Engineering, Manufacturing",AIRBUS
+122,W. Craig Jelinek,United States,"192,000",1983,Retail and Wholesale,Costco Wholesale
+123,Yang-wei Liu,Taiwan,Not found,1974,Technology Hardware & Equipment,Hon Hai Precision 
+124,Alan Jope,United Kingdom,"148,000",1929,Packaged Goods,Unilever
+125,Thomas M. Rutledge,United States,"93,700",1993,Media,Charter Communications
+126,Jun Ohta,Japan,"86,781",2002,Banking,Sumitomo Mitsui Financial
+127,Ryan Lance,United States,"9,400",1875,"Construction, Oil & Gas Operations, Mining and Chemicals",ConocoPhillips
+128,Emma N. Walmsley,United Kingdom,"90,096",2000,Drugs & Biotechnology,GlaxoSmithKline
+129,Carlo Messina,Italy,"108,043",2007,Banking,Intesa Sanpaolo
+130,Roy Gori,Canada,"38,000",1887,Banking and Financial Services,Manulife
+131,Andrew J. Cecere,United States,"68,796",1929,Banking,US Bancorp
+132,Martin BrudermÃ¼ller,Germany,"111,047",1865,Chemicals,BASF
+133,Xin Huai Zhou,Hong Kong,"19,086",1999,Oil & Gas Operations,CNOOC
+134,Robert B. Ford,United States,"113,000",1888,Health Care Equipment & Services,Abbott Laboratories
+135,JosÃ© Ignacio SÃ¡nchez GalÃ¡n,Spain,"45,000",1992,Utilities,Iberdrola
+136,Zhi Ren Lu,China,"77,872",2004,Materials,China Shenhua Energy
+137,Milton Maluhy Filho,Brazil,"99,600",1944,Banking,ItaÃº Unibanco Holding
+138,James Umpleby,United States,"107,700",1925,"Engineering, Manufacturing",Caterpillar
+139,Kenichi Hori,Japan,"44,509",1947,Trading Companies,Mitsui
+140,Masahiro Okafuji,Japan,"125,944",1858,Trading Companies,Itochu
+141,Walter W. Bettinger II,United States,"33,000",1971,Banking and Financial Services,Charles Schwab
+142,William H. Rogers Jr.,United States,"52,641",1872,Banking,Truist Financial
+143,Albert Monaco,Canada,"13,000",1949,"Construction, Oil & Gas Operations, Mining and Chemicals",Enbridge
+144,Toshiaki Higashihara,Japan,"368,247",1910,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Hitachi
+145,", Tomonari Sato",Japan,"47,320",1984,Telecommunications Services,KDDI
+146,Chung Eui-sun,South Korea,"71,982",1967,Consumer Durables,Hyundai Motor
+147,He Ying Fang,China,"55,419",1987,Banking,China Citic Bank
+148,Alfred F. Kelly Jr.,United States,"21,500",1958,Banking and Financial Services,Visa
+149,Brian Cornell,United States,"450,000",1902,Retail and Wholesale,Target
+150,Onur GenÃ§,Spain,"110,432",1999,Banking,BBVA-Banco Bilbao Vizcaya
+151,Elon Reeve Musk,United States,"99,290",2003,Consumer Durables,tesla
+152,John C. May,United States,"75,600",1837,Capital Goods,Deere & Company
+153,Sashidhar Jagdishan,India,"141,579",1994,Banking,HDFC Bank
+154,C. S. Venkatakrishnan,United Kingdom,"83,500",1896,Banking and Financial Services,Barclays
+155,Joachim Wenning PhD,Germany,"39,281",1880,Insurance,Munich Re
+156,Hiroya Masuda,Japan,"243,612",1871,Insurance,Japan Post Holdings
+157,Stefano Pessina,United States,"315,000",1901,Retail and Wholesale,Walgreens
+158,Rainer M. Blair,United States,"80,000",1984,"Engineering, Manufacturing",Danaher
+159,Philippe Donnet,Italy,"75,000",1831,Insurance,Generali Group
+160,SÃ¸ren Skou,Denmark,"2,852",2009,Transportation,MÃ¸ller-Maersk
+161,Marvin R. Ellison,United States,"340,000",1921,Retailing,Lowe's
+162,Frederick W. Smith,United States,"600,000",1971,Transportation and Logistics,FedEx
+163,Frank Appel,Germany,"592,263",1995,Transportation,Deutsche Post
+164,William S. Demchak,United States,"59,426",1845,Banking and Financial Services,PNC Financial Services
+165,Hock E. Tan,United States,"20,000",1961,Semiconductors,Broadcom
+166,Vadim Nikolayevich Vorobyov,Russia,Not found,1991,Oil & Gas Operations,LukOil
+167,Geoffrey Straub Martha,Ireland,"90,000",1949,Health Care Equipment & Services,Medtronic
+168,Christian Klein,Germany,"105,000",1972,"IT, Internet, Software & Services",SAP
+169,Seok-Hee Lee,South Korea,"30,135",1949,Semiconductors,SK Hynix
+170,Catherine MacGregor,France,"171,474",2008,Oil & Gas Operations,ENGIE 
+171,James D. Taiclet,United States,"106,020",1912,Aerospace & Defense,Lockheed Martin
+172,Laurence Douglas Fink,United States,"18,400",1988,Diversified Financials,BlackRock
+173,Peter Francis King,Australia,"40,143",1817,Banking,Westpac Banking Group
+174,Lynn J. Good,United States,"27,605",1904,Utilities,Duke Energy
+175,Michael Dell,United States,"42,560",1984,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Dell Technologies
+176,Xavier Huillard,France,"219,299",1899,"Construction, Oil & Gas Operations, Mining and Chemicals",VINCI
+177,Satoru Komiya,Japan,"43,257",1879,Insurance,Tokio Marine Holdings
+178,Daniel Hajj Aboumrad,Mexico,"181,205",2000,"Telecommunications Services, Cable Supplier",AmÃ©rica MÃ³vil
+179,Leonhard Birnbaum,Germany,"72,000",2000,Utilities,E.ON
+180,Duncan Graham Wanblad,United Kingdom,"63,698",1917,Materials,Anglo American
+181,OctÃ¡vio de Lazari Jr.,Brazil,"87,274",1943,Banking,Banco Bradesco
+182,Steven van Rijswijk,Netherlands,"56,000",1991,Diversified Financials,ING Group
+183,Julie Spellman Sweet,Ireland,"624,000",1955,Professional Services,Accenture
+184,Darius Adamczyk,United States,"99,000",1906,Conglomerates,Honeywell International
+185,Masahiro Kihara,Japan,"54,492",2003,Banking,Mizuho Financial
+186,Sanjiv Lamba,United Kingdom,"72,327",1879,Chemicals,Linde
+187,Aditya Mittal,Luxembourg,"157,909",2006,Materials,ArcelorMittal
+188,Victor Dodig,Canada,"45,282",1867,Banking,Canadian Imperial Bank
+189,Dong Li Zhou,China,"61,854",1992,Construction,Poly Developments & Holdings Group
+190,Sanjay Mehrotra,United States,"43,000",1978,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Micron Technology
+191,Shayne Cary Elliott,Australia,"40,211",1835,Banking and Financial Services,ANZ
+192,Yue Han,Taiwan,"45,174",2001,Insurance,Fubon Financial
+193,Rui Wen Ke,China,"278,922",2002,Telecommunications Services,China Telecom
+194,Samuel N. Hazen,United States,"284,000",1968,Health Care Equipment & Services,HCA Healthcare
+195,Jim Fitterling,United States,"35,700",1897,"Construction, Oil & Gas Operations, Mining and Chemicals",Dow
+196,JosÃ© MarÃ­a Ãlvarez-Pallete LÃ³pez,Spain,"104,150",1924,Telecommunications Services,TelefÃ³nica
+197,Jiu Sheng Zhu,China,"139,494",1984,Construction,China Vanke
+198,Ross Maxwell McEwan,Australia,"33,275",1981,Banking,NAB - National Australia Bank
+199,Chang Li,Taiwan,"57,100",1975,Insurance,Cathay Financial
+200,Cristiano R. Amon,United States,"45,000",1985,Semiconductors,Qualcomm
+201,Nicolas Hieronimus,France,"85,252",1909,Packaged Goods,L'OrÃ©al
+202,Thomas Joseph Wilson II,Canada,"54,700",1931,Insurance,Allstate
+203,Not found,China,"204,815",1955,Consumer Durables,SAIC Motor
+204,Sandeep Bakhshi,India,"98,750",1994,Banking,ICICI Bank
+205,Haijiao Ge,China,"46,175",1992,Banking,China Everbright Bank
+206,Daniel O'Day,United States,"14,000",1987,Drugs & Biotechnology,Gilead Sciences
+207,Candy Yuen,China,"107,000",1991,Insurance,China Pacific Insurance
+208,Jensen Huang,United States,"22,473",1993,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",NVIDIA
+209,Robert A. Bradway,United States,"24,200",1980,Drugs & Biotechnology,Amgen
+210,Lance M. Fritz,United States,"29,905",1862,Transportation,Union Pacific
+211,Seiji Inagaki,Japan,"64,823",1902,Insurance,Dai-ichi Life Insurance
+212,John J. Donahoe II,United States,"73,300",1964,"Clothing, Shoes, Sports Equipment",Nike
+213,Christophe Weber,Japan,"47,099",1781,Drugs & Biotechnology,Takeda Pharmaceutical
+214,Jacek Olczak,United States,"69,600",1847,"Food, Drink & Tobacco",Philip Morris International
+215,Dan Schulman,United States,"30,900",1998,Banking and Financial Services,PayPal
+216,Yong Tang,Hong Kong,"49,478",1994,Construction,China Resources Land
+217,Pik Kuen Wong,Singapore,"30,809",1912,Banking,Oversea-Chinese Banking
+218,Fang Hongbo,China,"166,000",1968,"Engineering, Manufacturing",Midea Group
+219,Alan D. Schnitzer,United States,"30,000",1864,Insurance,Travelers
+220,David A. Ricks,United States,"36,000",1876,Drugs & Biotechnology,Eli Lilly
+221,Dirk van de Put,United States,"79,000",2012,"Food, Drink & Tobacco",Mondelez International
+222,Christopher J. Kempczinski,United States,"200,000",1955,"Hotels, Restaurants & Leisure",McDonald's
+223,H. Lawrence Culp Jr.,Canada,"168,000",1892,"Engineering, Manufacturing",General Electric
+224,FrÃ©dÃ©ric OudÃ©a,France,"117,000",1864,Banking and Financial Services,SociÃ©tÃ© GÃ©nÃ©rale
+225,Jean-Pascal Tricoire,France,"128,000",1836,"Engineering, Manufacturing",Schneider Electric
+226,Michael F. Roman,United States,"38,000",1902,Packaged Goods,3M
+227,Daniel P. Amos,United States,"12,447",1955,Insurance,Aflac
+228,Alka Mittal,India,"51,280",1956,Oil & Gas Operations,Oil & Natural Gas
+229,Tom Fanning,United States,"27,300",1945,Utilities,Southern Company
+230,Christian Sewing,Germany,"82,969",1870,Banking,Deutsche Bank
+231,Auttapol Rerkpiboon,Thailand,Not found,1978,Oil & Gas Operations,PTT 
+232,Tzar Kuoi Li,Hong Kong,"300,000",2014,Conglomerates,CK Hutchison
+233,Murray Edwards,Canada,"9,735",1973,Oil & Gas Operations,Canadian Natural Resources
+234,Kevin D. Strain,Canada,"50,000",1865,Banking and Financial Services,Sun Life Financial
+235,Kathy Warden,United States,"90,000",1939,Aerospace & Defense,Northrop Grumman
+236,Juan Ricardo Luciano,United States,"41,000",1902,"Food, Drink & Tobacco",Archer Daniels Midland
+237,Michael J. Hennigan,United States,"17,700",2009,Oil & Gas Operations,Marathon Petroleum
+238,Wan Chun Zheng,China,"60,232",1996,Banking,China Minsheng Bank
+239,Nigel David Wilson,United Kingdom,"15,104",1836,Insurance,Legal & General Group
+240,Reed Hastings Ted Sarandos,United States,"11,300",1997,Media & Advertising,Netflix
+241,Tricia Griffith,United States,"49,000",1937,Insurance,Progressive
+242,Xu Ping Chen,China,"44,065",1993,Construction,Longfor Group Holdings
+243,Piyush Gupta,Singapore,"33,000",1968,Banking,DBS
+244,Zhi Jian Yang,China,"26,852",2005,Transportation,Cosco Shipping
+245,Qi Tao Liu,China,"135,813",2006,Construction,China Communications Construction
+246,Alison Marie Rose-Slade,United Kingdom,"57,800",1968,Banking,NatWest Group
+247,Chris M. Crane,United States,"31,518",2000,Utilities,Exelon
+248,Bruce D. Broussard,United States,"96,900",1961,Drugs & Biotechnology,Humana
+249,Phebe N. Novakovic,United States,"89,775",1952,Aerospace & Defense,General Dynamics
+250,Robert Jeffrey Orr,Canada,"33,700",1925,Diversified Financials,Power Corp of Canada
+251,Abdulla Mubarak Nasser Al-Khalifa,Qatar,Not found,1964,Banking,Qatar National Bank
+252,Werner Baumann,Germany,"99,637",1863,Drugs & Biotechnology,Bayer 
+253,Scott Nuttall Joseph Bae,United States,"3,238",1976,Diversified Financials,KKR
+254,Tzar Kuoi Li,China,"131,387",1992,Construction,Country Garden Holdings
+255,James L. Robo,United States,"15,000",1984,Utilities,NextEra Energy
+256,Jong-Kyoo Yoon,South Korea,164,1963,Banking,KB Financial Group
+257,Chen Wenjian,China,"294,013",1989,Construction,China Railway Group
+258,Enrique Lores,United States,"51,000",1939,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",HP
+259,Frank Vang-Jensen,Finland,"26,894",1974,Banking,Nordea Bank
+260,Dong Ning Zhang,Japan,Not found,2005,Food Markets,Seven & I Holdings
+261,Mark S. Little,Canada,"16,922",1919,Oil & Gas Operations,Suncor Energy
+262,Marc Benioff,United States,"40,447",1999,"IT, Internet, Software & Services",Salesforce.com
+263,BenoÃ®t Potier,France,"66,436",1902,Chemicals,Air Liquide
+264,Koji Arima,Japan,"168,391",1949,Consumer Durables,Denso
+265,Thomas P. Gibbons,United States,"49,100",1965,Banking,Bank of New York Mellon
+266,Michael Miebach,United States,"24,000",1966,Business Services & Supplies,Mastercard
+267,Fausto de Andrade Ribeiro,Brazil,"84,597",1808,Banking,Banco do Brasil
+268,Sarah London,United States,"72,500",1984,Drugs & Biotechnology,Centene
+269,Keki M. Mistry,India,"5,490",1977,Business Services & Supplies,HDFC
+270,Richard Adkerson,United States,"24,700",1897,Materials,Freeport-McMoRan
+271,BelÃ©n Garijo LÃ³pez,Germany,"60,334",1668,Drugs & Biotechnology,"Merck KGaA, Darmstadt, Germany and its affiliates"
+272,Gonzalo GortÃ¡zar Rotaeche,Spain,"49,762",1980,Banking,CaixaBank
+273,BjÃ¶rn Klas Otto Rosengren,Switzerland,"105,000",1883,Conglomerates,ABB
+274,Martin Lundstedt,Sweden,"95,850",1927,Consumer Durables,Volvo Group
+275,Vicki A. Hollub,United States,"11,678",1920,Oil & Gas Operations,Occidental Petroleum
+276,John Mark Pettigrew,United Kingdom,"23,683",1990,Utilities,National Grid
+277,Brian S. Tyler,United States,"76,000",1833,Drugs & Biotechnology,McKesson
+278,Yong-Byoung Cho,South Korea,"20,000",2001,Diversified Financials,Shinhan Financial Group
+279,Peter T. F. M Wennink,Netherlands,"29,861",1984,Semiconductors,ASML Holding
+280,Kenneth A. Seitz,Canada,"23,500",2017,Chemicals,Nutrien
+281,Johan Patrik Lennart Forssell,Sweden,"20,054",1916,Diversified Financials,Investor AB
+282,Ho-Sung Song,South Korea,"35,501",1944,Consumer Durables,KIA
+283,BenoÃ®t Bazin,France,"167,816",1665,Construction,Saint-Gobain
+284,Lars Fruergaard JÃ¸rgensen,Denmark,"47,792",1989,Drugs & Biotechnology,Novo Nordisk
+285,"In-Hwa Chang, Jeong-Woo Choi",South Korea,"18,247",1968,Materials,Posco
+286,Ivan M. Menezes,United Kingdom,"27,987",1997,"Food, Soft Beverages, Alcohol & Tobacco",Diageo
+287,Frans Willem Henri Muller,Netherlands,"259,000",2016,Food Markets,Royal Ahold Delhaize N.V.
+288,Luo Xi,China,"184,364",1949,Insurance,PICC
+289,Robert M. Blue,United States,"17,100",1983,Utilities,Dominion Energy
+290,W. Rodney McMullen,United States,"420,000",1883,Food Markets,Kroger
+291,Angui Hou,China,"47,710",2000,Materials,Baoshan Iron & Steel
+292,Jing Ren Li,China,"29,971",1999,"Food, Drink & Tobacco",Kweichow Moutai
+293,Jun Lei,China,"33,427",2010,Technology Hardware & Equipment,Xiaomi  
+294,Meng Bo Luo,China,"24,177",1997,Banking,Bank of Ningbo
+295,Jaime Eduardo Caballero Uribe,Colombia,"15,000",1948,Oil & Gas Operations,Ecopetrol
+296,Kenneth T. Lane,United Kingdom,"19,100",2007,Chemicals,LyondellBasell Industries
+297,Jia Zhou,China,"49,295",2011,Capital Goods,Contemporary Amperex Technology
+298,Andrea Orcel,Italy,"87,165",1998,Banking,UniCredit
+299,Steven H. Collis,United States,"42,000",1969,Drugs & Biotechnology,AmerisourceBergen
+300,Francesco Milleri,France,"182,684",2018,Health Care Equipment & Services,EssilorLuxottica
+301,Oscar GarcÃ­a Maceiras,Spain,"165,042",1985,Retail and Wholesale,Inditex
+302,Howard Schultz,United States,"383,000",1971,Restaurants,Starbucks
+303,Leon J. Topalian,United States,"28,800",1905,Materials,Nucor
+304,Jeffrey Craig Sprecher,United States,"8,858",2000,Diversified Financials,IntercontinentalExchange
+305,Ernie L. Herrman,United States,"340,000",1976,Retailing,TJX Cos
+306,Johan Thijs,Belgium,"37,194",1935,Banking,KBC Group
+307,Ken Murphy,United Kingdom,"345,000",1919,Retail and Wholesale,Tesco
+308,Yan Shun Chen,China,"79,461",1993,Technology Hardware & Equipment,BOE Technology Group
+309,Stephen Allen Schwarzman,United States,"3,795",1985,Diversified Financials,Blackstone
+310,Nicholas K. Akins,United States,"16,688",1906,Utilities,American Electric
+311,Shemara Wikramanayake,Australia,"16,459",1985,Diversified Financials,Macquarie Group
+312,Masumi Kakinoki,Japan,"45,470",1858,Trading Companies,Marubeni
+313,Christian Mumenthaler,Switzerland,"14,000",1863,Insurance,Swiss Re 
+314,Ezra Y. Yacob,United States,"2,800",1985,Oil & Gas Operations,EOG Resources
+315,StÃ©phane Dedeyan,France,"5,591",1959,Insurance,CNP Assurances
+316,Carlos Rodriguez,United States,"56,000",1949,Business Services & Supplies,Automatic Data Processing
+317,Greg C. Garland,United States,"14,000",2012,Oil & Gas Operations,Phillips 66
+318,Donnie King,United States,"137,000",1935,"Food, Drink & Tobacco",Tyson Foods
+319,Josu Jon Imaz San Miguel,Spain,"23,900",1987,Oil & Gas Operations,Repsol 
+320,Masayuki Hyodo,Japan,"74,920",1952,Trading Companies,Sumitomo
+321,Jan Philipp Jenisch,Switzerland,"69,672",1912,Construction,Holcim
+322,Not found,United States,"6,000",1919,"Food, Drink & Tobacco",Altria Group
+323,Gary E. Dickerson,United States,"27,000",1967,Semiconductors,Applied Materials
+324,Martin Daum,Germany,Not found,Not found,Transportation,Daimler Truck Holding
+325,Jing He Chen,China,"43,876",1986,Materials,Zijin Mining Group
+326,Saeed bin Mohammed Al-Ghamdi,Saudi Arabia,"16,113",1953,Banking,The Saudi National Bank
+327,JÃ©rÃ´me Lambert,Switzerland,"35,000",1988,"Clothing, Shoes, Sports Equipment",Richemont
+328,FranÃ§ois Jean Henri Pinault,France,"42,800",1963,"Clothing, Shoes, Sports Equipment",Kering
+329,Fahad bin Hussein Al-Sudairi,Saudi Arabia,Not found,2000,Utilities,Saudi Electricity
+330,Antoine Bernard de Saint-Affrique,France,"98,105",1919,"Food, Soft Beverages, Alcohol & Tobacco",Danone
+331,Shoji Muneoka,Japan,"106,226",1950,Materials,Nippon Steel 
+332,Hak Cheol Shin,South Korea,"12,561",1947,Chemicals,LG Chem
+333,Roger C. Hochschild,United States,"16,700",1985,Banking and Financial Services,Discover Financial Services
+334,Brian P. Hannasch,Canada,"124,000",1980,Food Markets,Couche Tard
+335,Jian Hua Zhang,China,"39,748",1992,Banking,Huaxia Bank
+336,David Knibbe,Netherlands,"15,417",1845,Insurance,NN Group
+337,David C. Benson,United States,"7,400",1938,Business Services & Supplies,Fannie Mae
+338,Stephan Sturm,Germany,"316,078",1912,Health Care Equipment & Services,Fresenius
+339,Daniel S. Glaser,United States,"83,000",1905,Insurance,Marsh & McLennan
+340,James Michael Cracchiolo,United States,"12,000",1894,Diversified Financials,Ameriprise Financial
+341,Tom Polen,United States,"72,000",1897,Health Care Equipment & Services,Becton Dickinson
+342,Yuki Kusumi,Japan,"243,540",1918,Consumer Durables,Panasonic
+343,Noriyuki Hara,Japan,"41,501",2008,Insurance,MS&AD Insurance
+344,Makoto Inoue,Japan,"33,153",1964,Business Services & Supplies,Orix
+345,Federico Bazzoni,China,"23,696",1995,Diversified Financials,Citic Securities
+346,Hana Al-Rostamani,United Arab Emirates,Not found,1968,Banking,First Abu Dhabi Bank
+347,Mirko Bibic,Canada,"49,781",1970,Telecommunications Services,BCE
+348,Olivier Le Peuch,United States,"92,000",1926,Oil & Gas Operations,Schlumberger
+349,Richard (Rich) K. Templeton,United States,"31,000",1930,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Texas Instruments
+350,Sunarso,Indonesia,"79,398",1895,Banking,Bank Rakyat Indonesia (BRI)
+351,William Thomas Winters,United Kingdom,"81,957",1969,Banking,Standard Chartered
+352,Albert Jude Manifold,Ireland,"73,000",1970,"Construction, Oil & Gas Operations, Mining and Chemicals",CRH
+353,Yan Bingzhu,China,"15,490",1995,Banking,Bank of Beijing
+354,Bob Bakish,United States,"22,965",2019,Media,Paramount
+355,Ming Ji,China,"15,363",2007,Banking,Bank Of Jiangsu
+356,Edward D. Breen,United States,"28,000",2017,"Construction, Oil & Gas Operations, Mining and Chemicals",DuPont de Nemours
+357,Not found,China,"83,952",1991,Consumer Durables,Gree Electric Appliances
+358,Sanjiv Singh,India,"31,648",1959,Oil & Gas Operations,Indian Oil
+359,Todd Vasos,United States,"163,000",1939,Retailing,Dollar General
+360,Miguel Patricio,United States,"36,000",2015,"Food, Soft Beverages, Alcohol & Tobacco",Kraft Heinz Company
+361,Khoon Hong Kuok,Singapore,"100,000",1991,"Food, Drink & Tobacco",Wilmar International
+362,Michael J. DeVito,United States,"7,318",1970,Business Services & Supplies,Freddie Mac
+363,Antonio Neri,United States,"60,400",2015,"IT, Internet, Software & Services",Hewlett Packard Enterprise
+364,Masamichi Terabatake,Japan,"55,381",1985,"Food, Drink & Tobacco",Japan Tobacco
+365,Matteo del Fante,Italy,"122,665",1925,Insurance,Poste Italiane
+366,Ee Cheong Wee,Singapore,"24,346",1935,Banking,United Overseas Bank
+367,Lie Hong Liu,Hong Kong,"242,497",2000,Telecommunications Services,China Unicom
+368,Joseph W. Gorder,United States,"9,813",1980,Oil & Gas Operations,Valero Energy
+369,James M. Foote,United States,"20,900",1827,Transportation,CSX
+370,Carsten Rasch Egeriis,Denmark,"21,754",1871,Banking,Danske Bank
+371,Elizabeth Anne Gaines,Australia,"10,164",2003,Materials,Fortescue Metals Group
+372,Shao Jun Huang,China,"267,760",1948,Construction,China Railway Construction
+373,StÃ©phane Bancel,United States,"2,700",2010,Drugs & Biotechnology,Moderna
+374,Bradford Banducci,Australia,"210,067",1924,Food Markets,Woolworths
+375,Qun Feng Li,China,"46,714",1997,Construction,Anhui Conch Cement
+376,Shantanu Narayen,United States,"25,988",1982,"IT, Internet, Software & Services",Adobe
+377,Christopher J. Swift,United States,"18,100",1810,Insurance,Hartford Financial Services
+378,Ronald Philip O'Hanley III,United States,"38,784",1792,Diversified Financials,State Street
+379,Walid bin Abdullah Al-Moqbel,Saudi Arabia,"9,300",1957,Banking,Al Rajhi Bank
+380,Hong Shui Sun,China,"132,125",2009,Construction,Power Construction Corporation of China
+381,Chihiro Kanagawa,Japan,"24,069",1926,Chemicals,Shin-Etsu Chemical
+382,Frank J. Bisignano,United States,"26,000",1984,Business Services & Supplies,Fiserv
+383,Leonard S. Schleifer,United States,"10,000",1988,Drugs & Biotechnology,Regeneron Pharmaceuticals
+384,Tsutomu Sugimori,Japan,"40,753",2010,Oil & Gas Operations,ENEOS Holdings
+385,Rajesh Gopinathan,India,"592,195",1968,IT Software & Services,Tata Consultancy Services
+386,Kengo Sakurada,Japan,"48,115",2010,Insurance,Sompo
+387,Alfred Stern,Austria,"22,434",1956,Oil & Gas Operations,OMV Group
+388,Patrick Frost,Switzerland,"10,000",1857,Insurance,Swiss Life Holding
+389,Youlian Hu,China,"12,932",1995,Banking,Bank Of Shanghai
+390,Thomas A. Bartlett,United States,"2,291",1995,"Telecommunications Services, Cable Supplier",American Tower
+391,Scott Douglas Sheffield,United States,"1,932",1997,Oil & Gas Operations,Pioneer Natural Resources
+392,Ping Luen Kwok,Hong Kong,"38,500",1963,Construction,Sun Hung Kai Properties
+393,Guang Wu Kou,China,"19,692",1998,Chemicals,Wanhua Chemical Group
+394,TorbjÃ¶rn Magnusson,Finland,"13,340",1909,Insurance,Sampo
+395,Tie Feng Jiang,China,"54,735",Not found,Construction,China Merchants Shekou Industrial Zone Holdings
+396,Hua Gang Li,China,"104,874",1984,Consumer Durables,Haier Smart Home
+397,Craig Arnold,Ireland,"85,947",1911,Capital Goods,Eaton
+398,"Tae-Won Chey, Dong-Hyun Jang",South Korea,"4,448",1962,Oil & Gas Operations,SK
+399,George R. Oliver,Ireland,"101,000",1885,Business Services & Supplies,Johnson Controls International
+400,Gilberto Tomazoni,Brazil,"250,000",1953,"Food, Drink & Tobacco",JBS
+401,Olayan Mohammed Al-Wetaid,Saudi Arabia,"23,780",1998,Telecommunications Services,Saudi Telecom
+402,John Raymond Witt,Bermuda,"400,000",1832,Conglomerates,Jardine Matheson
+403,Tracy A. Robinson,Canada,"22,604",1832,Transportation,Canadian National Railway
+404,Kevin A. Lobo,United States,"25,000",1941,Health Care Equipment & Services,Stryker
+405,Pekka Ilmari Lundmark,Finland,"87,900",1865,"Telecommunications Services, Cable Supplier",Nokia
+406,Takeshi Sugiyama,Japan,"145,653",1921,Capital Goods,Mitsubishi Electric
+407,Makoto Uchida,Japan,"132,324",1933,Consumer Durables,Nissan Motor
+408,Thachat Viswanath Narendran,India,"73,962",1907,Materials,Tata Steel
+409,Jean-FranÃ§ois M. L. van Boxmeer,Netherlands,"82,257",1864,"Food, Drink & Tobacco",Heineken
+410,Charles Nicolas Woodburn,United Kingdom,"34,000",1999,Aerospace & Defense,BAE Systems
+411,Hatem Mohamed Galal Ahmed Dowidar,United Arab Emirates,"19,588",2004,Telecommunications Services,Etisalat
+412,Philip Eric Rene,United Kingdom,"100,000",1980,"Telecommunications Services, Cable Supplier",BT Group
+413,Yi Kuei Wu,Taiwan,"21,159",1966,Banking,CTBC Financial
+414,Leonid Viktorovich Mikhelson,Russia,Not found,1994,Oil & Gas Operations,Novatek
+415,Xin She Lu,China,"86,251",Not found,Construction,Greenland Holdings Group
+416,Markus Krebber,Germany,"18,246",1898,Utilities,RWE Group
+417,Masanori Togawa,Japan,"88,000",1924,"Engineering, Manufacturing",Daikin Industries
+418,Eilard Friese,Netherlands,"22,271",1844,Insurance,Aegon
+419,Yan Hong Li,China,"45,500",2000,IT Software & Services,Baidu
+420,Erik BÃ¶rje Ekholm,Sweden,"101,322",1876,Technology Hardware & Equipment,Ericsson
+421,Fujio Mitarai,Japan,"184,034",1937,Business Services & Supplies,Canon
+422,Rick Beckwitt Jon Jaffe,United States,"10,753",1954,Construction,Lennar
+423,Sheng Rong Hu,China,"13,592",1996,Banking,Bank of Nanjing
+424,Frans van Houten,Netherlands,"78,189",1891,Health Care Equipment & Services,Philips
+425,Robert James Gamgort,United States,"27,500",2018,"Food, Drink & Tobacco",Keurig Dr Pepper
+426,Guo Qing Chen,China,"4,036",2002,Utilities,China Yangtze Power
+427,Kjerstin Elisabeth Braathen,Norway,"9,659",2003,Banking,DNB Bank
+428,Lal Karsanbhai,United States,"86,700",1890,Capital Goods,Emerson Electric
+429,Stefan Bomhard,United Kingdom,"30,300",1901,"Food, Drink & Tobacco",Imperial Brands
+430,David L. Calhoun,United States,"142,000",1916,Aerospace & Defense,Boeing
+431,Jeffrey L. Harmening,United States,"15,000",1866,"Food, Soft Beverages, Alcohol & Tobacco",General Mills
+432,Amitabh Chaudhry MBA,India,"78,307",1993,Banking,Axis Bank
+433,Laurent Ferreira,Canada,"21,000",1979,Banking and Financial Services,National Bank of Canada
+434,Fabrizio Freda,United States,"63,000",1946,Media & Advertising,The EstÃ©e Lauder Companies
+435,Scott Wellington Wine,United Kingdom,"71,895",1996,Capital Goods,CNH Industrial
+436,Vivian Prem Watsa,Canada,"39,040",1951,Insurance,Fairfax Financial
+437,Kasper Bo RÃ¸rsted,Germany,"61,401",1949,"Clothing, Shoes, Sports Equipment",Adidas
+438,Florent Menegaux,France,"124,000",1889,Automotive (Automotive and Suppliers),Michelin Group
+439,Alan H. Shaw,United States,"18,100",1883,Transportation,Norfolk Southern
+440,Daniel J. Houston,United States,"18,500",1879,Banking and Financial Services,Principal Financial Group
+441,Jeffrey W. Martin,United States,"15,390",1998,Oil & Gas Operations,Sempra
+442,Markus Erdem Rauramo,Finland,"19,140",1998,Utilities,Fortum
+443,GermÃ¡n Larrea Mota-Velasco,Mexico,"29,707",1942,Materials,Grupo Mexico
+444,David V. Auld,United States,"11,788",1978,Construction,D.R. Horton
+445,Christopher Eugene Kubasik,United States,"42,240",2019,Aerospace & Defense,L3Harris Technologies
+446,Robert van Dijk,South Africa,"28,445",1915,Media,Naspers
+447,Simpiwe Kenneth Tshabalala,South Africa,"49,224",1862,Banking,Standard Bank Group
+448,Francois L. Poirier,Canada,"7,017",1951,Oil & Gas Operations,TC Energy
+449,Vladimir Olegovich Potanin,Russia,Not found,1993,Materials,Norilsk Nickel
+450,Francisco Miguel ReynÃ©s Massanet,Spain,"7,366",1843,Oil & Gas Operations,Naturgy Energy Group
+451,Jim Fish,Canada,"48,500",1971,Utilities,Waste Management
+452,Carsten Knobel,Germany,"52,450",1876,Household & Personal Products,Henkel
+453,Li Hsing Tsai,Taiwan,Not found,1997,Semiconductors,MediaTek
+454,Hisayuki Idekoba,Japan,"46,800",1960,Business Services & Supplies,Recruit Holdings 
+455,Hong Wei Fan,China,"35,650",1999,Capital Goods,Hengli Petrochemical
+456,Robert Frenzel,United States,"11,321",1909,Utilities,Xcel Energy
+457,Chuck Magro,United States,"21,000",2019,Chemicals,Corteva
+458,Brian Doubles,United States,"18,000",2003,Business Services & Supplies,Synchrony Financial
+459,Ichiro Kashitani,Japan,"64,402",1948,Trading Companies,Toyota Tsusho
+460,Tetsuro Toyoda,Japan,"66,947",1926,Consumer Durables,Toyota Industries
+461,Pascal Soriot MBA,United Kingdom,"83,100",1999,Drugs & Biotechnology,AstraZeneca
+462,Meng De Wang,China,"64,436",2003,Construction,Sunac China Holdings
+463,Hai Jun Xia,China,"123,276",2006,Construction,China Evergrande Group
+464,Shuichi Ishibashi,Japan,"135,636",1931,Consumer Durables,Bridgestone
+465,Shayne Kieth Nelson,United Arab Emirates,"9,825",1963,Banking,Emirates NBD
+466,Keiichi Yoshii,Japan,"48,807",1947,Construction,Daiwa House Industry
+467,Lei Xu,China,"298,717",1998,Retailing,JD.com
+468,Steven J. Kean,United States,"11,000",1997,"Construction, Oil & Gas Operations, Mining and Chemicals",Kinder Morgan
+469,Zhi Ping Song,China,"153,109",2005,Construction,China National Building
+470,Greg D. Carmichael,United States,"19,112",1858,Banking,Fifth Third Bank
+471,Alan Patrick Pullinger,South Africa,"47,771",1966,Diversified Financials,FirstRand
+472,Alexandre Bompard,France,"321,000",1959,Retail and Wholesale,Carrefour
+473,Takahito Tokita,Japan,"126,371",1935,Technology Hardware & Equipment,Fujitsu
+474,Johan Torgeby,Sweden,"15,500",1972,Banking,SEB AB
+475,Vladimir Leonidovich Bogdanov,Russia,"116,000",1990,Oil & Gas Operations,Surgutneftegas
+476,Quan Li,China,"34,434",1996,Insurance,New China Life Insurance
+477,Dennis Mark Bristow,Canada,"21,869",1983,Materials,Barrick Gold
+478,Jens BjÃ¸rn Andersen,Denmark,"77,958",1976,Transportation,DSV Panalpina
+479,Torsten Leue,Germany,"23,954",1990,Insurance,Talanx
+480,Nicholas Jonathan Read,United Kingdom,"104,000",1984,"Telecommunications Services, Cable Supplier",Vodafone
+481,Shuntaro Furukawa,Japan,"6,574",1889,Consumer Durables,Nintendo
+482,Ham Young-Joo,South Korea,"21,997",2005,Banking,Hana Financial Group
+483,Eui-Sun Chung,South Korea,"10,835",1977,Capital Goods,Hyundai Mobis
+484,Gurdeep Singh,India,"119,383",1975,Utilities,NTPC
+485,Khairussaleh Ramli,Malaysia,"46,000",1960,Banking and Financial Services,Maybank
+486,Terrence A. Duffy,United States,"3,480",1898,Diversified Financials,CME Group
+487,Jasim Husain Ahmed Thabet,United Arab Emirates,Not found,2005,Utilities,TAQA
+488,Alexandre Ricard,France,"18,500",1975,"Food, Soft Beverages, Alcohol & Tobacco",Pernod Ricard
+489,Darmawan Junaidi,Indonesia,"37,840",1824,Banking,Bank Mandiri
+490,Daniel Alberto RodrÃ­guez CofrÃ©,Mexico,"320,752",1890,"Food, Drink & Tobacco",Femsa
+491,Preston Feight,United States,"10,545",1972,Automotive (Automotive and Suppliers),Paccar
+492,Timothy P. Cawley,United States,"13,871",1823,Utilities,Consolidated Edison
+493,"Hiromichi Iwasa, Masanobu Komoda",Japan,"23,992",1941,Construction,Mitsui Fudosan
+494,Huey Chuan Hsieh,Taiwan,Not found,Not found,Transportation,Evergreen Marine Corp. (Taiwan)
+495,Hiroyuki Ogawa,Japan,"61,564",1921,Capital Goods,Komatsu
+496,Shi Bin Wang,China,"36,344",2008,Materials,Shaanxi Coal Industry
+497,Yuan Qing Yang,Hong Kong,"71,500",1984,Technology Hardware & Equipment,Lenovo Group
+498,Tadashi Yanai,Japan,"55,589",1963,Retailing,Fast Retailing
+499,David Adam Schwimmer,United Kingdom,"23,261",1802,Diversified Financials,London Stock Exchange
+500,Rolf Buch,Germany,"15,871",1998,Construction,Vonovia
+501,Amanda Blanc,United Kingdom,"27,463",2000,Insurance,Aviva
+502,John G. Morikis,United States,"60,000",1866,"Construction, Oil & Gas Operations, Mining and Chemicals",Sherwin-Williams
+503,Teiichi Goto,Japan,"73,275",1934,Consumer Durables,Fujifilm Holdings
+504,Sasan Goodarzi,United States,"13,500",1983,IT Software & Services,Intuit
+505,Tim Archer,United States,"16,300",1980,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Lam Research
+506,Bernhard Spalt,Austria,"44,773",2008,Banking and Financial Services,Erste Group Bank
+507,Dennis R. Glass,United States,"10,848",1968,Insurance,Lincoln National
+508,David L. Gitlin,United States,"58,000",1915,Capital Goods,Carrier Global
+509,W. Erik Carlson,United States,"14,500",1980,Media,DISH Network
+510,Yan Jiang Li,China,"44,356",2006,Materials,China Coal Energy
+511,Nikolai Setzer,Germany,"193,000",1871,Automotive (Automotive and Suppliers),Continental
+512,Andrey Leonidovich Kostin,Russia,Not found,1990,Banking,VTB Bank
+513,Tsuneo Murata,Japan,"75,184",1944,Technology Hardware & Equipment,Murata Manufacturing
+514,Sekharipuram Narayan Subrahmanyan,India,"360,826",1938,Construction,Larsen & Toubro
+515,Jeffrey J. Brown,United States,"10,500",1919,Banking and Financial Services,Ally Financial
+516,Lei Ding,China,"32,064",1997,IT Software & Services,NetEase
+517,Jahja Setiaatmadja,Indonesia,"25,370",1955,Banking,Bank Central Asia
+518,James Rowan,Sweden,Not found,2010,Consumer Durables,Volvo Car
+519,Charles J. G. Brindamour,Canada,"28,149",1809,Insurance,Intact Financial
+520,Mads Nipper,Denmark,"6,836",1972,Oil & Gas Operations,Orsted
+521,Tom Linebarger,United States,"58,000",1919,"Engineering, Manufacturing",Cummins
+522,Alan S. Armstrong,United States,"4,783",1908,Oil & Gas Operations,Williams
+523,Aiman Ezzat,France,"324,684",1967,IT Software & Services,Capgemini
+524,Not found,United States,Not found,1993,Real Estate,Prologis
+525,Patrice Caine,France,"81,000",1949,Aerospace & Defense,Thales
+526,Olivier Roussat,France,"124,651",1952,Construction,Bouygues
+527,Jose Marcos RamÃ­rez Miguel,Mexico,"21,878",1899,Banking,Banorte
+528,Tzar Kuoi Li,Hong Kong,"54,000",2015,Construction,CK Asset Holdings
+529,Christel Heydemann,France,"132,002",1988,Telecommunications Services,Orange
+530,Detlef A. Trefzger,Switzerland,"78,087",1890,Transportation,Kuehne & Nagel International
+531,Gregory A. Heckman,United States,"22,000",1818,"Food, Drink & Tobacco",Bunge
+532,Young-Muk Jeon,South Korea,"5,250",1957,Insurance,Samsung Life Insurance
+533,Rangarajan Govind Raghuram,United States,"37,500",1998,IT Software & Services,VMware
+534,Vivek Sankaran,United States,"300,000",1939,Food Markets,Albertsons
+535,Yong Cai Sun,China,"160,656",2007,Capital Goods,CRRC
+536,Bob SulenticÂ ,United States,"105,000",1906,Construction,CBRE Group
+537,Taro Shimada,Japan,"125,648",1875,Conglomerate,Toshiba
+538,"Keum-Yong Chung, Jung-Suk Koh",South Korea,"8,819",1963,Trading Companies,Samsung C&T
+539,Salil S. Parekh,India,"335,000",1981,IT Software & Services,Infosys
+540,Mark Thomas FitzPatrick,United Kingdom,"14,486",1848,Banking and Financial Services,Prudential
+541,Yao Meng Xiao,China,"63,869",1997,Materials,Yankuang Energy Group
+542,Keith Edward Creel,Canada,"11,834",1881,Transportation,Canadian Pacific Railway
+543,James S. Tisch,United States,"10,340",1954,Insurance,Loews
+544,Toshiki Kawai,Japan,"14,479",1963,Semiconductors,Tokyo Electron
+545,Joo-wan Cho,South Korea,"36,499",1958,Consumer Durables,LG Electronics
+546,Paul Roger Perreault,Australia,"25,000",1916,Drugs & Biotechnology,CSL
+547,Seetarama Kotagiri,Canada,"158,000",1957,Consumer Durables,Magna International
+548,Vincent T. Roche,United States,"24,700",1965,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Analog Devices
+549,Masatoshi Kimata,Japan,"43,293",1890,Capital Goods,Kubota
+550,Seifi Ghasemi,United States,"20,875",1940,Chemicals,Air Products & Chemicals
+551,Thomas R. Palmer,United States,"31,000",1921,Materials,Newmont Mining
+552,Terrence R. Curtin,Switzerland,"89,000",2007,Technology Hardware & Equipment,TE Connectivity
+553,Gregory C. Case,Ireland,"50,000",1982,Insurance,Aon
+554,Darren Entwistle,Canada,"90,800",1990,Business Services & Supplies,TELUS
+555,Michael A. Witynski,United States,"210,565",1986,Retailing,Dollar Tree
+556,Christopher M. Gorman,United States,"18,180",1958,Banking,KeyCorp
+557,Carl Aaron Hess,United Kingdom,"44,200",1828,Insurance,WTW
+558,Ren Kang Shen,China,"17,288",1993,Banking,China Zheshang Bank
+559,Robert Scott,Australia,"114,000",1914,Food Markets,Wesfarmers
+560,Osamu Suzuki,Japan,"68,739",1909,Consumer Durables,Suzuki Motor
+561,Corie Barry,United States,"105,000",1966,Retail and Wholesale,Best Buy
+562,Gregory W. Becker,United States,"6,567",1983,Banking,SVB Financial Group
+563,Lisa T. Su,United States,"15,500",1969,Semiconductors,Advanced Micro Devices
+564,Richard R. Whitt III Thomas S. Gayner,United States,"20,300",1930,Banking and Financial Services,Markel
+565,Ying Lin Qin,China,"121,995",2000,"Food, Drink & Tobacco",Muyuan Foodstuff
+566,Michael D. Hsu,United States,"45,000",1872,Packaged Goods,Kimberly-Clark
+567,Jens Olof Henriksson,Sweden,"17,700",1991,Banking,Swedbank
+568,Brian J. Humphries,United States,"330,600",1994,IT Software & Services,Cognizant
+569,Wendell P. Weeks,United States,"61,000",1851,"Engineering, Manufacturing",Corning
+570,Jochen Hanebeck,Germany,"50,280",1999,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Infineon Technologies
+571,Bruce Winfield van,United States,"17,463",1828,Banking,Citizens Financial Group
+572,Rick Muncrief,United States,"1,600",1971,Oil & Gas Operations,Devon Energy
+573,Atsushi Katsuki,Japan,"30,020",1949,"Food, Drink & Tobacco",Asahi Group Holdings
+574,Sharad Mahendra,India,"35,585",1994,Materials,JSW Steel
+575,Jeffrey K. Storey,United States,"36,000",1968,"Telecommunications Services, Cable Supplier",Lumen Technologies
+576,"John M. Turner, Jr.",United States,"19,626",1971,Banking and Financial Services,Regions Financial
+577,Carina ÃkerstrÃ¶m,Sweden,"10,791",1871,Banking and Financial Services,Svenska Handelsbanken
+578,Paul C. Reilly,United States,"20,021",1962,Diversified Financials,Raymond James Financial
+579,Chuan Fu Wang,China,"288,200",1995,Consumer Durables,BYD
+580,Ernest Scott Santi,United States,"45,000",1912,Capital Goods,Illinois Tool Works
+581,Lei Chen,China,Not found,Not found,Retailing,Pinduoduo
+582,Robert A. Kotick,United States,"9,800",2008,Consumer Durables,Activision Blizzard
+583,Michael Thomas Fries,United Kingdom,"11,200",2005,Media,Liberty Global
+584,Not found,United States,"33,800",1806,Household & Personal Products,Colgate-Palmolive
+585,Alistair Phillips-Davies,United Kingdom,"12,512",1989,Utilities,SSE
+586,Ming Tsou,Taiwan,Not found,1958,Chemicals,Nan Ya Plastics
+587,Arnaud Roy de Puyfontaine,France,"33,200",1853,Telecommunications Services,Vivendi
+588,JosÃ© E. Almeida,United States,"60,000",1931,Health Care Equipment & Services,Baxter International
+589,Chen Qiyu Xu Xiaoliang,China,"96,000",1992,Insurance,Fosun International
+590,Xu Guang Tan,China,"42,953",2002,Capital Goods,Weichai Power
+591,Michael J. Nolan,United States,"28,290",1847,Insurance,Fidelity National Financial
+592,Thomas L. Williams,United States,"54,640",1918,Capital Goods,Parker-Hannifin
+593,Sunil Duggal,India,"70,089",1976,Materials,Vedanta Limited
+594,Tae-Seung Son,South Korea,"26,000",2001,Diversified Financials,Woori Financial Group
+595,Kevin P. Hourican,United States,"58,000",1969,Food Markets,Sysco
+596,Andrew Richard Penn,Australia,"27,015",1975,Telecommunications Services,Telstra
+597,Thomas Gottstein PhD,Switzerland,"50,110",1856,Banking,Credit Suisse Group
+598,Anthony Staffieri,Canada,"23,000",1960,Telecommunications Services,Rogers Communications
+599,RenÃ© F. Jones,United States,"17,569",1856,Banking,M&T Bank
+600,Michael F. Mahoney,United States,"41,000",1979,Health Care Equipment & Services,Boston Scientific
+601,Pedro J. Pizarro,United States,"13,003",1886,Utilities,Edison International
+602,Vincent Marie Claude BollorÃ©,France,Not found,1929,Transportation,Financiere de l'Odet
+603,Not found,Japan,"22,139",2002,Banking,Sumitomo Mitsui Trust
+604,Leo Denault,United States,"12,500",1913,Utilities,Entergy
+605,Urs Schaeppi,Switzerland,"18,905",1998,Telecommunications Services,Swisscom
+606,Frank Mastiaux,Germany,"26,064",1997,Utilities,EnBW-Energie Baden
+607,Yang Zhong Hu,China,"52,752",2001,Technology Hardware & Equipment,Hikvision
+608,", Yuichi Tsuji",Japan,"35,057",1885,Transportation,Nippon Yusen
+609,James M. Loree,United States,"71,300",1843,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Stanley Black & Decker
+610,Pierce H. Norton II,United States,"2,847",1906,Oil & Gas Operations,Oneok
+611,Anthony Capuano,United States,"97,000",1927,Travel & Leisure,Marriott International
+612,David M. Zaslav,United States,"11,000",2022,Media,Warner Bros. Discovery
+613,Wei Wang,China,"177,129",1993,Business Services & Supplies,S.F. Holding
+614,Ed Bastian,United States,"81,000",1924,Transportation and Logistics,Delta Air Lines
+615,Arun Kumar Singh,India,"32,701",1928,Oil & Gas Operations,Bharat Petroleum
+616,Jeff Miller,United States,"40,000",1919,Oil & Gas Operations,Halliburton
+617,Bongani Nqwababa,China,"97,972",2008,Construction,Metallurgical Corp of China
+618,Michael G. O'Grady,United States,"21,100",1889,Banking,Northern Trust
+619,Ralph Dominik von,Germany,"51,209",1874,Construction,HeidelbergCement
+620,Hsi Chin Wang,Taiwan,"28,648",1971,Materials,China Steel
+621,James J. Judge,United States,"9,227",1996,Utilities,Eversource Energy
+622,Hongfu Yu,China,"24,586",1994,Capital Goods,Sany Heavy Industry
+623,Axel Dumas Emile HermÃ¨s,France,"17,595",1837,Retail and Wholesale,HermÃ¨s International
+624,Mark S. Sutton,United States,"31,000",1898,Materials,International Paper
+625,Levent Ãakiroglu,Turkey,"105,908",1963,Oil & Gas Operations,KoÃ§ Holding
+626,Shigenobu Nagamori,Japan,"114,371",1973,Capital Goods,Nidec
+627,Xing Wang,China,"100,033",2010,IT Software & Services,Meituan 
+628,Uday Kotak,India,"73,000",1985,Diversified Financials,Kotak Mahindra Bank
+629,Donald R. Lindsay,Canada,"10,600",1906,Materials,Teck Resources
+630,Robert E. Jordan,United States,"55,000",1967,Transportation and Logistics,Southwest Airlines
+631,Theodor Weimer,Germany,"10,200",1990,Diversified Financials,Deutsche Boerse
+632,Adam Schechter,United States,"75,500",1978,Health Care Equipment & Services,Labcorp
+633,Xiao Min Gu,China,"23,300",2014,Telecommunications Services,China Tower Corp.
+634,Naoki Kuroda,Japan,"3,189",2006,Oil & Gas Operations,Inpex
+635,Damian Paul Gammell,United Kingdom,"33,200",2016,"Food, Soft Beverages, Alcohol & Tobacco",Coca-Cola European Partners
+636,Tao Zou,China,"25,882",1998,"Food, Drink & Tobacco",Wuliangye Yibin
+637,Wing Mau Hui,Hong Kong,"24,334",2004,Construction,Shimao Property Holdings
+638,Takashi Tsukioka,Japan,"14,044",1911,Oil & Gas Operations,Idemitsu Kosan
+639,Ming Tsao,Taiwan,Not found,1992,Oil & Gas Operations,Formosa Petrochemical
+640,Jay A. Brown,United States,"5,000",1994,Diversified Financials,Crown Castle International
+641,Steven E. Strah,United States,"12,395",1997,Utilities,FirstEnergy
+642,Jiong Jiong Xiang,China,"13,962",1995,Household & Personal Products,Rongsheng Petrochemical
+643,Satish P. Pai,India,"23,555",1958,Materials,Hindalco Industries
+644,Zhen Shan Chen,China,"10,456",1996,Banking,Bank Of Hangzhou
+645,Makoto Uchida,France,"156,466",1898,Consumer Durables,Renault
+646,Basar Shueb,United Arab Emirates,Not found,1998,"Food, Drink & Tobacco",International Holding Company
+647,Steven J. Johnston,United States,"5,166",1950,Insurance,Cincinnati Financial
+648,Hirotaka Sugiyama,Japan,"9,982",1937,Construction,Mitsubishi Estate
+649,Lourenco Goncalves,United States,"25,500",1847,"Construction, Oil & Gas Operations, Mining and Chemicals",Cleveland-Cliffs
+650,Florentino PÃ©rez RodrÃ­guez,Spain,"122,502",1997,Construction,Grupo ACS
+651,Li Gang Gao,China,"18,248",2014,Utilities,CGN Power
+652,Chien Shen Chang,Taiwan,"68,000",1984,Semiconductors,ASE Technology Holding
+653,Koji Kakigi,Japan,"64,371",2002,Materials,JFE Holdings
+654,Jerry Norcia,United States,"10,300",1996,Utilities,DTE Energy
+655,Bo Zhang,China,"42,650",1994,Materials,China Hongqiao Group
+656,Kurt Sievers,Netherlands,"31,000",2006,Semiconductors,NXP Semiconductors
+657,David V. Goeckeler,United States,"65,000",1970,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Western Digital
+658,Glenn D. Fogel,United States,"20,300",1996,Business Services & Supplies,Booking Holdings
+659,Motoya Okada,Japan,Not found,1926,Food Markets,Aeon
+660,Michael J. Roffler,United States,"6,295",1985,Banking,First Republic Bank
+661,Not found,China,"87,240",2005,IT Software & Services,Lufax Holding
+662,Mats RahmstrÃ¶m,Sweden,"43,000",1873,"Engineering, Manufacturing",Atlas Copco
+663,Gary Norcross,United States,"55,000",2006,"IT, Internet, Software & Services",Fidelity National Information (FIS)
+664,Jean-Marc Gilson,Japan,"69,607",2005,Chemicals,Mitsubishi Chemical
+665,Miguel Stilwell de Andrade,Portugal,"12,236",1976,Utilities,Edp-energias De Portugal
+666,Goro Yamaguchi,Japan,"78,490",1959,Technology Hardware & Equipment,Kyocera
+667,Yong Da Zheng,China,"26,761",1998,Trading Companies,Xiamen C&D
+668,"William C. Rhodes, III",United States,"100,000",1979,Retailing,AutoZone
+669,Zhao Jun Yin,Hong Kong,"68,446",1931,Insurance,China Taiping Insurance
+670,Alexander J. Pourbaix,Canada,"5,938",1881,Oil & Gas Operations,Cenovus Energy
+671,Matti Lehmus,Finland,"4,845",1948,Oil & Gas Operations,Neste
+672,Hans Dieter PÃ¶tsch,Germany,882,1930,Consumer Durables,Porsche Automobil Holding
+673,Gudrun Helena Lundberg Helmersson,Sweden,"107,375",1947,"Clothing, Shoes, Sports Equipment",H&M - Hennes & Mauritz
+674,Erik Engstrom,United Kingdom,"33,500",1903,Business Services & Supplies,RELX
+675,Patricia K. Poppe,United States,"26,000",1995,Utilities,PG&E
+676,Jon Vander Ark,United States,"35,000",1998,Business Services & Supplies,Republic Services
+677,Barbara Rentler,United States,"100,000",1982,Retailing,Ross Stores
+678,Not found,United States,"6,938",1981,Utilities,WEC Energy Group
+679,Mike Kaufmann,United States,"48,000",1971,Retail and Wholesale,Cardinal Health
+680,Bill Nash,United States,"32,647",1993,Retailing,CarMax
+681,Ming Yang Wang,Taiwan,"13,197",2001,Banking,China Development Financial
+682,Tariq Abdulrahman Saleh Al-Sadhan,Saudi Arabia,"5,214",1983,Banking,Riyad Bank
+683,Steve Hasker,United States,"24,400",2008,Media & Advertising,Thomson Reuters
+684,Nikolay Petrovich Tokarev,Russia,Not found,1993,Oil & Gas Operations,Transneft
+685,Kevin M. Murphy,United Kingdom,"34,352",1887,Trading Companies,Ferguson
+686,Ari Bousbib,United States,"79,000",1982,Drugs & Biotechnology,IQVIA
+687,Alejandro Nicolas Aguzin,Hong Kong,"2,307",2000,Diversified Financials,Hong Kong Exchanges
+688,Michael H. McGarry,United States,"27,500",1883,"Construction, Oil & Gas Operations, Mining and Chemicals",PPG 
+689,Peng Li,China,"75,000",1984,Technology Hardware & Equipment,Legend Holding
+690,Christophe Beck,United States,"47,000",1923,Business Services & Supplies,Ecolab
+691,Zhi Ming Li,China,"113,234",2003,Drugs & Biotechnology,Sinopharm Group
+692,Lai Chun Wang,China,"137,284",2004,Technology Hardware & Equipment,Luxshare Precision Industry
+693,Xiao Ping LÃ¼,China,"32,105",1996,Construction,Seazen Group
+694,Jeffrey Steven Sloan,United States,"25,000",2000,Business Services & Supplies,Global Payments
+695,Hong Shui Sun,China,"115,325",2014,Construction,China Energy Engineering
+696,Olivier AndriÃ¨s,France,"76,800",1984,Aerospace & Defense,Safran
+697,Douglas L. Peterson,United States,"22,850",1888,Business Services & Supplies,S&P Global
+698,Stephen D. Steinour,United States,"18,442",1866,Banking,Huntington Bank
+699,Marc Grandisson,Bermuda,"5,200",1995,Insurance,Arch Capital Group
+700,Laura L. Prieskorn,United States,"3,500",Not found,Diversified Financials,Jackson Financial
+701,Chanan Friedman,Israel,"8,516",1902,Banking,Bank Leumi
+702,Dave S. Regnery,Ireland,"39,557",1885,Conglomerates,Trane Technologies
+703,Antoine FrÃ©rot,France,"220,000",1853,Utilities,Veolia Environnement
+704,Gregory D. Johnson,United States,"83,636",1957,Retailing,O'Reilly Automotive
+705,Michel Vounatsos,United States,"9,610",1978,Drugs & Biotechnology,Biogen
+706,Arthur Sadoun,France,"79,051",1926,Media,Publicis Groupe
+707,Keum Choon Soo,South Korea,"4,751",1952,Trading Companies,Hanwha
+708,James Calvin O'Rourke,United States,"13,000",2004,"Construction, Oil & Gas Operations, Mining and Chemicals",The Mosaic Company
+709,Gopal Vittal,India,"48,600",1995,Telecommunications Services,Bharti Airtel
+710,Hong Chen Han,China,"96,108",2004,Transportation,Daqin Railway
+711,Dara Khosrowshahi,United States,"29,300",2009,IT Software & Services,Uber
+712,Jean-Marc Chery,Switzerland,"48,000",1987,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",STMicroelectronics
+713,Jun Can Huang,China,"11,763",1988,Construction,Gemdale
+714,Hans de Cuyper,Belgium,"10,101",1824,Insurance,Ageas
+715,Tzu Liang,Taiwan,Not found,1988,Technology Hardware & Equipment,Quanta Computer
+716,Galen G. Weston Jr.,Canada,"215,000",1882,Food Markets,George Weston
+717,Devin W. Stockfish,United States,"9,214",1900,Diversified Financials,Weyerhaeuser
+718,Seung-il Cheong,South Korea,Not found,1915,Utilities,Korea Electric Power
+719,Lachlan Keith Murdoch,United States,"9,000",2015,Media,Fox
+720,Seiji Izumisawa,Japan,"79,974",1934,Capital Goods,Mitsubishi Heavy Industries
+721,Mark D. Millet,United States,"10,640",1993,"Engineering, Manufacturing",Steel Dynamics
+722,Akinori Yamamoto,Japan,"8,380",1972,Technology Hardware & Equipment,Keyence
+723,Zhen Guo Li,China,"46,631",2000,Semiconductors,Longi Green Energy Technology
+724,Laxman Narasimhan MBA,United Kingdom,"52,303",1823,Household & Personal Products,Reckitt Benckiser Group
+725,Pramod Agrawal,India,"259,016",1973,Materials,Coal India
+726,Kanshiro Toyoda,Japan,"118,359",1949,Consumer Durables,Aisin Seiki
+727,Arthur William Stein,United States,"3,030",2004,Diversified Financials,Digital Realty Trust
+728,GÃ¼nter Karl Butschek,India,"50,837",1945,Consumer Durables,Tata Motors
+729,Kazuhiro Higashi,Japan,"20,308",2001,Banking,Resona Holdings
+730,David E. Simon,United States,"3,300",1993,Diversified Financials,Simon Property Group
+731,Jong-Won Yoon,South Korea,"12,603",1961,Banking,Industrial Bank of Korea
+732,Richard Kendall Lancaster,Hong Kong,"8,116",1901,Utilities,CLP Holdings
+733,Isam Jassim Al-Sager,Kuwait,Not found,1952,Banking,National Bank of Kuwait 
+734,Kuan Moon Yuen,Singapore,"22,000",1879,Telecommunications Services,SingTel
+735,Brian Armstrong,United States,"3,730",2012,IT Software & Services,Coinbase
+736,David J. Lesar,United States,"12,901",1882,Utilities,CenterPoint Energy
+737,Robert Wilt,Saudi Arabia,Not found,1997,Materials,Saudi Arabian Mining
+738,Jian De Gong,China,"14,723",1999,Diversified Financials,China Cinda Asset Management
+739,Ichiro Itoh,Japan,"44,497",1931,Chemicals,Asahi Kasei
+740,Takayuki Morita,Japan,"114,714",1899,Technology Hardware & Equipment,NEC
+741,J. Scott Kirby,United States,"84,100",1968,Transportation,United Airlines Holdings
+742,William J. Hornbuckle,United States,"59,000",1986,"Hotels, Restaurants & Leisure",MGM Resorts
+743,"Dimitri de Vreeze, GÃ©raldine Matchett",Netherlands,"21,358",1902,Materials,DSM
+744,Ririek Adriansyah,Indonesia,"20,884",1965,Telecommunications Services,Telkom Indonesia
+745,Daniel Obajtek,Poland,"32,701",1999,Oil & Gas Operations,PKN Orlen
+746,Hong Bo Shang,China,"15,198",1999,Diversified Financials,Guotai Junan Securities
+747,Hilde Merete Aasheim,Norway,"31,264",1905,Materials,Norsk Hydro
+748,Chien Nan Lin,Taiwan,Not found,1954,Chemicals,Formosa Plastics
+749,Mauricio Gutierrez,United States,"6,635",1989,Utilities,NRG Energy
+750,Ah Lek Tay,Malaysia,"19,000",1966,Banking,Public Bank
+751,Dong Sheng Li,China,"48,471",1981,Technology Hardware & Equipment,TCL 
+752,Yi Zhou,China,"14,372",1990,Diversified Financials,Huatai Securities
+753,Steven Cahillane,United States,"31,000",1906,"Food, Soft Beverages, Alcohol & Tobacco",Kellogg
+754,", Osamu Tsuji",China,"59,159",Not found,"Food, Drink & Tobacco",Inner Mongolia Yili 
+755,Mark Julian Read,United Kingdom,"109,382",1971,Media,WPP
+756,John D. Wren,United States,"71,700",1986,Media,Omnicom Group
+757,Toshinori Abe,Japan,"24,775",1960,Construction,Sekisui House
+758,Jack A. Fusco,United States,"1,550",1983,Oil & Gas Operations,Cheniere Energy
+759,Stefan Widing,Sweden,"44,133",1862,Capital Goods,Sandvik
+760,Roongrote Rangsiyopash,Thailand,Not found,1913,Chemicals,Siam Cement
+761,Tetsuro Tomita,Japan,"71,973",1987,Transportation,East Japan Railway
+762,Ala'a Mohamed Atta Khalil Eraiqat,United Arab Emirates,"6,500",1985,Banking,Abu Dhabi Commercial Bank
+763,Ren Fu Zhang,China,"10,701",1997,Banking,Huishang Bank
+764,Feng Ying Wang,China,"77,934",1984,Consumer Durables,Great Wall Motor 
+765,Jun Li,China,"11,631",1988,Diversified Financials,Haitong Securities
+766,Shohei Yamazaki,China,"122,061",1969,Consumer Durables,Dongfeng Motor Group
+767,Chunlei He,China,"49,431",1996,Insurance,China Reinsurance Group
+768,"Ka Kit Lee, Ka Shing Lee",Hong Kong,"10,059",1976,Construction,Henderson Land
+769,Young-Hyun Jun,South Korea,"11,315",1970,Technology Hardware & Equipment,Samsung SDI
+770,David G. Hutchens,Canada,"9,000",1987,Utilities,Fortis (Canada)
+771,Young Sang Ryu,South Korea,"5,339",1984,Telecommunications Services,SK Telecom
+772,Melchert Frans Groot,Netherlands,"51,397",1977,Diversified Financials,HAL Trust
+773,Roberto Balls Sallouti,Brazil,Not found,1979,Diversified Financials,Banco Btg Pactual
+774,Lorenzo Simonelli,United States,"54,000",1987,"Construction, Oil & Gas Operations, Mining and Chemicals",Baker Hughes Company
+775,Patrick J. Gallagher Jr.,United States,"39,000",2016,Insurance,Gallagher
+776,Juan C. Andrade,Bermuda,"1,947",1999,Insurance,Everest Re Group
+777,Richard Adam Norwitt,United States,"90,000",1932,Technology Hardware & Equipment,Amphenol
+778,Robert Isom,United States,"123,400",1930,Transportation and Logistics,American Airlines Group
+779,Richard P. Wallace,United States,"10,000",1997,"IT, Internet, Software & Services",KLA
+780,Kenji Yasukawa,Japan,"15,455",2005,Drugs & Biotechnology,Astellas Pharma
+781,Tatsuo Higuchi,Japan,"33,226",1950,Drugs & Biotechnology,Otsuka Holding
+782,Not found,China,"11,826",2005,Banking,China Bohai Bank
+783,Kattiya Indaravijaya,Thailand,Not found,1993,Banking,Kasikornbank
+784,Dov Kotler,Israel,"8,535",1921,Banking,Bank Hapoalim
+785,Meg OâNeill,Australia,"3,684",1954,Oil & Gas Operations,Woodside Petroleum
+786,Chak Pui Kam,Hong Kong,"31,968",2000,Transportation,MTR
+787,Nail Ulfatovich Maganov,Russia,Not found,1950,Oil & Gas Operations,Tatneft
+788,Ravinder Singh Dhillon,India,552,1986,Business Services & Supplies,Power Finance
+789,Kristin C. Peck,United States,"12,100",1952,Drugs & Biotechnology,Zoetis
+790,Pierre-Alain Ruffieux,Switzerland,"16,218",1897,Drugs & Biotechnology,Lonza Group
+791,Benoit de Ruffray,France,"72,000",1992,Construction,Eiffage
+792,Osamu Ishitobi,Japan,"34,743",1913,Chemicals,Sumitomo Chemical
+793,Reshma Kewalramani,United States,"3,900",1989,Drugs & Biotechnology,Vertex Pharmaceuticals
+794,Joseph Dominguez,United States,"11,696",Not found,Utilities,Constellation Energy
+795,Feng Lin,China,"7,300",2000,Construction,CIFI Holdings Group
+796,Johann Strobl,Austria,"46,185",2010,Banking,Raiffeisen Bank International
+797,Marc R. Bitzer,United States,"69,000",1911,Consumer Durables,Whirlpool
+798,Christian Bruch,Germany,"92,000",1866,Capital Goods,Siemens Energy
+799,David B. Sewell,United States,"49,900",2015,Materials,WestRock
+800,Young-Moo Choi,South Korea,"5,818",1952,Insurance,Samsung Fire & Marine
+801,David B. Burritt,United States,"24,540",1901,Materials,US Steel
+802,Jussi Pesonen,Finland,"16,966",1978,Materials,UPM-Kymmene
+803,Wen Chin Lue,Taiwan,Not found,1965,Chemicals,Formosa Chemicals
+804,Jun Kim,South Korea,"1,353",1962,Oil & Gas Operations,SK Innovation 
+805,Allison Kirkby,Sweden,"19,566",1966,Telecommunications Services,Telia
+806,Kenji Nakagome,Japan,"12,242",2004,Insurance,T&D Holdings
+807,Antonio Huertas MejÃ­as,Spain,"32,341",1935,Insurance,Mapfre
+808,C Vijayakumar,India,"181,919",1976,IT Software & Services,HCL Technologies
+809,Junji Takashima,Japan,"13,530",1949,Construction,Sumitomo Realty
+810,Albert Yuan Chao,United States,"14,550",1986,Chemicals,Westlake Chemical
+811,Marc Jeffrey Rowan,United States,"1,509",1990,Diversified Financials,Apollo Global Management
+812,Matthew John Flannery,United States,"20,400",1997,Business Services & Supplies,United Rentals
+813,Travis D. Stice,United States,870,2007,Oil & Gas Operations,Diamondback Energy
+814,Judith F. Marks,United States,"70,000",1853,"Engineering, Manufacturing",Otis Worldwide
+815,Jian Zhong Liu,China,"14,905",2008,Banking,Chongqing Rural Bank
+816,Daniel W. Fisher,United States,"24,300",1880,Materials,Ball
+817,Annica Bresky,Finland,"22,094",1996,Materials,Stora Enso
+818,Chih Chien Hsieh,Taiwan,Not found,Not found,Transportation,Yang Ming Marine Transport
+819,Andrew David Briggs,United Kingdom,"1,249",1857,Insurance,Phoenix Group Holdings
+820,Thierry Delaporte,India,"200,000",1945,IT Software & Services,Wipro
+821,Kandikuppa Sreekant,India,"9,258",1989,Utilities,Power Grid of India
+822,Arrie Rautenbach,South Africa,"35,267",1991,Banking and Financial Services,Absa Group
+823,Grigory Vitalyevich Fedorishin,Russia,Not found,1934,Materials,Novolipetsk Steel
+824,Masayoshi Matsumoto,Japan,"286,784",1911,Capital Goods,Sumitomo Electric
+825,Andrew Martin Croft,United Kingdom,"2,014",Not found,Insurance,St. James's Place
+826,Hari Krishna Agarwal,India,"40,910",1947,Construction,Grasim Industries
+827,David John Rivers,United Kingdom,293,1920,Diversified Financials,Segro
+828,Kuang Hua Hu,Taiwan,"9,594",2002,Diversified Financials,Mega Financial Holding
+829,Guo Qiang Li,China,"26,969",2008,Retailing,Zhongsheng Group Holdings
+830,"Min Yi Huang, Jih-Chu Lee",Taiwan,"16,859",2002,Insurance,Shin Kong Financial
+831,Garrick J. Rochow,United States,"9,778",1987,Utilities,CMS Energy
+832,JosÃ© Francisco PÃ©rez Mackenna,Chile,"21,749",1957,Conglomerates,Quinenco
+833,Christian Kullmann,Germany,"33,004",2007,Chemicals,Evonik Industries
+834,Shi Qi,China,"5,696",2004,IT Software & Services,East Money Information  
+835,David Andrew Horton,Australia,"11,651",1886,Insurance,QBE Insurance Group
+836,Baharin bin Din,Malaysia,"35,576",1949,Utilities,Tenaga Nasional
+837,Soo-Yeon Choi,South Korea,"4,678",1999,IT Software & Services,Naver
+838,Shigenao Ishiguro,Japan,"129,284",1935,Technology Hardware & Equipment,TDK
+839,Kentaro Okuda,Japan,"26,402",1925,Diversified Financials,Nomura
+840,Si Hai Jiang,China,"22,910",1987,Construction,Jinke Property Group
+841,Takashi Kawamura,Japan,"37,891",1951,Utilities,Tokyo Electric Power
+842,Christine A. Leahy,United States,"15,000",1984,"IT, Internet, Software & Services",CDW
+843,Michele Buck,United States,"17,000",1894,"Food, Soft Beverages, Alcohol & Tobacco",The Hershey Company
+844,Sanjiv Puri,India,"26,118",1910,"Food, Drink & Tobacco",ITC
+845,Iwona Waksmundzka-Olejniczak,Poland,"24,608",1976,Oil & Gas Operations,Pgnig Group
+846,Ralph Tendai Mupita,South Africa,"19,295",1994,Telecommunications Services,MTN Group
+847,Dominic Blakemore,United Kingdom,"478,070",1994,"Hotels, Restaurants & Leisure",Compass Group
+848,William Robert Berkley Jr.,United States,"7,681",1967,Insurance,WR Berkley
+849,Robert Scott Fauber,United States,"13,460",1909,Business Services & Supplies,Moody's
+850,Paul D. Donahue,United States,"52,000",1928,Trading Companies,Genuine Parts
+851,Chang Hong Shao,China,57,2007,Transportation,Beijing-Shanghai High-Speed Railway
+852,Run Zhou Zhu,China,"60,056",2001,Materials,Aluminum Corp of China
+853,", Ryoichi Nagata",Japan,"31,933",1951,Utilities,Kansai Electric Power
+854,Joseph D. Russell Jr.,United States,"5,800",1972,Diversified Financials,Public Storage
+855,Guo Qiang Chen,China,"10,780",1984,Business Services & Supplies,China International Travel Service
+856,Thomas Hasler,Switzerland,"27,059",1910,Chemicals,Sika
+857,Joseph J. DePaolo,United States,"1,854",2000,Banking,Signature Bank
+858,Robert W. Sharps,United States,"7,529",1937,Diversified Financials,T Rowe Price
+859,Franklin K. Clyburn,United States,"24,000",1833,Household & Personal Products,International Flavors & Fragrances
+860,Carlo Bertazzo,Italy,"30,659",1982,Transportation,Atlantia
+861,Laurence Neil Hunn,United States,"19,300",1981,Conglomerates,Roper Technologies
+862,Jun Yan,China,"13,546",1993,Transportation,Shanghai International Port
+863,Sunao Manabe,Japan,"16,033",2005,Drugs & Biotechnology,Daiichi Sankyo
+864,Hiroshi Mikitani,Japan,"28,261",1997,Business Services & Supplies,Rakuten
+865,Jennifer M. Johnson,United States,"10,300",1947,Diversified Financials,Franklin Resources
+866,Francesca Jane McDonagh,Ireland,"8,696",1783,Banking,Bank of Ireland
+867,Takeshi Hashimoto,Japan,"8,571",1942,Transportation,Mitsui OSK Lines
+868,Anthony William Cripps,Saudi Arabia,"5,288",1978,Banking,Saudi British Bank
+869,Martin J. Lyons JR.,United States,"9,116",1902,Utilities,Ameren
+870,Shui-Yi Kuo,Taiwan,"20,000",1996,"Telecommunications Services, Cable Supplier",Chunghwa Telecom
+871,Nico Delvaux,Sweden,"51,000",1994,Capital Goods,Assa Abloy
+872,Zi Yang Xu,China,"72,584",1985,"Telecommunications Services, Cable Supplier",ZTE
+873,Jos P. M.,Netherlands,"2,547",2000,Insurance,Asr Nederland
+874,Sean M. Connolly,United States,"18,600",1919,"Food, Drink & Tobacco",Conagra Brands
+875,Manfred Knof PhD,Germany,"46,218",1870,Banking,Commerzbank
+876,Sanjivnayan Rahul Kumar,India,105,2007,Conglomerates,Bajaj Finserv 
+877,Tong-Il An,South Korea,"11,495",1953,Materials,Hyundai Steel
+878,Ho-Young Jeong,South Korea,"27,702",1985,Trading Companies,LG Display
+879,Hyun-Mo Gu,South Korea,"21,759",1981,Telecommunications Services,KT 
+880,Zhuo Bin Lai,China,"2,897",2010,Construction,Logan Property Holdings
+881,Ralph Izzo,United States,"12,684",1903,Utilities,Public Service Enterprise Group
+882,Vladimir Alekseevich Kiryukhin,Russia,Not found,2002,Materials,EN+ Group International 
+883,Hakan Aran,Turkey,"24,570",1924,Banking,Isbank
+884,Jeffrey S. Musser,United States,"19,070",1979,Transportation,Expeditors International
+885,MÃ¡ximo Vedoya,Luxembourg,"20,142",1961,Materials,Ternium
+886,Daniel BeneÅ¡,Czech Republic,"27,659",1992,Utilities,CEZ Group
+887,Zhao Jun Yin,Japan,"36,224",1916,Consumer Durables,Isuzu Motors
+888,Hidetoshi Shibata,Japan,"20,962",2002,Semiconductors,Renesas Electronics
+889,Lucian C. Grainge,Netherlands,"9,505",1995,Business Services & Supplies,Universal Music Group
+890,Carlo Cimbri,Italy,"11,946",1961,Banking and Financial Services,Unipol Gruppo
+891,Yoshitaka Kitao,Japan,"9,209",1999,Diversified Financials,SBI Holdings
+892,Joseph G. Galli Jr.,Hong Kong,"51,426",1985,Consumer Durables,Techtronic Industries
+893,Ignacio Madridejos FernÃ¡ndez,Spain,"18,680",1952,Transportation,Ferrovial
+894,Abdul Rahman bin Ahmad,Malaysia,"33,265",1924,Banking,CIMB Group Holdings
+895,Henrik Georg Fredrik Ehrnrooth,Finland,"62,720",1910,Construction,Kone
+896,Gab-Soo Lee,South Korea,"24,599",1993,Retailing,E-mart 
+897,Chuan Hui Lin,China,"13,174",1991,Diversified Financials,GF Securities
+898,Jian Tao Xiong,China,"12,005",1991,Diversified Financials,China Merchants Securities
+899,David L. Finkelstein,United States,171,1996,Diversified Financials,Annaly Capital Management
+900,Steven Cain,Australia,"120,000",1914,Food Markets,Coles Group
+901,Kouei Tsuge,Japan,"30,153",1987,Transportation,Central Japan Railway
+902,Cenk Alper,Turkey,"65,054",1966,Diversified Financials,Sabanci Holding
+903,Chien Weng,Taiwan,"14,442",2002,Diversified Financials,Yuanta Financial Holding
+904,AndrÃ©s LehuedÃ© Bromley,Chile,"37,075",2003,Diversified Financials,AntarChile
+905,Jae-Hoon Bae,South Korea,"1,678",Not found,Transportation,HMM
+906,William David Mosley,Ireland,"40,000",1978,Technology Hardware & Equipment,Seagate Technology
+907,Joseph Patrick Brandon,United States,"13,313",1929,Insurance,Alleghany
+908,Deng Ge,China,"12,054",1994,Diversified Financials,Guosen Securities
+909,Joseph A. Ferraro,United States,"21,000",1946,Business Services & Supplies,Avis Budget Group
+910,Gao Qing Zheng,China,"19,711",1997,Materials,Jiangxi Copper
+911,Takahiro Yanai,Japan,"3,284",1971,Business Services & Supplies,Mitsubishi UFJ Lease
+912,Nobumasa Kemori,Japan,"7,072",1950,Materials,Sumitomo Metal Mining
+913,S.Y. Hsu Samson Hu,Taiwan,"15,400",1989,Technology Hardware & Equipment,Asustek Computer
+914,George Garfield Weston,United Kingdom,"128,000",1935,"Food, Drink & Tobacco",Associated British Foods
+915,Ming Ze Ma,China,"13,152",2008,Utilities,China National Nuclear Power
+916,Zhao Hui Huang,China,"13,557",1995,Diversified Financials,China International Capital
+917,Rui Wen Sun,China,"11,472",2006,Materials,China Molybdenum
+918,Mark Pearson,United States,"7,800",1859,Diversified Financials,Equitable Holdings
+919,Markus Steilemann,Germany,"17,900",2015,"Construction, Oil & Gas Operations, Mining and Chemicals",Covestro
+920,John William Foley,United Kingdom,Not found,2018,Diversified Financials,M&G
+921,Tobias Albin LÃ¼tke,Canada,"10,000",2006,"IT, Internet, Software & Services",Shopify
+922,"Jia Jun Bian, Junichi Goishi",China,"51,369",1994,Construction,Shanghai Construction 
+923,Carl Magnus Groth,Sweden,"46,000",1929,Household & Personal Products,Essity
+924,Donald G. Macpherson,United States,"24,200",1927,Trading Companies,WW Grainger
+925,Lingam Venkata Prabhakar,India,"88,213",1906,Banking,Canara Bank
+926,Michael Goettler,United States,"37,000",1961,Drugs & Biotechnology,Viatris
+927,M. Susan Hardwick,United States,"6,400",1886,Utilities,American Water Works
+928,Shan Chieh Chien,Taiwan,Not found,1980,Semiconductors,United Microelectronics
+929,Steven E. Rendle,United States,"35,000",1899,"Clothing, Shoes, Sports Equipment",VF
+930,Gary S. Guthart,United States,"9,793",1995,Health Care Equipment & Services,Intuitive Surgical
+931,Stefano Venier,Italy,"3,430",1941,Oil & Gas Operations,Snam
+932,Henrik Andersen,Denmark,"29,427",1945,Capital Goods,Vestas Wind Systems
+933,Tomomi Nakamura,Japan,"36,070",1953,Consumer Durables,Subaru
+934,Yu Han Chen,China,"46,615",1998,Construction,Jiangsu Zhongnan Construction Group
+935,Cees't C. Hart,Denmark,"39,375",1847,"Food, Drink & Tobacco",Carlsberg
+936,David E. Flitman,United States,"28,000",1998,Construction,Builders FirstSource
+937,"Mong Song Liang, Hai Jun Zhao",China,"17,681",2000,Semiconductors,Semiconductor Manufacturing International
+938,Iwona Beata Duda,Poland,"25,657",1919,Banking,PKO Bank Polski
+939,Ji Shen Han,China,Not found,1992,Oil & Gas Operations,ENN Energy Holdings
+940,Gordon Lijun Guo,Hong Kong,"107,000",2006,"Food, Drink & Tobacco",WH Group 
+941,Ronald Stephen Delia,United Kingdom,"46,000",1860,Materials,Amcor
+942,Hee-Bong Chae,South Korea,"4,307",1983,Oil & Gas Operations,Korea Gas
+943,Richard Brian Handler,United States,"5,556",1968,Conglomerates,Jefferies Financial 
+944,Alexander Anatolievich Shevelev,Russia,Not found,1955,Materials,Severstal
+945,"Peter M. Moglia, Stephen A. Richardson",United States,559,1994,Diversified Financials,Alexandria Real Estate Equities
+946,Philipp Rickenbacher,Switzerland,"6,727",1890,Banking,Julius Baer Group
+947,Paul Brendan Hanratty,South Africa,"21,180",1918,Diversified Financials,Sanlam
+948,Amit Jain,United Arab Emirates,Not found,1997,Construction,Emaar Properties
+949,Dung Quang Pham,Vietnam,"21,670",1955,Banking,Joint Stock Commercial Bank for Foreign Trade of Vietnam
+950,Gregory Q. Brown,United States,"18,700",2011,Aerospace & Defense,Motorola Solutions
+951,Not found,China,Not found,2005,Banking,Shanghai Rural Commercial Bank
+952,Roberto Lopes Pontes SimÃµes,Brazil,"8,008",2002,Chemicals,Braskem
+953,Sanjiv Chadha,India,"55,754",1957,Banking,Bank of Baroda
+954,Hussain A. Al-Qahtani,South Korea,"3,154",1976,Oil & Gas Operations,S-Oil
+955,Harry A. Lawton III,United States,"46,000",1938,Retailing,Tractor Supply
+956,Steve Johnston,Australia,"13,505",1996,Insurance,Suncorp Group
+957,"Zsolt HernÃ¡di, JÃ³zsef MolnÃ¡r",Hungary,"24,948",1991,Oil & Gas Operations,MOL Hungarian Oil
+958,Kevin P. Clark,Ireland,"155,000",1994,Consumer Durables,Aptiv
+959,Rodney Owen Martin Jr.,United States,"6,000",1999,Insurance,Voya Financial
+960,"Chang-Soo Huh, Byung-Yong Lim",South Korea,61,1966,Conglomerates,GS Holdings
+961,Gustavo Werneck da Cunha,Brazil,Not found,1901,Materials,Gerdau (Cosigua)
+962,Mark J. Parrell,United States,"2,400",1993,Diversified Financials,Equity Residential
+963,Bassel Gamaludin Mohamed Ali,Qatar,"1,179",1982,Banking,Qatar Islamic Bank
+964,Jim Snee,United States,"20,000",1891,"Food, Drink & Tobacco",Hormel Foods
+965,Hao Huang,China,"11,440",1996,Diversified Financials,Shenwan Hongyuan Group
+966,Anna Manning,United States,"3,500",1973,Insurance,Reinsurance Group of America
+967,Steve Rusckowski,United States,"49,000",1967,Health Care Equipment & Services,Quest Diagnostics
+968,Ilham Kadri,Belgium,"21,000",1863,"Construction, Oil & Gas Operations, Mining and Chemicals",Solvay
+969,J. Scott Burrows,Canada,"2,488",1997,Oil & Gas Operations,Pembina Pipeline
+970,Rayan Mohammed Hamid,Saudi Arabia,"2,997",1977,Banking,Banque Saudi Fransi
+971,Not found,Japan,"20,619",1959,Capital Goods,SMC
+972,Fleetwood Grobler,South Africa,"28,949",1950,"Construction, Oil & Gas Operations, Mining and Chemicals",Sasol
+973,Gavin D. K. Hattersley,United States,"16,300",1786,"Food, Drink & Tobacco",Molson Coors Brewing
+974,Jeffrey Gennette,United States,"88,857",1929,Retailing,Macy's
+975,Juan Carlos Mora Uribe,Colombia,"29,955",1945,Banking,Bancolombia
+976,Scott D. Farmer,United States,"40,000",1968,Business Services & Supplies,Cintas
+977,Bo Liang Mai,China,"51,746",1980,Capital Goods,China International Marine
+978,Ping Zhao,China,"57,970",1994,Utilities,Huaneng Power International
+979,JosÃ© Eduardo Cil,Canada,"5,700",2014,"Hotels, Restaurants & Leisure",Restaurant Brands International
+980,Beata Kozlowska-Chyla,Poland,"43,310",1803,Insurance,Grupa PZU
+981,"Michitaka Sawada, Satoshi Kasai",Japan,"33,507",1887,Household & Personal Products,Kao 
+982,Victor Massiah,China,"98,466",2005,Construction,Agile Group Holdings
+983,Michael J. Long,United States,"20,700",1946,Trading Companies,Arrow Electronics
+984,Li Hsing Tsai,China,"24,526",1997,Business Services & Supplies,Shenzhen Overseas
+985,Saumya Sutaria,United States,"101,100",1967,Health Care Equipment & Services,Tenet Healthcare
+986,Luis Carlos Sarmiento GutiÃ©rrez,Colombia,"80,565",1994,Diversified Financials,Grupo Aval
+987,Tanin Buranamanit,Thailand,Not found,1988,Food Markets,CP All
+988,Sheng Yue Gui,Hong Kong,"44,000",1973,Consumer Durables,Geely Automobile Holdings
+989,Christopher OâShea,United Kingdom,"7,000",1997,Utilities,Centrica
+990,Adnan Abdul Shakoor Chilwan,United Arab Emirates,"9,000",1975,Banking,Dubai Islamic Bank
+991,Walter Schalka,Brazil,"37,000",1924,Materials,Suzano Papel e Celulose
+992,Kwok Lung Hongchoy,Hong Kong,"1,200",2005,Diversified Financials,Link REIT
+993,David W. Gibbs,Canada,"36,000",1997,"Hotels, Restaurants & Leisure",Yum! Brands
+994,A. Tristan Pascall,Canada,"26,349",1983,Materials,First Quantum Minerals
+995,Aengus Kelly,Ireland,736,1995,Business Services & Supplies,AerCap Holdings
+996,Bryan Jordan,United States,"7,867",1864,Banking,First Horizon
+997,Hiroshi Igarashi,Japan,"64,832",2001,Media,Dentsu
+998,Joseph M. Zubretsky,United States,"14,000",1980,Drugs & Biotechnology,Molina Healthcare
+999,Rajkiran Gundyadka Rai,India,"78,202",1919,Banking,Union Bank of India
+1000,Akihiro Nikkaku,Japan,"46,267",1926,Household & Personal Products,Toray Industries
+1001,Jack Patrick Dorsey,United States,"8,521",2009,IT Software & Services,Block
+1002,Rodrigo Limp Nascimento,Brazil,"12,126",1962,Utilities,EletrobrÃ¡s
+1003,Min Fang Lu,Hong Kong,"41,141",2004,"Food, Drink & Tobacco",China Mengniu Dairy
+1004,Jeong-Nam Kim,South Korea,"4,660",1968,Insurance,Db Insurance
+1005,Nan Chou Huang,Taiwan,"8,783",1992,Banking,E.Sun Financial
+1006,SÃ¡ndor CsÃ¡nyi,Hungary,"37,866",1949,Banking,OTP Bank
+1007,Frederic Cuyegkeng DyBuncio,Philippines,"9,000",1958,Retailing,SM Investments
+1008,Jamie Iannone,United States,"10,800",1995,Business Services & Supplies,eBay
+1009,Michael A. Mussallem,United States,"16,000",1958,Drugs & Biotechnology,Edwards Lifesciences
+1010,Mei Tsu Chen,Taiwan,"9,600",1946,Banking,Taiwan Cooperative Financial
+1011,William A. Newlands Jr.,United States,"10,000",1945,"Food, Drink & Tobacco",Constellation Brands
+1012,Cong Rui Li,Hong Kong,"12,825",2004,Construction,China Jinmao
+1013,Kenji Yamaguchi,Japan,"8,256",1972,Capital Goods,Fanuc
+1014,Rong Bin Zhu,China,"21,319",Not found,Construction,Yango Group
+1015,BenoÃ®t Coquart,France,"34,244",1860,Capital Goods,Legrand
+1016,Da Wei Liu,China,"47,056",1994,Drugs & Biotechnology,Shanghai Pharmaceuticals
+1017,Takuya Shimamura,Japan,"55,999",1907,Chemicals,AGC
+1018,Yong Mo,China,"31,708",Not found,Construction,Shaanxi Construction Engineering Group
+1019,Zhi Qiang Cao,China,"23,628",1997,Materials,Hunan Valin Steel
+1020,Gregory Leith Goodman,Australia,941,1989,Construction,Goodman Group
+1021,Denis Ricard,Canada,"8,300",1892,Insurance,iA Financial Corporation
+1022,Richard Paul McKenney,United States,"10,300",1848,Insurance,Unum
+1023,Shi Zhong Ding,China,"52,000",1991,Household & Personal Products,Anta Sports Products
+1024,William B. Berry,United States,"1,254",Not found,Oil & Gas Operations,Continental Resources
+1025,Gert devWinter,Switzerland,"7,712",1864,Insurance,BÃ¢loise Group
+1026,Syh-Jang Liao,Taiwan,Not found,2007,Technology Hardware & Equipment,Pegatron
+1027,Christian Ulbrich,United States,"98,200",1783,Construction,Jones Lang LaSalle
+1028,"Carl Henry Lindner, III, S. Craig Lindner, Jr.",United States,"6,600",1959,Insurance,American Financial Group
+1029,Seiji Nakata,Japan,"15,096",1902,Diversified Financials,Daiwa Securities
+1030,Carsten Spohr,Germany,"105,290",1953,Transportation,Deutsche Lufthansa
+1031,Martin Flanagan,United States,"8,513",1935,Diversified Financials,Invesco
+1032,Adena T. Friedman,United States,"5,814",1971,Diversified Financials,NASDAQ
+1033,Silvio Napoli,Switzerland,"69,015",1874,Capital Goods,Schindler Holding
+1034,Curtis C. Farmer,United States,"7,611",1849,Banking,Comerica
+1035,Moshe Lari,Israel,"7,632",1923,Banking,Mizrahi Tefahot Bank
+1036,Norman D. Schwartz,United States,"7,900",1952,Health Care Equipment & Services,Bio-Rad Laboratories
+1037,Saad Sharida Al-Kaabi,Qatar,Not found,2003,Chemicals,Industries Qatar
+1038,Whon Namkoong Euntaek Hong,South Korea,"3,472",1995,IT Software & Services,Kakao
+1039,Brendan Horgan,United Kingdom,"18,826",1984,Business Services & Supplies,Ashtead Group
+1040,Atul Kumar Goel,India,"101,802",1895,Banking,Punjab National Bank
+1041,Ping Cheng,Taiwan,Not found,1975,Technology Hardware & Equipment,Delta Electronics
+1042,David J. Endicott,Switzerland,"24,389",1945,Health Care Equipment & Services,Alcon
+1043,Richard T. Hume,United States,"22,000",1980,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",TD SYNNEX
+1044,IvÃ¡n Arriagada Herrera,United Kingdom,"27,000",1888,Materials,Antofagasta
+1045,Ryan R. Marshall,United States,"6,182",1950,Construction,PulteGroup
+1046,Fu Lung Hsieh,Taiwan,Not found,Not found,Transportation,Wan Hai Lines
+1047,Charles J. Meyers,United States,"10,944",1998,Diversified Financials,Equinix
+1048,James Donald Hoffman,United States,"13,700",1939,Materials,Reliance Steel
+1049,Kongkrapan Intarajang,Thailand,Not found,1978,Chemicals,PTT Global Chemical
+1050,MarÃ­a Dolores Dancausa TreviÃ±o,Spain,"6,138",1965,Banking,Bankinter
+1051,KÃ¥re Schultz,Israel,"37,537",1944,Drugs & Biotechnology,Teva Pharmaceutical
+1052,Robert Biesterfeld,United States,"16,877",1905,Transportation,C.H. Robinson
+1053,Michael Strugl,Austria,"3,497",1947,Utilities,Verbund
+1054,Harris H. Simmons,United States,"9,685",1955,Banking,Zions Bancorp
+1055,Hui Wang,China,"6,461",1996,Banking,Bank Of Chengdu
+1056,Simon Alexander Borrows,United Kingdom,234,Not found,Diversified Financials,3i Group
+1057,Abdullah Ali Al Khalifa,Saudi Arabia,"2,592",2006,Banking,Alinma Bank
+1058,Fabien Jacques Simon,Netherlands,"19,621",2018,Food & Drink,JDE Peet's
+1059,Hiroshi Kiriyama,Japan,"7,086",2015,Oil & Gas Operations,Cosmo Energy Holdings
+1060,Shan Liu,China,"24,778",1996,Construction,RiseSun Real Estate Development
+1061,"Chao Kai Huang, Ching Tien Li",Taiwan,Not found,1967,"Food, Drink & Tobacco",Uni-President
+1062,Anish Dilip Shah,India,"61,297",1945,Consumer Durables,Mahindra & Mahindra
+1063,Sigve Brekke,Norway,"18,000",1855,Telecommunications Services,Telenor
+1064,Jean-Christophe Tellier,Belgium,"8,561",1928,Drugs & Biotechnology,UCB
+1065,Philippe Krakowsky,United States,"55,600",1930,Business Services & Supplies,Interpublic Group
+1066,Thierry F. J. Vanlancker,Netherlands,"32,800",1969,Chemicals,Akzo Nobel
+1067,Lori J. Ryerkerk,United States,"8,529",1918,Chemicals,Celanese
+1068,Benjamin W. Schall,United States,"2,927",1978,Diversified Financials,AvalonBay Communities
+1069,Alexander M. van Noordende,Netherlands,"37,930",1960,Business Services & Supplies,Randstad N.V.
+1070,Neal John Froneman,South Africa,"84,521",2002,Materials,Sibanye Stillwater
+1071,Ying Wu,Taiwan,"9,925",2003,Banking,First Financial Holding
+1072,Ganesh Moorthy,United States,"21,000",1989,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Microchip Technology
+1073,Revathi Advaithi,Singapore,"167,201",1969,Technology Hardware & Equipment,Flex
+1074,Gregory Ben Maffei,United States,"6,800",1991,Media,Liberty Media Corporation Series A Liberty Formula One
+1075,Michael R. McMullen,United States,"16,000",1999,Health Care Equipment & Services,Agilent Technologies
+1076,Xing Ya Feng,China,"94,856",1997,Consumer Durables,Guangzhou Automobile Group
+1077,Andrey Valerievich Ryumin,Russia,652,Not found,Utilities,Rosseti
+1078,Jian Hui Liu,China,"15,970",Not found,Materials,Beijing Shougang
+1079,George D. Schindler,Canada,"80,000",1976,IT Software & Services,CGI
+1080,Ge Ping Li,China,"11,778",2005,Diversified Financials,Csc Financial
+1081,Martina Merz,Germany,"101,275",1999,Conglomerates,ThyssenKrupp Group
+1082,Ming He Cheng,China,"14,684",1991,Health Care Equipment & Services,Shenzhen Mindray Bio-Medical Electronics
+1083,Eiichiro Ikeda,Japan,"37,245",1944,Technology Hardware & Equipment,Hoya
+1084,Yi Zhong Guo,China,"25,549",1995,"Food, Drink & Tobacco",Tongwei
+1085,Abdulwahab Essa Abdulwahab Al-Rushoud,Kuwait,"15,000",1977,Banking,Kuwait Finance House
+1086,Daniel Javier Servitje Montull,Mexico,"137,542",1945,"Food, Drink & Tobacco",Grupo Bimbo
+1087,Dominick Paul Zarcone,United States,"46,000",1998,Consumer Durables,LKQ
+1088,Akihisa Mizuno,Japan,"28,238",1951,Utilities,Chubu Electric Power
+1089,Bryan B. DeBoer,United States,"21,150",1946,Retailing,Lithia Motors
+1090,Merlin Bingham Swire,Hong Kong,"32,560",1816,Conglomerates,Swire Pacific
+1091,Manuel MenÃ©ndez MenÃ©ndez,Spain,"7,200",2011,Banking,Unicaja Banco
+1092,Akira Marumoto,Japan,"49,786",1920,Automotive (Automotive and Suppliers),Mazda Motor
+1093,Pietro Labriola,Italy,"51,929",1994,Telecommunications Services,Telecom Italia
+1094,Liang Chen,China,"12,661",2007,Diversified Financials,China Galaxy Securities
+1095,Shang Jun Jiang,China,"4,292",1920,Capital Goods,CNPC Capital
+1096,Xu Lun Ma,China,"100,431",1988,Transportation,China Southern Airlines
+1097,Bernard CharlÃ¨s,France,"20,496",1981,IT Software & Services,Dassault Systemes
+1098,Yan Bing Jia,China,"32,913",1992,Utilities,GD Power Development
+1099,Martin Mucci,United States,"16,000",1971,Business Services & Supplies,Paychex
+1100,Thomas J. McInerney,United States,"2,500",1871,Insurance,Genworth Financial
+1101,Rodney Cyril Sacks,United States,"4,092",1985,"Food, Drink & Tobacco",Monster Beverage
+1102,Jian Tang,China,"8,053",1993,Utilities,China Longyuan Power
+1103,Brendan M. McCracken,United States,"1,713",1881,Oil & Gas Operations,Ovintiv
+1104,Nestor V. Tan,Philippines,"38,756",1967,Banking,BDO Unibank
+1105,Michael Mark Manley,United States,"22,200",1991,Retailing,AutoNation
+1106,Zi Ning Guo,China,"23,773",2007,Construction,China Aoyuan Group
+1107,Domenic J. DellâOsso Jr.,United States,"1,300",1989,Oil & Gas Operations,Chesapeake Energy
+1108,John N. Roberts,United States,"33,045",1961,Transportation,J.B. Hunt Transport Services
+1109,Alberto Nicola Nagel,Italy,"4,576",1946,Banking,Mediobanca
+1110,Gianfranco Piero Ferrari de las Casas,Peru,"33,636",1995,Banking,Credicorp
+1111,Sumit Roy,United States,371,1969,Diversified Financials,Realty Income
+1112,Bin Xiong,Hong Kong,"37,000",1997,Conglomerates,Beijing Enterprises
+1113,Thomas E. Jorden,United States,936,1989,Oil & Gas Operations,Coterra Energy 
+1114,Arthid Nanthawithaya,Thailand,Not found,1907,Banking,Siam Commercial Bank
+1115,Shan Shan Zhong,China,"20,000",1996,Food & Drink,Nongfu Spring
+1116,Didier LÃ©vÃªque,France,"218,544",1971,Trading Companies,Finatis
+1117,Jia Feng Guo,China,"10,120",1995,Construction,Greentown China Holdings
+1118,Yong-Beom Kim,South Korea,20,2007,Insurance,Meritz Financial Group
+1119,Han Jie Huang,China,"18,619",Not found,Capital Goods,TBEA
+1120,Blake Moret,United States,"24,500",1903,Capital Goods,Rockwell Automation
+1121,Raymond W. Ferris,Canada,"11,000",Not found,Materials,West Fraser Timber Co.
+1122,Philipp Robert GmÃ¼r,Switzerland,"12,128",1996,Insurance,Helvetia Holding
+1123,Siu Kee Wong,Hong Kong,"27,900",1929,Consumer Durables,Chow Tai Fook Jewellery
+1124,Gilles Andrier,Switzerland,"16,800",1895,"Construction, Oil & Gas Operations, Mining and Chemicals",Givaudan
+1125,Alexey Vostokov,Russia,"20,000",2006,Materials,Polyus
+1126,Calvin McDonald,United States,"29,000",1998,Retailing,Lululemon Athletica
+1127,Andrew Meslow,United States,"56,900",1990,Retailing,Bath & Body Works
+1128,Mark T. Mondello,United States,"238,000",1966,Technology Hardware & Equipment,Jabil Circuit
+1129,Jim Hung,Taiwan,Not found,2003,Technology Hardware & Equipment,Innolux
+1130,David Layton,Switzerland,"1,573",1996,Diversified Financials,Partners Group Holding
+1131,Feng Lin,China,"3,330",1573,"Food, Drink & Tobacco",Luzhou Lao Jiao
+1132,Laurent Rousseau,France,"3,590",1855,Insurance,Scor
+1133,Richard Joseph Tobin,United States,"25,000",1955,Conglomerates,Dover
+1134,Dominic Ng,United States,"3,100",1998,Banking,East West Bancorp
+1135,Simon John Roberts,United Kingdom,"171,000",1869,Retail and Wholesale,J Sainsbury
+1136,Fan Mai,China,"17,100",1999,Construction,Kaisa Group Holdings
+1137,Keki M. Mistry,China,"10,904",1999,Diversified Financials,China Huarong Asset Management
+1138,Shuang Lang Peng,Taiwan,"52,241",1996,Technology Hardware & Equipment,AU Optronics
+1139,Dave Kimbell,United States,"40,500",1990,Retailing,Ulta Beauty
+1140,Nam-Goo Kim,South Korea,51,1968,Diversified Financials,Korea Investment Holdings
+1141,Alfredo Egydio Setubal,Brazil,"97,000",1966,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",ItaÃºsa
+1142,Wen Bing Huang,China,"18,694",1958,Consumer Durables,BAIC Motor
+1143,TobÃ­as MartÃ­nez-Gimeno,Spain,"2,877",2008,Telecommunications Services,Cellnex Telecom
+1144,AndrÃ©s Ricardo Gluski Weilert,United States,"8,450",1981,Utilities,AES
+1145,Aleksey Ivanov,United Kingdom,"71,591",1992,Materials,Evraz Group
+1146,Alessandro Profumo,Italy,"50,413",1948,Aerospace & Defense,Leonardo
+1147,Nicolaas Johannes Muller,South Africa,"59,908",1967,Materials,Impala Platinum Holdings
+1148,"Gyo-Hyeon Kim, Byung-Yeon Lim",South Korea,"4,644",1976,Chemicals,Lotte Chemical
+1149,Pang Kang,China,"6,678",1995,"Food, Drink & Tobacco",Foshan Haitian Flavouring and Food
+1150,David Warren Arthur East,United Kingdom,"44,000",1906,"Engineering, Manufacturing",Rolls-Royce Holdings
+1151,Sophie Clamens Bellon,France,"412,000",1966,Business Services & Supplies,Sodexo
+1152,Dexter G. Goei,United States,"9,000",2001,Media,Altice USA
+1153,Royke Tumilaar,Indonesia,"27,177",1946,Banking,Bank Negara Indonesia
+1154,Javier J. Rodriguez,United States,"69,000",2000,Health Care Equipment & Services,DaVita
+1155,Iain George Williamson,South Africa,"29,861",2017,Diversified Financials,Old Mutual
+1156,Joey Wat,China,"450,000",1987,"Hotels, Restaurants & Leisure",Yum China Holdings
+1157,Roger S. Penske Sr.,United States,"26,891",1992,Retail and Wholesale,Penske Automotive
+1158,Yoshihiro Hidaka,Japan,"51,249",1918,Consumer Durables,Yamaha Motor
+1159,Thierry Garnier,United Kingdom,"82,019",1982,Retailing,Kingfisher
+1160,Odd Arild Grefstad,Norway,"1,901",1982,Insurance,Storebrand
+1161,Gene Lee,United States,"156,883",1968,"Hotels, Restaurants & Leisure",Darden Restaurants
+1162,John B. Hess,United States,"1,545",1920,Oil & Gas Operations,Hess
+1163,"Hong-Gi Kim, Keun-Hee Park",South Korea,59,1953,"Food, Drink & Tobacco",CJ Corporation
+1164,GastÃ³n Bottazzini,Chile,"103,926",1937,Retailing,Falabella
+1165,Not found,South Korea,"68,000",2010,Retailing,Coupang
+1166,Chee Koon Lee,Singapore,"10,000",2000,Construction,CapitaLand Investment
+1167,Kjell Erik Torne Torne,Sweden,"1,040",2005,Construction,Fastighets Balder
+1168,Shankh Mitra,United States,464,1970,Diversified Financials,Welltower
+1169,Mitsuyoshi Nakamura,Japan,"18,905",1840,Construction,Kajima
+1170,Anirban Dasgupta,India,"130,999",1954,Materials,Steel Authority of India
+1171,Tom Reeg,United States,"10,000",1937,Travel & Leisure,Caesars Entertainment
+1172,"Chi Kong Cheng, Kar-Shun Cheng",Hong Kong,"30,000",1970,Construction,New World Development
+1173,Scott C. Donnelly,United States,"33,000",1923,Aerospace & Defense,Textron
+1174,Fernando Angel GonzÃ¡lez Olivieri,Mexico,"46,206",1906,Construction,Cemex
+1175,Ola RollÃ©n,Sweden,"22,097",1969,Conglomerates,Hexagon 
+1176,Eliyahu Glickman,Israel,"5,931",1945,Transportation,ZIM Integrated Shipping Services
+1177,Gang Wen,China,"44,173",1953,Construction,China National Chemical
+1178,Daniel L. Florness,United States,"20,507",1967,Trading Companies,Fastenal
+1179,Ren Sheng Jiang,China,"2,972",1995,Drugs & Biotechnology,Chongqing Zhifei Biological Products
+1180,Not found,Japan,"59,436",1962,Business Services & Supplies,Secom
+1181,Shi Shuai Xu,China,"30,412",1997,Materials,Angang Steel
+1182,Wen Bin Wang,China,Not found,2001,Construction,STO Express
+1183,Eric S. Yuan,United States,"6,787",2011,IT Software & Services,Zoom Video Communications
+1184,Pavel Vladimirovich Shilyaev,Russia,Not found,1932,Materials,Magnitogorsk Iron & Steel
+1185,Eugene James Bredow,United States,"6,600",Not found,Construction,NVR
+1186,David A. Campbell,United States,"4,930",1909,Utilities,Evergy
+1187,Hamad Salem Mohamed Al-Ameri,United Arab Emirates,Not found,2013,Construction,Alpha Dhabi Holding
+1188,Yoshinori Isozaki,Japan,"29,515",1907,"Food, Drink & Tobacco",Kirin Holdings
+1189,Xiao Zhong Zhao,China,"7,618",1997,Banking,Bank of Changsha
+1190,Herbert Eibensteiner,Austria,"47,357",1938,Materials,Voestalpine
+1191,Xiao Song Bai,Hong Kong,"62,000",1938,Drugs & Biotechnology,China Resources Pharmaceutical Group
+1192,Yi Xiao Cheng,China,"28,098",2014,IT Software & Services,Kuaishou Technology
+1193,Ying Wu Jiang,China,"46,447",2005,Construction,BBMG
+1194,Xiao Ling Wang,China,"45,598",1996,Retailing,Suning.com
+1195,Paul K. Mylonas,Greece,"7,346",1841,Banking,National Bank of Greece
+1196,Matthew J. Meloy,United States,"2,430",2005,Oil & Gas Operations,Targa Resources
+1197,Yasuo Takeuchi,Japan,"31,653",1968,Technology Hardware & Equipment,Olympus
+1198,Mathias Miedreich,Belgium,"11,050",1904,Materials,Umicore
+1199,Peter M. Kern,United States,"14,800",1996,Business Services & Supplies,Expedia Group
+1200,Pau Chu Lo,Taiwan,"10,782",1919,Diversified Financials,Hua Nan Financial
+1201,Yu Zhong,China,"15,831",2002,"Food, Drink & Tobacco",Jiangsu Yanghe Brewery
+1202,Edmond Scanlon,Ireland,"22,000",1972,"Food, Drink & Tobacco",Kerry Group
+1203,Vincent Warnery,Germany,"20,567",1882,Household & Personal Products,Beiersdorf
+1204,Roger Krone,United States,"39,000",1969,"IT, Internet, Software & Services",Leidos
+1205,Mark J. Costa,United States,"14,000",1920,Chemicals,Eastman
+1206,Curtis A. Morgan,United States,"5,060",Not found,Utilities,Vistra Energy
+1207,Makoto Kaiwa,Japan,"24,717",1951,Utilities,Tohoku Electric Power
+1208,Massimo Antonio Doris,Italy,"3,318",1997,Insurance,Banca Mediolanum
+1209,Wojciech Dabrowski,Poland,"40,141",1990,Utilities,PGE Polska Grupa Energetyczna
+1210,Kevin M. Stein,United States,"13,300",2003,Aerospace & Defense,TransDigm Group
+1211,Brian Jude Cassin,Ireland,"20,600",1996,Business Services & Supplies,Experian
+1212,"Ung-Kee Cho, Hyun-Man Choi",South Korea,"3,809",1999,Diversified Financials,Mirae Asset Financial Group
+1213,Christian Otto Sinding,Sweden,"1,160",2011,Diversified Financials,EQT AB
+1214,Manoj Jain,India,"18,084",1984,Oil & Gas Operations,GAIL India
+1215,Xiao Li,China,"27,018",1999,Materials,Inner Mongolia Baotou Steel
+1216,Wing Kin Chan,Hong Kong,"2,106",1982,Oil & Gas Operations,Towngas
+1217,Hassane El-Khoury,United States,"30,000",1999,Semiconductors,ON Semiconductor Corp.
+1218,Stefano Antonio Donnarumma,Italy,"5,000",1999,Utilities,Terna
+1219,Arnold W. Donald,United States,"120,000",1972,Travel & LeisureÂ Â Â Â Â Â ,Carnival Corporation
+1220,Edward Baltazar Pitoniak,United States,152,2016,Diversified Financials,VICI Properties
+1221,Brian R. Niccol,United States,"97,660",1993,"Hotels, Restaurants & Leisure",Chipotle Mexican Grill
+1222,Naoki Adachi,Japan,"52,401",1900,Business Services & Supplies,Toppan Printing
+1223,Wei Qing Leng,China,"39,015",2004,Capital Goods,Shanghai Electric Group
+1224,Bilal Eksi,Turkey,"37,670",1933,Transportation,Turkish Airlines
+1225,Benedetto Vigna,Italy,"4,609",1947,Consumer Durables,Ferrari
+1226,Craig R. Smiddy,United States,"9,600",1887,Insurance,Old Republic International
+1227,Pedro Manuel de Castro Soares dos Santos,Portugal,"123,458",1792,Food Markets,Jeronimo Martins
+1228,Bryan C. Hanson,United States,"19,500",1927,Health Care Equipment & Services,Zimmer Biomet
+1229,Roy Harvey,United States,"12,200",1888,Materials,Alcoa
+1230,Kevin Thomas Gallagher,Australia,"3,786",1954,Oil & Gas Operations,Santos
+1231,S?awomir Cyza,France,"71,692",1928,Capital Goods,Alstom
+1232,Masayoshi Nuki,Japan,"21,273",1951,Utilities,Kyushu Electric Power
+1233,Richard J. Richard J. Kramer,United States,"72,000",1898,Automotive (Automotive and Suppliers),Goodyear
+1234,Paolo Rocca,Luxembourg,"22,776",2001,Materials,Tenaris
+1235,Mark Royce Vassella,Australia,"6,000",2002,Materials,Bluescope Steel
+1236,Yusri bin Mohamed Yusof,Malaysia,"4,585",1998,Chemicals,Petronas Chemicals
+1237,Francis A. deSouza,United States,"7,800",1998,Drugs & Biotechnology,Illumina
+1238,Dr. Aart de Geus,United States,"16,361",1986,IT Software & Services,Synopsys
+1239,Yong Pan Liang,China,"33,483",1994,Utilities,Datang International Power
+1240,Ramon S. Ang,Philippines,"28,651",2008,Oil & Gas Operations,Top Frontier Investment Holdings
+1241,Thierry le HÃ©naff,France,"20,030",2004,Chemicals,Arkema
+1242,Masaaki Tanaka,Japan,"30,247",1881,Chemicals,Nippon Paint
+1243,Mitsugu Yamaguchi,Japan,"40,517",1905,Materials,Kobe Steel
+1244,Konstantinos Panteli Michalidis,Greece,"1,882",1927,Banking,Bank of Greece
+1245,Zong Quan Chen,China,"6,594",1997,Banking,Bank Of Guiyang
+1246,Oh-Gap Kwon,South Korea,39,1972,Capital Goods,HD HYUNDAI
+1247,Simon Thompson,United Kingdom,"140,000",1516,Transportation and Logistics,Royal Mail
+1248,Gilles G. Martin,Luxembourg,"57,992",2012,Health Care Equipment & Services,Eurofins Scientific Societe Europeenne
+1249,Lars Fredrik Elis Lundberg,Sweden,"3,259",1944,Diversified Financials,Lundbergs
+1250,Li Zhang,China,"60,325",1994,Construction,Guangzhou R&F
+1251,Ming Hui Liu,Hong Kong,"59,462",1995,Utilities,China Gas Holdings
+1252,Zhong Bao Tan,China,"12,614",Not found,"Food, Drink & Tobacco",Shanxi Xinghuacun Fen Wine Factory
+1253,Stephen P. MacMillan,United States,"6,705",1985,Health Care Equipment & Services,Hologic
+1254,Kenneth A. Vecchione,United States,"3,139",1995,Banking,Western Alliance Bancorp.
+1255,Hong Jiong Song,China,"20,000",1992,Trading Companies,Wuchan Zhongda Group
+1256,Eric Richer la FlÃ¨che,Canada,"90,000",1947,Food Markets,Metro
+1257,Ricardo Dell Aquila Mussa,Brazil,"29,350",Not found,Retailing,Raizen
+1258,Greg C. Gantt,United States,"23,663",1934,Transportation,Old Dominion Freight Line
+1259,Uri Levin,Israel,"8,899",1935,Banking,Israel Discount Bank
+1260,Deja Tulananda,Thailand,Not found,1993,Banking,Bangkok Bank
+1261,Hakan Binbasgil,Turkey,"12,459",1948,Banking,Akbank
+1262,Osamu Hashimoto,Japan,"18,051",1997,Chemicals,Mitsui Chemicals
+1263,Not found,China,"14,413",2017,Construction,Midea Real Estate Holding
+1264,Bo Xun Wu,Japan,"50,478",1912,Consumer Durables,Sharp
+1265,Joost F. E. Farwerck,Netherlands,"9,699",1989,Telecommunications Services,KPN
+1266,Michelle Gass,United States,"99,000",1962,Retailing,Kohl's
+1267,Hua Rong Zhu,China,"40,298",1996,Consumer Durables,Chongqing Changan Auto
+1268,Greg Hicks,Canada,"58,000",1922,Conglomerate,Canadian Tire
+1269,Elisabeth Stadler,Austria,"25,684",1824,Insurance,Vienna Insurance Group
+1270,Ming Gui Zhang,China,"95,993",1998,"Food, Drink & Tobacco",New Hope Liuhe
+1271,Hong Gan,China,"13,763",Not found,Construction,Sichuan Road & Bridge
+1272,Aaron Jayson Adair,United States,"8,600",1982,Business Services & Supplies,Copart
+1273,Lauren R. Hobart,United States,"50,800",1948,Retail and Wholesale,Dick's Sporting Goods
+1274,Yun Shu Zhou,China,"28,903",1970,Drugs & Biotechnology,Jiangsu Hengrui Medicine
+1275,Marc D. Miller,United States,"89,400",1979,Health Care Equipment & Services,Universal Health Services
+1276,Javier Foncerrada Izquierdo,Mexico,"11,441",1985,Banking,Grupo Inbursa
+1277,Not found,China,"7,962",1952,Banking,Dongguan Rural Commercial Bank
+1278,Ãric Trappier,France,"12,371",1911,Aerospace & Defense,Dassault Aviation
+1279,Svein Tore Holsether,Norway,"16,757",2003,Chemicals,Yara International
+1280,CÃ©sar GonzÃ¡lez-Bueno,Spain,"20,070",1881,Banking,Banco de Sabadell
+1281,Sunny George Verghese,Singapore,"81,650",1989,"Food, Drink & Tobacco",Olam Group
+1282,"Edward Hu, Ge Li",China,"34,912",2000,Drugs & Biotechnology,Wuxi Apptec
+1283,Ignacio Alvarez,United States,"8,351",1893,Banking,Popular
+1284,Mark Poweska,Canada,"8,398",2015,Utilities,Hydro One
+1285,Not found,Japan,"52,021",2006,Transportation,SG Holdings
+1286,Masayoshi Fujimoto,Japan,"19,463",2003,Trading Companies,Sojitz
+1287,Long Jiang,China,"95,780",2001,Technology Hardware & Equipment,Goertek
+1288,Nicholas Simon Jeffery,United States,"15,600",Not found,Telecommunications Services,Frontier Communications Parent
+1289,Ilija Batljan,Sweden,289,Not found,Construction,Samhallsbyggnadsbolaget I Norden
+1290,Klaus Rosenfeld,Germany,"82,981",1905,Consumer Durables,Schaeffler
+1291,Nir Gilad,Israel,"4,565",1974,Insurance,Migdal Insurance
+1292,Boris Yuryevich Kovalchuk,Russia,Not found,1997,Utilities,Inter Rao
+1293,Michael William Thomas,South Africa,"27,303",1888,Banking,Nedbank
+1294,Rong Gui Xi,Hong Kong,"11,775",1992,Construction,Hopson Development Holdings
+1295,David A. Zapico,United States,"18,500",1930,Conglomerates,Ametek
+1296,Mo Koo Kwang,South Korea,186,1958,Chemicals,LG 
+1297,Anders Danielsson,Sweden,"30,051",1887,"Construction, Oil & Gas Operations, Mining and Chemicals",Skanska
+1298,Bin Xu,China,"35,336",2008,Materials,HBIS
+1299,Giuseppe Castagna,Italy,"22,000",2017,Banking,Banco BPM
+1300,Xiang Dong Wu,China,"21,450",Not found,Construction,China Fortune Land Development
+1301,Pieter van van der Does,Netherlands,"2,180",2006,IT Software & Services,Adyen
+1302,Benjamin M. Smith,France,"42,000",2004,Transportation and Logistics,Air France-KLM
+1303,Steve Demetriou,United States,"55,000",1947,"Construction, Oil & Gas Operations, Mining and Chemicals",Jacobs Engineering
+1304,Ru Ge Li,Hong Kong,"29,827",2001,Utilities,China Resources Power
+1305,Vincent Sorgi,United States,"5,607",1994,Utilities,PPL
+1306,Colin Hunt,Ireland,"8,916",1825,Banking,AIB Group
+1307,Louis Scott Charlton,Australia,"8,000",1996,Transportation,Transurban Group
+1308,Michael L. Rose,Canada,651,2008,Oil & Gas Operations,Tourmaline Oil
+1309,Obaid bin Abdullah Al-Rashid,Saudi Arabia,"4,059",1949,Banking,Arab National Bank
+1310,Matthew J. Murphy,United States,"6,729",1995,Semiconductors,Marvell Technology
+1311,Liam K. Griffin,United States,"11,000",2002,Semiconductors,Skyworks Solutions
+1312,Jayshree V. Ullal,United States,"2,993",2004,Technology Hardware & Equipment,Arista Networks
+1313,Not found,China,Not found,1985,Utilities,China Three Gorges Renewables (Group)
+1314,Andrew P. Wilson,United States,"11,000",1982,Consumer Durables,Electronic Arts
+1315,Jeremy Peter Jackson,Ireland,"16,813",1988,"Hotels, Restaurants & Leisure",Flutter Entertainment
+1316,Eric Thomas Steigerwalt,United States,"1,500",1863,Insurance,Brighthouse Financial
+1317,LuÃ­s Gallego MartÃ­n,United Kingdom,"56,658",1974,Transportation,International Airlines
+1318,Mikael Staffas,Sweden,"6,167",1925,Materials,Boliden
+1319,W. Anthony Will,United States,"3,000",1946,Chemicals,CF Industries Holdings
+1320,Krairit Euchukanonchai,Thailand,Not found,1966,Banking,Krung Thai Bank
+1321,Wei Cheng,China,Not found,2013,IT Software & Services,DiDi Global
+1322,Cheol-Young Lee,South Korea,"4,061",1955,Insurance,Hyundai Marine & Fire
+1323,Benjamin Steinbruch,Brazil,"35,179",1941,Materials,CSN
+1324,John J. Christmann IV,United States,"2,253",1954,Oil & Gas Operations,APA
+1325,Erik Martin Lindqvist,Sweden,"14,235",Not found,Materials,SSAB AB
+1326,Daniel Ernest Henri Julien,France,"420,000",1978,Business Services & Supplies,Teleperformance
+1327,Mark A. Clouse,United States,"14,100",1869,"Food, Drink & Tobacco",Campbell Soup
+1328,Harold Y. H. BoÃ«l,Belgium,Not found,1956,Diversified Financials,Sofina
+1329,Frank Andre van Zanten,United Kingdom,"21,021",1854,Trading Companies,Bunzl
+1330,"Shin-Ho Kang, Hyun-Jae Shin",South Korea,"8,156",2007,"Food, Drink & Tobacco",CJ Cheiljedang
+1331,Jan Gezinus Dunning,Russia,"316,001",1994,Food Markets,Magnit
+1332,Xiao Qian Luo,China,"25,139",1994,Construction,Huadian Power International
+1333,Zong Qiang Zheng,China,"8,806",Not found,Capital Goods,NARI Technology Development
+1334,Lee M. Tillman,United States,"1,531",1887,Oil & Gas Operations,Marathon Oil
+1335,Virginie Sarah S.,France,"19,832",1969,Diversified Financials,Eurazeo
+1336,Michiaki Hirose,Japan,"16,858",1885,Oil & Gas Operations,Tokyo Gas
+1337,Xue Fei Yi,China,"14,168",1998,Banking,Guangzhou Rural Commercial Bank
+1338,Lars Patrik Hall,Sweden,"2,242",Not found,Construction,Heimstaden AB Pref. Shs
+1339,Ron Nersesian,United States,"14,300",2014,Technology Hardware & Equipment,Keysight Technologies
+1340,Peter Harrison,United Kingdom,"5,750",1804,Diversified Financials,Schroders
+1341,Sean Michael O'Connor,United States,"3,242",Not found,Diversified Financials,StoneX Group
+1342,Roland Harings,Germany,"7,135",1866,Materials,Aurubis
+1343,Clifton Albert Pemble,Switzerland,"18,700",1989,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Garmin
+1344,Chung-Pin Wong,Taiwan,Not found,1984,Technology Hardware & Equipment,Compal Electronics
+1345,Not found,China,"39,474",Not found,Chemicals,ENN Natural Gas
+1346,Eyal Ben Simon,Israel,"4,832",Not found,Insurance,Phoenix Holdings
+1347,Lawrence Erik Kurzius,United States,"14,000",1889,"Food, Drink & Tobacco",McCormick
+1348,Shanti Lal Jain,India,"41,557",1907,Banking,Indian Bank
+1349,Jay Mazelsky,United States,"10,350",1983,Health Care Equipment & Services,IDEXX Laboratories
+1350,Anthony Paul James Smurfit,Ireland,"48,000",1934,Materials,Smurfit Kappa Group
+1351,Qiang Min Zhou,China,"2,413",2011,Materials,Xinjiang Daqo New Energy
+1352,Osman Arslan,Turkey,Not found,1933,Banking,Halkbank
+1353,Worthing F. Jackman,Canada,"19,998",2002,Business Services & Supplies,Waste Connections
+1354,Georges Nicolas Hayek Jr.,Switzerland,"31,444",1983,Consumer Durables,Swatch Group
+1355,Graham Kerr,Australia,"9,074",2015,Materials,South32
+1356,Lin Yang,Hong Kong,"3,505",1955,Construction,China Overseas Grand Oceans Group
+1357,Toshihito Tamba,Japan,"7,438",1969,Business Services & Supplies,Tokyo Century
+1358,Akira Kiyota,Japan,"1,197",1878,Diversified Financials,Japan Exchange Group
+1359,Shinjiro Sato,Japan,"26,482",1921,Health Care Equipment & Services,Terumo
+1360,Lars von Lackum,Germany,"1,770",2008,Construction,LEG Immobilien AG
+1361,Dilip Shantilal Shanghvi,India,"37,000",1993,Drugs & Biotechnology,Sun Pharma Industries
+1362,Lawson Whiting,United States,"4,700",1870,"Food, Drink & Tobacco",Brown-Forman
+1363,Alan B. Colberg,United States,"15,600",1892,Insurance,Assurant
+1364,Takaaki Nishii,Japan,"33,461",1917,"Food, Drink & Tobacco",Ajinomoto
+1365,Aloke Lohia,Thailand,Not found,2003,Chemicals,Indorama Ventures
+1366,Welch Lin,Taiwan,"10,276",2002,Diversified Financials,Taishin Financial Holdings
+1367,Chun Xin Zhan,China,Not found,1992,Capital Goods,Zoomlion Heavy Industry
+1368,Chuan Lu,China,"15,483",Not found,Capital Goods,XCMG Construction Machinery
+1369,Wa Fong Hoi,China,"13,212",2007,Construction,Powerlong Real Estate 
+1370,Feng Lin,Hong Kong,"16,320",Not found,Construction,Yuexiu Property 
+1371,Colin Stephen Goldschmidt,Australia,"38,000",Not found,Health Care Equipment & Services,Sonic Healthcare
+1372,George Kurian,United States,"11,000",1992,Technology Hardware & Equipment,NetApp
+1373,Nancy McKinstry,Netherlands,"19,454",1987,Media,Wolters Kluwer
+1374,Andrew Brown,Portugal,"6,152",1999,Oil & Gas Operations,Galp Energia
+1375,Owen Mahoney,Japan,"6,683",2002,IT Software & Services,NEXON
+1376,Jason Liberty,United States,"50,000",1997,"Hotels, Restaurants & Leisure",Royal Caribbean Group
+1377,Joseph D. Margolis,United States,"4,309",2004,Diversified Financials,Extra Space Storage
+1378,Zhang Qiyang,China,"8,099",1997,Banking,Shengjing Bank
+1379,Igor Shekhterman,Russia,"339,716",1975,Food Markets,X5 Retail Group
+1380,Anirudh Devgan,United States,"9,300",Not found,IT Software & Services,Cadence Design
+1381,Abdi Serdar ÃstÃ¼nsalih,Turkey,"17,825",1954,Banking,VakifBank
+1382,Eric P. Hansotia,United States,"23,300",1990,Capital Goods,AGCO
+1383,Hua Li,China,"18,985",1934,Materials,Shanxi Taigang Stainless
+1384,Ricardo BenjamÃ­n Salinas Pliego,Mexico,"71,278",1950,Retailing,Grupo Elektra
+1385,Ji Wei Zhu,China,"9,374",1989,Utilities,SDIC Power Holdings
+1386,Chun Lei Huang,China,"10,317",2018,Construction,Zhongliang Holdings 
+1387,JÃ¼rgen Albert Junker,Germany,"7,458",1999,Diversified Financials,Wuestenrot & Wuerttembergische
+1388,Henry A. Fernandez,United States,"3,633",1998,Business Services & Supplies,MSCI
+1389,Piero Luigi Montani,Italy,"16,616",1867,Banking,BPER Banca
+1390,Takeo Obayashi,Japan,"15,267",1936,Construction,Obayashi
+1391,Ji-Wan Kim,South Korea,110,2011,Banking,BNK Financial Group
+1392,Hiroyuki Isono,Japan,"36,034",1949,Materials,Oji Holdings
+1393,Daniel Ek,Luxembourg,"5,584",2007,IT Software & Services,Spotify Technology
+1394,Kristian Villumsen,Denmark,"12,874",1957,Health Care Equipment & Services,Coloplast
+1395,Christian Kohlpaintner,Germany,"17,236",2006,Trading Companies,Brenntag
+1396,Ju Ran Yan,China,"43,965",1993,"Food, Drink & Tobacco",Wens Foodstuff Group
+1397,Kenneth David DeGiorgio,United States,"22,233",Not found,Insurance,First American Financial
+1398,StÃ©phane Boujnah,Netherlands,"2,108",2014,Diversified Financials,Euronext
+1399,Fahad Abdullah Al-Khalifa,Qatar,Not found,2006,Banking,Masraf Al Rayan
+1400,Marcos Eduardo Galperin,Uruguay,"29,957",1999,IT Software & Services,MercadoLibre
+1401,Mark W. Kowlzan,United States,"15,200",1959,Materials,Packaging Corp of America
+1402,Naoki Ono,Japan,"27,162",1871,Materials,Mitsubishi Materials
+1403,Tin Hoi Ng,Hong Kong,"2,900",Not found,Diversified Financials,Wharf Real Estate Investment
+1404,Thomas E. Salmon,United States,"47,000",1967,Materials,Berry Global Group
+1405,Hai Fan Qian,China,"18,730",1993,Materials,Maanshan Iron & Steel
+1406,Prahlad Ramadhar Singh,United States,"16,700",1947,Health Care Equipment & Services,PerkinElmer
+1407,John F. Remondi,United States,"6,195",2013,Diversified Financials,Navient
+1408,Thomas Hermann Rabe,Luxembourg,"11,011",1973,Media,RTL Group
+1409,Mikko Matias Helander,Finland,"17,402",1940,Food Markets,Kesko
+1410,Seok-Hoon Chang,South Korea,"2,530",1982,Diversified Financials,Samsung Securities
+1411,Earl C. Austin Jr.,United States,"43,700",1997,Construction,Quanta Services
+1412,Gang Sheng Pan,China,"2,139",1993,Construction,Beijing Capital Development
+1413,Fan Xing Kong,Hong Kong,"23,257",2008,Business Services & Supplies,Far East Horizon
+1414,Patrick Koller,France,"111,000",1997,Automotive (Automotive and Suppliers),Faurecia
+1415,Amitabh Banerjee,India,86,1986,Business Services & Supplies,Indian Railway Finance
+1416,Gregory Ben Maffei,United States,"1,900",1991,Telecommunications Services,Liberty Broadband
+1417,Shao Yong Gao,China,"5,504",Not found,Trading Companies,Xiamen International Trade Group
+1418,Brian Chesky,United States,"6,132",2008,Travel & LeisureÂ Â Â Â Â Â ,AirBnB
+1419,Xin Ming Wang,China,"43,902",Not found,Retailing,China Grand Automotive Services
+1420,Yang Min Li,China,"80,321",1995,Transportation,China Eastern Airlines
+1421,Alain Dehaze,Switzerland,"32,000",1996,Business Services & Supplies,Adecco
+1422,Peter J. Federico,United States,50,2008,Diversified Financials,AGNC Investment
+1423,Rafael O. Santana,United States,"25,000",1869,Capital Goods,Westinghouse Air Brake Technologies
+1424,Yukikazu Myochin,Japan,"6,080",1919,Transportation,Kawasaki Kisen Kaisha
+1425,Michael B. Medline,Canada,"134,000",1963,Food Markets,Empire
+1426,Hua Xue,China,"33,557",1998,"Food, Drink & Tobacco",Guangdong Haid Group
+1427,Yozo Shimano,Japan,"13,179",1921,Consumer Durables,Shimano
+1428,Mohamed El Kettani,Morocco,"20,583",1911,Banking,Attijariwafa Bank
+1429,Fong-Long Chen,Taiwan,Not found,2009,Business Services & Supplies,Chailease Holding
+1430,Stanley M. Bergman,United States,"21,600",1932,Health Care Equipment & Services,Henry Schein
+1431,Helena Hedblom,Sweden,"15,529",1873,Capital Goods,Epiroc
+1432,Saburo Kogo,Japan,"23,866",1899,"Food, Drink & Tobacco",Suntory Beverage & Food
+1433,Patrick K. Kaltenbach,United States,"17,800",1991,Conglomerates,Mettler-Toledo International
+1434,AndrÃ© FranÃ§ois-Poncet,France,"124,118",1704,Diversified Financials,Wendel
+1435,Zheng Hai Zhang,Japan,"20,941",1897,Oil & Gas Operations,Osaka Gas
+1436,Robert W. Martin,United States,"31,000",1980,Consumer Durables,Thor Industries
+1437,Laura Alber,United States,"21,000",1956,Retail and Wholesale,Williams-Sonoma
+1438,Qi Dong Deng,China,"7,034",Not found,Transportation,Xiamen Xiangyu
+1439,Robert Joseph Scaringe,United States,"10,422",2009,Automotive,Rivian
+1440,Richard Robinson Smith,Germany,"40,000",2006,Transportation and Logistics,KION Group
+1441,Ming Li,China,"14,890",1993,Construction,Sino-Ocean Group Holding
+1442,Scott McDougald Sutton,United States,"7,750",1892,Chemicals,Olin
+1443,Conor C. Flynn,United States,606,1973,Diversified Financials,Kimco Realty
+1444,Jun Lin,China,"4,401",1996,Banking,Bank of Chongqing
+1445,Ken Xie,United States,"10,195",2000,Technology Hardware & Equipment,Fortinet
+1446,Matthew T. Farrell,United States,"5,100",1846,Household & Personal Products,Church & Dwight
+1447,Po Tuan Huang,Taiwan,"82,955",2001,Technology Hardware & Equipment,Wistron
+1448,William R. McDermott,United States,"16,881",2004,IT Software & Services,ServiceNow
+1449,Joseph M. Hogan,United States,"22,540",1997,Health Care Equipment & Services,Align Technology
+1450,Jeffrey Lorberbaum,United States,"43,000",1878,Consumer Durables,Mohawk Industries
+1451,William Charles Stone,United States,"24,900",1986,IT Software & Services,SS&C Technologies
+1452,Rajesh Shantilal Adani,India,"23,000",1988,Conglomerate,Adani Enterprises
+1453,Thomas R. Greco,United States,"41,000",1932,Retailing,Advance Auto Parts
+1454,Seiji Manabe,Japan,"47,984",1987,Transportation,West Japan Railway
+1455,Paul J. Brink,Canada,40,1983,Materials,Franco-Nevada
+1456,", Eiko Hashiba",Japan,"16,308",1961,Household & Personal Products,Unicharm
+1457,Thiago Maffra,Brazil,Not found,2001,IT Software & Services,XP
+1458,James B. Connor,United States,340,1972,Diversified Financials,Duke Realty
+1459,Jacques Aschenbroich,France,"103,300",1923,Consumer Durables,Valeo
+1460,Jiang Tao Yao,China,"4,995",1992,Diversified Financials,AVIC Capita
+1461,Adel Mohamed Abdul Shafe El-Labban,Bahrain,"3,901",2000,Banking,Ahli United Bank
+1462,Roger Perreault,United States,"5,800",1882,Oil & Gas Operations,UGI
+1463,Mark E. Jagiela,United States,"5,900",1960,Semiconductors,Teradyne
+1464,Mitchell R. Butier,United States,"36,000",1990,Materials,Avery Dennison
+1465,Frankie Ng,Switzerland,"96,216",1878,Business Services & Supplies,SGS
+1466,Christophe Joseph Kullmann,France,984,1963,Diversified Financials,Covivio
+1467,"Frank B. Holding, Jr.",United States,"6,846",1898,Banking,First Citizens Bank (NC)
+1468,Yuan Guan Liu,China,"14,211",2005,Materials,Ningxia Baofeng Energy Group
+1469,Gustavo Werneck da Cunha,Brazil,Not found,1901,Materials,Metalurgica Gerdau
+1470,Prasit Boondoungprasert,Thailand,"360,000",1921,"Food, Drink & Tobacco",Charoen Pokphand Foods
+1471,Sumant Kathpalia,India,"29,661",1994,Banking,IndusInd Bank
+1472,Xin Jun Pan,China,"7,835",1997,Diversified Financials,Orient Securities
+1473,Connor David Teskey,United States,Not found,Not found,Utilities,Brookfield Renewable
+1474,Scott G. Stephenson,United States,"9,367",1971,Insurance,Verisk Analytics
+1475,Debra A. Cafaro,United States,434,1983,Diversified Financials,Ventas
+1476,Albert George White III,United States,"12,000",Not found,Health Care Equipment & Services,Cooper Companies
+1477,Salih Cem Oral,Turkey,"12,788",1960,Materials,Erdemir
+1478,Eugene A. Hall,United States,"16,600",1979,Business Services & Supplies,Gartner
+1479,Jonathan W. Witter,United States,"1,450",1972,Business Services & Supplies,SLM
+1480,Kevin Akers,United States,"4,684",1906,Oil & Gas Operations,Atmos Energy
+1481,Eugenio von Chrismar Carvajal,Chile,"10,560",1937,Banking,BCI-Banco Credito
+1482,Sung-Hyun Kang,South Korea,"21,042",1970,Retailing,Lotte Shopping
+1483,Jun Ji,China,"20,284",Not found,Capital Goods,China CSSC Holdings
+1484,Kevin S. Blair,United States,"4,988",1888,Banking,Synovus
+1485,Kazuhiko Mori,Japan,"10,134",2013,Construction,Iida Group Holdings
+1486,Thapana Sirivadhanabhakdi,Thailand,Not found,2003,"Food, Drink & Tobacco",Thai Beverage
+1487,Mark Begor,United States,"12,700",1899,Business Services & Supplies,Equifax
+1488,Gene M. Murtagh,Ireland,"19,000",Not found,Construction,Kingspan Group PLC
+1489,Sandeep Biswas,Australia,930,1966,Materials,Newcrest Mining
+1490,Khoon Hua Kuok,Hong Kong,"7,600",1978,Construction,Kerry Properties
+1491,Gary L. Coleman Larry M. Hutchison,United States,"3,222",1951,Insurance,Globe Life
+1492,Hong Guang Cai,China,"6,012",1998,Banking,Bank of Jinzhou
+1493,"Man Bun Li, Man Kiu Li",Hong Kong,"8,824",1918,Banking,Bank of East Asia
+1494,Miguel de Souza Gularte,Brazil,"31,779",1986,"Food, Drink & Tobacco",Marfrig Global Foods
+1495,Ya Shen,China,"7,567",2008,Retailing,Vipshop Holdings
+1496,JosÃ© Manuel Entrecanales Domecq,Spain,"40,000",1997,Construction,Acciona
+1497,Christopher J. Nassetta,United States,"142,000",1919,Travel & Leisure,Hilton
+1498,Bozhi Wang,China,"28,502",2007,Capital Goods,Sinotruk Hong Kong
+1499,FrÃ©dÃ©ric B. Lissdale,United States,"49,300",1928,Consumer Durables,BorgWarner
+1500,David VÃ©lez Osorno,Cayman Islands,"6,075",2016,IT Software & Services,Nu Holdings
+1501,Douglas G. Del Grosso,United States,"75,000",1985,Consumer Durables,Adient
+1502,Jean-Marie Tritant,France,"2,012",2007,Construction,Unibail-Rodamco
+1503,Anders Gustafsson,United States,"9,800",1969,Technology Hardware & Equipment,Zebra Technologies
+1504,D. James Bidzos,United States,904,1995,IT Software & Services,VeriSign
+1505,Ho-Young Yoon,South Korea,913,2016,Banking,KakaoBank
+1506,Jung-Hoon Kim,South Korea,"1,631",2001,Transportation,Hyundai Glovis
+1507,Renato Mazzoncini,Italy,"12,000",2008,Utilities,A2A
+1508,Mark T. Smucker,United States,"7,100",1897,"Food, Drink & Tobacco",JM Smucker
+1509,Herve Hoppenot,United States,"2,094",1991,Drugs & Biotechnology,Incyte
+1510,Christian Buhl,Switzerland,"11,809",1874,Construction,Geberit
+1511,Dou Rongxing,China,"13,503",2014,Banking,Zhongyuan Bank
+1512,George L. Holm,United States,"23,000",1885,Food Markets,Performance Food Group
+1513,Somchai Lertsutiwong,Thailand,"14,103",1983,"Telecommunications Services, Cable Supplier",Advanced Info Service
+1514,C. Howard Nye,United States,"10,000",1993,Construction,Martin Marietta Materials
+1515,Owen D. Thomas,United States,743,1970,Diversified Financials,Boston Properties
+1516,Marcin Chludzinski,Poland,"34,286",1961,Materials,KGHM Polska Miedz
+1517,Tarek Abdulaziz Sultan Al-Essa,Kuwait,Not found,Not found,Transportation,Agility
+1518,Masaaki Tani,Japan,"8,103",2007,Banking,Fukuoka Financial Group
+1519,Tin Hoi Ng,Hong Kong,"6,200",1886,Conglomerates,Wharf (Holdings)
+1520,Edward J. Shoen,United States,"29,800",1945,Business Services & Supplies,Amerco
+1521,BeÃ±at Ortega,France,487,1959,Diversified Financials,Gecina
+1522,Andrew King,United Kingdom,"26,500",2007,Materials,Mondi
+1523,Umut Bolatkhanovna Shayakhmetova,Kazakhstan,"17,038",1923,Banking,Halyk Bank
+1524,Atanu Kumar Das,India,"51,459",1906,Banking,Bank of India
+1525,Khairussaleh bin Ramli,Malaysia,"14,000",1997,Banking,RHB Bank
+1526,Joseph Abraham,Qatar,Not found,1975,Banking,Commercial Bank of Qatar 
+1527,David Joseph Duffy,United Kingdom,"7,857",2015,Banking,Virgin Money UK
+1528,Robert Glen Goldstein,United States,"44,700",1988,"Hotels, Restaurants & Leisure",Las Vegas Sands
+1529,Pietro Satriano,United States,"28,000",2007,Food Markets,US Foods
+1530,Ronald F. Clarke,United States,"9,700",1985,Business Services & Supplies,FleetCor Technologies 
+1531,Akio Nitori,Japan,"10,366",1972,Retailing,Nitori Holdings
+1532,Arnd Kaldowski,Switzerland,"14,508",1985,Health Care Equipment & Services,Sonova Holding
+1533,Chin Hua Loh,Singapore,"16,393",1968,Conglomerates,Keppel
+1534,Timothy Joseph Donahue,United States,"33,000",1892,"Engineering, Manufacturing",Crown Holdings
+1535,Guillaume Jean Philippe,France,"26,000",1967,Retail and Wholesale,Rexel
+1536,John O. Larsen,United States,"3,313",1981,Utilities,Alliant Energy
+1537,Shih Ting Chu,Taiwan,"9,548",2002,Banking,SinoPac Financial
+1538,Gilson Finkelsztain,Brazil,"2,135",1890,Diversified Financials,B3
+1539,Masahiko Uotani,Japan,"42,000",1872,Packaged Goods,Shiseido
+1540,Xiong Biao Dai,China,"37,216",2010,Construction,China Nuclear Engineering Corporation
+1541,Vicente Reynal,United States,"16,000",1872,Capital Goods,Ingersoll Rand
+1542,Satoshi Fujisawa,Japan,"6,373",2008,Banking,Mebuki Financial Group
+1543,Not found,Japan,"5,995",2016,Banking,Concordia Financial Group
+1544,Harry Schmelzer,Brazil,"36,987",1961,Capital Goods,WEG
+1545,Randy Vernon Joseph,Canada,44,2004,Materials,Wheaton Precious Metals
+1546,Barak Bar-Hen,Luxembourg,"1,631",2017,Construction,Aroundtown 
+1547,", Noriaki Horikiri",Japan,"12,971",1923,Drugs & Biotechnology,Medipal Holdings
+1548,Mikhail Konstantinovich Rybnikov,Russia,Not found,2001,Chemicals,Phosagro
+1549,Yin Chen,China,"8,735",Not found,Construction,Huafa Industrial
+1550,Jin Xiang Xu,China,"19,371",1982,Materials,Tongkun Group
+1551,Peter Kenneth Allen,Australia,"2,700",Not found,Diversified Financials,Scentre Group
+1552,Not found,Japan,"72,366",Not found,Transportation,NIPPON EXPRESS HOLDINGS
+1553,Takashi Yamauchi,Japan,"14,620",1873,Construction,Taisei
+1554,Chan-Koo Park,South Korea,"1,401",1970,Chemicals,Kumho Petrochemical
+1555,Thomas Caulfield,United States,Not found,2009,Semiconductors,Globalfoundries
+1556,"Michael Cannon, Scott Farquhar",Australia,"6,433",2013,IT Software & Services,Atlassian
+1557,Shinya Katanozaka,Japan,"46,580",1920,Transportation,All Nippon Airways
+1558,Hidetoshi Sakuma,Japan,"4,380",1943,Banking,Chiba Bank
+1559,Binh Minh Tran,Vietnam,"25,154",1988,Banking,Vietin Bank
+1560,Toby Z. Rice,United States,693,1888,Oil & Gas Operations,EQT
+1561,Eric Mark Green,United States,"10,065",Not found,Drugs & Biotechnology,West Pharmaceutical Services
+1562,Zu Sheng Luan,Hong Kong,"11,330",1961,Business Services & Supplies,China Everbright International
+1563,Duong Tuan Tran,Vietnam,"27,651",1992,Materials,Hoa Phat Group
+1564,Ming Chung Liu,Hong Kong,"19,576",2005,Materials,Nine Dragons Paper Holdings
+1565,Karan Gautambhai Adani,India,"2,863",1998,Transportation,Adani Ports & Special Economic Zone
+1566,Not found,China,"5,255",2012,Banking,Bank of Guizhou
+1567,Michael Nierenberg,United States,"12,296",2011,Diversified Financials,New Residential Investment
+1568,Talal bin Ibrahim Al-Maiman,Saudi Arabia,Not found,1996,Diversified Financials,Kingdom Holding
+1569,Not found,India,"2,343",2015,Utilities,Adani Green Energy
+1570,James A. Lico,United States,"18,000",2015,Technology Hardware & Equipment,Fortive
+1571,Jay Farner,United States,Not found,1985,Business Services & Supplies,Rocket Companies
+1572,Luigi Lovaglio,Italy,"21,244",1472,Banking,Banca MPS
+1573,Frank Markus Weber,Germany,"30,544",1905,Consumer Durables,Knorr-Bremse
+1574,Hai Hong Gui,China,"36,992",Not found,Transportation,HNA Technology
+1575,Toshio Kagami,Japan,"8,782",1960,Media,Oriental Land
+1576,Robert James Thomson,United States,"24,000",1922,Media,News Corp
+1577,Ping Yang,Hong Kong,"52,354",1905,Oil & Gas Operations,China Resources Gas Group
+1578,Hilgard Pieter Meyer,South Africa,"16,483",1989,Diversified Financials,Momentum Metropolitan Holdings
+1579,Pablo Gerardo Legorreta,United States,66,2020,Drugs & Biotechnology,Royalty Pharma
+1580,Michael Stubblefield,United States,"13,500",1904,Chemicals,Avantor
+1581,Douglas H. Shulman,United States,"8,800",2013,Business Services & Supplies,OneMain Holdings
+1582,J. Thomas Hill,United States,"11,437",1909,Construction,Vulcan Materials
+1583,Eishin Ihori,Japan,"4,943",2003,Banking,Hokuhoku Financial Group
+1584,Hyun-Soon Hwang,South Korea,941,2000,Diversified Financials,Kiwoom Securities
+1585,Nikesh Arora,United States,"10,473",2005,Technology Hardware & Equipment,Palo Alto Networks
+1586,Tomohide Karita,Japan,"13,050",1951,Utilities,Chugoku Electric Power
+1587,Michael J. Salvino,United States,"134,000",2017,Business Services & Supplies,DXC Technology
+1588,Steffen Greubel,Germany,"92,694",2008,Food Markets,Metro Group
+1589,Motozo Shiono,Japan,"5,485",1919,Drugs & Biotechnology,Shionogi
+1590,Frank Slootman,United States,"3,992",2012,IT Software & Services,Snowflake
+1591,Brian D. Chambers,United States,"20,000",1938,Construction,Owens Corning
+1592,Michel Siboni,Israel,"4,635",1982,Insurance,Harel Insurance Investments & Financial Services
+1593,Jian Liu,China,"5,241",1997,Materials,Inner Mongolia Yitai Coal
+1594,Young-Chae Jeong,South Korea,"3,044",Not found,Diversified Financials,NH Investment & Securities
+1595,Paul W. Feeney,United Kingdom,"4,343",2007,Diversified Financials,Quilter
+1596,Michael C. Jennings,United States,"4,208",1947,Oil & Gas Operations,HF Sinclair
+1597,Sam-Hyeon Gah,South Korea,649,1973,Capital Goods,Korea Shipbuilding & Offshore Engineering
+1598,Duck-Hyun Chang,South Korea,"11,866",1973,Technology Hardware & Equipment,Samsung Electro-Mechanics
+1599,Dallas B. Tanner,United States,"1,240",2012,Diversified Financials,Invitation Homes
+1600,Mei Song Lai,China,Not found,2002,Transportation,ZTO Express (Cayman)
+1601,Richard Chen,China,"62,107",1991,"Food, Drink & Tobacco",Tingyi Holding
+1602,Aneel Bhuri,United States,"15,200",2005,IT Software & Services,Workday
+1603,Hisashi Shibata,Japan,"3,288",1943,Banking,Shizuoka Bank
+1604,Gil Shwed,Israel,"5,805",1993,IT Software & Services,Check Point Software
+1605,Lam Ngoc Le,Vietnam,"27,223",1957,Banking,Commercial Bank For Investment & Development Of Vietnam
+1606,Robert A. Bruggeworth,United States,"8,400",1991,Semiconductors,Qorvo
+1607,Mikhail Lomtadze,Kazakhstan,Not found,2008,Diversified Financials,Kaspi.kz JSC
+1608,Ronald James Kruszewski,United States,"8,600",1890,Diversified Financials,Stifel Financial
+1609,Sergio Pablo Antonio,Argentina,Not found,1977,Oil & Gas Operations,YPF 
+1610,Abdul Aziz bin Mohammed Al-Onaizan,Saudi Arabia,"4,291",2004,Banking,Bank Albilad
+1611,Martin Olof Carlesund,Sweden,"13,410",2006,"Hotels, Restaurants & Leisure",Evolution Gaming Group AB
+1612,Cheol-Dong Jeong,South Korea,"12,415",1976,Technology Hardware & Equipment,"LG Innotek Co.,"
+1613,Lloyd M. Yates,United States,"7,272",1847,Oil & Gas Operations,NiSource
+1614,David Gustaf Mindus,Sweden,87,1995,Construction,AB Sagax
+1615,Ying Li,China,"6,975",Not found,Household & Personal Products,SDIC Capital
+1616,Shoichi Yumoto,Japan,"3,689",1931,Banking,Hachijuni Bank
+1617,Not found,Japan,"21,254",1948,Construction,"Sumitomo Forestry Co.,"
+1618,Takahiro Kai,Japan,"4,578",2015,Banking,Kyushu Financial Group
+1619,Jane Jie Sun,China,"33,400",1999,Business Services & Supplies,Trip.com Group
+1620,Ye Dong Qu,China,"9,511",1961,Materials,China Northern Rare Earth High-Tech
+1621,Evan Thomas Spiegel,United States,"5,661",2010,IT Software & Services,Snap
+1622,Burkhard Lohr,Germany,"10,711",1889,Chemicals,K+S
+1623,Philip Eric Rene,China,"6,852",1996,Banking,Bank of Tianjin
+1624,Fani Titi,United Kingdom,"8,200",1998,Diversified Financials,Investec
+1625,Isao Kubota,Japan,"4,018",Not found,Banking,Nishi-nippon Financial Holdings
+1626,Hussein Majid Abaza,Egypt,"7,308",1975,Banking,Commercial International Bank
+1627,Vincent Pilette,United States,"2,800",1988,IT Software & Services,NortonLifeLock
+1628,George P. Kurtz,United States,"4,965",2011,IT Software & Services,CrowdStrike
+1629,Minoru Masubuchi,Japan,272,1927,Business Services & Supplies,Japan Securities
+1630,Yoram Naveh,Israel,"4,198",Not found,Insurance,Clal Insurance Enterprises 
+1631,Cai Tang Guan,China,"16,755",Not found,Capital Goods,Xinyu Iron & Steel
+1632,Milan Galik,United States,"2,571",1977,Diversified Financials,Interactive Brokers Group
+1633,Yi Li,Hong Kong,"25,579",2000,Drugs & Biotechnology,Sino Biopharmaceutical
+1634,Suk-Yong Cha,South Korea,"4,469",2001,Household & Personal Products,LG Household & Health Care
+1635,Yoshitoshi Kitajima,Japan,"37,062",1876,Business Services & Supplies,Dai Nippon Printing
+1636,Mitsuharu Yasuda,Japan,"3,106",1917,Banking,North Pacific Bank
+1637,Maurici Lucena Betriu,Spain,"8,811",1991,Transportation,Aena
+1638,Hideo Takasaki,Japan,"25,424",1918,Chemicals,Nitto Denko
+1639,Michael J. Kasbar,United States,"4,414",1984,Trading Companies,World Fuel Services
+1640,Ralf Spann,Sweden,865,1994,Construction,Akelius Residential Property
+1641,Kong Khoon Tan,Malaysia,"7,803",1963,Business Services & Supplies,Hong Leong Financial
+1642,Nobuhiro Doi,Japan,"3,553",1941,Banking,Bank of Kyoto
+1643,Hi-Moon Choi,South Korea,"1,501",Not found,Diversified Financials,Meritz Securities
+1644,Hideyuki Kudo,Japan,"5,605",1952,Banking,Shinsei Bank
+1645,Xue Dong Wang,China,533,1984,Banking,China Development Bank Financial Leasing
+1646,Stacy C. Kymes,United States,"4,711",1908,Banking,BOK Financial
+1647,Keisuke Mukunashi,Japan,"4,415",1878,Banking,Yamaguchi Financial
+1648,Zhang Zhiyong,China,"93,087",2006,Telecommunications Services,China Communications Services
+1649,Not found,China,"7,870",2000,Chemicals,Ganfeng Lithium
+1650,SÃ©rgio Leite de Andrade,Brazil,Not found,1953,Materials,Usiminas
+1651,Miguel Maya Dias Pinheiro,Portugal,"17,331",1985,Banking and Financial Services,Banco Comercial Portugues
+1652,Thomas Robert Cangemi,United States,"2,815",1993,Banking,New York Community Bancorp
+1653,Hans Jarl Rutger Arnhult,Sweden,427,Not found,Construction,Castellum
+1654,Christian Hartel,Germany,"14,406",1914,Chemicals,Wacker Chemie
+1655,Prashant Jasvantrai Mehta,India,181,Not found,Consumer Durables,Rajesh Exports
+1656,Anas Abuzaakouk,Austria,"3,716",2005,Banking,Bawag Group
+1657,Rong Song,China,"33,794",2002,Transportation,Sinotrans Ltd.
+1658,Jian Qiu Ma,China,"4,493",2007,Semiconductors,Will Semiconductor
+1659,Kevin Ronald Sayer,United States,"6,300",1999,Health Care Equipment & Services,DexCom
+1660,Martin Nemecek,Luxembourg,"3,485",2004,Construction,CPI Property Group
+1661,Zhi Wen Guo,China,"6,910",1997,Banking,Harbin Bank
+1662,Wing Yiu Chang,Hong Kong,"36,000",1988,Chemicals,Kingboard Holdings
+1663,Andrew Anagnost,United States,"12,600",1982,"IT, Internet, Software & Services",Autodesk
+1664,Liang Wang,China,"33,141",2008,Capital Goods,China Shipbuilding Industry
+1665,Karsten Wildberger,Germany,"52,000",2017,Retail and Wholesale,Ceconomy
+1666,Not found,Japan,"3,813",Not found,Banking,Hirogin Holdings
+1667,Jack Patrick Dorsey,United States,"7,500",2006,IT Software & Services,Twitter
+1668,Anders Christian Dam,Denmark,"3,242",1967,Banking,Jyske Bank
+1669,Yi Bo Qiu,China,"18,154",Not found,Chemicals,Hengyi Petrochemical 
+1670,David T. Feinberg,United States,"25,150",1979,Health Care Equipment & Services,Cerner
+1671,Kazuo Saito,Japan,"3,175",1932,Banking,Gunma Bank
+1672,Abdullah Saif Al-Saadoon,Saudi Arabia,Not found,1999,Chemicals,Sahara International Petrochemical
+1673,Xue Qing Shen,China,"5,526",1996,Banking,Bank of Zhengzhou
+1674,Xiu Feng Wang,Hong Kong,"8,495",1872,Transportation,China Merchants Port Holdings
+1675,Fu Hai Yeh,Taiwan,Not found,2005,Trading Companies,WPG Holdings
+1676,Yang Sun,China,"24,664",1984,Technology Hardware & Equipment,Sunny Optical Technology Group
+1677,Duan Qing Zhang,China,"1,865",Not found,Construction,Zheshang Development Group
+1678,Leszek Skiba,Poland,"14,702",1929,Banking,Bank Pekao
+1679,Choon Phong Goh,Singapore,"25,547",1971,Transportation,Singapore Airlines
+1680,J. Alexander M.,United States,"28,300",1976,Food Markets,United Natural Foods
+1681,Andreas Brandstetter,Austria,"12,818",1922,Insurance,Uniqa
+1682,Simon Adam Wolfson,United Kingdom,"44,626",1864,"Clothing, Shoes, Sports Equipment",Next
+1683,Xiao Hai Hou,Hong Kong,"25,000",1992,Food Markets,China Resources Beer (Holdings)
+1684,Thomas Birtel,Austria,"73,606",1835,Construction,STRABAG
+1685,Amit Syngle,India,"23,514",1945,Chemicals,Asian Paints
+1686,Chao-Chung Chou,Taiwan,Not found,1905,Banking,Chang Hwa Bank
+1687,Peter R. Huntsman,United States,"9,000",1970,Chemicals,Huntsman
+1688,"Hyeon-Su Dong, Min-Cheol Kim",South Korea,"2,034",1896,Trading Companies,Doosan
+1689,Jeffrey A. Stoops,United States,"1,596",1989,Diversified Financials,SBA Communications
+1690,Olivier Pomel,United States,"3,200",2010,IT Software & Services,Datadog
+1691,Hyun-He Ha,South Korea,"10,187",1996,Telecommunications Services,LG Uplus
+1692,Kevin Ali,United States,"9,300",Not found,Drugs & Biotechnology,Organon
+1693,Thomas J. Nimbley,United States,"3,418",2008,Oil & Gas Operations,PBF Energy
+1694,Gerrit Andreas Marx,Italy,3,Not found,Consumer Durables,Iveco Group
+1695,Arturo GutiÃ©rrez HernÃ¡ndez,Mexico,"62,857",2001,"Food, Drink & Tobacco",Arca Continental
+1696,Shan Chung Chen,Taiwan,Not found,Not found,Banking,Shanghai Commercial & Savings Bank
+1697,Christos Ioanni Megalou,Greece,"9,493",1916,Banking,Piraeus Financial Holdings
+1698,Not found,Japan,"3,774",Not found,Banking,Daishi Hokuetsu Financial Group
+1699,Michael J. Farrell,United States,"7,970",1989,Health Care Equipment & Services,ResMed
+1700,Robert W. Eddy,United States,"34,000",1984,Retailing,BJ's Wholesale Club
+1701,Stefan Larsson,United States,"31,000",1881,Household & Personal Products,PVH
+1702,Hidefumi Kobayashi,Japan,"2,812",1878,Banking,77 Bank
+1703,Othman bin Ali Al Ghamdi,Saudi Arabia,Not found,2005,Oil & Gas Operations,Petro Rabigh
+1704,Anil Kumar Sardana,India,"11,922",2013,Utilities,Adani Transmission
+1705,Robert Gentz David Schneider,Germany,"17,000",2008,"Clothing, Shoes, Sports Equipment",Zalando
+1706,Fokion C. Karavias,Greece,"8,617",Not found,Banking,Eurobank Ergasias
+1707,Peter D. Arvan,United States,"5,500",1993,Trading Companies,Pool
+1708,Masato Miyanaga,Japan,"3,171",1930,Banking,Chugoku Bank
+1709,Itaru Tanimura,Japan,"8,249",2000,Health Care Equipment & Services,M3
+1710,Wei Lin Zhao,China,"22,609",Not found,Conglomerates,Sumec Corporation
+1711,John J. Zillmer,United States,"248,300",1936,"Hotels, Restaurants & Leisure",Aramark
+1712,Wen Tan,China,"10,200",2000,Diversified Financials,China Industrial Securities
+1713,Nan Chun Jiang,China,"6,779",1997,Media,Focus Media Information Technology
+1714,Craig Ralph McNally,Australia,"80,000",1964,Health Care Equipment & Services,Ramsay Health Care
+1715,Phillip D. Green,United States,"4,553",1868,Banking,Cullen/Frost Bankers
+1716,Michael Rapino,United States,"10,200",2010,Media,Live Nation Entertainment
+1717,Scott Carlyle Balfour,Canada,"7,140",1998,Utilities,Emera
+1718,Li Guo Luo,China,"8,893",2005,Chemicals,Hoshine Silicon Industry
+1719,Kang Min Xie,China,"6,337",1958,Chemicals,Qinghai Salt Lake Industry
+1720,Barry Stuart Sternlicht,United States,277,2009,Diversified Financials,Starwood Property Trust
+1721,Paolo Bertoluzzo,Italy,"9,929",1939,IT Software & Services,Nexi S.p.A.
+1722,W. Troy Rudd,United States,"51,000",1980,Construction,AECOM Technology
+1723,Vassilios E. Psaltis,Greece,"8,939",1879,Banking,Alpha Bank
+1724,Klaus Josef Lutz,Germany,"3,300",1923,"Construction, Oil & Gas Operations, Mining and Chemicals",BayWa
+1725,Ricardo Ramos RodrÃ­guez,Chile,"6,081",1968,Chemicals,SQM
+1726,Mark A. Douglas,United States,"6,400",1883,Chemicals,FMC
+1727,Bradley S. Shaw,Canada,"9,400",1966,Media,Shaw Communications
+1728,Joseph C. Papa,Canada,"19,600",1959,Health Care Equipment & Services,Bausch Health Companies
+1729,Chander Prakash Gurnani,India,"106,177",1986,IT Software & Services,Tech Mahindra
+1730,Torger RÃ¸d,Norway,950,1965,Oil & Gas Operations,Var Energi ASA
+1731,Shao Quan Guo,China,"4,117",1996,Banking,Bank of Qingdao
+1732,Takao Kato,Japan,"30,091",1970,Consumer Durables,Mitsubishi Motors
+1733,Yuriy Olegovich Denisov,Russia,"2,208",1992,Diversified Financials,Moscow Exchange
+1734,Heyward R. Donigan,United States,"50,000",1968,Retailing,Rite Aid
+1735,Udit Batra,United States,"7,800",1958,Health Care Equipment & Services,Waters
+1736,"Takeshi Kosaka, Ning Li",China,"4,019",1989,Household & Personal Products,Li Ning
+1737,Nasser Al Awadhi,United Arab Emirates,Not found,1997,Banking,Abu Dhabi Islamic Bank
+1738,Xiao Ming Chen,China,"5,365",1998,Banking,Jiangxi Bank
+1739,Hsiang Li Chen,Taiwan,"20,000",1954,Insurance,Mercuries & Associates
+1740,John V. Oyler,China,"8,200",2010,Drugs & Biotechnology,BeiGene
+1741,Naoki Yoshida,Japan,"16,838",1980,Retailing,Pan Pacific International Holdings
+1742,John Jacob Philip,Netherlands,10,2015,Diversified Financials,EXOR
+1743,Naomi Kumakiri,Japan,"17,422",1974,Construction,Daito Trust Construction
+1744,Shu Tu,Taiwan,Not found,1988,Trading Companies,Synnex Technology Intl
+1745,Suresh P. Manglani,India,517,2005,Oil & Gas Operations,Adani Total Gas
+1746,Zhi Sheng Chen,China,"9,864",2010,Drugs & Biotechnology,WuXi Biologics
+1747,Liam Condon,United Kingdom,"14,582",1817,Chemicals,Johnson Matthey
+1748,Tuck Kwong Low,Indonesia,"2,876",2004,Materials,Bayan Resources
+1749,Michael B. O'Sullivan,United States,"62,395",1972,Retailing,Burlington Stores
+1750,Roberto Frignani,Italy,"6,219",1910,Banking,Credito Emiliano
+1751,Hiroyuki Kanome,Japan,"12,045",2003,Drugs & Biotechnology,Alfresa Holdings
+1752,", Hideo Tanaka",Japan,"9,550",2005,Consumer Durables,Bandai Namco Holdings
+1753,Bi Lei Wu,China,"20,684",1997,Consumer Durables,FAW Jiefang Group
+1754,Not found,Canada,"25,000",1995,"IT, Internet, Software & Services",Constellation Software
+1755,Rajivnayan Rahulkumar Bajaj,India,"10,052",1945,Consumer Durables,Bajaj Auto
+1756,Sumit Singh,United States,"20,000",2011,Retail and Wholesale,Chewy
+1757,Huai Chun Chang,China,"4,476",2000,Chemicals,Shandong Hualu-Hengsheng Chemical
+1758,Ignatius Navil Noronha,India,"47,044",2000,Retailing,Avenue Supermarts
+1759,Dieter R. Weisskopf,Switzerland,"14,000",1845,"Food, Soft Beverages, Alcohol & Tobacco",Lindt & Sprungli
+1760,Rickard Gustafson,Sweden,"42,602",1907,"Engineering, Manufacturing",SKF Group
+1761,Kenji Miyoshi,Japan,"3,071",1878,Banking,Iyo Bank
+1762,Yukio Murase,Japan,"2,839",1877,Banking,Juroku  Financial Group
+1763,Frank Thomson Leighton,United States,"8,700",1998,IT Software & Services,Akamai Technologies
+1764,Magdalena Martullo-Blocher,Switzerland,"2,646",1936,Drugs & Biotechnology,EMS-Chemie Holding
+1765,Edward K. Aldag,United States,112,2003,Diversified Financials,Medical Properties Trust
+1766,Chien An Shih,Taiwan,"5,483",1950,Banking,Taiwan Business Bank
+1767,Not found,China,"28,127",1997,Capital Goods,Zhejiang Chint Electrics
+1768,Ravi Saligram,United States,"32,000",1903,Consumer Durables,Newell Brands
+1769,Manuel Velez Pangilinan,Hong Kong,"100,120",1981,Diversified Financials,First Pacific
+1770,Not found,Hong Kong,"4,624",2000,Banking,Bank of Jiujiang
+1771,Tae-O Kim,South Korea,"4,606",1967,Banking,DGB Financial Group
+1772,Chao Chung Tsai,Hong Kong,13,1889,Utilities,Power Assets Holdings
+1773,Ching Sai Tung,Hong Kong,"13,117",1988,Consumer Durables,Xinyi Glass Holdings
+1774,Douglas C. Yearley,United States,"5,100",1986,Construction,Toll Brothers
+1775,Sergey Eduardovich Gordeev,Russia,Not found,1994,Diversified Financials,PIK Group
+1776,Richard Johnson,United States,"16,555",1974,Retail and Wholesale,Foot Locker
+1777,Not found,China,"4,919",2004,Banking,Bank of Suzhou
+1778,Dong-Wook Park,South Korea,"6,324",1950,Construction,Hyundai Engineering
+1779,Anant Bhalla,United States,900,1995,Insurance,American Equity Investment
+1780,Yoshiaki Yoshida,Japan,"5,261",1946,Semiconductors,Advantest
+1781,Philip R. Gallagher,United States,"14,500",1921,Trading Companies,Avnet
+1782,Toshiyasu Ito,Japan,"2,922",1878,Banking,Hyakugo Bank
+1783,Peter Rawlinson,United States,"3,900",2018,Automotive,Lucid Motors
+1784,"Dong Chen Cai, Cuilong Zhang",Hong Kong,"24,746",Not found,Drugs & Biotechnology,CSPC Pharmaceutical Group
+1785,Rodolphe Belmer,France,"109,135",1997,IT Software & Services,ATOS
+1786,Jonas Prising,United States,"30,000",1948,Business Services & Supplies,Manpower
+1787,Chun Hsing Su,Taiwan,Not found,1955,Consumer Durables,Hotai Motor
+1788,Zhi Ping Chen,China,"16,241",2009,"Food, Drink & Tobacco",Smoore International Holdings
+1789,Linda Rendle,United States,"6,390",1913,Packaged Goods,Clorox
+1790,Donal Murphy,Ireland,"13,689",1976,Conglomerates,DCC
+1791,Helge Leiro Baastad,Norway,"3,710",2010,Insurance,Gjensidige Forsikring
+1792,Haydar YenigÃ¼n,Turkey,"13,724",1959,Consumer Durables,Ford Otosan
+1793,George Frazis,Australia,"2,218",1874,Banking,Bank of Queensland
+1794,Nicholas I. Fink,United States,"28,000",2011,Construction,Fortune Brands Home & Security
+1795,Ray Scott,United States,"160,100",1917,Consumer Durables,Lear
+1796,Thomas L. Ryan,United States,"24,658",Not found,Business Services & Supplies,Service Corp Intl
+1797,Je-Joong Lee,South Korea,"1,550",1974,Materials,Korea Zinc
+1798,Zong Bo Liu,China,"4,904",2012,Banking,Qingdao Rural Commercial Bank
+1799,Kenichi Udagawa,Japan,"13,631",1935,Chemicals,Tosoh
+1800,Tony Xu MBA,United States,"8,600",2013,IT Software & Services,DoorDash
+1801,Matthew Browning Prince,United States,"2,440",2009,Business Services & Supplies,Cloudflare
+1802,Wei He,China,"28,213",1999,Health Care Equipment & Services,Jointown Pharmaceutical Group
+1803,Hidehito Takahashi,Japan,"26,054",1939,Chemicals,Showa Denko
+1804,Yasuhiko Hashimoto,Japan,"36,691",1896,Conglomerates,Kawasaki Heavy Industries
+1805,Andreas Arndt,Germany,823,2003,Banking,Deutsche Pfandbriefbank
+1806,Bin Li,China,Not found,2014,Consumer Durables,NIO
+1807,Marcos Marinho Lutz,Brazil,"16,422",Not found,Oil & Gas Operations,Ultrapar Participacoes
+1808,James Edward Pozzi,United States,"4,545",1905,Insurance,American National Group
+1809,Takashi Tsuchiya,Japan,"3,409",1896,Banking,Ogaki Kyoritsu Bank
+1810,Marnie A. Baker,Australia,"4,483",1858,Banking,Bendigo & Adelaide Bank
+1811,Pei Jin Jiang,China,"11,832",Not found,Materials,Tongling Nonferrous Metals
+1812,Yong Yu,Japan,"7,156",1952,Utilities,Electric Power Development
+1813,Gunnar Groebler,Germany,"24,255",1858,Materials,Salzgitter
+1814,Jian Wei Zhang,Japan,"15,041",1946,Drugs & Biotechnology,Suzuken
+1815,Yoshio Daido,Japan,"2,286",1933,Banking,Shiga Bank
+1816,Joachim Kreuzburg,Germany,"13,832",1870,Health Care Equipment & Services,Sartorius
+1817,Chee Siong Ng,Hong Kong,Not found,1971,Construction,Tsim Sha Tsui Properties
+1818,Not found,China,"4,130",1996,Banking,Qilu Bank
+1819,Timothy P. Walbert,Ireland,"1,890",2008,Drugs & Biotechnology,Horizon Therapeutics Public Limited Company
+1820,Valerio Battista,Italy,"29,763",2005,Capital Goods,Prysmian
+1821,Craig Bryksa,Canada,748,1994,Oil & Gas Operations,Crescent Point Energy
+1822,Hitesh Oberoi,India,"4,439",1995,IT Software & Services,Info Edge India
+1823,Alessandro Foti,Italy,"1,305",1979,Banking,FinecoBank
+1824,Wen Xia Zhou,China,"2,379",Not found,Chemicals,Hubei Biocause Pharmaceutical
+1825,Stephen A. Cutler,Ireland,"38,330",1990,Drugs & Biotechnology,ICON (Ireland)
+1826,Chong Wang,China,"9,608",Not found,Materials,Yunnan Copper Co. Ltd.
+1827,Horacio D. Rozanski,United States,"27,200",1914,Business Services & Supplies,Booz Allen Hamilton Holding
+1828,Roberto Garcia Merino,Spain,"2,051",1985,Utilities,Red ElÃ©ctrica
+1829,Atsushi Ukawa,Japan,"2,853",2009,Banking,Senshu Ikeda Holdings
+1830,Mario Alberto Pedranzini,Italy,"3,383",1871,Banking,Banca Popolare di Sondrio
+1831,Ying Jie Yuan,China,"7,740",1997,Transportation,Zhejiang Expressway Co. Ltd.
+1832,Alexandre J. L'Heureux,Canada,"55,000",1987,Construction,WSP
+1833,Dan Hogan Arnold,United States,"5,900",1989,Diversified Financials,LPL Financial Holdings
+1834,H. Eric Bolton,United States,"2,429",1994,Diversified Financials,Mid-america Apartment Communities
+1835,Venkataraman Coimbatore,India,"11,735",1984,Consumer Durables,Titan (India)
+1836,Zhi Ping Zhang,China,"13,630",1998,Chemicals,Beijing Oriental Yuhong Waterproof Technology
+1837,Vladimir Sanasarovich Chirakhov,Russia,Not found,1993,Telecommunications Services,Sistema
+1838,Niraj S. Shah,United States,"16,681",2002,Retail and Wholesale,Wayfair
+1839,Jagtar Singh Chaudhry,United States,"3,153",2007,Business Services & Supplies,Zscaler
+1840,Michel Puchercos,Nigeria,"17,747",1981,Construction,Dangote Cement
+1841,Yoshinori Yamashita,Japan,"81,184",1936,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Ricoh
+1842,Jeffrey Terry Green,United States,"1,967",2009,Media,Trade Desk
+1843,Mauricio Graber,Denmark,Not found,1874,Chemicals,Chr. Hansen Holding
+1844,Not found,United Kingdom,"61,053",Not found,Retailing,JD Sports Fashion
+1845,"Edward Rodolphe Paul Arkwright, Augustin Pascal de Romanet de Beaune",France,"22,269",1945,Transportation,Aeroports de Paris
+1846,Pascal Kiener,Switzerland,"1,932",1845,Banking,Banque Cantonale Vaudoise
+1847,Luis Maroto Camino,Spain,"15,936",1987,Business Services & Supplies,Amadeus IT Group 
+1848,Not found,China,Not found,1997,Banking,Bank of Lanzhou
+1849,Wei Guo,China,"5,210",Not found,Telecommunications Services,Digital China Group
+1850,"Won-Tae Cho, Gi-Hong Woo",South Korea,"17,992",1962,Transportation,Korean Air
+1851,Ichiro Kubota,Japan,"2,133",1941,Banking,San-In Godo Bank
+1852,Gustavo Estrella,Brazil,"13,008",1912,Utilities,CPFL Energia
+1853,Prasong Poontaneat,Thailand,Not found,1903,Transportation,Airports of Thailand
+1854,Takashi Hashimoto,Japan,"2,497",1934,Banking,Nanto Bank
+1855,Seishi Kitamura,Japan,"2,035",1941,Banking,Toho Bank
+1856,Peter P. Gassner,United States,"5,482",2007,IT Software & Services,Veeva Systems
+1857,Li Li,China,"22,808",2003,Health Care Equipment & Services,Aier Eye Hospital Group
+1858,Toshiyuki Kumagai,Japan,"1,977",1943,Banking,Keiyo Bank
+1859,Stephen Bird,United Kingdom,"7,768",2005,Insurance,Abrdn
+1860,Martin J. Schroeter,United States,"90,000",Not found,Business Services & Supplies,Kyndryl Holdings
+1861,David Rawlinson,United States,"26,659",2018,Retailing,Qurate Retail Group
+1862,Chong Liu,China,"13,338",1997,Transportation,Cosco Shipping Development
+1863,Chun Gui Ge,China,"48,173",Not found,Capital Goods,Huaibei Mining Holdings
+1864,Yung Tsai Wu,Taiwan,Not found,1975,Technology Hardware & Equipment,Inventec
+1865,Shuji Kita,Japan,"4,845",1947,Trading Companies,Hanwa
+1866,Michael William P.,Indonesia,Not found,1991,Diversified Financials,PT Saratoga Investama Sedaya
+1867,Lino A. Saputo,Canada,"18,600",1954,"Food, Soft Beverages, Alcohol & Tobacco",Saputo
+1868,Yoichi Miyamoto,Japan,"16,586",1804,Construction,Shimizu
+1869,Duncan N. R.,Canada,13,1968,Insurance,E-L Financial
+1870,Basil Heeb,Switzerland,"1,289",1899,Banking,Basler Kantonalbank
+1871,Nicholas T. Pinchuck,United States,"12,800",1920,Consumer Durables,Snap-on
+1872,Daniel Salzmann,Switzerland,"1,448",1850,Banking,Luzerner Kantonalbank
+1873,Jian Shun Liu,China,"2,591",Not found,Drugs & Biotechnology,Zhangzhou Pientzehuang Pharmaceutical
+1874,Georgi Martin Ganev,Sweden,36,1985,Diversified Financials,Kinnevik
+1875,Jens Lottner,Vietnam,"12,506",1993,Banking,Vietnam Technological & Commercial Joint Stock Bank
+1876,Jacob Sitt,Israel,"3,645",1972,Banking,FIBI Holdings
+1877,John J. Engel,United States,"18,000",1993,Trading Companies,WESCO International
+1878,Zhou Quan Cui,China,"11,379",Not found,Chemicals,Yunnan Yuntianhua
+1879,Xian Xiang Yang,Hong Kong,"1,920",1991,Transportation,SITC International Holdings
+1880,Ke Shun Xu,China,"17,010",Not found,Utilities,Anhui Water Resources Development
+1881,Takashi Sakamoto,Japan,"2,830",2014,Banking,Tokyo Kiraboshi Financial Group
+1882,Brian Kesseler,United States,"71,000",1940,Consumer Durables,Tenneco
+1883,Matthew P. Wagner,United States,"2,200",1999,Banking,PacWest Bancorp
+1884,Xin Li,China,"4,335",2011,Banking,Bank Of Gansu
+1885,Peter Boone,Switzerland,"12,783",1994,"Food, Drink & Tobacco",Barry Callebaut
+1886,Zofia Maria Paryla,Poland,"5,472",1991,Oil & Gas Operations,Grupa LOTOS
+1887,Xiao Hua Li,China,"8,679",2001,Consumer Durables,Yunnan Energy New Material
+1888,Ulf Ãrjan Larsson,Sweden,"3,373",1929,Household & Personal Products,SCA
+1889,Paddy Padmanathan,Saudi Arabia,Not found,2004,Utilities,ACWA Power
+1890,Ui-Heon Park,South Korea,8,1972,Consumer Durables,F&F
+1891,David A. Spector,United States,"7,208",2008,Business Services & Supplies,PennyMac Financial Services
+1892,Jochen KlÃ¶sges,Germany,"3,170",1923,Diversified Financials,Aareal Bank
+1893,Michael J. Schall,United States,"1,757",1971,Diversified Financials,Essex Property Trust
+1894,"Rui Rong Zhu, Haruki Satomi",China,"11,993",Not found,Materials,Nanjing Iron & Steel
+1895,Sung-Woo Hwang,South Korea,"12,019",1985,IT Software & Services,Samsung SDS
+1896,Shinsuke Baba,Japan,"2,332",1957,Banking,Aozora Bank
+1897,Jonas Samuelson,Sweden,"51,798",1919,Consumer Durables,Electrolux Group
+1898,Eyal Henkin,Israel,391,1983,Construction,Azrieli Group
+1899,J. Powell Brown,United States,"12,023",1939,Insurance,Brown & Brown
+1900,Chiu Hung Shum,China,"9,502",1999,Construction,Times Property Holdings
+1901,Christopher Ivan Griffith,South Africa,"2,607",1968,Materials,Gold Fields
+1902,John W. Kemper,United States,"4,567",1865,Banking,Commerce Bancshares
+1903,Piti Tantakasem,Thailand,"15,102",1935,Banking,TMB Bank
+1904,Yan Jun Wang,Singapore,105,1993,Oil & Gas Operations,China Aviation Oil
+1905,Ichiro Miyasaka,Japan,"9,028",1977,Trading Companies,Nippon Steel Trading
+1906,John R. Ciulla,United States,"3,245",1986,Banking,Webster Financial
+1907,Shou Jen Wang,Taiwan,Not found,Not found,Semiconductors,Novatek Microelectronics Corp.
+1908,Dean Kendal Finch,United Kingdom,"5,196",Not found,Construction,Persimmon
+1909,Clay B. Siegall,United States,"2,675",1997,Drugs & Biotechnology,Seagen
+1910,Barbara R. Smith,United States,"11,089",1915,Materials,Commercial Metals
+1911,Dev C. Ittycheria,United States,"3,544",2007,Business Services & Supplies,MongoDB
+1912,Not found,China,"3,381",1997,Banking,Bank of Xi'an
+1913,"Victor Grifols Deu, Raimon Grifols Roura",Spain,"23,245",1909,Drugs & Biotechnology,Grifols
+1914,Andrew Clyde,United States,"14,615",1996,Retailing,Murphy USA
+1915,Matias Sola Videla,Chile,"117,638",1960,Retailing,Cencosud
+1916,Michael J. Arougheti,United States,"2,100",1997,Diversified Financials,Ares Management
+1917,Byung-Yong Lim,Japan,"2,491",Not found,Banking,Kiyo Bank 
+1918,Ming Lv,China,"21,949",Not found,Materials,Shandong Iron and Steel
+1919,Robert Berthold Espey,Canada,Not found,1977,Trading Companies,Parkland
+1920,Venkat Rao Matam,India,"32,335",1911,Banking,Central Bank of India
+1921,Che Woo Lui,Hong Kong,"17,700",1955,"Hotels, Restaurants & Leisure",Galaxy Entertainment
+1922,Robert Mehrabian,United States,"14,500",1960,Aerospace & Defense,Teledyne Technologies
+1923,Darren Joseph Steinberg,Australia,559,Not found,Diversified Financials,Dexus
+1924,Alexander Caedmon Karp,United States,"2,920",2003,IT Software & Services,Palantir Technologies
+1925,Alexandre de Rothschild,France,"3,816",1811,Diversified Financials,Rothschild & Co.
+1926,Edward Joseph Wehmer,United States,"5,239",1992,Banking,Wintrust Financial
+1927,Andrew C. Florance,United States,"4,742",1987,IT Software & Services,CoStar Group
+1928,Mohamed Karim Mounir,Morocco,Not found,1926,Banking,Banque Centrale Populaire
+1929,Jesse K. Bray,United States,"8,200",1994,Insurance,Mr. Cooper Group
+1930,Ming Cheng Wang,China,"5,354",Not found,Transportation,Xiamen Xinde
+1931,Fernando Miranda Zobel de Ayala,Philippines,"85,869",1834,Conglomerate,Ayala Corp
+1932,Yi Fang Wu,China,"36,279",1994,Drugs & Biotechnology,Shanghai Fosun Pharmaceutical
+1933,Xing Ming Zhu,China,Not found,2003,Capital Goods,Shenzhen Inovance Technology
+1934,Jan G. J. van de Winkel,Denmark,"1,212",1998,Drugs & Biotechnology,Genmab
+1935,Ajei S. Gopal,United States,"5,100",1970,IT Software & Services,Ansys
+1936,John McKenzie,Canada,"1,576",1861,Diversified Financials,TMX Group
+1937,Bobby Martin,United States,"97,000",1969,"Clothing, Shoes, Sports Equipment",Gap
+1938,Yujiro Ayada,Japan,"2,283",1878,Banking,Hyakujushi Bank
+1939,Gek Lim Loh,Netherlands,"3,312",1964,Semiconductors,ASM International
+1940,Yuji Okuma,Japan,"23,411",2013,Construction,Tokyu Fudosan
+1941,Jerry Kent Masters,United States,"6,000",1993,Chemicals,Albemarle
+1942,Fernando Jorge Buso,Brazil,Not found,Not found,Diversified Financials,Bradespar
+1943,Trevor J. Croker,Australia,"7,000",1953,Consumer Durables,Aristocrat Leisure
+1944,Not found,China,"36,971",Not found,Transportation,Hainan Airlines Holding
+1945,Not found,Philippines,"14,451",1962,Banking,Metropolitan Bank & Trust
+1946,Michael Keith Waddell,United States,"191,600",1948,Business Services & Supplies,Robert Half International
+1947,Zhen Huang,China,"16,644",Not found,Retailing,Shanghai Yuyuan Tourist Mart
+1948,Ralph J Andretta,United States,"6,000",1996,Business Services & Supplies,Bread Financial Holdings
+1949,Thomas M. Herzog,United States,196,1985,Diversified Financials,Healthpeak Properties
+1950,Daniel A. Carestio,Ireland,"13,000",1985,Health Care Equipment & Services,Steris
+1951,Tadao Ichimiya,Japan,"24,300",1983,Retailing,Yamada Denki
+1952,Bradley S. Jacobs,United States,"42,000",1989,Transportation,XPO Logistics
+1953,Orazio Carmelo Iacono,Italy,"9,122",2002,Utilities,Hera
+1954,Qiong Chen,China,"6,503",2009,Health Care Equipment & Services,Intco Medical Technology
+1955,Abdulrahman Abdulla Al,United Arab Emirates,Not found,1972,Oil & Gas Operations,ADNOC Drilling
+1956,Tateki Akata,Japan,"1,837",1943,Banking,Hokkoku Financial Holdings
+1957,Guan Lin Huang,Hong Kong,"82,700",2005,Household & Personal Products,Shenzhou International Group Holdings
+1958,Cheng Lung Hu,Taiwan,Not found,1954,Capital Goods,Far Eastern New Century
+1959,JosÃ© Manuel Neves,United Kingdom,"6,464",2007,IT Software & Services,Farfetch
+1960,Zhi Bang Zhang,China,"151,198",2004,Household & Personal Products,Huali Industrial Group
+1961,Vidya Ratan Sharma,India,"6,173",1979,Materials,Jindal Steel & Power
+1962,Ahmed Mohammed Abdelaal,United Arab Emirates,"5,000",1967,Banking,Mashreq Bank
+1963,"Zhi Ping Qi, Zhi Yan",China,"1,714",2010,Construction,Zall Smart Commerce Group
+1964,Pablo Colio Abril,Spain,Not found,1944,Construction,FCC
+1965,Muhterem Kaan Terzioglu,Netherlands,"43,639",1992,Telecommunications Services,VEON
+1966,Xue Jun Wang,China,"46,428",2003,Aerospace & Defense,AviChina Industry & Technology
+1967,Keith J. Allman,United States,"20,000",1929,Construction,Masco
+1968,Not found,China,Not found,1997,Banking,Weihai City Commercial Bank
+1969,James D. Rollins,United States,"4,600",1982,Banking,Cadence Bank
+1970,Makoto Kigawa,Japan,"223,191",1919,Transportation,Yamato Holdings
+1971,Kikuo Kato,Japan,"2,159",1952,Banking,Musashino Bank
+1972,M. Terry Turner,United States,"2,841",2000,Banking,Pinnacle Bank
+1973,Not found,China,"4,424",1998,Banking,Jinshang Bank
+1974,Yasunori Ogawa,Japan,"79,944",1942,Business Services & Supplies,Seiko Epson
+1975,Matthew Halliday,Australia,"8,300",1900,Oil & Gas Operations,Ampol 
+1976,Ki-Hong Kim,South Korea,79,Not found,Banking,JB Financial Group
+1977,Joanne C. Crevoiserat,United States,"16,400",2017,Retailing,Tapestry
+1978,Bracken P. Darrell,Switzerland,"9,000",1981,Technology Hardware & Equipment,Logitech International
+1979,Ahmed K. El-Hoshy,United Arab Emirates,Not found,2019,Chemicals,Fertiglobe
+1980,Wen Tsung Cheng,Taiwan,"2,395",1993,Trading Companies,WT Microelectronics
+1981,Earl Julius Hesterberg,United States,"13,711",1995,Retailing,Group 1 Automotive
+1982,John Salvatore Riccitiello,United States,"5,245",2004,IT Software & Services,Unity Software
+1983,Yu Jian Zhao,China,"44,291",1999,Oil & Gas Operations,China Petroleum Engineering
+1984,Xiang Li,China,"11,901",2015,Consumer Durables,Li Auto
+1985,Lars Dahlgren,Sweden,"6,712",1996,"Food, Drink & Tobacco",Swedish Match
+1986,Jeffery G. Lawson,United States,"7,867",2008,IT Software & Services,Twilio
+1987,Grant Bradley Fagerheim,Canada,453,2008,Oil & Gas Operations,Whitecap Resources
+1988,Piergiorgio G. Pradelli,Switzerland,"3,027",1995,Banking,EFG International
+1989,Rong Gen Cao,China,"10,186",Not found,Diversified Financials,Grandjoy Holdings Group
+1990,Guido Kerkhoff,Germany,"7,153",2008,Materials,Kloeckner & Co
+1991,Sharmistha Dubey,United States,"2,540",2009,IT Software & Services,Match Group
+1992,Gerald W. Schwartz,Canada,536,1980,Diversified Financials,Onex
+1993,Xue Zheng Zhang,China,"25,096",Not found,Technology Hardware & Equipment,Wingtech Technology
+1994,Timoteo di Maulo,Luxembourg,Not found,2010,Materials,Aperam
+1995,Shan Min Huang,China,306,1998,Business Services & Supplies,Shenzhen Feima International Supply Chain
+1996,Sumit Deb,India,"16,944",1958,Materials,NMDC
+1997,Wei Li,China,"51,841",1988,Consumer Durables,Sichuan Changhong Electric
+1998,Not found,China,"3,409",Not found,Chemicals,Satellite Chemical
+1999,Gary A. Shiffman,United States,"45,000",1975,Business Services & Supplies,Sun Communities
