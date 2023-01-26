@@ -1,0 +1,1001 @@
+country,industry,market_capitalization_USD,name,sector,stock
+United States,Consumer Electronics,2825000000000,Apple Inc.,Technology,AAPL
+United States,Software—Infrastructure,2328000000000,Microsoft Corporation,Technology,MSFT
+Saudi Arabia,Oil & Gas Integrated,2297000000000,Saudi Arabian Oil Company,Energy,2222
+United States,Internet Content & Information,1825000000000,Alphabet Inc.,Communication Services,GOOG
+United States,Internet Retail,1642000000000,"Amazon.com, Inc.",Consumer Discretionary,AMZN
+United States,Auto Manufacturers,1016000000000,"Tesla, Inc.",Consumer Discretionary,TSLA
+United States,Financial Conglomerates,798470000000,Berkshire Hathaway Inc.,Financials,BRK.A
+United States,Semiconductors,660380000000,Nvidia Corporation,Technology,NVDA
+United States,Internet Content & Information,617500000000,"Meta Platforms, Inc.",Communication Services,META
+Taiwan,Semiconductors,527890000000,Taiwan Semiconductor Manufacturing Company Limited,Technology,2330
+United States,Healthcare Plans,488520000000,UnitedHealth Group Incorporated,Healthcare,UNH
+United States,Credit Services,486770000000,Visa Inc.,Financials,V
+United States,Drug Manufacturers—General,475930000000,Johnson & Johnson,Healthcare,JNJ
+China,Internet Content & Information,441170000000,Tencent Holdings Ltd,Communication Services,0700
+United States,Discount Stores,429050000000,Walmart Inc.,Consumer Staples,WMT
+United States,Banks,410840000000,JPMorgan Chase & Co.,Financials,JPM
+United States,Household & Personal Products,384600000000,The Procter & Gamble Company,Consumer Staples,PG
+South Korea,Consumer Electronics,378350000000,"Samsung Electronics Co., Ltd.",Technology,005930
+France,Luxury Goods,359260000000,"LVMH Moët Hennessy - Louis Vuitton, SE",Consumer Discretionary,MC
+United States,Credit Services,358600000000,Mastercard Incorporated,Financials,MA
+United States,Banks,350840000000,Bank of America Corporation,Financials,BAC
+Switzerland,Drug Manufacturers—General,349500000000,Roche Holding AG,Healthcare,ROG
+United States,Oil & Gas Integrated,348720000000,Exxon Mobil Corporation,Energy,XOM
+China,Beverages—Wineries & Distilleries,348220000000,Kweichow Moutai Co. Ltd,Consumer Staples,600519
+United States,Home Improvement Retail,321470000000,"The Home Depot, Inc.",Consumer Discretionary,HD
+United States,Oil & Gas Integrated,315130000000,Chevron Corporation,Energy,CVX
+United States,Drug Manufacturers—General,300790000000,Pfizer Inc.,Healthcare,PFE
+United States,Drug Manufacturers—General,294270000000,AbbVie Inc.,Healthcare,ABBV
+China,Internet Retail,290400000000,Alibaba Group Holding Limited,Consumer Discretionary,9988
+Netherlands,Semiconductor Equipment & Materials,274350000000,ASML Holding N.V.,Technology,ASML
+United States,Beverages—Non-Alcoholic,273200000000,The Coca-Cola Company,Consumer Staples,KO
+United States,Drug Manufacturers—General,273010000000,Eli Lilly and Company,Healthcare,LLY
+United States,Semiconductors,265270000000,Broadcom Inc.,Technology,AVGO
+United States,Discount Stores,258150000000,Costco Wholesale Corporation,Consumer Staples,COST
+Denmark,Biotechnology,257240000000,Novo Nordisk A/S,Healthcare,NOVO.B
+China,Banks,250370000000,Industrial & Commercial Bank of China Ltd,Financials,601398
+United States,Entertainment,247880000000,The Walt Disney Company,Communication Services,DIS
+United States,Beverages—Non-Alcoholic,241050000000,"PepsiCo, Inc.",Consumer Staples,PEP
+United States,Communication Equipment,238450000000,"Cisco Systems, Inc.",Technology,CSCO
+United States,Diagnostics & Research,236150000000,Thermo Fisher Scientific Inc.,Healthcare,TMO
+United States,Software—Infrastructure,228180000000,Oracle Corporation,Technology,ORCL
+France,Household & Personal Products,225240000000,L'Oréal SA,Consumer Staples,OR
+Ireland,Information Technology Services,219030000000,Accenture plc,Technology,ACN
+United States,Entertainment,218900000000,Comcast Corporation,Communication Services,CMCSA
+United States,Telecom Services,216680000000,Verizon Communications Inc.,Communication Services,VZ
+United States,Medical Devices,215020000000,Abbott Laboratories,Healthcare,ABT
+United States,Footwear & Accessories,213600000000,"Nike, Inc.",Consumer Discretionary,NKE
+Australia,Other Industrial Metals & Mining,211250000000,BHP Group,Basic Materials,BHP
+United States,Drug Manufacturers—General,210380000000,"Merck & Co., Inc.",Healthcare,MRK
+United States,Diagnostics & Research,208030000000,Danaher Corporation,Healthcare,DHR
+United Kingdom,Oil & Gas Integrated,207680000000,Shell plc,Energy,SHEL
+Switzerland,Drug Manufacturers—General,204130000000,Novartis AG,Healthcare,NOVN
+United Kingdom,Drug Manufacturers—General,201750000000,AstraZeneca plc,Healthcare,AZN
+United States,Semiconductors,201720000000,Intel Corporation,Technology,INTC
+United States,Banks,200010000000,Wells Fargo & Company,Financials,WFC
+United States,Software—Infrastructure,199570000000,Adobe Inc.,Technology,ADBE
+United States,Software—Application,193800000000,"salesforce.com, inc.",Technology,CRM
+United States,Integrated Freight & Logistics,190500000000,"United Parcel Service, Inc.",Industrials,UPS
+China,Banks,189370000000,China Construction Bank Corp,Financials,601939
+United States,Restaurants,186570000000,McDonald's Corporation,Consumer Discretionary,MCD
+China,Banks,185980000000,China Merchants Bank Co Ltd,Financials,600036
+China,Electrical Equipment & Parts,185670000000,Contemporary Amperex Technology Co. Ltd,Industrials,300750
+United States,Railroads,184190000000,Union Pacific Corporation,Industrials,UNP
+United States,Telecom Services,175880000000,AT&T Inc.,Communication Services,T
+United States,Semiconductors,172250000000,Qualcomm Incorporated,Technology,QCOM
+United States,Semiconductors,171280000000,Texas Instruments Incorporated,Technology,TXN
+United States,Drug Manufacturers—General,170560000000,Bristol-Myers Squibb Company,Healthcare,BMY
+Netherlands,Internet Content & Information,170000000000,Prosus N.V.,Communication Services,PRX
+United Kingdom,Specialty Chemicals,166070000000,Linde plc,Basic Materials,LIN
+United States,Utilities—Regulated Electric,165530000000,"NextEra Energy, Inc.",Utilities,NEE
+China,Banks,165000000000,Agricultural Bank of China Ltd,Financials,601288
+United States,Telecom Services,164310000000,"T-Mobile US, Inc.",Communication Services,TMUS
+United States,Capital Markets,164050000000,Morgan Stanley,Financials,MS
+United States,Entertainment,163190000000,"Netflix, Inc.",Communication Services,NFLX
+Canada,Banks,159740000000,Royal Bank of Canada,Financials,RY
+United States,Capital Markets,158060000000,The Charles Schwab Corporation,Financials,SCHW
+United States,Tobacco,154710000000,Philip Morris International Inc.,Consumer Staples,PM
+Ireland,Medical Devices,151060000000,Medtronic plc,Healthcare,MDT
+United States,Aerospace & Defense,150960000000,Raytheon Technologies Corporation,Industrials,RTX
+United States,Credit Services,150760000000,American Express Company,Financials,AXP
+France,Luxury Goods,148980000000,Hermès International SCA,Consumer Discretionary,RMS
+Canada,Banks,145410000000,Toronto-Dominion Bank,Financials,TD
+China,Oil & Gas Integrated,144500000000,PetroChina Company Limited,Energy,601857
+Australia,Banks,144320000000,Commonwealth Bank of Australia,Financials,CBA
+United States,Home Improvement Retail,143770000000,"Lowe's Companies, Inc.",Consumer Discretionary,LOW
+United States,Drug Manufacturers—General,141720000000,Amgen Inc.,Healthcare,AMGN
+China,Banks,141220000000,Bank of China Ltd,Financials,601988
+United Kingdom,Banks,140150000000,HSBC Holdings plc,Financials,HSBA
+Hong Kong,Telecom Services,139300000000,China Mobile Ltd,Communication Services,0941
+France,Oil & Gas Integrated,137500000000,TotalEnergies SE,Energy,TTE
+United States,Specialty Industrial Machinery,136480000000,Honeywell International Inc.,Industrials,HON
+United States,Oil & Gas E&P,136320000000,ConocoPhillips,Energy,COP
+United States,Healthcare Plans,135270000000,CVS Health Corporation,Healthcare,CVS
+China,Insurance—Life,134250000000,Ping An Insurance (Group) Company of China Ltd,Financials,601318
+Germany,Software—Application,134190000000,SAP SE,Technology,SAP
+United States,Credit Services,133920000000,"PayPal Holdings, Inc.",Financials,PYPL
+France,Drug Manufacturers—General,132290000000,Sanofi,Healthcare,SAN
+United States,Farm & Heavy Construction Machinery,130310000000,Deere & Company,Industrials,DE
+United States,Semiconductors,128290000000,"Advanced Micro Devices, Inc.",Technology,AMD
+United States,Software—Application,126770000000,Intuit Inc.,Technology,INTU
+Japan,Consumer Electronics,126640000000,Sony Group Corporation,Technology,6758
+United Kingdom,Other Industrial Metals & Mining,125840000000,Rio Tinto Group,Basic Materials,RIO
+Hong Kong,Insurance—Life,125160000000,AIA Group Ltd,Financials,1299
+United States,Aerospace & Defense,124980000000,Lockheed Martin Corporation,Industrials,LMT
+United States,Farm & Heavy Construction Machinery,124130000000,Caterpillar Inc.,Industrials,CAT
+Belgium,Beverages—Brewers,123590000000,Anheuser-Busch InBev SA/NV,Consumer Staples,ABI
+Norway,Oil & Gas Integrated,122740000000,Equinor ASA,Energy,EQNR
+France,Luxury Goods,122110000000,Christian Dior SE,Consumer Discretionary,CDI
+United States,REIT—Industrial,121200000000,"Prologis, Inc.",Real Estate,PLD
+United States,Semiconductor Equipment & Materials,121120000000,"Applied Materials, Inc.",Technology,AMAT
+United States,Healthcare Plans,119800000000,"Anthem, Inc.",Healthcare,ANTM
+United States,Information Technology Services,119200000000,International Business Machines Corporation,Technology,IBM
+United Kingdom,Household & Personal Products,117840000000,Unilever plc,Consumer Staples,ULVR
+United States,Asset Management,115980000000,"BlackRock, Inc.",Financials,BLK
+India,Banks,115680000000,HDFC Bank Limited,Financials,HDB
+United Kingdom,Beverages—Wineries & Distilleries,115580000000,Diageo plc,Consumer Staples,DGE
+United States,REIT—Specialty,115110000000,American Tower Corporation (REIT),Real Estate,AMT
+Germany,Specialty Industrial Machinery,114660000000,Siemens AG,Industrials,SIE
+China,Internet Retail,114280000000,Meituan,Consumer Discretionary,3690
+Japan,Scientific & Technical Instruments,113200000000,Keyence Corp,Technology,6861
+United States,Capital Markets,112710000000,"The Goldman Sachs Group, Inc.",Financials,GS
+Australia,Infrastructure Operations,110790000000,Transurban Group,Industrials,TCL
+Spain,Apparel Retail,110650000000,"Industria de Diseño Textil, SA",Consumer Discretionary,ITX
+United States,Aerospace & Defense,110460000000,The Boeing Company,Industrials,BA
+United Kingdom,Drug Manufacturers—General,109980000000,GlaxoSmithKline plc,Healthcare,GSK
+United States,Banks,109560000000,Citigroup Inc.,Financials,C
+Germany,Auto Manufacturers,108630000000,Volkswagen AG,Consumer Discretionary,VOW3
+United States,Restaurants,108190000000,Starbucks Corporation,Consumer Discretionary,SBUX
+Brazil,Other Industrial Metals & Mining,107990000000,Vale SA,Basic Materials,VALE3
+United States,Software—Application,107990000000,"ServiceNow, Inc.",Technology,NOW
+United States,Discount Stores,106890000000,Target Corporation,Consumer Staples,TGT
+India,Information Technology Services,106770000000,Infosys Limited,Technology,INFY
+Saudi Arabia,Banks,106370000000,Al Rajhi Banking and Investment Corp,Financials,1120
+United States,Internet Content & Information,105070000000,"Airbnb, Inc.",Communication Services,ABNB
+United States,Entertainment,104970000000,"Charter Communications, Inc.",Communication Services,CHTR
+China,Auto Manufacturers,104420000000,BYD Co Ltd,Consumer Discretionary,002594
+Saudi Arabia,Chemicals,104000000000,Saudi Basic Industries Corp,Basic Materials,2010
+Japan,Telecom Services,103750000000,Nippon Telegraph & Telephone Corp,Communication Services,9432
+United States,Tobacco,102980000000,"Altria Group, Inc.",Consumer Staples,MO
+United Kingdom,Tobacco,101440000000,British American Tobacco plc,Consumer Staples,BATS
+United States,Medical Devices,101410000000,Stryker Corporation,Healthcare,SYK
+United States,Financial Data & Stock Exchanges,100840000000,S&P Global Inc.,Financials,SPGI
+United States,Household & Personal Products,100160000000,The Estée Lauder Companies Inc.,Consumer Staples,EL
+United States,Specialty Industrial Machinery,99220000000,General Electric Company,Industrials,GE
+Germany,Auto Manufacturers,98790000000,Daimler AG,Consumer Discretionary,DAI
+Switzerland,Insurance—Property & Casualty,98570000000,Chubb Limited,Financials,CB
+Germany,Insurance—Diversified,98470000000,Allianz SE,Financials,ALV
+Brazil,Oil & Gas Integrated,98370000000,Petróleo Brasileiro S.A. - Petrobras,Energy,PBR
+Netherlands,Aerospace & Defense,97410000000,Airbus SE,Industrials,AIR
+China,Insurance—Life,97310000000,China Life Insurance Company Limited,Financials,LFC
+United States,Staffing & Employment Services,96980000000,"Automatic Data Processing, Inc.",Industrials,ADP
+United Kingdom,Oil & Gas Integrated,96240000000,BP plc,Energy,BP.
+China,Thermal Coal,95340000000,China Shenhua Energy Company Ltd,Energy,601088
+United States,Travel Services,95020000000,Booking Holdings Inc.,Consumer Discretionary,BKNG
+Canada,Railroads,94960000000,Canadian National Railway Company,Industrials,CNR
+Canada,Oil & Gas Midstream,94940000000,Enbridge Inc.,Energy,ENB
+France,Specialty Industrial Machinery,94340000000,Schneider Electric SE,Industrials,SU
+Germany,Telecom Services,93010000000,Deutsche Telekom AG,Communication Services,DTE
+Germany,Drug Manufacturers—Specialty & Generic,90740000000,MERCK Kommanditgesellschaft auf Aktien,Healthcare,MRK
+United States,Confectioners,90670000000,"Mondelez International, Inc.",Consumer Staples,MDLZ
+China,Internet Retail,90460000000,"JD.com, Inc.",Consumer Discretionary,9618
+United States,Chemicals,90340000000,Vulcan International Corp,Basic Materials,VULC
+United States,Drug Manufacturers—Specialty & Generic,89820000000,Zoetis Inc.,Healthcare,ZTS
+Australia,Biotechnology,89690000000,CSL Limited,Healthcare,CSL
+United States,Specialty Industrial Machinery,88770000000,3M Company,Industrials,MMM
+United States,Utilities—Regulated Electric,88760000000,Duke Energy Corporation,Utilities,DUK
+Canada,Banks,87760000000,Bank of Nova Scotia,Financials,BNS
+United States,Asset Management,87640000000,The Blackstone Group Inc.,Financials,BX
+Canada,Asset Management,87460000000,Brookfield Asset Management Inc.,Financials,BAM.A
+Switzerland,Other Industrial Metals & Mining,87310000000,Glencore plc,Basic Materials,GLEN
+United States,Financial Data & Stock Exchanges,87170000000,CME Group Inc.,Financials,CME
+United States,Insurance Brokers,87160000000,"Marsh & McLennan Companies, Inc.",Financials,MMC
+United States,Semiconductors,86490000000,"Micron Technology, Inc.",Technology,MU
+Japan,Banks,85030000000,"Mitsubishi UFJ Financial Group, Inc.",Financials,8306
+United States,Healthcare Plans,84670000000,Cigna Corporation,Healthcare,CI
+Canada,Software—Application,83800000000,Shopify Inc.,Technology,SHOP
+France,Chemicals,83240000000,Air Liquide SA,Basic Materials,AI
+United States,Medical Care Facilities,82600000000,"HCA Healthcare, Inc.",Healthcare,HCA
+Australia,Banks,81030000000,National Australia Bank Limited,Financials,NAB
+United States,REIT—Specialty,80920000000,Crown Castle International Corp. (REIT),Real Estate,CCI
+France,Medical Instruments & Supplies,80490000000,EssilorLuxottica SA,Healthcare,EL
+United States,Banks,80160000000,U.S. Bancorp,Financials,USB
+Japan,Semiconductor Equipment & Materials,79620000000,Tokyo Electron Ltd,Technology,8035
+Canada,Banks,79220000000,Bank of Montreal,Financials,BMO
+France,Luxury Goods,78660000000,Kering SA,Consumer Discretionary,KER
+China,Utilities—Independent Power Producers,78420000000,China Yangtze Power Co. Ltd,Utilities,600900
+China,Oil & Gas Integrated,78390000000,China Petroleum & Chemical Corporation,Energy,600028
+United States,Utilities—Regulated Electric,78380000000,The Southern Company,Utilities,SO
+United States,Semiconductor Equipment & Materials,77600000000,Lam Research Corporation,Technology,LRCX
+United States,Banks,77100000000,"The PNC Financial Services Group, Inc.",Financials,PNC
+United States,Medical Instruments & Supplies,76980000000,"Becton, Dickinson and Company",Healthcare,BDX
+United States,Drug Manufacturers—General,76150000000,"Gilead Sciences, Inc.",Healthcare,GILD
+United States,Biotechnology,74910000000,"Regeneron Pharmaceuticals, Inc.",Healthcare,REGN
+United States,Banks,74790000000,Truist Financial Corporation,Financials,TFC
+Canada,Oil & Gas E&P,74780000000,Canadian Natural Resources Limited,Energy,CNQ
+United States,Financial Data & Stock Exchanges,74170000000,"Intercontinental Exchange, Inc.",Financials,ICE
+United States,Apparel Retail,73990000000,"The TJX Companies, Inc.",Consumer Discretionary,TJX
+Australia,Software—Application,73720000000,Atlassian Corporation Plc,Technology,TEAM
+Switzerland,Insurance—Diversified,73580000000,Zurich Insurance Group AG,Financials,ZURN
+United States,Medical Devices,73380000000,Edwards Lifesciences Corporation,Healthcare,EW
+United Kingdom,Insurance Brokers,73330000000,Aon Plc,Financials,AON
+United States,Aerospace & Defense,73250000000,Northrop Grumman Corporation,Industrials,NOC
+Japan,Telecom Services,73120000000,KDDI Corp,Communication Services,9433
+United States,Railroads,72310000000,Norfolk Southern Corporation,Industrials,NSC
+United States,Copper,72160000000,Freeport-McMoRan Inc.,Basic Materials,FCX
+Mexico,Discount Stores,71960000000,Wal-Mart de Mexico SAB de CV,Consumer Staples,WALMEX
+Indonesia,Banks,71910000000,PT Bank Central Asia Tbk,Financials,BBCA
+United States,Oil & Gas E&P,71900000000,"EOG Resources, Inc.",Energy,EOG
+Germany,Diagnostics & Research,71500000000,Siemens Healthineers AG,Healthcare,SHL
+United Kingdom,Other Industrial Metals & Mining,71480000000,Anglo American plc,Basic Materials,AAL
+United States,Biotechnology,70810000000,"Moderna, Inc.",Healthcare,MRNA
+United States,Aerospace & Defense,70550000000,General Dynamics Corporation,Industrials,GD
+France,Insurance—Diversified,70200000000,AXA SA,Financials,CS
+United States,Utilities—Diversified,70200000000,"Dominion Energy, Inc.",Utilities,D
+Italy,Utilities—Diversified,70150000000,Enel SpA,Utilities,ENEL
+France,Banks,69900000000,BNP Paribas SA,Financials,BNP
+Mexico,Telecom Services,69450000000,"América Móvil, S.A.B. de C.V.",Communication Services,AMXA
+United States,REIT—Industrial,69310000000,Public Storage,Real Estate,PSA
+Switzerland,Banks,68930000000,UBS Group AG,Financials,UBSG
+Russia,Banks,68690000000,Sberbank of Russia PJSC,Financials,SBER
+United States,Information Technology Services,68680000000,"Fiserv, Inc.",Technology,FISV
+Spain,Utilities—Diversified,68230000000,"Iberdrola, SA",Utilities,IBE
+Japan,Staffing & Employment Services,68110000000,Recruit Holdings Co Ltd,Industrials,6098
+Germany,Drug Manufacturers—General,68090000000,Bayer AG,Healthcare,BAYN
+United States,Specialty Chemicals,67540000000,The Sherwin-Williams Company,Basic Materials,SHW
+United States,Biotechnology,67490000000,Vertex Pharmaceuticals Incorporated,Healthcare,VRTX
+United States,Specialty Industrial Machinery,67490000000,Illinois Tool Works Inc.,Industrials,ITW
+United States,Insurance—Property & Casualty,67310000000,The Progressive Corporation,Financials,PGR
+Australia,Banks,67200000000,Westpac Banking Corporation,Financials,WBC
+Switzerland,Electrical Equipment & Parts,67190000000,ABB Ltd,Industrials,ABBN
+United States,Waste Management,66950000000,"Waste Management, Inc.",Industrials,WM
+China,Banks,66870000000,Industrial Bank Co. Ltd,Financials,601166
+Singapore,Banks,66740000000,DBS Group Holdings Ltd,Financials,D05
+India,Banks,66620000000,ICICI Bank Limited,Financials,IBN
+United States,REIT—Specialty,66350000000,"Equinix, Inc. (REIT)",Real Estate,EQIX
+United States,Gold,65890000000,Newmont Corporation,Basic Materials,NEM
+United States,Auto Manufacturers,65740000000,Ford Motor Company,Consumer Discretionary,F
+United States,Household & Personal Products,65640000000,Colgate-Palmolive Company,Consumer Staples,CL
+United States,Utilities—Diversified,65530000000,Exelon Corporation,Utilities,EXC
+United States,Software—Application,65040000000,Snowflake Inc.,Technology,SNOW
+Japan,Leisure,64660000000,Oriental Land Co. Ltd,Consumer Discretionary,4661
+South Korea,Semiconductors,64600000000,"SK hynix, Inc.",Technology,000660
+Denmark,Marine Shipping,64400000000,AP Moller - Maersk A-S,Industrials,MAERSK.B
+Japan,Chemicals,63430000000,Shin-Etsu Chemical Co Ltd,Basic Materials,4063
+United States,Integrated Freight & Logistics,63250000000,FedEx Corporation,Industrials,FDX
+United States,Medical Devices,63080000000,Boston Scientific Corporation,Healthcare,BSX
+United States,Utilities—Diversified,62870000000,PacifiCorp,Utilities,PPWLM
+France,Software—Application,62750000000,Dassault Systèmes SE,Technology,DSY
+United States,Insurance—Life,62690000000,"MetLife, Inc.",Financials,MET
+United States,Auto Manufacturers,62690000000,General Motors Company,Consumer Discretionary,GM
+Singapore,Electronic Gaming & Multimedia,62660000000,Sea Limited,Communication Services,SE
+United States,Software—Application,62660000000,"Uber Technologies, Inc.",Technology,UBER
+United States,Financial Data & Stock Exchanges,62580000000,Moody's Corporation,Financials,MCO
+Japan,Electronic Gaming & Multimedia,62200000000,Nintendo Co Ltd,Communication Services,7974
+United States,Oil & Gas E&P,62190000000,Pioneer Natural Resources Company,Energy,PXD
+Ireland,Specialty Industrial Machinery,62170000000,Eaton Corporation plc,Industrials,ETN
+United States,Semiconductors,62000000000,"Analog Devices, Inc.",Technology,ADI
+United States,Information Technology Services,61730000000,"Fidelity National Information Services, Inc.",Technology,FIS
+Spain,Banks,61670000000,"Banco Santander, SA",Financials,SAN
+Germany,Marine Shipping,61460000000,Hapag-Lloyd AG,Industrials,HLAG
+Netherlands,Software—Infrastructure,61110000000,Adyen N.V.,Technology,ADYEN
+Sweden,Specialty Industrial Machinery,60970000000,Atlas Copco AB,Industrials,ATCO.A
+Hong Kong,Oil & Gas E&P,60190000000,CNOOC Limited,Energy,0883
+Canada,Agricultural Inputs,60060000000,Nutrien Ltd.,Basic Materials,NTR
+United States,Software—Infrastructure,59950000000,"Block, Inc.",Technology,SQ
+Germany,Integrated Freight & Logistics,59800000000,Deutsche Post AG,Industrials,DPWA
+China,Internet Content & Information,59760000000,"NetEase, Inc.",Communication Services,9999
+Hong Kong,Financial Data & Stock Exchanges,59750000000,Hong Kong Exchanges & Clearing Ltd,Financials,0388
+United States,Credit Services,59670000000,Capital One Financial Corporation,Financials,COF
+United States,Specialty Industrial Machinery,59660000000,Emerson Electric Co.,Industrials,EMR
+United States,Software—Infrastructure,59650000000,"Palo Alto Networks, Inc.",Technology,PANW
+Australia,Banks,59550000000,Australia and New Zealand Banking Group Limited,Financials,ANZ
+United Kingdom,Household & Personal Products,59530000000,Reckitt Benckiser Group plc,Consumer Staples,RKT
+China,Beverages—Non-Alcoholic,59500000000,Nongfu Spring Co. Ltd,Consumer Staples,9633
+Saudi Arabia,Telecom Services,59470000000,Saudi Telecom Company,Communication Services,7010
+United States,Copper,59460000000,Southern Copper Corporation,Basic Materials,SCCO
+China,Medical Devices,59260000000,Shenzhen Mindray Bio-Medical Electronics Co. Ltd,Healthcare,300760
+France,Engineering & Construction,59010000000,Vinci SA,Industrials,DG
+United States,Software—Application,58700000000,"Workday, Inc.",Technology,WDAY
+United Kingdom,Publishing,58530000000,RELX plc,Communication Services,REL
+Bermuda,Semiconductors,58360000000,Marvell Technology Group Ltd.,Technology,MRVL
+United States,Chemicals,57820000000,"Air Products and Chemicals, Inc.",Basic Materials,APD
+France,Beverages—Wineries & Distilleries,57750000000,Pernod Ricard SA,Consumer Staples,RI
+United States,Oil & Gas Equipment & Services,57630000000,Schlumberger Limited,Energy,SLB
+United States,Semiconductors,57620000000,"Marvell Technology, Inc.",Technology,9MW
+Brazil,Banks,57450000000,Itaú Unibanco Holding SA,Financials,ITUB
+United States,Oil & Gas Midstream,57430000000,Enterprise Products Partners L.P.,Energy,EPD
+China,Packaged Foods,57400000000,Foshan Haitian Flavouring and Food Company Ltd,Consumer Staples,603288
+Japan,Conglomerates,57230000000,Mitsubishi Corp,Industrials,8058
+Canada,Banks,57200000000,Canadian Imperial Bank of Commerce,Financials,CM
+United States,Lodging,57180000000,"Marriott International, Inc.",Consumer Discretionary,MAR
+China,Internet Retail,57090000000,Pinduoduo Inc.,Consumer Discretionary,PDD
+United Kingdom,Consulting Services,56940000000,IHS Markit Ltd.,Industrials,INFO
+Saudi Arabia,Banks,56890000000,The Saudi National Bank,Financials,1180
+Canada,Oil & Gas Midstream,56770000000,TC Energy Corporation,Energy,TRP
+United States,Healthcare Plans,56550000000,Humana Inc.,Healthcare,HUM
+United States,Semiconductor Equipment & Materials,56480000000,KLA Corporation,Technology,KLAC
+China,Banks,56380000000,Bank of Communications Co. Ltd,Financials,601328
+Germany,Auto Manufacturers,56170000000,Bayerische Motoren Werke AG,Consumer Discretionary,BMWB
+Australia,Capital Markets,55990000000,Macquarie Group Limited,Financials,MQG
+United Kingdom,Utilities—Diversified,55880000000,National Grid plc,Utilities,NG.
+Japan,Building Products & Equipment,55580000000,"Daikin Industries,Ltd.",Industrials,6367
+Japan,Drug Manufacturers—General,55310000000,Chugai Pharmaceutical Co. Ltd,Healthcare,4519
+United States,Beverages—Non-Alcoholic,55280000000,Keurig Dr Pepper Inc.,Consumer Staples,KDP
+United States,Staffing & Employment Services,55230000000,Ergo Science Corp,Industrials,ERGN
+Japan,Telecom Services,54930000000,SoftBank Group Corp.,Communication Services,9984
+Netherlands,Beverages—Brewers,54870000000,Heineken N.V.,Consumer Staples,HEIA
+Brazil,Beverages—Brewers,54690000000,Ambev SA,Consumer Staples,ABEV3
+Canada,Railroads,54590000000,Canadian Pacific Railway Limited,Industrials,CP
+United States,Oil & Gas Refining & Marketing,54540000000,Marathon Petroleum Corporation,Energy,MPC
+United States,Insurance—Diversified,54310000000,"American International Group, Inc.",Financials,AIG
+United States,Discount Stores,54300000000,Dollar General Corporation,Consumer Staples,DG
+United States,Software—Infrastructure,53860000000,"Fortinet, Inc.",Technology,FTNT
+United States,Internet Content & Information,53860000000,Snap Inc.,Communication Services,SNAP
+Italy,Auto Manufacturers,53780000000,Ferrari N.V.,Consumer Discretionary,RACE
+Switzerland,Diagnostics & Research,53760000000,Lonza Group Ltd,Healthcare,LONN
+United Kingdom,Financial Data & Stock Exchanges,53330000000,London Stock Exchange Group plc,Financials,LSEG
+Canada,Consulting Services,53300000000,Thomson Reuters Corporation,Industrials,TRI
+Germany,Chemicals,52760000000,BASF SE,Basic Materials,BAS
+United States,Utilities—Diversified,52470000000,Sempra Energy,Utilities,SRE
+United States,Oil & Gas E&P,52300000000,Occidental Petroleum Corporation,Energy,OXY
+United States,Banks,52300000000,"Liberty Bancshares, Inc. (OH)",Financials,LBSI
+Japan,Apparel Retail,52290000000,Fast Retailing Co. Ltd,Consumer Discretionary,9983
+Netherlands,Semiconductors,52280000000,NXP Semiconductors N.V.,Technology,NXPI
+United States,Semiconductors,52190000000,"Xilinx, Inc.",Technology,XLNX
+Japan,Conglomerates,52190000000,ITOCHU Corp,Industrials,8001
+Italy,Oil & Gas Integrated,52000000000,Eni S.p.A.,Energy,ENI
+Netherlands,Auto Manufacturers,51800000000,Stellantis N.V.,Consumer Discretionary,STLA
+Canada,Telecom Services,51710000000,BCE Inc.,Communication Services,BCE
+Japan,Auto Parts,51580000000,DENSO Corp,Consumer Discretionary,6902
+Japan,Auto Manufacturers,51550000000,Toyota Motor Corporation,Consumer Discretionary,7203
+United States,Aerospace & Defense,51510000000,"L3Harris Technologies, Inc.",Industrials,LHX
+United States,Credit Services,51490000000,"AgriBank, FCB",Financials,AGRIP
+United Kingdom,Insurance—Property & Casualty,51430000000,General Accident plc,Financials,GACA
+United States,Farm Products,51030000000,Archer-Daniels-Midland Company,Consumer Staples,ADM
+United States,Utilities—Regulated Electric,50950000000,"American Electric Power Company, Inc.",Utilities,AEP
+Australia,Other Industrial Metals & Mining,50760000000,Fortescue Metals Group Limited,Basic Materials,FMG
+Taiwan,Electronic Components,50750000000,Hon Hai Precision Industry Co. Ltd,Technology,2317
+China,Travel Services,50460000000,China Tourism Group Duty Free Corp Ltd,Consumer Discretionary,601888
+United States,Specialty Chemicals,50290000000,Ecolab Inc.,Basic Materials,ECL
+Russia,Oil & Gas E&P,50190000000,Novatek PJSC,Energy,NVTK
+United States,Software—Infrastructure,50180000000,"Synopsys, Inc.",Technology,SNPS
+France,Aerospace & Defense,50020000000,Safran SA,Industrials,SAF
+United States,Diagnostics & Research,49910000000,"Illumina, Inc.",Healthcare,ILMN
+Argentina,Internet Retail,49830000000,"MercadoLibre, Inc.",Consumer Discretionary,MELI
+United States,Specialty Industrial Machinery,49660000000,"Roper Technologies, Inc.",Industrials,ROP
+United States,Packaged Foods,49420000000,The Kraft Heinz Company,Consumer Staples,KHC
+United States,Healthcare Plans,49320000000,Centene Corporation,Healthcare,CNC
+United States,Staffing & Employment Services,49230000000,"Paychex, Inc.",Industrials,PAYX
+Japan,Auto Manufacturers,49110000000,"Honda Motor Co., Ltd.",Consumer Discretionary,7267
+Japan,Conglomerates,48920000000,Hitachi Ltd,Industrials,6501
+Australia,REIT—Retail,48830000000,Scentre Group,Real Estate,SCG
+Taiwan,Semiconductors,48740000000,"MediaTek, Inc.",Technology,2454
+Canada,Apparel Retail,48520000000,Lululemon Athletica Inc.,Consumer Discretionary,LULU
+United States,Chemicals,48500000000,Dow Inc.,Basic Materials,DOW
+Russia,Oil & Gas Integrated,48500000000,Rosneft Oil Co PJSC,Energy,ROSN
+United States,Medical Distribution,48460000000,McKesson Corporation,Healthcare,MCK
+Canada,Oil & Gas Integrated,48270000000,Suncor Energy Inc.,Energy,SU
+United States,Software—Infrastructure,48170000000,"VMware, Inc.",Technology,VMW
+Ireland,Engineering & Construction,48150000000,Johnson Controls International plc,Industrials,JCI
+United States,Specialty Retail,48140000000,"O'Reilly Automotive, Inc.",Consumer Discretionary,ORLY
+Mexico,Other Industrial Metals & Mining,48000000000,Grupo Mexico SAB de CV,Basic Materials,GMEXICOB
+United States,Software—Infrastructure,47890000000,"CrowdStrike Holdings, Inc.",Technology,CRWD
+South Africa,Internet Content & Information,47730000000,Naspers Ltd,Communication Services,NPN
+United States,Software—Application,47690000000,"Autodesk, Inc.",Technology,ADSK
+United States,Insurance—Life,47170000000,"Prudential Financial, Inc.",Financials,PRU
+Russia,Specialty Industrial Machinery,47150000000,Open Joint Stock Company OMZ,Industrials,OMZZP
+United States,Information Technology Services,47070000000,Cognizant Technology Solutions Corporation,Technology,CTSH
+United States,Steel,46860000000,Nucor Corporation,Basic Materials,NUE
+United States,Diagnostics & Research,46860000000,"DexCom, Inc.",Healthcare,DXCM
+Brazil,Banks,46710000000,Banco Bradesco SA,Financials,BBDC3
+Japan,Specialty Industrial Machinery,46330000000,Nidec Corp,Industrials,6594
+Germany,Footwear & Accessories,46130000000,adidas AG,Consumer Discretionary,ADS1
+Switzerland,Specialty Chemicals,46010000000,Sika AG,Basic Materials,SIKA
+China,Internet Content & Information,45980000000,"Baidu, Inc.",Communication Services,9888
+Japan,Drug Manufacturers—Specialty & Generic,45890000000,Takeda Pharmaceutical Company Limited,Healthcare,4502
+United States,Confectioners,45830000000,The Hershey Company,Consumer Staples,HSY
+United States,Electronic Components,45770000000,Amphenol Corporation,Technology,APH
+United States,Residential Construction,45740000000,Vanjia Corp,Consumer Discretionary,VNJA
+United Kingdom,Telecom Services,45740000000,Vodafone Group plc,Communication Services,VOD
+United States,Diagnostics & Research,45640000000,"IDEXX Laboratories, Inc.",Healthcare,IDXX
+United States,Insurance—Property & Casualty,45560000000,"The Travelers Companies, Inc.",Financials,TRV
+Germany,Semiconductors,45350000000,Infineon Technologies AG,Technology,IFXA
+United States,Beverages—Wineries & Distilleries,45210000000,"Constellation Brands, Inc.",Consumer Staples,STZ
+United States,Software—Application,45130000000,"Datadog, Inc.",Technology,DDOG
+Japan,Oil & Gas E&P,45090000000,Mitsui & Co. Ltd,Energy,8031
+Saudi Arabia,Other Industrial Metals & Mining,45000000000,Saudi Arabian Mining Company,Basic Materials,1211
+Russia,Oil & Gas Integrated,44960000000,PJSC Lukoil,Energy,LKOH
+Italy,Banks,44950000000,Intesa Sanpaolo S.p.A.,Financials,ISP
+Switzerland,Electronic Components,44780000000,TE Connectivity Ltd.,Technology,TEL
+United States,Specialty Retail,44390000000,"AutoZone, Inc.",Consumer Discretionary,AZO
+United States,Diagnostics & Research,44320000000,IQVIA Holdings Inc.,Healthcare,IQV
+United States,Specialty Business Services,44320000000,Cintas Corporation,Industrials,CTAS
+United States,Software—Application,44230000000,"Cadence Design Systems, Inc.",Technology,CDNS
+United States,Restaurants,44110000000,"Chipotle Mexican Grill, Inc.",Consumer Discretionary,CMG
+Japan,Banks,44060000000,"Sumitomo Mitsui Financial Group, Inc.",Financials,8316
+South Korea,Biotechnology,44010000000,"Samsung Biologics Co.,Ltd.",Healthcare,207940
+India,Information Technology Services,43980000000,Wipro Limited,Technology,WIPRO
+China,Gold,43930000000,Zijin Mining Group Co Ltd,Basic Materials,601899
+United States,Computer Hardware,43900000000,HP Inc.,Technology,HPQ
+United Kingdom,Banks,43700000000,Lloyds Banking Group plc,Financials,LLOY
+United States,REIT—Retail,43690000000,"Simon Property Group, Inc.",Real Estate,SPG
+United States,Insurance—Life,43590000000,Aflac Incorporated,Financials,AFL
+Canada,Gold,43500000000,Barrick Gold Corporation,Basic Materials,ABX
+Japan,Electronic Components,43410000000,Murata Manufacturing Co. Ltd,Technology,6981
+United States,Oil & Gas Midstream,43380000000,"Kinder Morgan, Inc.",Energy,KMI
+United States,Household & Personal Products,43210000000,Kimberly-Clark Corporation,Consumer Staples,KMB
+China,Consumer Electronics,43100000000,Xiaomi Corp,Technology,1810
+Australia,Home Improvement Retail,43090000000,Wesfarmers Limited,Consumer Discretionary,WES
+United States,Waste Management,42910000000,"Republic Services, Inc.",Industrials,RSG
+Japan,Medical Instruments & Supplies,42880000000,HOYA Corp,Healthcare,7741
+China,Packaged Foods,42840000000,Yihai Kerry Arawana Holdings Co. Ltd,Consumer Staples,300999
+United States,Beverages—Non-Alcoholic,42810000000,Monster Beverage Corporation,Consumer Staples,MNST
+China,Semiconductor Equipment & Materials,42680000000,LONGi Green Energy Technology Co. Ltd,Technology,601012
+United States,Agricultural Inputs,42660000000,"Corteva, Inc.",Basic Materials,CTVA
+United States,Packaged Foods,42650000000,"General Mills, Inc.",Consumer Staples,GIS
+Japan,Grocery Stores,42530000000,Seven & i Holdings Co. Ltd,Consumer Staples,3382
+Denmark,Integrated Freight & Logistics,42490000000,DSV PANALPINA A-S,Industrials,DSV
+United States,Lodging,42390000000,Hilton Worldwide Holdings Inc.,Consumer Discretionary,HLT
+China,Diagnostics & Research,42250000000,WuXi AppTec Co. Ltd,Healthcare,603259
+United States,Food Distribution,42220000000,Sysco Corporation,Consumer Staples,SYY
+United States,Grocery Stores,42030000000,The Kroger Co.,Consumer Staples,KR
+Canada,Insurance—Life,41980000000,Manulife Financial Corporation,Financials,MFC
+Germany,Biotechnology,41930000000,BioNTech SE,Healthcare,22UA
+Switzerland,Semiconductors,41910000000,STMicroelectronics N.V.,Technology,STM
+United States,Oil & Gas E&P,41820000000,Devon Energy Corporation,Energy,DVN
+United States,Oil & Gas Midstream,41600000000,"The Williams Companies, Inc.",Energy,WMB
+United States,Insurance—Property & Casualty,41540000000,The Allstate Corporation,Financials,ALL
+Hong Kong,Banks,41470000000,Hang Seng Bank Limited,Financials,0011
+United States,Oil & Gas Refining & Marketing,41270000000,Valero Energy Corporation,Energy,VLO
+Netherlands,Banks,41250000000,ING Groep N.V.,Financials,INGA
+Russia,Other Industrial Metals & Mining,41160000000,MMC Norilsk Nickel PJSC,Basic Materials,GMKN
+United States,Communication Equipment,40870000000,"Motorola Solutions, Inc.",Technology,MSI
+China,Internet Content & Information,40830000000,"East Money Information Co.,Ltd.",Communication Services,300059
+United States,Asset Management,40830000000,The Bank of New York Mellon Corporation,Financials,BK
+United States,Building Products & Equipment,40790000000,Carrier Global Corporation,Industrials,CARR
+Singapore,Banks,40770000000,Oversea-Chinese Banking Corp Ltd,Financials,O39
+United States,REIT—Office,40640000000,"Digital Realty Trust, Inc.",Real Estate,DLR
+United States,Pharmaceutical Retailers,40550000000,"Walgreens Boots Alliance, Inc.",Healthcare,WBA
+United States,Diagnostics & Research,40490000000,"Agilent Technologies, Inc.",Healthcare,A
+United States,Specialty Business Services,40350000000,Global Payments Inc.,Industrials,GPN
+China,Capital Markets,40170000000,CITIC Securities Company Ltd,Financials,600030
+United States,Medical Instruments & Supplies,40130000000,Baxter International Inc.,Healthcare,BAX
+Hong Kong,Banks,39990000000,BOC Hong Kong Holdings Ltd,Financials,2388
+United States,Financial Data & Stock Exchanges,39970000000,MSCI Inc.,Financials,MSCI
+United States,REIT—Healthcare Facilities,39960000000,Welltower Inc.,Real Estate,WELL
+United States,Utilities—Regulated Electric,39760000000,Xcel Energy Inc.,Utilities,XEL
+Singapore,Banks,39730000000,United Overseas Bank Ltd,Financials,U11
+China,Chemicals,39730000000,Wanhua Chemical Group Co. Ltd,Basic Materials,600309
+United States,Chemicals,39720000000,"DuPont de Nemours, Inc.",Basic Materials,DD
+Japan,Asset Management,39710000000,EQT AB,Financials,6EQ
+Canada,Grocery Stores,39560000000,Alimentation Couche-Tard Inc.,Consumer Staples,ATD.B
+United States,Internet Retail,39340000000,eBay Inc.,Consumer Discretionary,EBAY
+Switzerland,Specialty Chemicals,39290000000,Givaudan SA,Basic Materials,GIVN
+Denmark,Chemicals,39030000000,Novozymes A-S,Basic Materials,NZYM.B
+United Kingdom,Insurance—Life,39000000000,Prudential plc,Financials,PRU
+Switzerland,Medical Instruments & Supplies,38900000000,Alcon Inc.,Healthcare,ALC
+Colombia,Oil & Gas Integrated,38690000000,Ecopetrol SA,Energy,EC
+United States,Oil & Gas Equipment & Services,38390000000,Baker Hughes Company,Energy,BKR
+Spain,Banks,38250000000,"Banco Bilbao Vizcaya Argentaria, SA",Financials,BBVA
+United States,Computer Hardware,38160000000,Dell Technologies Inc.,Technology,DELL
+China,Broadcasting,38150000000,Kuaishou Technology,Communication Services,1024
+Sweden,Farm & Heavy Construction Machinery,38130000000,AB Volvo,Industrials,VOL4
+France,Banks,38010000000,Crédit Agricole SA,Financials,ACA
+United States,Discount Stores,38000000000,"Dollar Tree, Inc.",Consumer Staples,DLTR
+United States,REIT—Specialty,37930000000,SBA Communications Corporation,Real Estate,SBAC
+France,Information Technology Services,37820000000,Capgemini SE,Technology,CAP
+Japan,Drug Manufacturers—General,37790000000,Daiichi Sankyo Company Ltd,Healthcare,4568
+United Kingdom,Restaurants,37730000000,Compass Group plc,Consumer Discretionary,CPG
+France,Medical Instruments & Supplies,37550000000,Sartorius Stedim Biotech SA,Healthcare,DIM
+Indonesia,Banks,37510000000,PT Bank Rakyat Indonesia (Persero) Tbk,Financials,BYRA
+United States,Oil & Gas Refining & Marketing,37510000000,Phillips 66,Energy,PSX
+United States,Electronic Gaming & Multimedia,37380000000,Electronic Arts Inc.,Communication Services,EA
+Ireland,Specialty Industrial Machinery,37360000000,Trane Technologies plc,Industrials,TT
+Japan,Specialty Industrial Machinery,37080000000,SMC Corp,Industrials,6273
+United States,Specialty Industrial Machinery,37050000000,Parker-Hannifin Corporation,Industrials,PH
+Japan,Insurance—Property & Casualty,36990000000,"Tokio Marine Holdings, Inc.",Financials,8766
+China,Drug Manufacturers—General,36900000000,Jiangsu Hengrui Medicine Co. Ltd,Healthcare,600276
+China,Railroads,36900000000,"Beijing-Shanghai High-Speed Railway Co.,Ltd.",Industrials,601816
+Germany,Insurance—Reinsurance,36890000000,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Financials,MUV2
+United States,Internet Content & Information,36740000000,"DoorDash, Inc.",Communication Services,DASH
+China,Banks,36720000000,Shanghai Pudong Development Bank Co. Ltd,Financials,600000
+Canada,Software—Application,36670000000,Constellation Software Inc.,Technology,CSU
+China,Packaged Foods,36610000000,Inner Mongolia Yili Industrial Group Co. Ltd,Consumer Staples,600887
+Canada,Telecom Services,36370000000,TELUS Corporation,Communication Services,T
+United States,Utilities—Diversified,36280000000,Public Service Enterprise Group Incorporated,Utilities,PEG
+United States,Aerospace & Defense,36140000000,TransDigm Group Incorporated,Industrials,TDG
+United States,Waste Management,36140000000,"Waste Connections, Inc.",Industrials,WCN
+United States,Specialty Chemicals,35960000000,LyondellBasell Industries N.V.,Basic Materials,LYB
+France,Packaged Foods,35930000000,Danone SA,Consumer Staples,BN
+United States,Software—Infrastructure,35920000000,"Cloudflare, Inc.",Technology,NET
+China,Auto Manufacturers,35860000000,NIO Limited,Consumer Discretionary,NIO
+United States,Software—Application,35860000000,"Coinbase Global, Inc.",Technology,COIN
+China,Beverages—Wineries & Distilleries,35840000000,"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",Consumer Staples,600809
+Finland,Oil & Gas Refining & Marketing,35570000000,Neste Oyj,Energy,NESTE
+United States,Medical Instruments & Supplies,35440000000,ResMed Inc.,Healthcare,RMD
+Ireland,Consulting Services,35400000000,Experian plc,Industrials,EXPN
+United States,Medical Instruments & Supplies,35370000000,"Intuitive Surgical, Inc.",Healthcare,ISRG
+Australia,Grocery Stores,35330000000,Woolworths Group Limited,Consumer Staples,WOW
+United States,Oil & Gas Midstream,35270000000,MPLX LP,Energy,MPLX
+Australia,Telecom Services,35240000000,Telstra Corporation Limited,Communication Services,TLS
+Sweden,Scientific & Technical Instruments,35210000000,Hexagon AB,Technology,HXG
+Italy,Insurance—Diversified,35200000000,Assicurazioni Generali,Financials,G
+United States,REIT—Residential,35190000000,"AvalonBay Communities, Inc.",Real Estate,AVB
+Canada,Oil & Gas Integrated,35130000000,Imperial Oil Limited,Energy,IMO
+United States,Restaurants,35120000000,"Yum! Brands, Inc.",Consumer Discretionary,YUM
+Hong Kong,Real Estate—Development,35040000000,Sun Hung Kai Properties Ltd,Real Estate,0016
+United States,Trucking,34940000000,"Old Dominion Freight Line, Inc.",Industrials,ODFL
+United States,Oil & Gas Midstream,34920000000,"Cheniere Energy, Inc.",Energy,LNG
+United States,Utilities—Regulated Electric,34890000000,"Consolidated Edison, Inc.",Utilities,ED
+China,Banks,34840000000,China CITIC Bank Corp Ltd,Financials,601998
+Hong Kong,Beverages—Brewers,34730000000,Budweiser Brewing Company APAC Ltd,Consumer Staples,1876
+Luxembourg,Steel,34660000000,ArcelorMittal,Basic Materials,MT
+United States,Asset Management,34640000000,"Ameriprise Financial, Inc.",Financials,AMP
+United States,Industrial Distribution,34580000000,Fastenal Company,Industrials,FAST
+United States,Medical Devices,34490000000,"Align Technology, Inc.",Healthcare,ALGN
+Austria,Utilities—Renewable,34440000000,VERBUND AG,Utilities,OEW
+Australia,Airports & Air Services,34400000000,Sydney Airport Limited,Industrials,SYD
+United States,Consulting Services,34390000000,"Verisk Analytics, Inc.",Industrials,VRSK
+Japan,Internet Retail,34240000000,Z Holdings Corp,Consumer Discretionary,4689
+United States,Insurance Brokers,34220000000,Arthur J. Gallagher & Co.,Financials,AJG
+China,Biotechnology,34130000000,Chongqing Zhifei Biological Products Co. Ltd,Healthcare,300122
+United States,REIT—Residential,34110000000,Equity Residential,Real Estate,EQR
+Taiwan,Telecom Services,34060000000,"Chunghwa Telecom Co., Ltd.",Communication Services,2412
+United States,Asset Management,34010000000,"T. Rowe Price Group, Inc.",Financials,TROW
+United States,Oil & Gas Equipment & Services,33950000000,Halliburton Company,Energy,HAL
+United States,Farm Products,33730000000,"Tyson Foods, Inc.",Consumer Staples,TSN
+United States,Credit Services,33730000000,Discover Financial Services,Financials,DFS
+Switzerland,Integrated Freight & Logistics,33690000000,Kuehne + Nagel International AG,Industrials,KNIN
+Japan,Specialty Industrial Machinery,33680000000,FANUC Corp,Industrials,6954
+Hong Kong,Railroads,33660000000,MTR Corp Ltd,Industrials,0066
+China,Real Estate—Development,33640000000,Poly Developments and Holdings Group Co. Ltd,Real Estate,600048
+United States,Asset Management,33490000000,KKR & Co. Inc.,Financials,KKR
+Japan,Banks,33470000000,"Mizuho Financial Group, Inc.",Financials,8411
+Thailand,Oil & Gas Integrated,33460000000,PTT PCL,Energy,PTT
+Netherlands,Grocery Stores,33430000000,Koninklijke Ahold Delhaize N.V.,Consumer Staples,AD
+China,Real Estate—Development,33350000000,China Vanke Co. Ltd,Real Estate,000002
+United States,Specialty Chemicals,33320000000,International Flavors & Fragrances Inc.,Basic Materials,IFF
+Sweden,Communication Equipment,33290000000,Telefonaktiebolaget LM Ericsson,Technology,ERIC.A
+Hong Kong,Real Estate—Development,33260000000,China Resources Land Ltd,Real Estate,1109
+United States,Telecom Services,33220000000,"Zoom Video Communications, Inc.",Communication Services,ZM
+United States,Specialty Industrial Machinery,33090000000,Otis Worldwide Corporation,Industrials,OTIS
+Canada,Insurance—Diversified,33080000000,Sun Life Financial Inc.,Financials,SLF
+United States,Specialty Industrial Machinery,33050000000,"Rockwell Automation, Inc.",Industrials,ROK
+Ireland,Auto Parts,33020000000,Aptiv PLC,Consumer Discretionary,APTV
+Canada,Oil & Gas Integrated,33020000000,Cenovus Energy Inc.,Energy,CVE
+Germany,Financial Data & Stock Exchanges,32990000000,Deutsche Börse AG,Financials,DB1
+France,Telecom Services,32840000000,Orange SA,Communication Services,ORA
+United States,Oil & Gas E&P,32810000000,Hess Corporation,Energy,HES
+United Kingdom,Banks,32720000000,NatWest Group plc,Financials,NWG
+United States,Apparel Retail,32710000000,"Ross Stores, Inc.",Consumer Discretionary,ROST
+United States,Utilities—Regulated Electric,32540000000,"WEC Energy Group, Inc.",Utilities,WEC
+United States,Medical Distribution,32510000000,AmerisourceBergen Corporation,Healthcare,ABC
+Hong Kong,Real Estate—Development,32490000000,China Overseas Land & Investment Ltd,Real Estate,0688
+China,Biotechnology,32410000000,WuXi Biologics,Healthcare,2269
+Hong Kong,Conglomerates,32330000000,CITIC Ltd,Industrials,0267
+Spain,Telecom Services,32320000000,"Cellnex Telecom, SA",Communication Services,CLNX
+China,"Furnishings, Fixtures & Appliances",32310000000,Haier Smart Home Co Ltd,Consumer Discretionary,600690
+Singapore,Telecom Services,32230000000,Singapore Telecommunications Ltd,Communication Services,Z74
+China,Leisure,32200000000,ANTA Sports Products Ltd,Consumer Discretionary,2020
+United Kingdom,Banks,32190000000,Barclays plc,Financials,BARC
+United States,Beverages—Wineries & Distilleries,32070000000,Brown-Forman Corporation,Consumer Staples,BF.B
+Brazil,Specialty Industrial Machinery,32050000000,WEG SA,Industrials,WEGE3
+United States,Farm & Heavy Construction Machinery,32040000000,PACCAR Inc,Industrials,PCAR
+China,Auto Manufacturers,32010000000,Great Wall Motor Co Ltd,Consumer Discretionary,601633
+China,Real Estate—Development,31980000000,Longfor Group Holdings Ltd,Real Estate,0960
+Japan,Banks,31930000000,"JAPAN POST BANK Co.,Ltd.",Financials,7182
+United States,Specialty Chemicals,31890000000,"PPG Industries, Inc.",Basic Materials,PPG
+Indonesia,Telecom Services,31780000000,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,TLK
+United States,Diagnostics & Research,31780000000,Mettler-Toledo International Inc.,Healthcare,MTD
+United States,Oil & Gas Midstream,31660000000,"ONEOK, Inc.",Energy,OKE
+Australia,REIT—Diversified,31640000000,Goodman Group,Real Estate,GMG
+United States,Electronic Components,31600000000,Corning Incorporated,Technology,GLW
+Japan,Tobacco,31590000000,"Japan Tobacco, Inc.",Consumer Staples,2914
+China,Communication Equipment,31580000000,Foxconn Industrial Internet Co. Ltd,Technology,601138
+United States,Utilities—Regulated Electric,31560000000,Eversource Energy,Utilities,ES
+Hong Kong,Telecom Services,31490000000,China Telecom Corp Ltd,Communication Services,0728
+Ireland,Building Materials,31450000000,CRH plc,Basic Materials,CRH
+Japan,Banks,31410000000,Japan Post Holdings Co. Ltd,Financials,6178
+United States,Drug Manufacturers—General,31350000000,Biogen Inc.,Healthcare,BIIB
+Switzerland,Telecom Services,31260000000,Swisscom AG,Communication Services,SCMN
+Netherlands,Specialty Chemicals,31250000000,Koninklijke DSM N.V.,Basic Materials,DSM
+Taiwan,Oil & Gas Refining & Marketing,31220000000,Formosa Petrochemical Corp,Energy,6505
+China,Drug Manufacturers—General,31170000000,Zhangzhou Pientzehuang Pharmaceutical. Ltd,Healthcare,600436
+United States,Specialty Industrial Machinery,31150000000,"AMETEK, Inc.",Industrials,AME
+Germany,Utilities—Diversified,31120000000,E.ON SE,Utilities,EOAA
+China,Insurance—Life,31040000000,China Pacific Insurance,Financials,601601
+United States,Software—Infrastructure,31030000000,"Zscaler, Inc.",Technology,ZS
+China,Building Materials,31020000000,Anhui Conch Cement Company Ltd,Basic Materials,600585
+Canada,Gold,31000000000,Franco-Nevada Corporation,Basic Materials,FNV
+France,Utilities—Diversified,31000000000,Engie SA,Utilities,ENGI
+United States,Asset Management,30950000000,State Street Corporation,Financials,STT
+China,Auto Manufacturers,30930000000,SAIC Motor Corp Ltd,Consumer Discretionary,600104
+Finland,Communication Equipment,30910000000,Nokia Corporation,Technology,NOKIA.SEK
+United States,Internet Content & Information,30830000000,"Twitter, Inc.",Communication Services,TWTR
+United States,Health Information Services,30760000000,Veeva Systems Inc.,Healthcare,VEEV
+Canada,Grocery Stores,30700000000,Loblaw Companies Limited,Consumer Staples,L
+United States,Oil & Gas Midstream,30690000000,Energy Transfer LP,Energy,ET
+Germany,Household & Personal Products,30530000000,Henkel AG & Co KGaA,Consumer Staples,HEN
+South Korea,Internet Retail,30530000000,"Coupang, Inc.",Consumer Discretionary,CPNG
+United Kingdom,Industrial Distribution,30520000000,Ferguson plc,Industrials,FERG
+United Kingdom,Aerospace & Defense,30510000000,BAE Systems plc,Industrials,BA.
+United States,Banks,30460000000,Fifth Third Bancorp,Financials,FITB
+United States,Real Estate Services,30450000000,"CBRE Group, Inc.",Real Estate,CBRE
+United States,Utilities—Regulated Water,30430000000,"American Water Works Company, Inc.",Utilities,AWK
+Japan,Information Technology Services,30280000000,Fujitsu Ltd,Technology,6702
+United States,Medical Instruments & Supplies,30230000000,"West Pharmaceutical Services, Inc.",Healthcare,WST
+France,Building Products & Equipment,30160000000,Compagnie de Saint-Gobain SA,Industrials,SGO
+United States,REIT—Office,30100000000,"Alexandria Real Estate Equities, Inc.",Real Estate,ARE
+Sweden,Security & Protection Services,30050000000,ASSA ABLOY AB,Industrials,ALZ
+United States,Specialty Industrial Machinery,29940000000,Cummins Inc.,Industrials,CMI
+Denmark,Specialty Industrial Machinery,29930000000,Vestas Wind Systems A-S,Industrials,VWS
+Saudi Arabia,Banks,29860000000,Riyad Bank,Financials,1010
+United Kingdom,Insurance Brokers,29850000000,Willis Towers Watson plc,Financials,WLTW
+United States,Internet Content & Information,29820000000,"Match Group, Inc.",Communication Services,MTCH
+Belgium,Banks,29810000000,KBC Group NV,Financials,KDB
+Italy,Banks,29650000000,UniCredit S.p.A.,Financials,UCG
+Taiwan,Insurance—Life,29580000000,Cathay Financial Holding Co. Ltd,Financials,2882
+United States,Specialty Business Services,29580000000,"Copart, Inc.",Industrials,CPRT
+Luxembourg,Internet Content & Information,29560000000,Spotify Technology SA,Communication Services,SPOT
+United States,Financial Data & Stock Exchanges,29520000000,"Nasdaq, Inc.",Financials,NDAQ
+United States,REIT—Specialty,29420000000,Weyerhaeuser Company,Real Estate,WY
+Saudi Arabia,Utilities—Regulated Electric,29420000000,Saudi Electricity Company,Utilities,5110
+United States,Packaging & Containers,29400000000,Ball Corporation,Consumer Discretionary,BLL
+United States,Scientific & Technical Instruments,29400000000,"Keysight Technologies, Inc.",Technology,KEYS
+Japan,Drug Manufacturers—General,29220000000,"Astellas Pharma, Inc.",Healthcare,4503
+Spain,Information Technology Services,29190000000,"Amadeus IT Group, SA",Technology,AMS
+France,Utilities—Diversified,29170000000,Electricité de France SA,Utilities,EDF
+Canada,Telecom Services,29130000000,Rogers Communications Inc.,Communication Services,RCI.B
+China,Farm Products,29100000000,Tongwei Co. Ltd,Consumer Staples,600438
+United States,Resorts & Casinos,29070000000,Las Vegas Sands Corp.,Consumer Discretionary,LVS
+Germany,Utilities—Diversified,29060000000,RWE AG,Utilities,RWE
+China,Marine Shipping,28930000000,COSCO SHIPPING Holdings Co Ltd,Industrials,601919
+United States,Banks,28910000000,SVB Financial Group,Financials,SIVB
+United States,Railroads,28900000000,CSX Corporation,Industrials,CSX
+Hong Kong,Tools & Accessories,28750000000,Techtronic Industries Company Ltd,Industrials,0669
+Spain,Utilities—Regulated Gas,28710000000,"Naturgy Energy Group, SA",Utilities,NTGY
+Australia,Utilities—Regulated Gas,28550000000,APA Group,Utilities,APA
+United States,Packaged Foods,28520000000,Hormel Foods Corporation,Consumer Staples,HRL
+United States,Health Information Services,28310000000,Cerner Corporation,Healthcare,CERN
+United Kingdom,Rental & Leasing Services,28280000000,Ashtead Group plc,Industrials,AHT
+United States,Consulting Services,28240000000,Equifax Inc.,Industrials,EFX
+China,Semiconductors,28240000000,Semiconductor Manufacturing International Corp,Technology,688981
+Germany,Auto Manufacturers,28150000000,Porsche Automobil Holding SE,Consumer Discretionary,PAHA
+United Kingdom,Grocery Stores,28110000000,Tesco plc,Consumer Staples,TSCO
+United States,Broadcasting,28050000000,Sirius XM Holdings Inc.,Communication Services,SIRI
+Thailand,Airports & Air Services,28000000000,Airports of Thailand Public Company Ltd,Industrials,AOT
+Hong Kong,Conglomerates,27940000000,CK Hutchison Holdings Ltd,Industrials,0001
+China,Insurance—Property & Casualty,27930000000,The People's Insurance Company (Group) of China Ltd,Financials,601319
+United States,Travel Services,27910000000,"Expedia Group, Inc.",Consumer Discretionary,EXPE
+United States,Banks,27900000000,First Republic Bank,Financials,FRC
+Netherlands,Diagnostics & Research,27890000000,Koninklijke Philips N.V.,Healthcare,PHIA
+Canada,Insurance—Life,27850000000,Great-West Lifeco Inc.,Financials,GWO
+Thailand,Beverages—Wineries & Distilleries,27810000000,Thai Beverage Public Company Ltd,Consumer Staples,Y92
+Switzerland,Insurance—Reinsurance,27800000000,Swiss Re AG,Financials,SREN
+United States,Utilities—Regulated Electric,27670000000,Edison International,Utilities,EIX
+Netherlands,Publishing,27650000000,Wolters Kluwer N.V.,Communication Services,WKL
+United States,Semiconductors,27630000000,ON Semiconductor Corporation,Technology,ON
+Spain,Banks,27580000000,"CaixaBank, SA",Financials,CABK
+Finland,Insurance—Diversified,27460000000,Sampo Oyj,Financials,SAMPO
+United States,REIT—Industrial,27370000000,Extra Space Storage Inc.,Real Estate,EXR
+Germany,Medical Instruments & Supplies,27350000000,Sartorius AG,Healthcare,SRT
+United States,Residential Construction,27340000000,"D.R. Horton, Inc.",Consumer Discretionary,DHI
+United States,Industrial Distribution,27330000000,"W.W. Grainger, Inc.",Industrials,GWW
+China,Specialty Industrial Machinery,27330000000,NARI Technology Co. Ltd,Industrials,600406
+Finland,Specialty Industrial Machinery,27290000000,KONE Oyj,Industrials,KNEBV
+United States,Packaged Foods,27290000000,"McCormick & Company, Incorporated",Consumer Staples,MKC
+Japan,Information Technology Services,27260000000,NTT Data Corp,Technology,9613
+China,Chemicals,27250000000,Ganfeng Lithium Co. Ltd,Basic Materials,002460
+China,Semiconductors,27240000000,Will Semiconductor Co. Ltd,Technology,603501
+United States,Capital Markets,27220000000,"Interactive Brokers Group, Inc.",Financials,IBKR
+Russia,Oil & Gas Integrated,27140000000,Gazprom Neft PJSC,Energy,SIBN
+Taiwan,Insurance—Life,27130000000,Fubon Financial Holding Co. Ltd,Financials,2881
+United States,Specialty Retail,27090000000,Tractor Supply Company,Consumer Discretionary,TSCO
+Switzerland,Confectioners,27080000000,Chocoladefabriken Lindt & Sprüngli AG,Consumer Staples,LISN
+United States,Software—Application,26980000000,"ANSYS, Inc.",Technology,ANSS
+China,Thermal Coal,26950000000,Shaanxi Coal Industry Company Ltd,Energy,601225
+China,Medical Care Facilities,26950000000,Aier Eye Hospital Group Co. Ltd,Healthcare,300015
+United States,Medical Devices,26940000000,"Zimmer Biomet Holdings, Inc.",Healthcare,ZBH
+Japan,Auto Parts,26880000000,Bridgestone Corp,Consumer Discretionary,5108
+Sweden,Gambling,26820000000,Evolution Gaming Group AB,Consumer Discretionary,EVO
+China,Biotechnology,26800000000,Beijing Wantai Biological Pharmacy Enterprise Co. Ltd,Healthcare,603392
+Germany,Real Estate Services,26780000000,Vonovia SE,Real Estate,VNA
+Sweden,Specialty Industrial Machinery,26710000000,Sandvik AB,Industrials,SAND
+United States,Oil & Gas Midstream,26680000000,"Cheniere Energy Partners, L.P.",Energy,CQP
+United States,Utilities—Regulated Electric,26660000000,PG&E Corporation,Utilities,PCG
+United States,Railroads,26590000000,Kansas City Southern,Industrials,KSU
+United States,Software—Application,26560000000,Unity Software Inc.,Technology,U
+France,Aerospace & Defense,26550000000,Thales SA,Industrials,HO
+United States,Airlines,26520000000,Southwest Airlines Co.,Industrials,LUV
+United States,Utilities—Regulated Electric,26410000000,DTE Energy Company,Utilities,DTE
+Canada,Insurance—Property & Casualty,26400000000,Intact Financial Corporation,Financials,IFC
+Germany,Banks,26380000000,Deutsche Bank AG,Financials,DBK
+Japan,Computer Hardware,26380000000,Canon Inc.,Technology,7751
+United States,Chemicals,26380000000,"LYONDELLBASELL ADVANCED POLYMERS, Inc.",Basic Materials,SLMNP
+Canada,Banks,26290000000,National Bank of Canada,Financials,NA
+Switzerland,Medical Instruments & Supplies,26220000000,Sonova Holding AG,Healthcare,SOON
+United States,REIT—Retail,26180000000,Realty Income Corporation,Real Estate,O
+China,Banks,26130000000,China Everbright Bank Company Ltd,Financials,601818
+United States,Internet Content & Information,26090000000,Twilio Inc.,Communication Services,TWLO
+United States,Electronic Gaming & Multimedia,26050000000,Roblox Corp,Communication Services,RBLX
+Spain,Telecom Services,26040000000,"Telefónica, SA",Communication Services,TEF
+Japan,Railroads,26000000000,Central Japan Railway Co,Industrials,9022
+China,Auto Manufacturers,25830000000,Li Auto Inc.,Consumer Discretionary,LI
+Germany,Utilities—Diversified,25820000000,EnBW Energie Baden-Wuerttemberg AG,Utilities,EBK
+United States,Insurance—Diversified,25760000000,"The Hartford Financial Services Group, Inc.",Financials,HIG
+United States,Diagnostics & Research,25750000000,Laboratory Corporation of America Holdings,Healthcare,LH
+United States,Software—Infrastructure,25730000000,"MongoDB, Inc.",Technology,MDB
+Japan,Electrical Equipment & Parts,25610000000,Mitsubishi Electric Corporation,Industrials,6503
+Brazil,Banks,25590000000,Banco Santander (Brasil) SA,Financials,SANB11
+India,Banks,25540000000,Axis Bank Ltd,Financials,AXISBANK
+United States,Rental & Leasing Services,25460000000,"United Rentals, Inc.",Industrials,URI
+Taiwan,Specialty Chemicals,25410000000,Nan Ya Plastics Corp,Basic Materials,1303
+United States,Residential Construction,25340000000,Lennar Corporation,Consumer Discretionary,LEN
+Switzerland,Medical Instruments & Supplies,25310000000,Straumann Holding AG,Healthcare,STMN
+Hong Kong,Utilities—Regulated Electric,25290000000,CLP Holdings Ltd,Utilities,0002
+China,Thermal Coal,25260000000,Yanzhou Coal Mining Company Ltd,Energy,600188
+United States,Utilities—Diversified,25260000000,FirstEnergy Corp.,Utilities,FE
+United States,Specialty Chemicals,25250000000,Albemarle Corporation,Basic Materials,ALB
+Hong Kong,Real Estate—Development,25210000000,CK Asset Holdings Limited,Real Estate,1113
+United States,Solar,25200000000,"Enphase Energy, Inc.",Technology,ENPH
+France,Specialty Industrial Machinery,25190000000,Legrand SA,Industrials,LR
+Hong Kong,Resorts & Casinos,25170000000,Galaxy Entertainment Group Ltd,Consumer Discretionary,0027
+Sweden,Banks,25150000000,Skandinaviska Enskilda Banken AB,Financials,SEB.A
+United States,Agricultural Inputs,25090000000,The Mosaic Company,Basic Materials,MOS
+United States,Information Technology Services,25040000000,CDW Corporation,Technology,CDW
+United States,Information Technology Services,25030000000,"Gartner, Inc.",Technology,IT
+Spain,Utilities—Renewable,25010000000,"EDP Renováveis, SA",Utilities,EDPR
+United States,Airlines,24920000000,"Delta Air Lines, Inc.",Industrials,DAL
+United States,Software—Infrastructure,24910000000,Palantir Technologies Inc.,Technology,PLTR
+United States,Biotechnology,24870000000,Seagen Inc.,Healthcare,SGEN
+United States,Oil & Gas E&P,24840000000,"Diamondback Energy, Inc.",Energy,FANG
+United States,Software—Infrastructure,24810000000,"VeriSign, Inc.",Technology,VRSN
+United States,Household & Personal Products,24810000000,"Church & Dwight Co., Inc.",Consumer Staples,CHD
+United States,Utilities—Regulated Electric,24790000000,Ameren Corporation,Utilities,AEE
+China,Banks,24650000000,China Minsheng Banking Corp Ltd,Financials,600016
+United States,Entertainment,24610000000,"Live Nation Entertainment, Inc.",Communication Services,LYV
+Australia,Oil & Gas E&P,24600000000,Woodside Petroleum Ltd,Energy,WPL
+Taiwan,Marine Shipping,24490000000,Evergreen Marine Corp,Industrials,2603
+Spain,Airports & Air Services,24450000000,"Aena S.M.E., SA",Industrials,AENA
+China,Auto Manufacturers,24440000000,XPeng Inc.,Consumer Discretionary,XPEV
+United States,Asset Management,24420000000,Northern Trust Corporation,Financials,NTRS
+United States,Software—Application,24300000000,"Slack Technologies, Inc.",Technology,WORK
+United States,REIT—Residential,24180000000,"Mid-America Apartment Communities, Inc.",Real Estate,MAA
+Germany,Medical Care Facilities,24120000000,Fresenius SE & Co KGaA,Healthcare,FRE
+Japan,Business Equipment & Supplies,24120000000,FUJIFILM Holdings Corp,Industrials,4901
+United Kingdom,Telecom Services,24090000000,BT Group plc,Communication Services,BT.A
+United States,Building Materials,24080000000,Vulcan Materials Company,Basic Materials,VMC
+Sweden,Farm & Heavy Construction Machinery,24080000000,Epiroc AB,Industrials,3AD2
+Taiwan,Electronic Components,24050000000,"Delta Electronics, Inc.",Technology,2308
+Russia,Gold,24020000000,Public Joint Stock Company Polyus,Basic Materials,PLZL
+Switzerland,Specialty Industrial Machinery,24020000000,Schindler Holding AG,Industrials,SCHN
+Japan,Credit Services,23970000000,ORIX Corporation,Financials,8591
+United States,Building Materials,23940000000,"Martin Marietta Materials, Inc.",Basic Materials,MLM
+China,Capital Markets,23940000000,CSC Financial Co. Ltd,Financials,601066
+United States,Specialty Retail,23930000000,"Best Buy Co., Inc.",Consumer Discretionary,BBY
+Ireland,Medical Instruments & Supplies,23930000000,STERIS plc,Healthcare,STE
+United States,Utilities—Diversified,23920000000,Entergy Corporation,Utilities,ETR
+Japan,Health Information Services,23890000000,"M3, Inc.",Healthcare,2413
+United States,Software—Infrastructure,23840000000,Splunk Inc.,Technology,SPLK
+China,Electrical Equipment & Parts,23820000000,EVE Energy Co. Ltd,Industrials,300014
+United States,REIT—Healthcare Facilities,23810000000,"Ventas, Inc.",Real Estate,VTR
+Spain,Utilities—Regulated Electric,23780000000,"Endesa, SA",Utilities,ELE
+United Kingdom,Utilities—Diversified,23730000000,SSE plc,Utilities,SSE
+France,Auto Parts,23650000000,Compagnie Générale des Etablissements Michelin SCA,Consumer Discretionary,ML
+Ireland,Drug Manufacturers—General,23640000000,Horizon Therapeutics Public Limited Company,Healthcare,HZNP
+China,Steel,23590000000,Baoshan Iron & Steel Co. Ltd,Basic Materials,600019
+United States,Tools & Accessories,23570000000,"Stanley Black & Decker, Inc.",Industrials,SWK
+China,Electrical Equipment & Parts,23550000000,Sungrow Power Supply Co. Ltd,Industrials,300274
+Germany,Household & Personal Products,23510000000,Beiersdorf AG,Consumer Staples,BEI
+Indonesia,Banks,23510000000,PT Bank Mandiri (Persero) Tbk,Financials,PQ9
+Canada,Copper,23470000000,First Quantum Minerals Ltd.,Basic Materials,FM
+Japan,Farm & Heavy Construction Machinery,23460000000,Kubota Corp,Industrials,6326
+South Africa,Telecom Services,23450000000,MTN Group Ltd,Communication Services,MTN
+United States,Semiconductors,23440000000,"Maxim Integrated Products, Inc.",Technology,MXIM
+United States,Mortgage Finance,23440000000,"Rocket Companies, Inc.",Financials,RKT
+Canada,Utilities—Regulated Electric,23430000000,Fortis Inc.,Utilities,FTS
+Taiwan,Specialty Chemicals,23420000000,Formosa Plastics Corp,Basic Materials,1301
+United States,Entertainment,23400000000,Liberty Broadband Corporation,Communication Services,LBRDK
+Taiwan,Semiconductors,23350000000,United Microelectronics Corporation,Technology,2303
+Switzerland,Scientific & Technical Instruments,23350000000,Garmin Ltd.,Technology,GRMN
+China,Lodging,23340000000,Huazhu Group Limited,Consumer Discretionary,HTHT
+United States,Travel Services,23290000000,Carnival Corporation & plc,Consumer Discretionary,CCL
+China,Farm & Heavy Construction Machinery,23270000000,Sany Heavy Industry Co. Ltd,Industrials,600031
+United States,Broadcasting,23260000000,Fox Corporation,Communication Services,FOXA
+China,Farm Products,23200000000,Wens Foodstuff Group Co. Ltd,Consumer Staples,300498
+France,Banks,23180000000,Société Générale SA,Financials,GLE
+Japan,Medical Instruments & Supplies,23160000000,Terumo Corp,Healthcare,4543
+China,Capital Markets,23130000000,China International Capital Corp Ltd,Financials,601995
+United States,REIT—Residential,23090000000,Invitation Homes Inc.,Real Estate,INVH
+United States,Biotechnology,23040000000,Royalty Pharma plc,Healthcare,RPRX
+Japan,Medical Instruments & Supplies,23000000000,Olympus Corp,Healthcare,7733
+United States,Apparel Manufacturing,22960000000,V.F. Corporation,Consumer Discretionary,VFC
+United States,Specialty Industrial Machinery,22940000000,Dover Corporation,Industrials,DOV
+United States,Utilities—Regulated Electric,22870000000,PPL Corporation,Utilities,PPL
+China,Textile Manufacturing,22860000000,"Hengli Petrochemical Co.,Ltd.",Consumer Discretionary,600346
+Denmark,Biotechnology,22830000000,Genmab A/S,Healthcare,GMAB
+Saudi Arabia,Agricultural Inputs,22780000000,SABIC Agri-Nutrients Company,Basic Materials,2020
+Netherlands,Beverages—Brewers,22780000000,Heineken Holding N.V.,Consumer Staples,HEIO
+Japan,Railroads,22780000000,East Japan Railway Company,Industrials,9020
+Chile,Chemicals,22770000000,Sociedad Química y Minera de Chile SA,Basic Materials,SQM
+Luxembourg,Diagnostics & Research,22750000000,Eurofins Scientific SE,Healthcare,ERF
+Japan,Consumer Electronics,22730000000,Panasonic Corp,Technology,6752
+Belgium,Biotechnology,22710000000,UCB SA,Healthcare,UCB
+China,Marine Shipping,22650000000,Shanghai International Port,Industrials,600018
+United States,Communication Equipment,22650000000,Hewlett Packard Enterprise Company,Technology,HPE
+United States,Packaged Foods,22630000000,Kellogg Company,Consumer Staples,K
+China,Insurance—Property & Casualty,22620000000,PICC Property and Casualty Company Ltd,Financials,2328
+Mexico,Banks,22600000000,Grupo Financiero Banorte SAB de CV,Financials,GFNORTEO
+Japan,Farm & Heavy Construction Machinery,22560000000,Komatsu Ltd,Industrials,6301
+Hong Kong,Utilities—Regulated Gas,22540000000,The Hong Kong and China Gas Company Ltd,Utilities,0003
+United Kingdom,Beverages—Non-Alcoholic,22530000000,Coca-Cola Europacific Partners plc,Consumer Staples,CCEP
+United States,REIT—Residential,22510000000,"Essex Property Trust, Inc.",Real Estate,ESS
+Switzerland,Specialty Chemicals,22480000000,EMS-CHEMIE HOLDING AG,Basic Materials,EMSN
+United States,Software—Infrastructure,22450000000,"Okta, Inc.",Technology,OKTA
+China,Utilities—Independent Power Producers,22420000000,China National Nuclear Power Co. Ltd,Utilities,601985
+Japan,Conglomerates,22420000000,Sumitomo Corp,Industrials,8053
+India,Auto Manufacturers,22380000000,Tata Motors Limited,Consumer Discretionary,TTM
+Brazil,Banks,22360000000,Banco do Brasil SA,Financials,BBAS3
+Sweden,Apparel Manufacturing,22330000000,Hennes & Mauritz AB,Consumer Discretionary,HM.B
+United States,Medical Devices,22320000000,"Bio-Rad Laboratories, Inc.",Healthcare,BIO
+France,Consulting Services,22300000000,Teleperformance SE,Industrials,TEP
+Mexico,Beverages—Brewers,22280000000,"Fomento Económico Mexicano, S.A.B. de C.V.",Consumer Staples,FEMSAUB
+United States,Banks,22260000000,"Huntington Bancshares, Inc.",Financials,HU3
+United States,Oil & Gas E&P,22250000000,"Continental Resources, Inc.",Energy,CLR
+China,Railroads,22210000000,CRRC Corp Ltd,Industrials,601766
+United States,Semiconductors,22170000000,"Skyworks Solutions, Inc.",Technology,SWKS
+Brazil,Capital Markets,22160000000,XP Inc.,Financials,XPBR31
+Japan,Household & Personal Products,22080000000,Unicharm Corp,Consumer Staples,8113
+China,Integrated Freight & Logistics,22050000000,ZTO Express (Cayman) Inc.,Industrials,ZTO
+Switzerland,Building Products & Equipment,22030000000,Geberit AG,Industrials,GEBN
+Japan,Auto Manufacturers,21990000000,Toyota Industries Corp,Consumer Discretionary,6201
+United States,Insurance—Property & Casualty,21990000000,Cincinnati Financial Corporation,Financials,CINF
+United States,Agricultural Inputs,21950000000,"CF Industries Holdings, Inc.",Basic Materials,CF
+Sweden,Building Products & Equipment,21930000000,NIBE Industrier AB,Industrials,NJB
+United Kingdom,Farm & Heavy Construction Machinery,21930000000,CNH Industrial N.V.,Industrials,CNHI
+United States,Banks,21930000000,Huntington Bancshares Incorporated,Financials,HBAN
+United States,REIT—Industrial,21930000000,Duke Realty Corporation,Real Estate,DRE
+Canada,Restaurants,21890000000,Restaurant Brands International Limited Partnership,Consumer Discretionary,QSP.UN
+United States,Semiconductors,21870000000,"Monolithic Power Systems, Inc.",Technology,MPWR
+United States,Communication Equipment,21870000000,Zebra Technologies Corporation,Technology,ZBRA
+United States,Specialty Retail,21820000000,"Ulta Beauty, Inc.",Consumer Discretionary,ULTA
+Japan,Insurance—Life,21760000000,"Dai-ichi Life Holdings, Inc.",Financials,8750
+United States,Banks,21740000000,M&T Bank Corporation,Financials,MTB
+United States,Banks,21710000000,KeyCorp,Financials,KEY
+United States,Scientific & Technical Instruments,21650000000,Teledyne Technologies Incorporated,Technology,TDY
+Brazil,Financial Data & Stock Exchanges,21580000000,"B3 S.A. - Brasil, Bolsa, Balcao",Financials,B3SA3
+United States,Thermal Coal,21570000000,"Contura Energy, Inc.",Energy,CTRA
+Japan,Leisure,21510000000,"Shimano, Inc.",Consumer Discretionary,7309
+Canada,Insurance—Life,21480000000,Power Corporation of Canada,Financials,POW
+United States,Integrated Freight & Logistics,21480000000,"J.B. Hunt Transport Services, Inc.",Industrials,JBHT
+Japan,Real Estate—Diversified,21460000000,Mitsui Fudosan Co. Ltd,Real Estate,8801
+Saudi Arabia,Banks,21450000000,The Saudi British Bank,Financials,1060
+Switzerland,Consulting Services,21430000000,SGS SA,Industrials,SGSN
+Canada,Other Industrial Metals & Mining,21410000000,Teck Resources Limited,Basic Materials,TECK.B
+Brazil,Medical Care Facilities,21400000000,Rede D'Or São Luiz SA,Healthcare,RDOR3
+Japan,Electronic Gaming & Multimedia,21360000000,NEXON Co. Ltd,Communication Services,3659
+United States,Medical Instruments & Supplies,21350000000,"The Cooper Companies, Inc.",Healthcare,COO
+United Kingdom,Insurance—Life,21340000000,Legal & General Group plc,Financials,LGEN
+United States,Banks,21320000000,Regions Financial Corporation,Financials,RF
+Canada,Gold,21260000000,Wheaton Precious Metals Corp.,Basic Materials,WPM
+United States,Software—Application,21230000000,ZoomInfo Technologies Inc.,Technology,ZI
+United States,Entertainment,21220000000,ViacomCBS Inc.,Communication Services,VIACA
+China,Other Industrial Metals & Mining,21210000000,China Northern Rare Earth,Basic Materials,600111
+Ireland,Computer Hardware,21210000000,Seagate Technology plc,Technology,STX
+Hong Kong,Packaged Foods,21170000000,China Mengniu Dairy Co Ltd,Consumer Staples,2319
+United States,Specialty Industrial Machinery,21130000000,Ingersoll Rand Inc.,Industrials,IR
+United Kingdom,REIT—Industrial,21080000000,SEGRO plc,Real Estate,SGRO
+Netherlands,Internet Content & Information,21050000000,Yandex N.V.,Communication Services,YNDX
+United States,Semiconductors,21030000000,Microchip Technology Incorporated,Technology,MCHP
+United States,Software—Application,20930000000,"HubSpot, Inc.",Technology,HUBS
+United States,Information Technology Services,20920000000,"FLEETCOR Technologies, Inc.",Technology,FLT
+United States,Scientific & Technical Instruments,20880000000,Fortive Corporation,Technology,FTV
+United States,Software—Application,20860000000,AppLovin Corp,Technology,APP
+United States,Travel Services,20810000000,Royal Caribbean Cruises Ltd.,Consumer Discretionary,RCL
+Spain,Oil & Gas Integrated,20800000000,Repsol SA,Energy,REP
+Japan,Conglomerates,20780000000,Marubeni Corp,Industrials,8002
+United Kingdom,Banks,20780000000,Standard Chartered plc,Financials,STAN
+China,Leisure,20750000000,Li Ning Co Ltd,Consumer Discretionary,2331
+United States,Utilities—Regulated Electric,20730000000,CMS Energy Corporation,Utilities,CMS
+United States,Medical Devices,20660000000,STERIS Corp,Healthcare,S1TE34
+Thailand,Telecom Services,20650000000,Advanced Info Service PCL,Communication Services,ADVANC
+Japan,Consumer Electronics,20620000000,Kyocera Corp,Technology,6971
+Canada,Oil & Gas Midstream,20610000000,Pembina Pipeline Corporation,Energy,PPL
+Ireland,Gambling,20580000000,Flutter Entertainment plc,Consumer Discretionary,FLTR
+Japan,Conglomerates,20550000000,Sojitz Corp,Industrials,2768
+United States,REIT—Office,20540000000,"Boston Properties, Inc.",Real Estate,BXP
+United States,Credit Services,20430000000,Synchrony Financial,Financials,SYF
+Saudi Arabia,Banks,20410000000,Alinma Bank,Financials,1150
+Sweden,Asset Management,20390000000,Investment AB Latour,Financials,LATO.B
+Japan,Real Estate—Diversified,20390000000,Mitsubishi Estate Co. Ltd,Real Estate,8802
+China,Capital Markets,20390000000,Guotai Junan Securities Co. Ltd,Financials,601211
+Japan,Specialty Chemicals,20380000000,Nippon Paint Holdings Co. Ltd,Basic Materials,4612
+United States,Internet Retail,20330000000,Carvana Co.,Consumer Discretionary,CVNA
+United States,Insurance—Property & Casualty,20300000000,Markel Corporation,Financials,MKL
+United States,Insurance Brokers,20270000000,"Brown & Brown, Inc.",Financials,BRO
+Japan,Information Technology Services,20260000000,Nomura Research Institute Ltd,Technology,4307
+United States,Resorts & Casinos,20220000000,MGM Resorts International,Consumer Discretionary,MGM
+Taiwan,Banks,20210000000,Mega Financial Holding Co. Ltd,Financials,2886
+Brazil,Telecom Services,20190000000,Telefônica Brasil SA,Communication Services,VIV
+Switzerland,Insurance—Diversified,20160000000,Swiss Life Holding AG,Financials,SLHN
+Norway,Telecom Services,20150000000,Telenor ASA,Communication Services,TEL
+Hong Kong,Engineering & Construction,20150000000,China Railway Group Ltd,Industrials,0390
+Taiwan,Insurance—Life,20150000000,CTBC Financial Holding Co. Ltd,Financials,2891
+United Kingdom,Tobacco,20140000000,Imperial Brands plc,Consumer Staples,IMB
+United States,Insurance—Diversified,20130000000,"Principal Financial Group, Inc.",Financials,PFG
+Norway,Aluminum,20100000000,Norsk Hydro ASA,Basic Materials,NHY
+United States,Diagnostics & Research,20050000000,"PerkinElmer, Inc.",Healthcare,PKI
+Germany,Insurance—Reinsurance,20020000000,Hannover Rück SE,Financials,HNRB
+United States,REIT—Residential,19980000000,"Sun Communities, Inc.",Real Estate,SUI
+United States,Capital Markets,19980000000,Tradeweb Markets Inc.,Financials,TW
+China,Solar,19940000000,Trina Solar Co. Ltd,Technology,688599
+India,Other Industrial Metals & Mining,19930000000,Vedanta Limited,Basic Materials,VEDL
+United States,Software—Application,19870000000,"Paycom Software, Inc.",Technology,PAYC
+Brazil,Paper & Paper Products,19860000000,Klabin SA,Basic Materials,KLBN11
+Japan,Household & Personal Products,19850000000,Kao Corp,Consumer Staples,4452
+United States,Semiconductor Equipment & Materials,19850000000,"Teradyne, Inc.",Technology,TER
+Hong Kong,Beverages—Brewers,19840000000,China Resources Beer (Holdings) Company Ltd,Consumer Staples,0291
+China,Engineering & Construction,19830000000,China Communications Construction Co Ltd,Industrials,601800
+United Kingdom,Insurance—Diversified,19820000000,Aviva plc,Financials,AV.
+South Africa,Banks,19820000000,Standard Bank Group Ltd,Financials,SBK
+Ireland,Airlines,19780000000,Ryanair Holdings plc,Industrials,RY4C
+United States,Medical Instruments & Supplies,19750000000,"Hologic, Inc.",Healthcare,HOLX
+Ireland,Packaged Foods,19740000000,Kerry Group plc,Consumer Staples,KRZ
+Japan,Semiconductors,19730000000,Renesas Electronics Corp,Technology,6723
+Bermuda,Utilities—Diversified,19700000000,Brookfield Infrastructure Partners L.P.,Utilities,BIP.UN
+Japan,Household & Personal Products,19690000000,Shiseido Co Ltd,Consumer Staples,4911
+Canada,Information Technology Services,19670000000,CGI Inc.,Technology,GIB.A
+Hong Kong,Real Estate Services,19670000000,Henderson Land Development Co Ltd,Real Estate,0012
+United States,Software—Application,19650000000,"Bill.com Holdings, Inc.",Technology,BILL
+China,Drug Manufacturers—Specialty & Generic,19630000000,Shanghai Fosun Pharmaceutical,Healthcare,600196
+United States,Software—Infrastructure,19590000000,"Akamai Technologies, Inc.",Technology,AKAM
+China,Telecom Services,19550000000,China Tower Corp Ltd,Communication Services,0788
+China,Capital Markets,19550000000,"Huatai Securities Co., Ltd.",Financials,601688
+United States,Oil & Gas E&P,19540000000,Marathon Oil Corporation,Energy,MRO
+Bermuda,Insurance—Diversified,19540000000,Arch Capital Group Ltd.,Financials,ACGL
+United States,Consulting Services,19530000000,TransUnion,Industrials,TRU
+Brazil,Packaged Foods,19530000000,JBS SA,Consumer Staples,JBSS3
+Hong Kong,Textile Manufacturing,19500000000,Shenzhou International Group Holdings Ltd,Consumer Discretionary,2313
+United States,Specialty Chemicals,19480000000,"Avantor, Inc.",Basic Materials,AVTR
+United States,Healthcare Plans,19460000000,"Molina Healthcare, Inc.",Healthcare,MOH
+Spain,Infrastructure Operations,19440000000,"Ferrovial, SA",Industrials,FER
+Portugal,Utilities—Diversified,19430000000,EDP - Energias de Portugal SA,Utilities,EDP
+Germany,Medical Care Facilities,19420000000,Fresenius Medical Care AG & Co. KGaA,Healthcare,FME
+Sweden,Banks,19420000000,Svenska Handelsbanken AB,Financials,SHB.A
+South Korea,Banks,19390000000,KB Financial Group Inc.,Financials,105560
+Canada,Auto Parts,19360000000,Magna International Inc.,Consumer Discretionary,MG
+Italy,Utilities—Regulated Gas,19270000000,Snam S.p.A.,Utilities,SRG
+China,Utilities—Independent Power Producers,19250000000,CGN Power Co. Ltd,Utilities,003816
+United Kingdom,Specialty Chemicals,19220000000,Croda International plc,Basic Materials,CRDA
+United States,Entertainment,19210000000,Warner Music Group Corp.,Communication Services,WMG
+China,Other Industrial Metals & Mining,19200000000,Zhejiang Huayou Cobalt Co. Ltd,Basic Materials,603799
+United States,Software—Application,19150000000,"SS&C Technologies Holdings, Inc.",Technology,SSNC
+Denmark,Beverages—Brewers,19120000000,Carlsberg A-S,Consumer Staples,CARL.A
+Israel,Software—Application,19120000000,NICE Ltd.,Technology,NICE
+United States,Diagnostics & Research,19110000000,Waters Corporation,Healthcare,WAT
+Japan,Drug Manufacturers—General,19030000000,Otsuka Holdings Co. Ltd,Healthcare,4578
+Luxembourg,Oil & Gas Equipment & Services,18980000000,Tenaris SA,Energy,TEN
+United States,Banks,18950000000,"Citizens Financial Group, Inc.",Financials,CFG
+Israel,Software—Infrastructure,18940000000,Check Point Software Technologies Ltd.,Technology,CHKP
+Japan,Specialty Industrial Machinery,18930000000,Toshiba Corp,Industrials,6502
+South Korea,Consumer Electronics,18910000000,"LG Electronics, Inc.",Technology,066570
+Indonesia,Auto Parts,18900000000,Astra International Tbk PT,Consumer Discretionary,ASJA
+United States,Advertising Agencies,18800000000,Omnicom Group Inc.,Communication Services,OMC
+China,Aerospace & Defense,18790000000,"Aecc Aviation Power Co.,Ltd",Industrials,600893
+United States,Packaging & Containers,18780000000,International Paper Company,Consumer Discretionary,INPAP
+United Kingdom,Asset Management,18780000000,Scottish Mortgage Investment Trust plc,Financials,SMT
+Canada,Grocery Stores,18770000000,George Weston Limited,Consumer Staples,WN
+United States,Computer Hardware,18760000000,"NetApp, Inc.",Technology,NTAP
+United States,REIT—Healthcare Facilities,18760000000,"Healthpeak Properties, Inc.",Real Estate,PEAK
+Japan,Insurance—Property & Casualty,18750000000,"MS&AD Insurance Group Holdings, Inc.",Financials,8725
+United States,Broadcasting,18740000000,The Liberty SiriusXM Group,Communication Services,LSXMB
+Switzerland,Banks,18720000000,Credit Suisse Group AG,Financials,CSGN
+China,Airlines,18720000000,Air China Ltd,Industrials,601111
+China,Engineering & Construction,18690000000,Power Construction Corp of China Ltd,Industrials,601669
+China,Medical Care Facilities,18690000000,"JD Health International, Inc.",Healthcare,8ZN
+Australia,Other Industrial Metals & Mining,18670000000,South32 Limited,Basic Materials,S32
+China,Utilities—Independent Power Producers,18570000000,"Huaneng Power International, Inc.",Utilities,600011
+Macao,Resorts & Casinos,18520000000,Sands China Ltd,Consumer Discretionary,1928
+United States,Aerospace & Defense,18490000000,HEICO Corporation,Industrials,HEI
+China,Capital Markets,18440000000,GF Securities Co. Ltd,Financials,000776
+United States,Specialty Retail,18410000000,Genuine Parts Company,Consumer Discretionary,GPC
+South Africa,Telecom Services,18410000000,Vodacom Group Ltd,Communication Services,VOD
+United States,Electronic Gaming & Multimedia,18350000000,"Take-Two Interactive Software, Inc.",Communication Services,TTWO
+China,Capital Markets,18350000000,China Merchants Securities Co. Ltd,Financials,600999
+United States,Biotechnology,18330000000,"Alnylam Pharmaceuticals, Inc.",Healthcare,ALNY
+Japan,Department Stores,18320000000,Aeon Co. Ltd,Consumer Discretionary,8267
+Hong Kong,REIT—Retail,18270000000,Link Real Estate Investment Trust,Real Estate,0823
+Japan,Drug Manufacturers—Specialty & Generic,18270000000,Shionogi & Co. Ltd,Healthcare,4507
+United States,Communication Equipment,18250000000,Ubiquiti Inc.,Technology,UI
+United States,Engineering & Construction,18250000000,"Quanta Services, Inc.",Industrials,PWR
+United States,Drug Manufacturers—Specialty & Generic,18240000000,"Catalent, Inc.",Healthcare,CTLT
+China,Capital Markets,18230000000,Haitong Securities Co. Ltd,Financials,600837
+Japan,Beverages—Brewers,18210000000,Asahi Group Holdings Ltd,Consumer Staples,2502
+South Africa,Banks,18210000000,Capitec Bank Holdings Ltd,Financials,CPI
+Canada,Restaurants,18190000000,Restaurant Brands International Inc.,Consumer Discretionary,QSR
+China,Restaurants,18180000000,"Yum China Holdings, Inc.",Consumer Discretionary,YUMC
+Czechia,Utilities—Renewable,18160000000,CEZ AS,Utilities,CEZ
+France,Waste Management,18140000000,Veolia Environnement SA,Industrials,VIE
+United States,Rental & Leasing Services,18120000000,"Avis Budget Group, Inc.",Industrials,CAR
