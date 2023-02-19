@@ -8,6 +8,8 @@ Script per schema alignment: https://github.com/phi180/idd-project/blob/main/sch
 Script per entity matching con Splink: https://github.com/phi180/idd-project/blob/main/record_linkage_splink.py  
 Script per data fusion: https://github.com/phi180/idd-project/blob/main/data_fusion.py  
 
+Dataset di Lucene: https://github.com/phi180/idd-project/tree/main/datasets/x_lucene_results
+
 ## DeepMatcher
 Script per entity matching: https://github.com/phi180/idd-project/blob/main/deepmatcher/deepmatcher.ipynb  
 Script per clustering: https://github.com/phi180/idd-project/blob/main/deepmatcher/clusterer.py  
