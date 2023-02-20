@@ -55,5 +55,7 @@
   "code" : "company_ipo_code",
   "Symbol" : "company_ipo_code",
   "stock" : "company_ipo_code",
-  "website" : "company_website"
+  "website" : "company_website",
+  "Ticker symbol" : "company_ipo_code",
+  "Security" : "company_name"
 }

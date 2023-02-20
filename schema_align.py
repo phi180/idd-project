@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 
-'''
+
 def get_all_datasets(datasets_path):
     res = []
 
@@ -73,4 +73,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-'''

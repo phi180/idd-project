@@ -86,7 +86,7 @@ def main(leven_dist):
     final_dataset.to_csv(filepath)
 
 if __name__ == '__main__':
-    for i in [2,5,7,9,11]:
+    for i in [3]:
         print("Leven dist = " + str(i))
         start = time.time()
         main(i)
